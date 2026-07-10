@@ -20,11 +20,12 @@ STORES = {
 }
 
 PROCESSED = {
+    'ablazecomics.myshopify.com': _default,
     'bookwalker.com': bookwalker,
     'global.bookwalker.jp': book_walker,
-    'crossinfworld.com': _default,
     'store.crunchyroll.com': crunchyroll,
-    'hanashi.media': _default,
+    'www.darkhorse.com': _default,
+    'denpa.pub': _default,
     'j-novel.club': _default,
     'kodansha.us': _default,
     'www.onepeacebooks.com': _default,
@@ -32,6 +33,8 @@ PROCESSED = {
     'sevenseasentertainment.com': _default,
     'squareenixmangaandbooks.square-enix-games.com': square_enix,
     'tokyopop.com': tokyopop,
+    'udonentertainment.com': _default,
+    'store.udonentertainment.com': _default,
     'www.viz.com': viz,
     'yenpress.com': yen_press,
 }

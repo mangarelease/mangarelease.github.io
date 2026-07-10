@@ -12,8 +12,8 @@ NAME = 'Seven Seas Entertainment'
 
 PAGES = re.compile(r'Page (?P<cur>\d+) of (?P<last>\d+)')
 OMNIBUS = re.compile(rf'(?P<name>.+?)(?: \w+ Edition \d+)?(?: \(Manga\))?\s*\(Vol\. (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?) ?(?P<format>{"|".join(PHYSICAL)})? Omnibus\)')
-NON_FORMATS = ('Light Novel', 'Novel', 'Reference Guide')
-FORMATS = ('Manga', 'Comics')
+NON_FORMATS = ('Light Novel', 'Novel')
+FORMATS = ('Manga', 'Comics', 'Reference Guide')  # reference guides = art books etc.
 NOVEL_MARKERS = (' (Light Novel)', ' (Novel)')
 # wordpress tags marking prose releases, excluded from the manga scrape
 NOVEL_TAGS = {43, 82}  # light-novels, novel

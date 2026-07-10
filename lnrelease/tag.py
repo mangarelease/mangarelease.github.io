@@ -1,4 +1,5 @@
 import csv
+import re
 import warnings
 from collections import defaultdict
 from pathlib import Path
@@ -11,16 +12,21 @@ OVERRIDES = Path('origins.csv')
 
 # publishers whose entire manga catalogue is licensed from Japan
 JP_PUBLISHERS = {
+    'Denpa',
     'J-Novel Club',
     'Kodansha',
     'One Peace Books',
     'Square Enix',
+    'Udon Entertainment',
     'VIZ Media',
 }
 # publisher-level origin/category signals
 PUB_TAGS = {
     'Ize Press': ('KR', 'manhwa'),
+    'WEBTOON Unscrolled': ('other', 'webtoon'),
 }
+ARTBOOK = re.compile(r'\bart ?(?:book|works)\b|\bthe art of\b|\billustrations?\b|\bsketchbook\b',
+                     flags=re.IGNORECASE)
 
 
 def load_overrides() -> dict[str, tuple[str, str]]:
@@ -58,7 +64,7 @@ def tag(series: Table, info: Table, overrides: dict[str, tuple[str, str]]) -> No
             if not (pubs and pubs <= JP_PUBLISHERS):
                 flag = 'review'
         if not s.category:
-            s.category = 'manga'
+            s.category = 'artbook' if ARTBOOK.search(s.title) else 'manga'
         s.flag = flag
 
         if override := overrides.get(s.key):

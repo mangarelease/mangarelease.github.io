@@ -64,14 +64,22 @@ DELAYS = {
     'www.audible.co.jp': (10, 30),
     'www.audible.co.uk': (10, 30),
     'www.barnesandnoble.com': (10, 30),
+    'ablazecomics.myshopify.com': (10, 30),
     'bookwalker.com': (1, 3),
     'static.bookwalker.com': (1, 3),
     'api.cloudflare.com': (0.1, 0.2),
     'crossinfworld.com': (10, 30),
     'store.crunchyroll.com': (30, 60),
+    'www.darkhorse.com': (10, 30),
+    'darkhorse.com': (10, 30),
+    'digital.darkhorse.com': (10, 30),
+    'denpa.pub': (10, 30),
+    'www.denpa.pub': (10, 30),
     'play.google.com': (10, 30),
-    'hanashi.media': (10, 30),
     'labs.j-novel.club': (10, 30),
+    'udonentertainment.com': (10, 30),
+    'www.udonentertainment.com': (10, 30),
+    'store.udonentertainment.com': (10, 30),
     'api.kodansha.us': (30, 60),
     'www.onepeacebooks.com': (30, 600),
     'www.penguinrandomhouse.ca': (30, 600),
@@ -105,7 +113,7 @@ class Limiter:
 
     def __exit__(self, exc_type, exc_value, exc_tb) -> bool:
         LAST_REQUEST[self.netloc] = time()
-        REQUEST_STATS[self.netloc].end()
+        REQUEST_STATS.setdefault(self.netloc, Stats()).end()
         self.lock.release()
         return isinstance(exc_value, requests.exceptions.RequestException)
 

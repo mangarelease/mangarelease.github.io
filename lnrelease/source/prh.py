@@ -8,6 +8,31 @@ from utils import FORMATS, Info, Series, find_series
 NAME = 'Penguin Random House'
 NON_FORMATS = ('Boxed Set', 'Non-traditional book')
 CATEGORIES = ('Manga', 'Manhwa', 'Manhua', 'Webtoon', 'Graphic Novel')
+CATEGORY_TAGS = {
+    'Manhwa': ('KR', 'manhwa'),
+    'Manhua': ('CN', 'manhua'),
+    'Webtoon': ('', 'webtoon'),
+}
+# PRH-distributed imprints (code, publisher attribution)
+IMPRINTS = (
+    ('VT', 'Kodansha'),            # Vertical
+    ('V4', 'Kodansha'),            # Vertical Comics
+    ('KM', 'Kodansha'),            # Kodansha Comics
+    ('209', 'TOKYOPOP'),
+    ('204', 'TOKYOPOP'),           # Disney Manga
+    ('210', 'TOKYOPOP'),           # TOKYOPOP Classics
+    ('344', 'TOKYOPOP'),           # TOKYOPOP Kids
+    ('205', 'TOKYOPOP'),           # International Women of Manga
+    ('KN', 'Dark Horse'),          # Dark Horse Manga
+    ('334', 'Dark Horse'),         # Dark Horse Manhwa
+    ('DH', 'Dark Horse'),          # Dark Horse Books
+    ('HO', 'Dark Horse'),          # Dark Horse Originals
+    ('140', 'Titan Comics'),       # Titan Manga
+    ('181', 'Inklore'),
+    ('198', 'WEBTOON Unscrolled'),
+    ('41', 'Square Enix'),         # Square Enix Manga
+    ('182', 'Square Enix'),        # Manga UP!
+)
 
 
 def scrape_imprint(session: Session, series: set[Series], info: set[Info],
@@ -27,6 +52,9 @@ def scrape_imprint(session: Session, series: set[Series], info: set[Info],
         for variant in book['_embeds'][0]['titles']:
             if variant['graphicCategory'] not in CATEGORIES:
                 continue
+            if signal := CATEGORY_TAGS.get(variant['graphicCategory']):
+                serie.origin = serie.origin or signal[0]
+                serie.category = serie.category or signal[1]
             isbn = variant['isbn']
             date = datetime.date.fromisoformat(variant['onsale'])
             url = urljoin('https://www.penguinrandomhouse.com/', variant['seoFriendlyUrl'])
@@ -48,12 +76,16 @@ def scrape_imprint(session: Session, series: set[Series], info: set[Info],
             inf = Info(serie.key, url, NAME, publisher, title, 0, format, isbn, date)
             info.discard(inf)
             info.add(inf)
+            series.add(serie)
 
 
 def scrape_full(series: set[Series], info: set[Info], limit: int = 1000) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        scrape_imprint(session, series, info, 'VT', 'Kodansha', limit)
-        scrape_imprint(session, series, info, '209', 'TOKYOPOP', limit)
+        for imprint, publisher in IMPRINTS:
+            try:
+                scrape_imprint(session, series, info, imprint, publisher, limit)
+            except Exception as e:
+                warnings.warn(f'PRH imprint {imprint} ({publisher}): {e}', RuntimeWarning)
     return series, info
 
 

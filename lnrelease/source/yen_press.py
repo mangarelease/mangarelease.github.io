@@ -17,7 +17,7 @@ LINK = re.compile(r'(https://yenpress.com)?/titles/(?P<isbn>\d{13})-(?P<name>[\w
 OMNIBUS = re.compile(r'contains(?: the complete)? volumes (?P<volume>\d+(?:\.\d)?-\d+(?:\.\d)?)', flags=re.IGNORECASE)
 START = re.compile(r'(?P<start>.+?) (?:omnibus |collector\'s edition |volume )+\d+(?: \((?:manga|comic)\))?', flags=re.IGNORECASE)
 # manga lives under /category/manga; Ize Press manhwa under /category/comics
-CATEGORIES = ('/category/manga', '/category/comics')
+CATEGORIES = ('/category/manga', '/category/comics', '/category/art-books')
 IMPRINTS = ('Ize Press', 'J-Novel Club')
 
 
