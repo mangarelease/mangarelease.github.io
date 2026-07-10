@@ -50,8 +50,9 @@ def main() -> None:
 
     for book in books:
         if serie := series.get(book.serieskey):
-            book.origin = serie.origin
-            book.category = serie.category
+            # unresolved series default to the JP manga base rate
+            book.origin = serie.origin or 'JP'
+            book.category = serie.category or 'manga'
     books.save()
 
 

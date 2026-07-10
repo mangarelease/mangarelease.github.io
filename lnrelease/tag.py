@@ -51,27 +51,25 @@ def tag(series: Table, info: Table, overrides: dict[str, tuple[str, str]]) -> No
 
     flagged = 0
     for s in series:
-        for publisher in publishers.get(s.key, ()):
+        pubs = publishers.get(s.key, set())
+        for publisher in pubs:
             if signal := PUB_TAGS.get(publisher):
                 s.origin = s.origin or signal[0]
                 s.category = s.category or signal[1]
-
-        # default: JP manga is the overwhelming base rate; flag guesses for review
-        flag = ''
-        if not s.origin:
+        if not s.origin and pubs and pubs <= JP_PUBLISHERS:
             s.origin = 'JP'
-            pubs = publishers.get(s.key, set())
-            if not (pubs and pubs <= JP_PUBLISHERS):
-                flag = 'review'
-        if not s.category:
-            s.category = 'artbook' if ARTBOOK.search(s.title) else 'manga'
-        s.flag = flag
+        if not s.category and ARTBOOK.search(s.title):
+            s.category = 'artbook'
 
         if override := overrides.get(s.key):
             origin, category = override
             s.origin = origin or s.origin
             s.category = category or s.category
-            s.flag = ''
+
+        # unresolved origins stay empty (so future scrape signals can land)
+        # and are flagged for manual curation; the JP/manga base-rate default
+        # is applied at output time in parse.py/pages.py
+        s.flag = '' if s.origin else 'review'
         flagged += bool(s.flag)
 
     print(f'tag: {len(series)} series tagged, {flagged} flagged for review, '

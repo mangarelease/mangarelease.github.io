@@ -29,6 +29,8 @@ def parse(session: Session, series: Series, link: str, skip: set[str]) -> set[In
         booktitle = detail.select_one('.booktitle').text
         if match := VOLUME.fullmatch(booktitle):
             title = f'{match.group("title")} Volume {match.group("volume").lstrip("0")}'
+        else:
+            title = booktitle
         isbn = ISBN.fullmatch(detail.find(class_='bookinfo', string=ISBN).text).group('isbn')
 
         alts: defaultdict[str, list[str]] = defaultdict(list)

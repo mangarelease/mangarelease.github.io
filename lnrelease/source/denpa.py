@@ -76,7 +76,7 @@ def parse(session: Session, handle: str) -> tuple[Series, set[Info]] | None:
         except ValueError:
             warnings.warn(f'Bad date {d}: {link}', RuntimeWarning)
 
-    isbn = metadata.get('ISBN') or ''
+    isbn = re.sub(r'\D', '', metadata.get('ISBN') or '')
     if isbn and not ISBN.fullmatch(isbn):
         warnings.warn(f'Bad ISBN {isbn}: {link}', RuntimeWarning)
         isbn = ''

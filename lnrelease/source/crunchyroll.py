@@ -16,24 +16,47 @@ OMNIBUS = re.compile(r'(?:contains|collects)(?: manga)? volumes (?P<volume>\d+(?
 START = re.compile(r'(?P<start>.+?)(?: Omnibus\b| Collector\'s Edition\b| Volume\b)+(?: \d+)?')
 
 PUBLISHERS = {
+    'ABLAZE': 'Ablaze',
     'AIRSHIP': 'Seven Seas Entertainment',
+    'ALIEN BOOKS': '',
     'CROSS INFINITE WORLD': '',
     'DARK HORSE': 'Dark Horse',
     'DARK HORSE MANGA': 'Dark Horse',
+    'DENPA': 'Denpa',
     'DIGITAL MANGA PUBLISHING': 'Digital Manga Publishing',
+    'FANFARE': '',
+    'FANTAGRAPHICS': '',
     'GHOST SHIP': 'Seven Seas Entertainment',
+    'GLACIER BAY BOOKS': '',
+    'INKLORE': 'Inklore',
     'IZE PRESS': 'Ize Press',
     'JNC': 'J-Novel Club',
+    'KAITEN BOOKS': '',
+    'KANA': '',
+    'KODAMA': '',
+    'KODANSHA': 'Kodansha',
+    'KODANSHA PRINT CLUB': 'Kodansha',
+    'KUMA': '',
+    'LAST GASP': '',
     'LOVELOVE': 'TOKYOPOP',
+    'NAKAMA PRESS': '',
+    'NEW YORK REVIEW COMICS': '',
     'ONE PEACE': 'One Peace Books',
+    'ROCKETSHIP': '',
     'SEVEN SEAS': 'Seven Seas Entertainment',
+    'SHOJO BEAT': 'VIZ Media',
     'SQUARE ENIX BOOKS': 'Square Enix',
     'SQUARE ENIX MANGA': 'Square Enix',
     'STEAMSHIP': 'Seven Seas Entertainment',
+    'SUBLIME': 'VIZ Media',
     'TENTAI BOOKS': '',
     'TOKYOPOP': 'TOKYOPOP',
+    'TUTTLE': '',
     'VERTICAL': 'Kodansha',
     'VIZ BOOKS': 'VIZ Media',
+    'VIZ MANGA': 'VIZ Media',
+    'VIZ MEDIA': 'VIZ Media',
+    'WEBTOON UNSCROLLED': 'WEBTOON Unscrolled',
     'YEN ON': 'Yen Press',
     'YEN PRESS': 'Yen Press',
 }
@@ -115,7 +138,11 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                     break
                 jsn = page.json()
                 for item in jsn['hits']:
-                    res = parse(session, item)
+                    try:
+                        res = parse(session, item)
+                    except Exception as e:
+                        warnings.warn(f'({item.get("productId")}): {e}', RuntimeWarning)
+                        continue
                     if res:
                         serie, inf = res
                         series.add(serie)

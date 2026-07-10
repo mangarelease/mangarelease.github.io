@@ -44,7 +44,8 @@ def main() -> None:
     series = {x: i for i, x in enumerate(sorted({x.serieskey for x in releases}))}
     publishers = {x: i for i, x in enumerate(sorted({x.publisher for x in releases}))}
     formats = {x: i for i, x in enumerate(Format)}
-    jsn = {'series': [[key, table[key].title, table[key].origin, table[key].category]
+    jsn = {'series': [[key, table[key].title,
+                       table[key].origin or 'JP', table[key].category or 'manga']
                       for key in series],
            'publishers': list(publishers),
            'data': [[series[x.serieskey],
