@@ -74,6 +74,10 @@ def main() -> None:
     current = get_current(releases)
     write_page((b for b in current if b.format != Format.AUDIOBOOK),
                OUT, f'# Licensed Manga Releases', True)
+    with open(OUT, 'a', encoding='utf-8') as file:
+        file.write('\n\n---\n\nData engine forked from '
+                   '[LNRelease](https://github.com/LNRelease/lnrelease.github.io), '
+                   'the automated light novel release calendar.\n')
 
 
 if __name__ == '__main__':

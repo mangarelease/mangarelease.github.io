@@ -1,5 +1,6 @@
 import importlib
 import os
+import sys
 import warnings
 from collections import defaultdict
 from concurrent.futures import Future, as_completed
@@ -11,10 +12,14 @@ from time import time
 from session import CF_ACCOUNT, REQUEST_STATS
 from utils import SOURCES, Info, Series, Table
 
-MODULES = [importlib.import_module(f'source.{s.stem}') for s in Path('lnrelease/source').glob('*.py')]
+MODULES = {s.stem: importlib.import_module(f'source.{s.stem}') for s in Path('lnrelease/source').glob('*.py')}
 
 SERIES = Path('series.csv')
 INFO = Path('info.csv')
+
+# first full runs need far longer than the incremental daily refresh;
+# CI can set SCRAPE_TIMEOUT to stay within the actions job limit
+TIMEOUT = int(os.environ.get('SCRAPE_TIMEOUT', 60 * 60 * 12))
 
 
 def merge_series(table: Table, new: set[Series]) -> None:
@@ -38,9 +43,14 @@ def worker(future: Future, fn, *args) -> None:
         future.set_result(result)
 
 
-def main() -> None:
+def main(only: set[str] | None = None) -> None:
     if not CF_ACCOUNT and os.environ.get('GITHUB_EVENT_NAME') == 'schedule':
         return
+
+    if unknown := (only or set()) - set(MODULES):
+        warnings.warn(f'Unknown sources: {sorted(unknown)}; '
+                      f'available: {sorted(MODULES)}', RuntimeWarning)
+    modules = [m for stem, m in MODULES.items() if not only or stem in only]
 
     series = Table(SERIES, Series)
     info = Table(INFO, Info)
@@ -50,7 +60,7 @@ def main() -> None:
 
     start = time()
     futures: dict[Future[tuple[set[Series], set[Info]]], str] = {}
-    for module in MODULES:
+    for module in modules:
         future = Future()
         name: str = module.NAME
         futures[future] = name
@@ -64,7 +74,7 @@ def main() -> None:
                ).start()
 
     try:
-        for future in as_completed(futures, timeout=60*60*4):
+        for future in as_completed(futures, timeout=TIMEOUT):
             try:
                 serie, inf = future.result()
                 merge_series(series, serie)
@@ -94,4 +104,4 @@ def main() -> None:
 
 
 if __name__ == '__main__':
-    main()
+    main(set(sys.argv[1:]) or None)
