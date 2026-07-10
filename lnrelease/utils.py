@@ -49,6 +49,20 @@ SOURCES = {x: i for i, x in enumerate(PRIMARY + SECONDARY)}
 # placeholder date
 EPOCH = datetime.date(1, 1, 1)
 
+# origin/category tagging
+ORIGINS = ('JP', 'KR', 'CN', 'other')
+CATEGORIES = ('manga', 'manhwa', 'manhua', 'webtoon', 'artbook', 'anthology')
+# title markers that identify origin/category before SERIES/TITLE strip them
+MARKERS = {
+    'manhwa': ('KR', 'manhwa'),
+    'manhua': ('CN', 'manhua'),
+    'webtoon': ('KR', 'webtoon'),
+    'artbook': ('', 'artbook'),
+    'art book': ('', 'artbook'),
+    'anthology': ('', 'anthology'),
+}
+MARKER = re.compile(r'[\(\[](?P<marker>' + '|'.join(MARKERS) + r')[\)\]]|\b(?P<word>manhwa|manhua|webtoon|anthology)\b', flags=re.IGNORECASE)
+
 
 def clean_str(s: str) -> str:
     return NONWORD.sub('', unicodedata.normalize('NFKD', s)).lower()
@@ -116,14 +130,23 @@ class Key:
 class Series:
     key: str
     title: str
+    origin: str = ''
+    category: str = ''
+    flag: str = ''
 
     def __post_init__(self) -> None:
+        if not (self.origin and self.category) and (match := MARKER.search(self.title)):
+            marker = (match.group('marker') or match.group('word')).lower()
+            origin, category = MARKERS[marker]
+            self.origin = self.origin or origin
+            self.category = self.category or category
         self.title = SERIES.sub('', self.title).replace('’', "'").strip()
         self.key = self.key or clean_str(self.title)
 
     @classmethod
-    def from_db(cls, key: str, title: str) -> Self:
-        return cls(key, title)
+    def from_db(cls, key: str, title: str, origin: str = '',
+                category: str = '', flag: str = '') -> Self:
+        return cls(key, title, origin, category, flag)
 
     def __eq__(self, other: Self) -> bool:
         return isinstance(other, self.__class__) and self.key == other.key
@@ -137,6 +160,9 @@ class Series:
     def __iter__(self) -> Iterator[Self]:
         yield self.key
         yield self.title
+        yield self.origin
+        yield self.category
+        yield self.flag
 
 
 @dataclass
@@ -214,12 +240,15 @@ class Book:
     format: str
     isbn: str
     date: datetime.date
+    origin: str = ''
+    category: str = ''
 
     @classmethod
     def from_db(cls, serieskey: str, link: str, publisher: str, name: str,
-                volume: str, format: str, isbn: str, date: str) -> Self:
+                volume: str, format: str, isbn: str, date: str,
+                origin: str = '', category: str = '') -> Self:
         date = datetime.date.fromisoformat(date)
-        return cls(serieskey, link, publisher, name, volume, format, isbn, date)
+        return cls(serieskey, link, publisher, name, volume, format, isbn, date, origin, category)
 
     def __eq__(self, other: Self) -> bool:
         return (isinstance(other, self.__class__)
@@ -260,6 +289,8 @@ class Book:
         yield self.format
         yield self.isbn
         yield self.date
+        yield self.origin
+        yield self.category
 
 
 @dataclass
@@ -272,6 +303,8 @@ class Release:
     format: Format
     isbn: str
     date: datetime.date
+    origin: str = ''
+    category: str = ''
 
     def __eq__(self, other: Self) -> bool:
         return (isinstance(other, self.__class__)

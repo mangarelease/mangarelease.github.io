@@ -45,7 +45,10 @@ def parse(session: Session, link: str, links: dict[str, str]) -> None | tuple[Se
             and (vol := OMNIBUS.search(desc.text))
             and (start := START.fullmatch(title))):  # rename omnibus volume
         title = f'{start.group("start")} Volume {vol.group("volume")}'
-    series = Series(None, series_title)
+    if imprint == 'Ize Press':  # Yen's Korean webtoon/manhwa imprint
+        series = Series(None, series_title, 'KR', 'manhwa')
+    else:
+        series = Series(None, series_title)
     info = set()
     publisher = imprint if imprint in IMPRINTS else NAME
     for format, detail in zip(formats, details):

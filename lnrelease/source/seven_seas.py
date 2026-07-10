@@ -17,6 +17,14 @@ FORMATS = ('Manga', 'Comics')
 NOVEL_MARKERS = (' (Light Novel)', ' (Novel)')
 # wordpress tags marking prose releases, excluded from the manga scrape
 NOVEL_TAGS = {43, 82}  # light-novels, novel
+# wordpress tags giving origin/category; first match wins
+ORIGIN_TAGS = (
+    (26, ('KR', 'manhwa')),   # manhwa
+    (67, ('CN', 'manhua')),   # manhua
+    (58, ('CN', 'manhua')),   # danmei (comic adaptations; novels are excluded)
+    (88, ('CN', 'manhua')),   # baihe
+    (19, ('other', '')),      # oel
+)
 DATES = (r'%b %d, %Y', r'%Y-%m-%d', r'%B %d, %Y', r'%Y/%m/%d')
 ISBN = re.compile(r'97[89][-\d]{10,}')
 
@@ -85,7 +93,7 @@ def parse(session: Session, link: str, series: Series, refresh: int) -> set[Info
 
 def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[Info]]:
     with Session() as session:
-        links: dict[str, tuple[str, datetime.date]] = {}
+        links: dict[str, tuple[str, datetime.date, str, str]] = {}
         kwargs = {
             'cf': True,
             'ia': True,
@@ -119,7 +127,13 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                         skipped += 1
                         continue
                     modified = datetime.date.fromisoformat(serie['modified_gmt'][:10])
-                    links.setdefault(link, (title, modified))
+                    tags = set(serie.get('tags', ()))
+                    origin = category = ''
+                    for tag, (o, c) in ORIGIN_TAGS:
+                        if tag in tags:
+                            origin, category = o, c
+                            break
+                    links.setdefault(link, (title, modified, origin, category))
                 if len(jsn) != params['per_page']:
                     break
                 params['page'] += 1
@@ -137,15 +151,15 @@ def scrape_full(series: set[Series], info: set[Info]) -> tuple[set[Series], set[
                 elif any(marker in a.text for marker in NOVEL_MARKERS):
                     skipped += 1
                 else:
-                    links.setdefault(link, (a.text, None))
+                    links.setdefault(link, (a.text, None, '', ''))
         except Exception as e:
             warnings.warn(f'Error finding links: {e}')
         print(f'{NAME}: {len(links)} series kept, {skipped} novel series filtered', flush=True)
 
         today = datetime.date.today()
-        for link, (title, modified) in links.items():
+        for link, (title, modified, origin, category) in links.items():
             try:
-                serie = Series(None, title)
+                serie = Series(None, title, origin, category)
                 prev = {i for i in info if i.serieskey == serie.key}
                 old = prev and (today - max(i.date for i in prev)).days > 180
                 if modified is None:

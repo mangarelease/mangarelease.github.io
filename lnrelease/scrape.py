@@ -17,6 +17,18 @@ SERIES = Path('series.csv')
 INFO = Path('info.csv')
 
 
+def merge_series(table: Table, new: set[Series]) -> None:
+    # set union keeps the existing element, which would drop
+    # origin/category tags picked up by this scrape
+    existing = {s.key: s for s in table}
+    for s in new:
+        if old := existing.get(s.key):
+            old.origin = old.origin or s.origin
+            old.category = old.category or s.category
+        else:
+            table.add(s)
+
+
 def worker(future: Future, fn, *args) -> None:
     try:
         result = fn(*args)
@@ -55,7 +67,7 @@ def main() -> None:
         for future in as_completed(futures, timeout=60*60*4):
             try:
                 serie, inf = future.result()
-                series |= serie
+                merge_series(series, serie)
                 series.save()
                 info -= sources[futures[future]]
                 info |= inf

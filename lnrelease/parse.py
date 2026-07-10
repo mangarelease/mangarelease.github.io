@@ -48,6 +48,10 @@ def main() -> None:
         for x in module.parse(serie, inf, links).values():
             books.update(x)
 
+    for book in books:
+        if serie := series.get(book.serieskey):
+            book.origin = serie.origin
+            book.category = serie.category
     books.save()
 
 
