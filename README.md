@@ -8,7 +8,6 @@
 |:---:|---|:---:|---|:---:|
 |Jul 01|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-manga#volume-8 "J-Novel Club")|8|J-Novel Club|🖥️|
 |Jul 01|[Ascendance of a Bookworm Part 3](https://j-novel.club/series/ascendance-of-a-bookworm-manga#volume-24 "J-Novel Club")|6|J-Novel Club|🖥️|
-|Jul 01|[Hidetaka Tenjin's Artistry of Gundam - U.C. Edition](https://udonentertainment.com/products/hidetaka-tenjins-artistry-of-gundam-u-c-edition "Udon Entertainment")|1|Udon Entertainment|📖|
 |Jul 07|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784695/heaven-officials-blessing-the-comic-volume-2-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984390 "Inklore")|2|Inklore|🖥️📖|
 |Jul 07|[Love 4 a Walk](https://www.penguinrandomhouse.com/books/804839/love-4-a-walk-vol-2-by-nuria-sanguino/9781834110103 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |Jul 07|[The Makeup Remover](https://www.penguinrandomhouse.com/books/752046/the-makeup-remover-volume-2-by-lee-yeon/9780593872734 "Inklore")|2|Inklore|🖥️📖|
@@ -148,6 +147,7 @@
 |Aug 25|[The War of Greedy Witches](https://yenpress.com/titles/9798855401486-the-war-of-greedy-witches-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Toxic Super Beasts](https://www.penguinrandomhouse.com/books/833049/toxic-super-beasts-vol4-by-written-by-nykken/9781806182244 "Titan Comics")|4|Titan Comics|📖|
 |Aug 25|[What Does the Fox Say?](https://yenpress.com/titles/9798855423921-what-does-the-fox-say-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 26|[Ascendance of a Bookworm Part 4](https://j-novel.club/series/ascendance-of-a-bookworm-manga#volume-31 "J-Novel Club")|7|J-Novel Club|🖥️|
 |Aug 26|[Last Summer Sparkle](https://j-novel.club/series/last-summer-sparkle#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️|
 |Aug 26|[Sweet Reincarnation](https://j-novel.club/series/sweet-reincarnation#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️|
 
@@ -156,9 +156,7 @@
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Sep 01|[Accidental Assassin](https://www.penguinrandomhouse.com/books/827228/accidental-assassin-vol-1-by-molly-ni-cheileachair/9781834110509 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
-|Sep 01|[Capcom Masterworks: Shinkiro - Deluxe Edition](https://udonentertainment.com/products/capcom-masterworks-shinkiro-deluxe-edition "Udon Entertainment")|1|Udon Entertainment|📖|
 |Sep 01|[Delusion](https://www.penguinrandomhouse.com/books/799610/delusion-volume-1-by-hongjacga/9798217092925 "Inklore")|1|Inklore|🖥️📖|
-|Sep 01|[SNK Masterworks: Shinkiro - Deluxe Edition](https://udonentertainment.com/products/snk-masterworks-shinkiro-deluxe-edition "Udon Entertainment")|1|Udon Entertainment|📖|
 |Sep 01|[Strange Pictures](https://www.penguinrandomhouse.com/books/841779/strange-pictures-vol2-by-written-by-uketsu/9781806185054 "Titan Comics")|2|Titan Comics|📖|
 |Sep 01|[The one. Later on…](https://www.penguinrandomhouse.com/books/830906/the-one-later-on-vol2-by-written-by-nahato/9781787747449 "Titan Comics")|2|Titan Comics|📖|
 |Sep 08|[Eko Eko Azarak Reborn](https://www.penguinrandomhouse.com/books/830760/eko-eko-azarak-reborn-vol2-by-written-by-yamada-jta/9781787747043 "Titan Comics")|2|Titan Comics|📖|
@@ -174,6 +172,7 @@
 |Sep 15|[Record Journey](https://www.penguinrandomhouse.com/books/830915/record-journey-vol2-by-written-by-ryoichiro-kezuka/9781787749795 "Titan Comics")|2|Titan Comics|📖|
 |Sep 15|[The Assassin Laughs at Twilight](https://www.penguinrandomhouse.com/books/824135/the-assassin-laughs-at-twilight-vol1-by-written-by-megurikukuru/9781787749344 "Titan Comics")|1|Titan Comics|📖|
 |Sep 15|[Villain Actor](https://www.penguinrandomhouse.com/books/830913/villain-actor-vol3-by-written-by-mikumo-seto/9781787749610 "Titan Comics")|3|Titan Comics|📖|
+|Sep 16|[Black Summoner](https://j-novel.club/series/black-summoner-manga#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
 |Sep 19|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software-manga#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 22|[Agents of the Four Seasons: Dance of Spring](https://yenpress.com/titles/9798855426540-agents-of-the-four-seasons-dance-of-spring-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 22|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417937-a-pen-handcuffs-and-a-common-law-marriage-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -304,7 +303,6 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Nov 01|[The Art of Clair Obscur: Expedition 33 Standard Edition](https://udonentertainment.com/products/the-art-of-clair-obscur-expedition-33-standard-edition "Udon Entertainment")|1|Udon Entertainment|📖|
 |Nov 03|[Act Like You Love Me!](https://www.penguinrandomhouse.com/books/827230/act-like-you-love-me-vol-1-by-xuann/9781834110523 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
 |Nov 03|[Cursed Princess Club, vol. 6](https://www.penguinrandomhouse.com/books/836100/cursed-princess-club-vol-6-by-lambcat/9781834110530 "WEBTOON Unscrolled")|6|WEBTOON Unscrolled|📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
