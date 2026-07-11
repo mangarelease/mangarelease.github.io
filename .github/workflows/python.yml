@@ -2,9 +2,22 @@ name: python
 
 on:
   schedule:
+    # daily 05:20 UTC — fast/incremental sources
     - cron: '20 5 * * *'
+    # weekly Sunday 03:00 UTC — slow sources (heavy per-request delays)
+    - cron: '0 3 * * 0'
 
   workflow_dispatch:
+    inputs:
+      sources:
+        description: 'Space-separated source module names (blank = daily set)'
+        required: false
+        default: ''
+
+# serialize scrape runs so daily and weekly never commit to main at once
+concurrency:
+  group: scrape
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -14,6 +27,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # hosted runners hard-kill at 6h; bail before that with buffer to commit
+    timeout-minutes: 350
 
     outputs:
       deploy: ${{ steps.commit.outputs.deploy }}
@@ -32,23 +47,55 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Python script
+      - name: Select sources
+        id: sources
+        run: |
+          if [ -n "${{ github.event.inputs.sources }}" ]; then
+            echo "list=${{ github.event.inputs.sources }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 3 * * 0" ]; then
+            echo "list=viz kodansha square_enix tokyopop dark_horse" >> "$GITHUB_OUTPUT"
+          else
+            echo "list=yen_press seven_seas prh jnovel_club bookwalker crunchyroll denpa udon ablaze one_peace apple" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run scraper
         env:
           CF_ACCOUNT: ${{ secrets.CF_ACCOUNT }}
           CF_KEY: ${{ secrets.CF_KEY }}
-        run: python lnrelease/lnrelease.py
+          # stay under the 350-minute job cap; scrape bails cleanly if it overruns
+          SCRAPE_TIMEOUT: '18000'
+        run: |
+          set -o pipefail
+          python lnrelease/lnrelease.py ${{ steps.sources.outputs.list }} 2>&1 | tee run.log
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Scrape summary"
+            echo "Sources: \`${{ steps.sources.outputs.list }}\`"
+            echo '### Per-source counts'
+            echo '```'
+            grep -E 'done \(|kept,' run.log || echo '(none)'
+            echo '```'
+            echo '### Warnings by type'
+            echo '```'
+            grep -oE 'RuntimeWarning: [A-Za-z][A-Za-z -]+' run.log | sort | uniq -c | sort -rn | head -30 || echo '(none)'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push
         id: commit
         run: |
           git add -u
-          echo "deploy=$(git diff --staged --quiet books.csv; echo $?)" >> $GITHUB_OUTPUT
+          echo "deploy=$(git diff --staged --quiet books.csv; echo $?)" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
             echo "Finished, no changes"
           else
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git commit -m "update"
+            git pull --rebase --autostash origin main
             git push
           fi
 
