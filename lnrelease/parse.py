@@ -15,6 +15,7 @@ for file in Path('lnrelease/publisher').glob('*.py'):
     PUBLISHERS[module.NAME] = module
 
 BOOKS = Path('books.csv')
+ARTBOOKS = Path('artbooks.csv')
 
 
 def main() -> None:
@@ -30,6 +31,7 @@ def main() -> None:
     # sort by source then title
     links = dict(sorted(links.items(), key=lambda x: (SOURCES[x[1][0].source], x[1][0].title)))
     BOOKS.unlink(missing_ok=True)
+    ARTBOOKS.unlink(missing_ok=True)
     books = Table(BOOKS, Book)
 
     for key, group in groupby(lst, attrgetter('serieskey', 'publisher')):
@@ -53,7 +55,16 @@ def main() -> None:
             # unresolved series default to the JP manga base rate
             book.origin = serie.origin or 'JP'
             book.category = serie.category or 'manga'
+
+    # art books go to their own file, same schema; the main dataset and the
+    # release calendar (built downstream from books.csv) stay manga/comics only
+    artbooks = Table(ARTBOOKS, Book)
+    for book in list(books):
+        if book.category == 'artbook':
+            books.discard(book)
+            artbooks.add(book)
     books.save()
+    artbooks.save()
 
 
 if __name__ == '__main__':
