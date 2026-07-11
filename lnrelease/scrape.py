@@ -21,6 +21,26 @@ INFO = Path('info.csv')
 # CI can set SCRAPE_TIMEOUT to stay within the actions job limit
 TIMEOUT = int(os.environ.get('SCRAPE_TIMEOUT', 60 * 60 * 12))
 
+# zero-row wipe guard: a source that previously carried rows but now collapses
+# toward zero (scraper blocked, Cloudflare/login wall, site change) would
+# otherwise erase good data on save. When a run drops below a fraction of the
+# prior count, keep the existing rows for that source instead of replacing them.
+# New sources (no prior rows) are never guarded; the fraction is per-source so a
+# legitimately small source isn't held to the same bar.
+DEFAULT_GUARD_FRAC = 0.1
+GUARD_FRAC: dict[str, float] = {
+    # Square Enix legitimately carries few, slowly-growing rows; only guard on a
+    # near-total collapse rather than normal run-to-run variation
+    'Square Enix': 0.05,
+}
+
+
+def wipe_guard(name: str, prior: set, new: set) -> bool:
+    """True if `new` collapsed far enough below `prior` to be a likely wipe."""
+    if not prior:
+        return False  # nothing to protect (new source starts at 0)
+    return len(new) < len(prior) * GUARD_FRAC.get(name, DEFAULT_GUARD_FRAC)
+
 
 def merge_series(table: Table, new: set[Series]) -> None:
     # set union keeps the existing element, which would drop
@@ -74,17 +94,30 @@ def main(only: set[str] | None = None) -> None:
         for future in as_completed(futures, timeout=TIMEOUT):
             try:
                 serie, inf = future.result()
-                merge_series(series, serie)
-                series.save()
-                info -= sources[futures[future]]
-                info |= inf
-                info.save()
-                sources[futures[future]] = inf
+                name = futures[future]
+                prior = sources[name]
+                guarded = wipe_guard(name, prior, inf)
+                if guarded:
+                    # keep prior rows: they are already in `info` (never removed)
+                    # and `sources[name]` stays prior for the final rebuild below
+                    warnings.warn(
+                        f'WIPE GUARD: source {name!r} returned {len(inf)} rows '
+                        f'but previously had {len(prior)}; keeping existing rows '
+                        f'(scraper likely blocked or the site changed)',
+                        RuntimeWarning)
+                else:
+                    merge_series(series, serie)
+                    series.save()
+                    info -= prior
+                    info |= inf
+                    info.save()
+                    sources[name] = inf
             except Exception as e:
                 warnings.warn(f'Error scraping {futures[future]}: {e}', RuntimeWarning)
             else:
-                print(f'{futures[future]} done ({time() - start:.2f}s): '
-                      f'{len(serie)} series, {len(inf)} info rows', flush=True)
+                print(f'{name} done ({time() - start:.2f}s): '
+                      f'{len(serie)} series, {len(inf)} info rows'
+                      f'{" [GUARDED: kept prior rows]" if guarded else ""}', flush=True)
     except TimeoutError:
         dump_traceback()
 
