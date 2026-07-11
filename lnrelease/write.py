@@ -10,6 +10,21 @@ from utils import FORMATS, Book, Format, Release, Table
 
 OUT = Path('README.md')
 
+TAXONOMY = '''
+
+---
+
+## Taxonomy
+
+**Origin** is the *creator's country* — `JP` / `KR` / `CN` / `other`. The hosting platform is irrelevant: WEBTOON, for instance, publishes both Korean and Western works.
+
+**Category** is reader vocabulary, not format:
+- `manga` / `manhwa` / `manhua` — Japanese / Korean / Chinese works, **including webtoon-native ones in print** (e.g. *Solo Leveling*, *Tower of God* → `KR` / `manhwa`).
+- `webtoon` — **non-Asian** webtoon-native works in print (e.g. *Lore Olympus* → `other` / `webtoon`).
+- `comic` — Western print comics (e.g. Udon's *Street Fighter*).
+- `artbook` — art books (tracked separately).
+'''
+
 
 def get_format(format: Format, github: bool) -> str:
     if github:
@@ -75,6 +90,7 @@ def main() -> None:
     write_page((b for b in current if b.format != Format.AUDIOBOOK),
                OUT, f'# Licensed Manga Releases', True)
     with open(OUT, 'a', encoding='utf-8') as file:
+        file.write(TAXONOMY)
         file.write('\n\n---\n\nData engine forked from '
                    '[LNRelease](https://github.com/LNRelease/lnrelease.github.io), '
                    'the automated light novel release calendar.\n')

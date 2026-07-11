@@ -1459,4 +1459,17 @@
 
 ---
 
+## Taxonomy
+
+**Origin** is the *creator's country* — `JP` / `KR` / `CN` / `other`. The hosting platform is irrelevant: WEBTOON, for instance, publishes both Korean and Western works.
+
+**Category** is reader vocabulary, not format:
+- `manga` / `manhwa` / `manhua` — Japanese / Korean / Chinese works, **including webtoon-native ones in print** (e.g. *Solo Leveling*, *Tower of God* → `KR` / `manhwa`).
+- `webtoon` — **non-Asian** webtoon-native works in print (e.g. *Lore Olympus* → `other` / `webtoon`).
+- `comic` — Western print comics (e.g. Udon's *Street Fighter*).
+- `artbook` — art books (tracked separately).
+
+
+---
+
 Data engine forked from [LNRelease](https://github.com/LNRelease/lnrelease.github.io), the automated light novel release calendar.
