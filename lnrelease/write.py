@@ -96,7 +96,10 @@ def main() -> None:
         file.write(TAXONOMY)
         file.write('\n\n---\n\nData engine forked from '
                    '[LNRelease](https://github.com/LNRelease/lnrelease.github.io), '
-                   'the automated light novel release calendar.\n')
+                   'the automated light novel release calendar.\n\n'
+                   'Navigating this repo? See '
+                   '[ARCHITECTURE.md](ARCHITECTURE.md) for the file map and '
+                   'data-flow overview.\n')
 
 
 if __name__ == '__main__':
