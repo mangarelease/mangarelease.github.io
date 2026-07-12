@@ -285,3 +285,13 @@ Extended the VIZ scraper to walk the release calendar **backwards** for a decade
 **No calendar gaps found** above the 2015 floor (2010/2014/2016 spot-fetches all rendered), so the API-enrichment fallback stays deferred as planned.
 
 *Deferred, unchanged:* Seven Seas comma-in-subtitle volume parse; Lore-Olympus word-number volume parse; Ablaze/Udon/One Peace date backfills; J-Novel ISBN backfill; Square Enix live populate.
+
+---
+
+## Follow-up — 2026-07-12 (repo map + pipeline wiring)
+
+**Repo navigation (`ARCHITECTURE.md`).** Added a hand-maintained file map and data-flow doc — every root file classified as generated output / hand-maintained input (`origins.csv`) / per-source cache, plus why the flat root is load-bearing (hardcoded root-relative paths + Jekyll serving from root) and where to edit static README prose so it survives regeneration. `write.py`'s footer links to it so the generated `README.md` points there on every scrape.
+
+**`pages.py` wired into the pipeline (`lnrelease.py`).** Found that `lnrelease.py` ran `scrape→tag→parse→write` but never `pages.main()`, so `data.json` and the physical/digital/html/audiobook + `year/*.md` pages refreshed only on manual runs — the interactive `mangarelease.github.io` data lagged a day behind the `README.md` calendar (verified: `data.json` last touched by a human commit, not the daily bot). Added `pages.main()` as the final stage (after `write`, reading the freshly written `books.csv`/`series.csv`) and staged `year/` in the commit step so a brand-new `year/<n>.md` at a year boundary isn't dropped by tracked-only `git add -u`. Regenerated the then-stale site outputs from committed data (`data.json` valid: 4,574 series / 17 publishers / 15,708 rows).
+
+**Empty source caches — investigated, no change.** `bookwalker.csv` and `one_peace.csv` are 0-byte but are **page-visit skip-caches for live daily sources** (both in the daily source list; both modules run full scrape logic and `pages.save()`), not dormant leftovers. `Table` tolerates a missing file and `save()` recreates it, so deleting them would only trigger regeneration — left in place.

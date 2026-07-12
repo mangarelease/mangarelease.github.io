@@ -25,10 +25,10 @@ site still resolves it. Treat the layout below as the contract.
 ## Pipeline (runs daily via GitHub Actions)
 
 `.github/workflows/python.yml` runs `python lnrelease/lnrelease.py`, which is
-four stages in order:
+five stages in order:
 
 ```
-scrape → tag → parse → write
+scrape → tag → parse → write → pages
 ```
 
 | Stage | Module | Reads | Writes |
@@ -37,19 +37,23 @@ scrape → tag → parse → write
 | **tag**    | `tag.py`   | `origins.csv` (overrides) | taxonomy applied in-memory |
 | **parse**  | `parse.py` + `publisher/*.py` | `series.csv`, `info.csv` | `books.csv`, `artbooks.csv` |
 | **write**  | `write.py` | `books.csv` | `README.md` |
+| **pages**  | `pages.py` | `books.csv`, `series.csv` | `data.json`, `physical.md`, `digital.md`, `html.md`, `audiobook.md`, `year/*.md` |
 
 The workflow then commits changed files as `github-actions[bot]` and, if
 `books.csv` changed, calls `pages.yml` to deploy the site.
 
-## Site-page generation (NOT in the daily pipeline)
+The commit step stages tracked modifications (`git add -u`) plus `year/`
+explicitly, because `pages.py` can mint a brand-new `year/<n>.md` at a year
+boundary that a tracked-only add would miss.
 
-`pages.py` generates `data.json`, `physical.md`, `digital.md`, `html.md`,
-`audiobook.md`, and `year/*.md`. **It is not called by `lnrelease.py`**, so
-the daily scrape does not refresh these — they update only when someone runs
-`pages.py` and commits. Consequence: the GitHub `README.md` calendar is
-current daily, while the interactive `mangarelease.github.io` data (`data.json`)
-can lag until a manual regeneration. If you want the site data to track the
-scrape, wire `pages.main()` into `lnrelease.py`.
+## Site pages (`pages.py`)
+
+`pages.py` generates the interactive-site data (`data.json`, consumed by
+`index.html`) and the per-format / per-year Markdown pages. It runs as the
+final pipeline stage, so these outputs track the scrape day-to-day alongside
+the `README.md` calendar. You can also run it standalone
+(`python lnrelease/pages.py`) to regenerate the site pages from the current
+`books.csv`/`series.csv` without re-scraping.
 
 ## File map by role
 
@@ -62,7 +66,7 @@ scrape, wire `pages.main()` into `lnrelease.py`.
 | `series.csv` | `scrape.py` | Series index. |
 | `info.csv` | `scrape.py` | Per-product info. |
 
-### Generated output — site pages (from `pages.py`, manual step)
+### Generated output — site pages (from `pages.py`, final pipeline stage)
 | File | Notes |
 |------|-------|
 | `data.json` | Consumed by `index.html` for the interactive table. |
