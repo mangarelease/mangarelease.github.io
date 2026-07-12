@@ -1,5 +1,7 @@
 # Licensed Manga Releases
 
+Automated release calendar for licensed English manga, manhwa, manhua & webtoons — updated daily at [mangarelease.github.io](https://mangarelease.github.io).
+
 ## 2026
 
 ### July

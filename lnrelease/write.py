@@ -88,7 +88,10 @@ def main() -> None:
     releases = get_releases()
     current = get_current(releases)
     write_page((b for b in current if b.format != Format.AUDIOBOOK),
-               OUT, f'# Licensed Manga Releases', True)
+               OUT, '# Licensed Manga Releases\n\n'
+               'Automated release calendar for licensed English manga, manhwa, '
+               'manhua & webtoons — updated daily at [mangarelease.github.io]'
+               '(https://mangarelease.github.io).', True)
     with open(OUT, 'a', encoding='utf-8') as file:
         file.write(TAXONOMY)
         file.write('\n\n---\n\nData engine forked from '
