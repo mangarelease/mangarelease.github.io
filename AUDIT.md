@@ -261,3 +261,25 @@ Once Square Enix populates and TOKYOPOP/PRH catches up via the cron, coverage sh
 *Two left for review* (creator nationality not confidently derivable — kept at their existing `other/webtoon` rather than guessing): **Daybreak**, **GremoryLand**.
 
 **Goodwill guardrails.** Confirmed the pipeline does **not** rehost cover images — no binary writes, no image field in the schema or `data.json`; metadata and store links only. Added a lightweight **robots.txt** check to the fetch helper (`session.py`), applied to every host, not per-scraper. Effect: viz.com disallows `/search`, so the VIZ deep-crawl backfill is now correctly skipped (the calendar path it relies on is allowed); Seven Seas / Yen / Square Enix disallow only admin paths, so nothing else changes. The VIZ search loop degrades gracefully when a page is disallowed.
+
+---
+
+## Follow-up — 2026-07-11 (VIZ historical backfill via the release calendar)
+
+Extended the VIZ scraper to walk the release calendar **backwards** for a decade of backlist, with no new data source — `viz.com/calendar/YYYY/MM` renders complete historical months (verified live back to 2010) and is robots-allowed, unlike `/search`.
+
+**Two-tier ingestion (`source/viz.py`).** The calendar month table alone yields title, product URL, format and day-precision date, so those land immediately as **calendar-tier** rows (ISBN blank). The ISBN lives on the product page (30–60 s/request), so those are fetched **incrementally** through the existing `viz.csv` skip-cache — oldest backfill month first, within a per-run time budget — so each weekly cron chips away at the backlog and never re-fetches a cached product. Backfill walks back from the oldest cached month, stops at a **Jan-2015 floor** (config, not code, to go deeper) or after **3 consecutive empty months**, and runs only after the recent+upcoming window so a time-bounded run always commits current data first. Politeness unchanged (existing delays, robots.txt check, calendar pages only).
+
+**Clean upgrade path.** The calendar-tier Info key `(link, format)` and series key (volume-stripped title) match exactly what `parse()` produces, so a later product fetch **upgrades the row in place** rather than duplicating it. `ingest_calendar` never clobbers a row that already carries an ISBN.
+
+**Wiring (`python.yml`).** `VIZ_BACKFILL_MONTHS`/`VIZ_BACKFILL_SECONDS` are set **weekly only** (6 months back, 1500 s ISBN budget) and default to `0` on the daily run, leaving the incremental path unchanged. The budget keeps the cron well under its 350-min cap.
+
+**Validation.**
+- *Bounded live run* (2 historical months, reduced delay): 70 calendar-tier rows landed with correct dates/formats (2020-04/05, Paperback/Hardcover/Digital); a 3-product spot-check returned valid ISBNs (Daytime Shooting Star Vol. 6 → 978-1-9747-0672-3, Demon Slayer Vol. 12 → 978-1-9747-1112-3, Dr. STONE Vol. 11 → 978-1-9747-1479-7).
+- *Upgrade path*: after ingesting calendar-tier rows and then fetching their product pages, **61 unique series keys, 0 duplicate `(link, format)` rows** — the merge is clean, no duplicate series created.
+- *Offline invariants* (network-free): parse correctness, dedup/clobber-safety, calendar-title series-key == series-field series-key, and `BACKFILL_MONTHS=0 ⇒ no-op` all pass.
+- *Determinism* (`PYTHONHASHSEED=0`): backfill order is deterministic (walk order + table order; output sorted by the driver). **Wipe guard untouched** — backfill only adds rows, so it can never false-trigger. Purely additive, so the coverage matcher cannot regress.
+
+**No calendar gaps found** above the 2015 floor (2010/2014/2016 spot-fetches all rendered), so the API-enrichment fallback stays deferred as planned.
+
+*Deferred, unchanged:* Seven Seas comma-in-subtitle volume parse; Lore-Olympus word-number volume parse; Ablaze/Udon/One Peace date backfills; J-Novel ISBN backfill; Square Enix live populate.
