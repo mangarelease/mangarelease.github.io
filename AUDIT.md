@@ -1,5 +1,7 @@
 # MangaRelease — Track 1 Data-Trust Audit
 
+> **Status (2026-07-12): resolved & shipped.** The ship-blockers below were fixed in the follow-up sections at the bottom of this doc — coverage recovered to ~74–79% at launch, with Square Enix / TOKYOPOP filling via the scheduled crons. Kept as an engineering record; the "bottom line" below describes the state *before* the fixes.
+
 **Date:** 2026-07-11 · **Scope:** `books.csv` (published dataset) as a licensed-English manga release calendar.
 **Method:** static analysis of the CSVs as committed (no scrape run) + independent web ground truth for coverage/accuracy.
 **Bottom line:** **NOT launch-ready.** Measured coverage of real May/June 2026 releases is **~26–32%**, against a ≥95% bar. The shortfall is ~90% explained by **four major publishers that are entirely or almost-entirely absent from `books.csv`** (Kodansha, VIZ Media, TOKYOPOP, Square Enix). What *is* present from the other publishers is largely accurate.
