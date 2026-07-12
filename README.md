@@ -1475,3 +1475,5 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 ---
 
 Data engine forked from [LNRelease](https://github.com/LNRelease/lnrelease.github.io), the automated light novel release calendar.
+
+Navigating this repo? See [ARCHITECTURE.md](ARCHITECTURE.md) for the file map and data-flow overview.

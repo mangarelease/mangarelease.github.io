@@ -99,6 +99,8 @@ jobs:
         id: commit
         run: |
           git add -u
+          # pages.main() can create a brand-new year/<n>.md that -u would miss
+          git add year/
           echo "deploy=$(git diff --staged --quiet books.csv; echo $?)" >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
             echo "Finished, no changes"

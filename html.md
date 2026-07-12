@@ -630,7 +630,7 @@
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Oct 06|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Oct 06|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 06|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830936/blue-lock-full-color-selection-1-yoichi-isagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779545 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1261,7 +1261,7 @@
 |Jan 19|[The Assassin Laughs at Twilight](https://www.penguinrandomhouse.com/books/841868/the-assassin-laughs-at-twilight-vol2-by-written-by-megurikukuru/9781787749351 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jan 19|[WIND BREAKER](https://www.penguinrandomhouse.com/books/830907/wind-breaker-24-by-satoru-nii/9798888779842 "Kodansha")|24|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[xxxHOLiC Rei](https://www.penguinrandomhouse.com/books/830931/xxxholic-rei-5-by-clamp/9781612625874 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jan 26|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846607/a-gentle-nobles-vacation-recommendation-omnibus-volume-3-volumes-7-9-by-misaki/9781427891310 "TOKYOPOP")|3|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Jan 26|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846607/a-gentle-nobles-vacation-recommendation-omnibus-volume-3-volumes-7-9-by-misaki/9781427891310 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 26|[Chiruran: Shinsengumi Requiem (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/841786/chiruran-shinsengumi-requiem-3-in-1-edition-volume-1-vol-123-by-written-by-shinya-umemura/9781806186068 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jan 26|[I SAY](https://sevenseasentertainment.com/books/i-say/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero](https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
