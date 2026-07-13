@@ -1,0 +1,5 @@
+# Jekyll config — url/baseurl are injected by the Pages build action.
+# jekyll-sitemap generates /sitemap.xml for Search Console.
+plugins:
+  - jekyll-sitemap
+  
