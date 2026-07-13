@@ -36,10 +36,21 @@ def get_format(format: Format, github: bool) -> str:
     return str(format)
 
 
-def write_page(releases: Iterable[Release], output: Path, title: str, github: bool = False) -> None:
+def write_page(releases: Iterable[Release], output: Path, title: str, github: bool = False,
+               description: str = None) -> None:
     with open(output, 'w', encoding='utf-8') as file:
         month = 0
         year = 0
+        if not github and description:
+            # YAML front matter → jekyll-seo-tag emits unique <title> +
+            # meta description per page (long-tail queries like
+            # "<year> manga releases"). Descriptions must not contain
+            # double quotes.
+            page_title = title.splitlines()[0].lstrip('#').strip()
+            file.write('---\n'
+                       f'title: "{page_title}"\n'
+                       f'description: "{description}"\n'
+                       '---\n\n')
         file.write(title)
         if not github:
             file.write('\n\n- toc\n{:toc}')
