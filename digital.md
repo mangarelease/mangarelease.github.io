@@ -160,7 +160,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 18|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-6-0/product/8941/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Aug 18|[Father, I Don't Want This Marriage](https://www.penguinrandomhouse.com/books/751248/father-i-dont-want-this-marriage-volume-7-by-original-story-by-hong-heesu-art-by-roal-adapted-by-yuri/9780593872390 "Inklore")|7|Inklore|🖥️📖|
 |Aug 18|[Half Is More](https://www.viz.com/manga-books/manga/half-is-more-volume-1-0/product/8972/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 18|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/820636/honkai-impact-3rd-second-eruption-volume-2-by-mihoyo-comics/9781427885944 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Aug 18|[I Love Amy](https://yenpress.com/titles/9798400904240-i-love-amy-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
 |Aug 18|[Kill the Villainess](https://yenpress.com/titles/9798400904882-kill-the-villainess-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Aug 18|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-10-0/product/8949/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
@@ -198,6 +197,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 25|[Final Fantasy Lost Stranger](https://yenpress.com/titles/9798855436044-final-fantasy-lost-stranger-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Aug 25|[Golden Man](https://yenpress.com/titles/9798855435573-golden-man-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[Hand in Hand with Mu-chan: Lessons from My Autistic Daughter](https://yenpress.com/titles/9798855426663-hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 25|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/820636/honkai-impact-3rd-second-eruption-volume-2-by-mihoyo-comics/9781427885944 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Aug 25|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855424423-i-don-t-know-which-is-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855424751-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-28-manga "Yen Press")|28|Yen Press|🖥️📖|
 |Aug 25|[Konosuba: God's Blessing on This Wonderful World!](https://yenpress.com/titles/9798855433685-konosuba-god-s-blessing-on-this-wonderful-world-vol-21-manga "Yen Press")|21|Yen Press|🖥️📖|

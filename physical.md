@@ -292,7 +292,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 18|[Half Is More](https://www.viz.com/manga-books/manga/half-is-more-volume-1-0/product/8972/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 18|[Headhunted to Another World: From Salaryman to Big Four!](https://sevenseasentertainment.com/books/headhunted-to-another-world-from-salaryman-to-big-four-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Hitting Rewind With You](https://www.penguinrandomhouse.com/books/817277/hitting-rewind-with-you-4-by-hanamaru-kira/9798888778104 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
-|Aug 18|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/820636/honkai-impact-3rd-second-eruption-volume-2-by-mihoyo-comics/9781427885944 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Aug 18|[Hunter x Hunter (3-in-1 Edition)](https://www.viz.com/manga-books/manga/hunter-x-hunter-3-in-1-edition-volume-7-0/product/8943/paperback "VIZ Media")|7|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Aug 18|[I Love Amy](https://yenpress.com/titles/9798400904240-i-love-amy-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
 |Aug 18|[Into the Deepest, Most Unknowable Dungeon](https://sevenseasentertainment.com/books/into-the-deepest-most-unknowable-dungeon-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -351,6 +350,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 25|[Go! Go! Loser Ranger!](https://www.penguinrandomhouse.com/books/808565/go-go-loser-ranger-18-by-negi-haruba/9798888776797 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Golden Man](https://yenpress.com/titles/9798855435573-golden-man-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[Hand in Hand with Mu-chan: Lessons from My Autistic Daughter](https://yenpress.com/titles/9798855426663-hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Aug 25|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/820636/honkai-impact-3rd-second-eruption-volume-2-by-mihoyo-comics/9781427885944 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Aug 25|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855424423-i-don-t-know-which-is-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855424751-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-28-manga "Yen Press")|28|Yen Press|🖥️📖|
 |Aug 25|[Kamen Rider Kuuga](https://www.penguinrandomhouse.com/books/799902/kamen-rider-kuuga-vol12-by-written-by-shotaro-ishinomori/9781787741157 "Titan Comics")|12|Titan Comics|<span class="hidden">🖥️</span>📖|
