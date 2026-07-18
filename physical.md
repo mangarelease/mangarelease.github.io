@@ -282,7 +282,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 18|[Cat + Crazy](https://www.darkhorse.com/books/3013-200/cat-crazy-volume-4-tpb/ "Dark Horse")|4|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Cat-Life Balance](https://www.penguinrandomhouse.com/books/815050/cat-life-balance-2-by-akari-otokawa/9798888777787 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-3-0/product/8932/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
-|Aug 18|[Comeback After Fate](https://www.penguinrandomhouse.com/books/824197/comeback-after-fate-by-anji-seina/9798888778395 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Dear Sister, I've Become a Blessed Maiden](https://sevenseasentertainment.com/books/dear-sister-ive-become-a-blessed-maiden-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 18|[DOGGO](https://sevenseasentertainment.com/books/doggo-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-6-0/product/8941/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
@@ -311,7 +310,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 18|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400904578-revenge-of-the-baskerville-bloodhound-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
 |Aug 18|[Sakamoto Holidays](https://www.viz.com/manga-books/manga/sakamoto-holidays-volume-2-0/product/8960/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Aug 18|[See You in My 19th Life](https://yenpress.com/titles/9798400904752-see-you-in-my-19th-life-vol-11 "Ize Press")|11|Ize Press|<span class="hidden">🖥️</span>📖|
-|Aug 18|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/772327/senpai-is-an-otokonoko-my-crossdressing-classmate-7-by-pom/9798888773673 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Show-ha Shoten!](https://www.viz.com/manga-books/manga/show-ha-shoten-volume-11-0/product/8962/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Aug 18|[Skip・Beat!, (3-in-1 Edition)](https://www.viz.com/manga-books/manga/skipbeat-3-in-1-edition-volume-17-0/product/8961/paperback "VIZ Media")|17|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Aug 18|[Snowball Earth](https://www.viz.com/manga-books/manga/snowball-earth-volume-9-0/product/8964/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
@@ -327,7 +325,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 18|[Yonoi Tsukihiko's Happy Hell](https://sevenseasentertainment.com/books/yonoi-tsukihikos-happy-hell-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 25|[A Certain Magical Index](https://yenpress.com/titles/9798855436020-a-certain-magical-index-vol-32-manga "Yen Press")|32|Yen Press|🖥️📖|
 |Aug 25|[Anyway, I'm Falling in Love With You.](https://www.penguinrandomhouse.com/books/806874/anyway-im-falling-in-love-with-you-11-by-haruka-mitsui/9798888776520 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
-|Aug 25|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/826389/aoashi-3-in-1-edition-volume-2-vol-456-by-written-by-kobayashi-yuugo/9781787748651 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Apocalypse Bringer Mynoghra](https://yenpress.com/titles/9798855424263-apocalypse-bringer-mynoghra-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
 |Aug 25|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834129/ashita-no-joe-fighting-for-tomorrow-6-by-tetsuya-chiba/9781647295172 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Bad Girl](https://yenpress.com/titles/9798855417579-bad-girl-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -336,6 +333,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 25|[Bungo Stray Dogs: The Official Comic Anthology](https://yenpress.com/titles/9798855406788-bungo-stray-dogs-the-official-comic-anthology-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Aug 25|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855442847-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[Colori Colore Creare](https://www.penguinrandomhouse.com/books/811651/colori-colore-creare-vol1-by-written-by-kozue-amano/9781787748811 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Aug 25|[Comeback After Fate](https://www.penguinrandomhouse.com/books/824197/comeback-after-fate-by-anji-seina/9798888778395 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Common-Sense Monster](https://yenpress.com/titles/9798855434545-common-sense-monster-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Cosmos](https://www.viz.com/manga-books/manga/cosmos-volume-6-0/product/8933/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Aug 25|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747047/daughter-of-a-thousand-faces-volume-1-the-comic-by-velinxi/9780593870846 "Inklore")|1|Inklore|🖥️📖|
@@ -369,6 +367,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 25|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[Rock Is a Lady's Modesty](https://yenpress.com/titles/9798855408010-rock-is-a-lady-s-modesty-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427887535 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Aug 25|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/772327/senpai-is-an-otokonoko-my-crossdressing-classmate-7-by-pom/9798888773673 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Shy](https://yenpress.com/titles/9798855402551-shy-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Aug 25|[Sister and Giant: A Young Lady Is Reborn in Another World](https://yenpress.com/titles/9798855423297-sister-and-giant-a-young-lady-is-reborn-in-another-world-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Aug 25|[Stray Cat & Wolf](https://yenpress.com/titles/9798855423419-stray-cat-wolf-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -608,6 +607,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Oct 06|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Oct 06|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/826389/aoashi-3-in-1-edition-volume-2-vol-456-by-written-by-kobayashi-yuugo/9781787748651 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830936/blue-lock-full-color-selection-1-yoichi-isagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779545 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
