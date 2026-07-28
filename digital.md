@@ -102,13 +102,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jul 28|[The Devil Is a Part-Timer!](https://yenpress.com/titles/9798855433975-the-devil-is-a-part-timer-vol-24-manga "Yen Press")|24|Yen Press|🖥️📖|
 |Jul 28|[The Girl I Saved on the Train Turned Out to Be My Childhood Friend](https://yenpress.com/titles/9798855416114-the-girl-i-saved-on-the-train-turned-out-to-be-my-childhood-friend-vol-11-manga "Yen Press")|11|Yen Press|🖥️📖|
 |Jul 28|[The Heroic Tale of the Villainous Prince](https://yenpress.com/titles/9798855428193-the-heroic-tale-of-the-villainous-prince-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Jul 28|[The Oblivious Girl and the Maidenly Man](https://sevenseasentertainment.com/books/the-oblivious-girl-and-the-maidenly-man-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 28|[The Shiunji Family Children](https://yenpress.com/titles/9798855427509-the-shiunji-family-children-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Jul 28|[The Small-Animallike Lady Is Adored by the Ice Prince](https://yenpress.com/titles/9798855423075-the-small-animallike-lady-is-adored-by-the-ice-prince-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Jul 28|[Toilet-bound Hanako-kun](https://yenpress.com/titles/9798855435368-toilet-bound-hanako-kun-vol-24 "Yen Press")|24|Yen Press|🖥️📖|
 |Jul 28|[Uncle from Another World](https://yenpress.com/titles/9798855428391-uncle-from-another-world-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Jul 28|[Wonder Boy](https://yenpress.com/titles/9798855422375-wonder-boy-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Jul 28|[WONDER CATS](https://sevenseasentertainment.com/books/wonder-cats/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jul 29|[Full Clearing Another World under a Goddess with Zero Believers](https://j-novel.club/series/full-clearing-another-world-under-a-goddess-with-zero-believers-manga#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Jul 29|[My Death-Defying Dog: Man's Best Friend, World's Best Savior](https://j-novel.club/series/my-death-defying-dog-man-s-best-friend-world-s-best-savior#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Jul 29|[Old Knight, New Post: From Retiree to Her Majesty's Blade](https://j-novel.club/series/old-knight-new-post-from-retiree-to-her-majesty-s-blade-manga#volume-3 "J-Novel Club")|3|J-Novel Club|🖥️<span class="hidden">📖</span>|
@@ -456,7 +454,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[NEMURUBAKA: Half-Awake Fools](https://sevenseasentertainment.com/books/nemurubaka-half-awake-fools/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Nov 10|[The Oblivious Girl and the Maidenly Man](https://sevenseasentertainment.com/books/the-oblivious-girl-and-the-maidenly-man-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Wild Paws](https://www.penguinrandomhouse.com/books/825917/wild-paws-volume-1-the-fox-farm-by-victor-nordahl/9781427886934 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
@@ -573,7 +570,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Super String: Marco Polo's Travel to the Multiverse](https://yenpress.com/titles/9798855411478-super-string-marco-polo-s-travel-to-the-multiverse-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Takahashi from the Bike Shop](https://yenpress.com/titles/9798855404531-takahashi-from-the-bike-shop-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 15|[The Bubble Love of the Mermaid](https://yenpress.com/titles/9798855439465-the-bubble-love-of-the-mermaid-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
-|Dec 15|[The Dark History of the Reincarnated Villainess](https://yenpress.com/titles/9798855422252-the-dark-history-of-the-reincarnated-villainess-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Dec 15|[The Demons Are Planning Something Good!](https://yenpress.com/titles/9798855438673-the-demons-are-planning-something-good-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Then Shall I Kill in Your Stead?](https://yenpress.com/titles/9798855427042-then-shall-i-kill-in-your-stead-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[The Purple Clavel: They Took Everything, So I've Bloomed Once More as a Villainous Femme Fatale](https://yenpress.com/titles/9798855430905-the-purple-clavel-they-took-everything-so-i-ve-bloomed-once-more-as-a-villainous-femme-fatale-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -621,6 +617,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[I SAY](https://sevenseasentertainment.com/books/i-say/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero](https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[The Dangers in My Heart: The Romantic Comedy Won't Start](https://sevenseasentertainment.com/books/the-dangers-in-my-heart-the-romantic-comedy-wont-start-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[The Dark History of the Reincarnated Villainess](https://yenpress.com/titles/9798855422252-the-dark-history-of-the-reincarnated-villainess-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Jan 26|[The One-Eyed, One-Armed, One-Legged Sorcerer](https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/840434/welcome-to-demon-school-iruma-kun-irumafia-edition-7-by-osamu-nishi/9781647296865 "Kodansha")|7|Kodansha|🖥️📖|
@@ -699,6 +696,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
+|Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 27|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### May
