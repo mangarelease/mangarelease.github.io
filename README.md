@@ -855,7 +855,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Nov 03|[Act Like You Love Me!](https://www.penguinrandomhouse.com/books/827230/act-like-you-love-me-vol-1-by-xuann/9781834110523 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
-|Nov 03|[Black Jack Deluxe](https://www.penguinrandomhouse.com/books/834125/black-jack-deluxe-1-by-osamu-tezuka/9781647296155 "Kodansha")|1|Kodansha|📖|
+|Nov 03|[Black Jack](https://www.penguinrandomhouse.com/books/834125/black-jack-deluxe-edition-1-by-osamu-tezuka/9781647296155 "Kodansha")|1|Kodansha|📖|
 |Nov 03|[Blue Box](https://www.viz.com/manga-books/manga/blue-box-volume-22-0/product/9047/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Nov 03|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830937/blue-lock-full-color-selection-2-seishiro-nagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779583 "Kodansha")|2|Kodansha|📖|
 |Nov 03|[CITY](https://www.penguinrandomhouse.com/books/834141/city-14-by-keiichi-arawi/9781647296315 "Kodansha")|14|Kodansha|📖|
@@ -1026,7 +1026,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-adriano-barone/9781427892232 "TOKYOPOP")|2.2|TOKYOPOP|🖥️|
 |Dec 01|[Attack on Titan Definitive Hardcover Collection](https://www.penguinrandomhouse.com/books/817255/attack-on-titan-definitive-hardcover-collection-1-vol-1-3-by-hajime-isayama/9798888777930 "Kodansha")|1|Kodansha|📖|
 |Dec 01|[Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://sevenseasentertainment.com/books/backstabbed-in-a-backwater-dungeon-my-party-tried-to-kill-me-but-thanks-to-an-infinite-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
-|Dec 01|[Black Jack Deluxe](https://www.penguinrandomhouse.com/books/834124/black-jack-deluxe-2-by-osamu-tezuka/9781647296162 "Kodansha")|2|Kodansha|📖|
+|Dec 01|[Black Jack](https://www.penguinrandomhouse.com/books/834124/black-jack-deluxe-edition-2-by-osamu-tezuka/9781647296162 "Kodansha")|2|Kodansha|📖|
 |Dec 01|[Blue Period](https://www.penguinrandomhouse.com/books/830903/blue-period-18-by-tsubasa-yamaguchi/9798888779811 "Kodansha")|18|Kodansha|📖|
 |Dec 01|[Broken Blade](https://www.penguinrandomhouse.com/books/834033/broken-blade-vol1-by-written-by-yunosuke-yoshinaga/9781806182961 "Titan Comics")|1|Titan Comics|📖|
 |Dec 01|[Chasing Red](https://www.penguinrandomhouse.com/books/827229/chasing-red-vol-3-by-isabelle-ronin/9781834110516 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
@@ -1310,7 +1310,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Feb 02|[100 Ghost Stories That Will Lead to My Own Death](https://sevenseasentertainment.com/books/100-ghost-stories-that-will-lead-to-my-own-death-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Feb 02|[Black Jack Deluxe](https://www.penguinrandomhouse.com/books/834123/black-jack-deluxe-3-by-osamu-tezuka/9781647296179 "Kodansha")|3|Kodansha|📖|
+|Feb 02|[Black Jack](https://www.penguinrandomhouse.com/books/834123/black-jack-deluxe-edition-3-by-osamu-tezuka/9781647296179 "Kodansha")|3|Kodansha|📖|
 |Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Feb 02|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|📖|
