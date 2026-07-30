@@ -449,7 +449,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 08|[Animal Crossing: New Horizons](https://www.viz.com/manga-books/manga/animal-crossing-deserted-island-diary-vol-1-volume-11-0/product/8973/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Sep 08|[A Ninja and an Assassin Under One Roof](https://sevenseasentertainment.com/books/a-ninja-and-an-assassin-under-one-roof-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Sep 08|[Appleseed Deluxe Edition](https://www.darkhorse.com/books/3010-376/appleseed-deluxe-edition-hc/ "Dark Horse")|1|Dark Horse|📖|
-|Sep 08|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427887764 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Sep 08|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427891938 "TOKYOPOP")|2|TOKYOPOP|🖥️|
 |Sep 08|[Blue Summer Haze](https://www.penguinrandomhouse.com/books/817221/blue-summer-haze-2-by-dondon/9798888778340 "Kodansha")|2|Kodansha|📖|
 |Sep 08|[Chillin' in Another World with Level 2 Super Cheat Powers](https://sevenseasentertainment.com/books/chillin-in-another-world-with-level-2-super-cheat-powers-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Sep 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
@@ -483,7 +483,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 09|[The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure](https://j-novel.club/series/the-eternal-fool-s-words-of-wisdom-a-pawsitively-fantastic-adventure-manga#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️|
 |Sep 15|[And Then There Were None](https://www.viz.com/manga-books/manga/and-then-there-were-none-volume-1-0/product/9003/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 15|[A Yuri Love Story That Begins with Getting Dumped in a Dream](https://sevenseasentertainment.com/books/a-yuri-love-story-that-begins-with-getting-dumped-in-a-dream-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Sep 15|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427887788 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Sep 15|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427891884 "TOKYOPOP")|2|TOKYOPOP|🖥️|
 |Sep 15|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824160/cells-at-work-picture-book-1-the-great-bacteria-vs-white-blood-cell-battle-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778401 "Kodansha")|1|Kodansha|📖|
 |Sep 15|[Chainsmoker Cat](https://sevenseasentertainment.com/books/chainsmoker-cat-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Sep 15|[Choujin X](https://www.viz.com/manga-books/manga/choujin-x-volume-13-0/product/8998/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
@@ -528,7 +528,9 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 19|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software-manga#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️|
 |Sep 22|[Agents of the Four Seasons: Dance of Spring](https://yenpress.com/titles/9798855426540-agents-of-the-four-seasons-dance-of-spring-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 22|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417937-a-pen-handcuffs-and-a-common-law-marriage-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Sep 22|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427887764 "TOKYOPOP")|2|TOKYOPOP|📖|
 |Sep 22|[Assorted Entanglements](https://yenpress.com/titles/9798855433746-assorted-entanglements-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|Sep 22|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427887788 "TOKYOPOP")|2|TOKYOPOP|📖|
 |Sep 22|[Black Torch Complete Box Set](https://www.viz.com/manga-books/manga/black-torch-complete-box-set/product/9008/paperback "VIZ Media")|1|VIZ Media|📖|
 |Sep 22|[Blade & Bastard](https://yenpress.com/titles/9798855437041-blade-bastard-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Sep 22|[Blue Lock](https://www.penguinrandomhouse.com/books/813134/blue-lock-34-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888777299 "Kodansha")|34|Kodansha|📖|
@@ -714,7 +716,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 13|[The Dungeon of Black Company](https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Oct 13|[The Feisty Omega and His Twin Mates](https://sevenseasentertainment.com/books/the-feisty-omega-and-his-twin-mates-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Oct 13|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|📖|
-|Oct 13|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/802047/the-fragrant-flowerblooms-with-dignity-15-by-saka-mikami/9798888776186 "Kodansha")|15|Kodansha|📖|
+|Oct 13|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/802047/the-fragrant-flower-blooms-with-dignity-15-by-saka-mikami/9798888776186 "Kodansha")|15|Kodansha|📖|
 |Oct 13|[The Kingdoms of Ruin](https://sevenseasentertainment.com/books/the-kingdoms-of-ruin-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Oct 13|[The Mortifying Ordeal of Being Seen](https://www.viz.com/manga-books/manga/mortifying-ordeal-of-being-seen-volume-3-0/product/9036/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 13|[This Is Screwed Up, but I Was Reincarnated as a GIRL in Another World!](https://sevenseasentertainment.com/books/this-is-screwed-up-but-i-was-reincarnated-as-a-girl-in-another-world-manga-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
@@ -1453,7 +1455,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 16|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/840455/a-love-too-captivating-2-by-mia-sorahana/9781647296353 "Kodansha")|2|Kodansha|📖|
 |Mar 16|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824162/cells-at-work-picture-book-3-im-not-scared-of-shots-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778425 "Kodansha")|3|Kodansha|📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
-|Mar 16|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
 |Mar 16|[Everything for Demon King Evelogia](https://sevenseasentertainment.com/books/everything-for-demon-king-evelogia-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Mar 16|[Gachiakuta](https://www.penguinrandomhouse.com/books/813131/gachiakuta-15-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888777268 "Kodansha")|15|Kodansha|📖|
 |Mar 16|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|📖|
@@ -1564,6 +1565,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 20|[The Rabbit Circle](https://www.penguinrandomhouse.com/books/856909/the-rabbit-circle-by-written-sanada-shiro/9781787749405 "Titan Comics")|1|Titan Comics|📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
 |Apr 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817260/blue-lock-omnibus-8-vol-22-24-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778289 "Kodansha")|8|Kodansha|📖|
+|Apr 27|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
 |Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 27|[Historié Omnibus](https://www.penguinrandomhouse.com/books/845088/historie-omnibus-1-vol-1-2-by-hitoshi-iwaaki/9798888779569 "Kodansha")|1|Kodansha|📖|
 |Apr 27|[H.P. Lovecraft's The Haunter of the Dark](https://www.darkhorse.com/books/3008-014/hp-lovecrafts-the-haunter-of-the-dark-tpb/ "Dark Horse")|1|Dark Horse|📖|

@@ -247,7 +247,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 01|[Ultimate Exorcist Kiyoshi](https://www.viz.com/manga-books/manga/ultimate-exorcist-kiyoshi-volume-3-0/product/8988/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Sep 08|[Akira Failing in Love](https://www.viz.com/manga-books/manga/akira-failing-in-love-volume-4-0/product/8989/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Sep 08|[Animal Crossing: New Horizons](https://www.viz.com/manga-books/manga/animal-crossing-deserted-island-diary-vol-1-volume-11-0/product/8973/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
-|Sep 08|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427887764 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Sep 08|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427891938 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-33-0/product/8995/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
 |Sep 08|[Gilded Seven](https://sevenseasentertainment.com/books/gilded-seven-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 08|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-49-0/product/8975/paperback "VIZ Media")|49|VIZ Media|🖥️📖|
@@ -257,7 +257,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 09|[Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid-manga#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 09|[The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure](https://j-novel.club/series/the-eternal-fool-s-words-of-wisdom-a-pawsitively-fantastic-adventure-manga#volume-10 "J-Novel Club")|10|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 15|[And Then There Were None](https://www.viz.com/manga-books/manga/and-then-there-were-none-volume-1-0/product/9003/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Sep 15|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427887788 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Sep 15|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427891884 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 15|[Choujin X](https://www.viz.com/manga-books/manga/choujin-x-volume-13-0/product/8998/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
 |Sep 15|[Fool Night](https://www.viz.com/manga-books/manga/fool-night-volume-10-0/product/8986/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Sep 15|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -672,7 +672,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
-|Mar 16|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
 |Mar 23|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Mar 23|[Chii's Winged Life](https://sevenseasentertainment.com/books/chiis-winged-life-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Good Night, My Little Bird](https://sevenseasentertainment.com/books/good-night-my-little-bird/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -696,6 +695,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
+|Apr 27|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
 |Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 27|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
