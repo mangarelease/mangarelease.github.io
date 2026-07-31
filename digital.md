@@ -611,16 +611,56 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Record of Chrono's War: Apparently I'm Only the Strongest in Bed](https://sevenseasentertainment.com/books/record-of-chronos-war-apparently-im-only-the-strongest-in-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[Reunion](https://yenpress.com/titles/9798400905674-reunion-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
+|Jan 19|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904813-solo-leveling-ragnarok-vol-3-comic "Ize Press")|3|Ize Press|🖥️📖|
+|Jan 19|[Tomb Raider King](https://yenpress.com/titles/9798400906664-tomb-raider-king-vol-17 "Ize Press")|17|Ize Press|🖥️📖|
 |Jan 26|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846607/a-gentle-nobles-vacation-recommendation-omnibus-volume-3-volumes-7-9-by-misaki/9781427891310 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
+|Jan 26|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855424874-alya-sometimes-hides-her-feelings-in-russian-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9798855438611-a-misanthrope-teaches-a-class-for-demi-humans-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[Animan](https://yenpress.com/titles/9798855439588-animan-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 26|[Bad Girl](https://yenpress.com/titles/9798855417593-bad-girl-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 26|[Be My Worst Nightmare!](https://yenpress.com/titles/9781975397623-be-my-worst-nightmare-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 26|[Blend-S](https://yenpress.com/titles/9798855406146-blend-s-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 26|[Chained Soldier](https://yenpress.com/titles/9798855447125-chained-soldier-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
+|Jan 26|[Cheeky Brat](https://yenpress.com/titles/9781975362157-cheeky-brat-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
 |Jan 26|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Jan 26|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9798855447644-death-march-to-the-parallel-world-rhapsody-vol-19-manga "Yen Press")|19|Yen Press|🖥️📖|
+|Jan 26|[Disenchantment Camera](https://yenpress.com/titles/9798855436464-disenchantment-camera "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Elden Ring: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440423-fate-rewinder-all-great-achievements-require-time-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Jan 26|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975370459-hell-is-dark-with-no-flowers-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 26|[If It's You, I Might Try Falling in Love](https://yenpress.com/titles/9798855405071-if-it-s-you-i-might-try-falling-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://yenpress.com/titles/9798855435443-i-m-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girl-s-pet-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
 |Jan 26|[I SAY](https://sevenseasentertainment.com/books/i-say/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855447682-isshiki-san-wants-to-know-about-love-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Jan 26|[It's All Your Fault](https://yenpress.com/titles/9798855423860-it-s-all-your-fault-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[I Want a Gal Gamer to Praise Me](https://yenpress.com/titles/9798855433661-i-want-a-gal-gamer-to-praise-me-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero](https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Konosuba: Even More Explosions on This Wonderful World!](https://yenpress.com/titles/9798855417807-konosuba-even-more-explosions-on-this-wonderful-world-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[Land](https://yenpress.com/titles/9798855421903-land-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[Mechanical Marie](https://yenpress.com/titles/9798855407914-mechanical-marie-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Jan 26|[My First Love with You Again](https://yenpress.com/titles/9798855432046-my-first-love-with-you-again-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Sharkmaid of the Shore](https://yenpress.com/titles/9798855438017-sharkmaid-of-the-shore-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Snowmelt and Agapanthus](https://yenpress.com/titles/9798855438055-snowmelt-and-agapanthus-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Takane-san and Arashi-chan](https://yenpress.com/titles/9798855431926-takane-san-and-arashi-chan-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[The 11th Cat Is Nene!](https://yenpress.com/titles/9798855436402-the-11th-cat-is-nene-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[The Anemone Feels the Heat](https://yenpress.com/titles/9798855401011-the-anemone-feels-the-heat-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[The Dangers in My Heart: The Romantic Comedy Won't Start](https://sevenseasentertainment.com/books/the-dangers-in-my-heart-the-romantic-comedy-wont-start-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[The Dark History of the Reincarnated Villainess](https://yenpress.com/titles/9798855422252-the-dark-history-of-the-reincarnated-villainess-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
+|Jan 26|[The Deskmate Cat and the Love Novice](https://yenpress.com/titles/9798855436181-the-deskmate-cat-and-the-love-novice-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[The Dragon Prince's Ill-Mated Betrothal](https://yenpress.com/titles/9798855431612-the-dragon-prince-s-ill-mated-betrothal-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[The Eminence in Shadow](https://yenpress.com/titles/9798855447743-the-eminence-in-shadow-vol-16-manga "Yen Press")|16|Yen Press|🖥️📖|
 |Jan 26|[The One-Eyed, One-Armed, One-Legged Sorcerer](https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[The Small-Animallike Lady Is Adored by the Ice Prince](https://yenpress.com/titles/9798855427790-the-small-animallike-lady-is-adored-by-the-ice-prince-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
+|Jan 26|[The Vampire and His Pleasant Companions](https://yenpress.com/titles/9798855435467-the-vampire-and-his-pleasant-companions-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Jan 26|[The Villainesses Are Unwavering](https://yenpress.com/titles/9798855433043-the-villainesses-are-unwavering-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Visions 2025__Illustrators Book](https://yenpress.com/titles/9798855437843-visions-2025-illustrators-book "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/840434/welcome-to-demon-school-iruma-kun-irumafia-edition-7-by-osamu-nishi/9781647296865 "Kodansha")|7|Kodansha|🖥️📖|
+|Jan 26|[With You, Our Love Will Make It Through](https://yenpress.com/titles/9781975397401-with-you-our-love-will-make-it-through-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Your Meteor, Hidden in Flowers](https://sevenseasentertainment.com/books/your-meteor-hidden-in-flowers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Yuri Yuri Panic: A Case of Extreme Cuteness Has Occurred!](https://sevenseasentertainment.com/books/yuri-yuri-panic-a-case-of-extreme-cuteness-has-occurred-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 
