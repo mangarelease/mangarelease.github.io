@@ -441,7 +441,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 01|[Spy x Family](https://www.viz.com/manga-books/manga/spy-x-family-volume-16-0/product/8976/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Sep 01|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-5-0/product/8987/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Sep 01|[Tamamori's Fantasies Never Stop!](https://sevenseasentertainment.com/books/tamamoris-fantasies-never-stop-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 01|[The Heroic Legend of Arslan](https://www.penguinrandomhouse.com/books/824183/the-heroic-legend-of-arslan-23-by-story-by-yoshiki-tanaka-art-by-hiromu-arakawa/9798888778944 "Kodansha")|23|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 01|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[The Strange House](https://sevenseasentertainment.com/books/the-strange-house-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 01|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -458,7 +457,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 08|[Blue Summer Haze](https://www.penguinrandomhouse.com/books/817221/blue-summer-haze-2-by-dondon/9798888778340 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Chillin' in Another World with Level 2 Super Cheat Powers](https://sevenseasentertainment.com/books/chillin-in-another-world-with-level-2-super-cheat-powers-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Drugstore in Another World: The Slow Life of a Cheat Pharmacist](https://sevenseasentertainment.com/books/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 08|[Eko Eko Azarak Reborn](https://www.penguinrandomhouse.com/books/830760/eko-eko-azarak-reborn-vol2-by-written-by-yamada-jta/9781787747043 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Exotic Animal Doctor](https://sevenseasentertainment.com/books/exotic-animal-doctor-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 08|[FAIRY TAIL: 100 Years Quest](https://www.penguinrandomhouse.com/books/824210/fairy-tail-100-years-quest-21-by-story-and-layouts-by-hiro-mashima-art-by-atsuo-ueda/9798888778616 "Kodansha")|21|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-33-0/product/8995/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
@@ -477,10 +475,10 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 08|[Minecraft: The Manga](https://www.viz.com/manga-books/manga/minecraft-the-manga-volume-7-0/product/8979/paperback "VIZ Media")|7|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Re:Monster](https://sevenseasentertainment.com/books/remonster-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Say Hello to Mr. Wallaby!](https://www.penguinrandomhouse.com/books/830963/say-hello-to-mr-wallaby-1-by-marume-goshika/9798888779521 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
-|Sep 08|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/824134/school-for-wizards-old-enough-to-learn-magic-vol1-by-written-by-yuhi-ueno/9781787749252 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Sweet Heat Before Falling in Love: The CEO and His Fated Omega](https://sevenseasentertainment.com/books/sweet-heat-before-falling-in-love-the-ceo-and-his-fated-omega-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 08|[The Amazing Digital Circus](https://www.viz.com/manga-books/manga/amazing-digital-circus-volume-1-0/product/8993/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 08|[The Delinquent and the Transfer Student](https://sevenseasentertainment.com/books/the-delinquent-and-the-transfer-student-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Sep 08|[The Heroic Legend of Arslan](https://www.penguinrandomhouse.com/books/824183/the-heroic-legend-of-arslan-23-by-story-by-yoshiki-tanaka-art-by-hiromu-arakawa/9798888778944 "Kodansha")|23|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 08|[WIND BREAKER](https://www.penguinrandomhouse.com/books/824182/wind-breaker-23-by-satoru-nii/9798888778937 "Kodansha")|23|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Working for God in a Godless World](https://www.penguinrandomhouse.com/books/826384/working-for-god-in-a-godless-world-vol6-by-written-by-aoi-akashiro/9781787743618 "Titan Comics")|6|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 08|[Yashahime: Princess Half-Demon](https://www.viz.com/manga-books/manga/yashahime-princess-half-demon-volume-10-0/product/8991/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
@@ -544,6 +542,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 22|[Daughter of the Emperor](https://yenpress.com/titles/9798855419856-daughter-of-the-emperor-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 22|[Dead Mount Death Play Side Story: Phantom Solitaire's Art of Disguising Oneself as a Supernatural Being](https://yenpress.com/titles/9798855435429-dead-mount-death-play-side-story-phantom-solitaire-s-art-of-disguising-oneself-as-a-supernatural-being-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 22|[Dorohedoro Illustrations: Mud and Sludge](https://www.viz.com/manga-books/book/dorohedoro-illustrations-mud-and-sludge-volume-1-0/product/9005/hardcover "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
+|Sep 22|[Eko Eko Azarak Reborn](https://www.penguinrandomhouse.com/books/830760/eko-eko-azarak-reborn-vol2-by-written-by-yamada-jta/9781787747043 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 22|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855422498-from-old-country-bumpkin-to-master-swordsman-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 22|[Gachiakuta](https://www.penguinrandomhouse.com/books/787963/gachiakuta-12-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888775363 "Kodansha")|12|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 22|[Give Me a Hug, Mr. Frog!](https://sevenseasentertainment.com/books/give-me-a-hug-mr-frog/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -577,6 +576,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 22|[Pokémon: Sun & Moon Complete Manga Box Set](https://www.viz.com/manga-books/manga/pokemon-sun-moon-complete-box-set/product/9009/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 22|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Scenes from Awajima](https://yenpress.com/titles/9798855428940-scenes-from-awajima-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Sep 22|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/824134/school-for-wizards-old-enough-to-learn-magic-vol1-by-written-by-yuhi-ueno/9781787749252 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855440188-sentenced-to-be-a-hero-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Servant Beasts](https://yenpress.com/titles/9798855425437-servant-beasts-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Shino & Ren](https://yenpress.com/titles/9798855432985-shino-ren-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
@@ -1514,6 +1514,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 16|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/840455/a-love-too-captivating-2-by-mia-sorahana/9781647296353 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824162/cells-at-work-picture-book-3-im-not-scared-of-shots-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778425 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
+|Mar 16|[DEAD ROCK](https://www.penguinrandomhouse.com/books/859708/dead-rock-7-by-hiro-mashima/9798900742557 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Everything for Demon King Evelogia](https://sevenseasentertainment.com/books/everything-for-demon-king-evelogia-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Gachiakuta](https://www.penguinrandomhouse.com/books/813131/gachiakuta-15-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888777268 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -1589,6 +1590,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 06|[Love 4 a Walk](https://www.penguinrandomhouse.com/books/816155/love-4-a-walk-vol-3-by-nurina-sanguino/9781834110394 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/830920/love-out-on-a-limb-7-by-yoko-nogiri/9798888779927 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[My Noisy Roommate: The Roof Over My Head Comes With Monsters and a Hottie](https://www.penguinrandomhouse.com/books/845092/my-noisy-roommate-the-roof-over-my-head-comes-with-monsters-and-a-hottie-6-by-kaho-ozaki/9798900741147 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
+|Apr 06|[Nina the Starry Bride](https://www.penguinrandomhouse.com/books/859679/nina-the-starry-bride-19-by-rikachi/9798900742823 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Romelia War Chronicle: The Count's Daughter Rallies an Army in the Wake of Mankind's Victory](https://sevenseasentertainment.com/books/romelia-war-chronicle-the-counts-daughter-rallies-an-army-in-the-wake-of-mankinds-victory-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Shimazaki in the Land of Peace](https://www.penguinrandomhouse.com/books/840449/shimazaki-in-the-land-of-peace-11-by-gouten-hamada/9781647296636 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Shugo Chara! 20th Anniversary Edition](https://www.penguinrandomhouse.com/books/813113/shugo-chara-20th-anniversary-edition-5-by-peach-pit/9798888777084 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1601,6 +1603,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[At 25:00 in Akasaka](https://sevenseasentertainment.com/books/at-2500-in-akasaka-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Bless](https://www.penguinrandomhouse.com/books/845142/bless-8-by-yukino-sonoyama/9798900740959 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
+|Apr 13|[Blue Lock](https://www.penguinrandomhouse.com/books/859704/blue-lock-39-by-muneyuki-kaneshiro/9798900742519 "Kodansha")|39|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808551/drawing-from-your-memory-5-by-shiki-kawabata/9798888776933 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Fall in Love, You False Angels](https://www.penguinrandomhouse.com/books/845149/fall-in-love-you-false-angels-6-by-coco-uzuki/9798900741024 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
