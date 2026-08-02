@@ -831,13 +831,16 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 03|[Blue Box](https://www.viz.com/manga-books/manga/blue-box-volume-22-0/product/9047/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Nov 03|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830937/blue-lock-full-color-selection-2-seishiro-nagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779583 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[CITY](https://www.penguinrandomhouse.com/books/834141/city-14-by-keiichi-arawi/9781647296315 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-9-0/product/9063/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Cursed Princess Club, vol. 6](https://www.penguinrandomhouse.com/books/836100/cursed-princess-club-vol-6-by-lambcat/9781834110530 "WEBTOON Unscrolled")|6|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-2-0/product/9065/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
 |Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[I'm Fine With Being the Second Girlfriend](https://sevenseasentertainment.com/books/im-fine-with-being-the-second-girlfriend-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-9-0/product/9066/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/834152/lonely-deaths-lie-thick-as-snow-5-by-hajime-inoryu/9781647296070 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Marrying the Dark Knight (For Her Money)](https://www.penguinrandomhouse.com/books/826271/marrying-the-dark-knight-for-her-money-3-by-sometime/9798888779248 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -845,18 +848,28 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 03|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://www.penguinrandomhouse.com/books/824133/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-by-written-by-tofuro-futsukaichi/9781787749191 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 03|[My Kitten is a Picky Eater](https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[OMORI](https://www.penguinrandomhouse.com/books/834132/omori-3-by-omocat/9781647296476 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-manga-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-2-0/product/9073/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
+|Nov 03|[Skip・Beat!](https://www.viz.com/manga-books/manga/skipbeat-volume-52-0/product/9083/paperback "VIZ Media")|52|VIZ Media|🖥️📖|
+|Nov 03|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-6-0/product/9079/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
+|Nov 03|[Tamon's B-Side](https://www.viz.com/manga-books/manga/tamon-s-b-side-volume-12-0/product/9080/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Nov 03|[Tease Me Harder: A Sweet and Kinky Romance](https://sevenseasentertainment.com/books/tease-me-harder-a-sweet-and-kinky-romance-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841971/tengen-hero-wars-vol4-by-written-by-yasu-hiromoto/9781806184965 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Ayakashi Hunter's Tainted Bride](https://www.penguinrandomhouse.com/books/817271/the-ayakashi-hunters-tainted-bride-8-by-manga-by-mamenosuke-fujimaru-created-by-midori-yuma/9798888778166 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Barbarian's Bride](https://sevenseasentertainment.com/books/the-barbarians-bride-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 03|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-22-0/product/9081/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Nov 03|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427887870 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Seaside Where Dragon Boys Dwell](https://www.viz.com/manga-books/manga/seaside-where-dragon-boys-dwell-volume-1-0/product/9020/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 03|[Twilight Out of Focus](https://www.penguinrandomhouse.com/books/834130/twilight-out-of-focus-7-afterimages-in-slow-motion-2-by-jyanome/9781647296490 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Ultimate Exorcist Kiyoshi](https://www.viz.com/manga-books/manga/ultimate-exorcist-kiyoshi-volume-4-0/product/9085/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Nov 03|[When a Clueless First-Person Shooter Player Falls into Another World](https://sevenseasentertainment.com/books/when-a-clueless-first-person-shooter-player-falls-into-another-world-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Witch Hat Atelier: Grimoire Edition](https://www.penguinrandomhouse.com/books/815007/witch-hat-atelier-grimoire-edition-3-by-kamome-shirahama/9798888777817 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Yuri Is My Job!](https://www.penguinrandomhouse.com/books/826293/yuri-is-my-job-14-by-miman/9798888779224 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Akane-banashi](https://www.viz.com/manga-books/manga/akane-banashi-volume-18-0/product/9057/paperback "VIZ Media")|18|VIZ Media|🖥️📖|
+|Nov 10|[Akira Failing in Love](https://www.viz.com/manga-books/manga/akira-failing-in-love-volume-5-0/product/9060/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
+|Nov 10|[Albus Changes the World](https://www.viz.com/manga-books/manga/albus-changes-the-world-volume-1-0/product/9084/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 10|[Ascendance of a Bookworm Part 2](https://yenpress.com/titles/9781718372665-ascendance-of-a-bookworm-manga-part-2-volume-10 "J-Novel Club")|10|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Asumi-chan is Interested in Lesbian Brothels!](https://sevenseasentertainment.com/books/asumi-chan-is-interested-in-lesbian-brothels-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Babanba Banban Vampire](https://www.darkhorse.com/books/3017-298/babanba-banban-vampire-volume-1-tpb/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
@@ -866,23 +879,29 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Have Fun! Its the End of the World!](https://www.penguinrandomhouse.com/books/824136/have-fun-its-the-end-of-the-world-vol1-by-written-by-sakyuu-tottori/9781787749412 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 10|[High Elf with a Long Life](https://www.penguinrandomhouse.com/books/841866/high-elf-with-a-long-life-vol2-by-written-by-rarutori/9781787749092 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-3-0/product/9061/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 10|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Imaizumi Brings All the Gals to His House](https://sevenseasentertainment.com/books/imaizumi-brings-all-the-gals-to-his-house-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Issak Omnibus](https://www.penguinrandomhouse.com/books/783724/issak-omnibus-8-vol-15-16-by-story-by-shinji-makari-art-by-double-s/9798888775028 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 10|[I Want to Escape from Princess Lessons](https://sevenseasentertainment.com/books/i-want-to-escape-from-princess-lessons-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Kakuriyo: Bed & Breakfast for Spirits](https://www.viz.com/manga-books/manga/kakuriyo-bed-breakfast-for-spirits-volume-12-0/product/9070/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Nov 10|[KILLING ME / KILLING YOU](https://sevenseasentertainment.com/books/killing-me-killing-you-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Love at First Memory](https://www.penguinrandomhouse.com/books/813122/love-at-first-memory-4-by-narumi-hasegaki/9798888777176 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Mao](https://www.viz.com/manga-books/manga/mao-volume-26-0/product/9071/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
 |Nov 10|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[NEMURUBAKA: Half-Awake Fools](https://sevenseasentertainment.com/books/nemurubaka-half-awake-fools/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 10|[One Piece](https://www.viz.com/manga-books/manga/one-piece-volume-113-0/product/9076/paperback "VIZ Media")|113|VIZ Media|🖥️📖|
 |Nov 10|[Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger](https://sevenseasentertainment.com/books/only-i-know-the-world-is-ending-and-getting-killed-by-rampaging-beasts-only-makes-me-stronger-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Otaku Elf](https://sevenseasentertainment.com/books/otaku-elf-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Pass the Monster Meat, Milady!](https://www.penguinrandomhouse.com/books/830926/pass-the-monster-meat-milady-11-by-chika-mizube/9798888779989 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Say Hello to Mr. Wallaby!](https://www.penguinrandomhouse.com/books/830964/say-hello-to-mr-wallaby-2-by-marume-goshika/9798888779538 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Nov 10|[Servamp](https://sevenseasentertainment.com/books/servamp-vol-24/ "Seven Seas Entertainment")|24|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Spacewalking With You](https://www.penguinrandomhouse.com/books/808558/spacewalking-with-you-4-by-inuhiko-doronoda/9798888776865 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Long Summer of August 31](https://sevenseasentertainment.com/books/the-long-summer-of-august-31-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 10|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-2-0/product/9086/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 10|[The Oblivious Girl and the Maidenly Man](https://sevenseasentertainment.com/books/the-oblivious-girl-and-the-maidenly-man-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Yum Cat, Nmeneko](https://www.penguinrandomhouse.com/books/834146/the-yum-cat-nmeneko-by-shirimoto/9781647296209 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Wandance](https://www.penguinrandomhouse.com/books/824193/wandance-14-by-coffee/9798888779040 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -891,18 +910,26 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/824200/you-might-as-well-be-the-one-2-by-megumu-seto/9798888778517 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[2.5 Dimensional Seduction](https://sevenseasentertainment.com/books/2-5-dimensional-seduction-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[A Condition Called Love](https://www.penguinrandomhouse.com/books/826299/a-condition-called-love-18-by-megumi-morino/9798888779163 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 17|[After God](https://www.viz.com/manga-books/manga/after-god-volume-10-0/product/9059/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
+|Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824199/beck-omnibus-1-vol-1-2-by-harold-sakuishi/9798888778470 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
 |Nov 17|[Blue Lock](https://www.penguinrandomhouse.com/books/830950/blue-lock-36-by-muneyuki-kaneshiro/9798888779743 "Kodansha")|36|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 17|[Bug Ego](https://www.viz.com/manga-books/manga/bug-ego-volume-3-0/product/9058/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
+|Nov 17|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-4-0/product/9056/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Nov 17|[Choking on Love](https://sevenseasentertainment.com/books/choking-on-love-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Everything for Demon King Evelogia](https://sevenseasentertainment.com/books/everything-for-demon-king-evelogia-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Father, I Don't Want This Marriage](https://www.penguinrandomhouse.com/books/751249/father-i-dont-want-this-marriage-volume-8-by-original-story-by-hong-heesu-art-by-roal-adapted-by-yuri-and-myrrha/9780593872420 "Inklore")|8|Inklore|🖥️📖|
+|Nov 17|[Heroes](https://www.viz.com/manga-books/manga/heroes/product/9055/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Nov 17|[Hunter x Hunter (3-in-1 Edition)](https://www.viz.com/manga-books/manga/hunter-x-hunter-3-in-1-edition-volume-8-0/product/9062/paperback "VIZ Media")|8|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Nov 17|[I Think I Turned My Childhood Friend Into a Girl](https://sevenseasentertainment.com/books/i-think-i-turned-my-childhood-friend-into-a-girl-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Kaijin Fugeki: Kindled Spirits](https://www.penguinrandomhouse.com/books/834137/kaijin-fugeki-kindled-spirits-6-by-ohgreat/9781647296421 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 17|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-13-0/product/9067/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
 |Nov 17|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427888365 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Lady Devil](https://yenpress.com/titles/9798400905070-lady-devil-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 17|[Maid to Skate](https://www.viz.com/manga-books/manga/maid-to-skate-volume-2-0/product/9069/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[Marriage to the Wolf: An Interspecies Union](https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905193-my-secretly-hot-husband-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[NakiNagi](https://www.penguinrandomhouse.com/books/830935/nakinagi-1-by-keigo-maki/9798888779484 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -915,9 +942,11 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 17|[See You in My 19th Life](https://yenpress.com/titles/9798400904769-see-you-in-my-19th-life-vol-12 "Ize Press")|12|Ize Press|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Seven Sundays](https://yenpress.com/titles/9798400905438-seven-sundays-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Nov 17|[Special Civil Servant](https://yenpress.com/titles/9798400905964-special-civil-servant-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
+|Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Elf Sisters Can't Wait for the Night](https://sevenseasentertainment.com/books/the-elf-sisters-cant-wait-for-the-night-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[The Five Star Stories](https://www.penguinrandomhouse.com/books/830911/the-five-star-stories-vol2-by-written-by-mamoru-nagano/9781787748903 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 17|[The Legendary Witch Is Reborn as an Oppressed Princess](https://www.penguinrandomhouse.com/books/840688/the-legendary-witch-is-reborn-as-an-oppressed-princess-vol1-by-written-by-touko-amekawa/9781787749382 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|🖥️📖|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -948,6 +977,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 24|[Isekai Samurai](https://yenpress.com/titles/9798855425260-isekai-samurai-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 24|[Is the Order a Rabbit?](https://yenpress.com/titles/9798855405941-is-the-order-a-rabbit-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Izumi and the Dragon Encyclopedia](https://yenpress.com/titles/9798855436426-izumi-and-the-dragon-encyclopedia-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 24|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-10-0/product/9064/hardcover "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 24|[Kakegurui - Compulsive Gambler -](https://yenpress.com/titles/9798855440201-kakegurui-compulsive-gambler-vol-20 "Yen Press")|20|Yen Press|🖥️📖|
 |Nov 24|[Laid-Back Camp](https://yenpress.com/titles/9798855440386-laid-back-camp-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
 |Nov 24|[Let This Grieving Soul Retire](https://yenpress.com/titles/9798855433951-let-this-grieving-soul-retire-vol-11-manga "Yen Press")|11|Yen Press|🖥️📖|
@@ -956,6 +986,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 24|[Mistress Kanan is Devilishly Easy (Omnibus)](https://sevenseasentertainment.com/books/mistress-kanan-is-devilishly-easy-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Moscow 2160](https://yenpress.com/titles/9798855432145-moscow-2160-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[My Girlfriend Is a Colossal Cutie](https://yenpress.com/titles/9798855432725-my-girlfriend-is-a-colossal-cutie-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 24|[My Hero Academia Box Set 2](https://www.viz.com/manga-books/manga/my-hero-academia-box-set-2/product/9072/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Non and Akari: The Complete Omnibus](https://yenpress.com/titles/9798855420630-non-and-akari-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[[Oshi No Ko]](https://yenpress.com/titles/9798855439687-oshi-no-ko-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Nov 24|[Pink & Habanero](https://yenpress.com/titles/9781975397524-pink-habanero-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
@@ -963,6 +994,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 24|[Rebel Hero: I Will Use My Skills to Control the Scheming Princess's Heart and Body](https://sevenseasentertainment.com/books/rebel-hero-i-will-use-my-skills-to-control-the-scheming-princesss-heart-and-body-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-manga-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Ripples in the River](https://sevenseasentertainment.com/books/ripples-in-the-river-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[Shadows House](https://yenpress.com/titles/9798855403510-shadows-house-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Nov 24|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Spice and Wolf Collector's Edition](https://yenpress.com/titles/9798855425017-spice-and-wolf-collector-s-edition-vol-4-manga "Yen Press")|4|Yen Press|<span class="hidden">🖥️</span>📖|
@@ -1013,6 +1045,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 01|[Medaka Kuroiwa Is Impervious to My Charms](https://www.penguinrandomhouse.com/books/834134/medaka-kuroiwa-is-impervious-to-my-charms-17-by-ran-kuze/9781647296452 "Kodansha")|17|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Mr. Vamp Is a Vampire](https://www.penguinrandomhouse.com/books/830852/mr-vamp-is-a-vampire-1-by-dorothy-odoroo/9798888779477 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 01|[My Cat's Aura is Strong Today](https://sevenseasentertainment.com/books/my-cats-aura-is-strong-today-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 01|[Nana 25th Anniversary Edition](https://www.viz.com/manga-books/manga/nana-25th-anniversary-edition-volume-6-0/product/9068/paperback "VIZ Media")|6|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Romelia War Chronicle: The Count's Daughter Rallies an Army in the Wake of Mankind's Victory](https://sevenseasentertainment.com/books/romelia-war-chronicle-the-counts-daughter-rallies-an-army-in-the-wake-of-mankinds-victory-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Rozen Maiden Collector's Edition](https://sevenseasentertainment.com/books/rozen-maiden-collectors-edition-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Shugo Chara! 20th Anniversary Edition](https://www.penguinrandomhouse.com/books/813112/shugo-chara-20th-anniversary-edition-4-by-peach-pit/9798888777077 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
