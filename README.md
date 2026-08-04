@@ -212,7 +212,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Aug 04|[Disney Manga Alice in Wonderland: Special Edition (Hardcover)](https://www.penguinrandomhouse.com/books/829266/disney-manga-alice-in-wonderland-special-edition-hardcover-by-jun-abe/9781427886972 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Aug 04|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-7-0/product/8939/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Aug 04|[Everything for Demon King Evelogia](https://sevenseasentertainment.com/books/everything-for-demon-king-evelogia-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
-|Aug 04|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 04|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 04|[Himegasaki Sakurako Is a Hot Mess](https://sevenseasentertainment.com/books/himegasaki-sakurako-is-a-hot-mess-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Aug 04|[His Little Amber](https://sevenseasentertainment.com/books/his-little-amber-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Aug 04|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-4-0/product/8945/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
@@ -224,7 +224,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Aug 04|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Aug 04|[Love Bites](https://www.penguinrandomhouse.com/books/816099/love-bites-vol-1-by-alicia-wallace/9781834110257 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
 |Aug 04|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808548/love-out-on-a-limb-3-by-yoko-nogiri/9798888776964 "Kodansha")|3|Kodansha|📖|
-|Aug 04|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 04|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Aug 04|[Marrying the Dark Knight (For Her Money)](https://www.penguinrandomhouse.com/books/826272/marrying-the-dark-knight-for-her-money-2-by-sometime/9798888779231 "Kodansha")|2|Kodansha|📖|
 |Aug 04|[My New Devil Wife](https://www.onepeacebooks.com/jt/DevilWife.html#:~:text=My%20New%20Devil%20Wife%20Volume%202 "One Peace Books")|2|One Peace Books|📖|
 |Aug 04|[My Noisy Roommate: The Roof Over My Head Comes With Monsters and a Hottie](https://www.penguinrandomhouse.com/books/824212/my-noisy-roommate-the-roof-over-my-head-comes-with-monsters-and-a-hottie-5-by-kaho-ozaki/9798888778630 "Kodansha")|5|Kodansha|📖|
@@ -698,7 +698,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 13|[Let's Run an Inn on Dungeon Island! (In a World Ruled by Women) (Omnibus)](https://sevenseasentertainment.com/books/lets-run-an-inn-on-dungeon-island-in-a-world-ruled-by-women-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|📖|
 |Oct 13|[Lilia's Pregnancy Spells the World's End](https://sevenseasentertainment.com/books/lilias-pregnancy-spells-the-worlds-end-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Oct 13|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 13|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Oct 13|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Oct 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 13|[Malevolent Spirits: Mononogatari](https://sevenseasentertainment.com/books/malevolent-spirits-mononogatari-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|📖|
 |Oct 13|[My Hero Academia: Team-Up Missions](https://www.viz.com/manga-books/art-book/my-hero-academia-ultra-artworks/product/9013/hardcover "VIZ Media")|8|VIZ Media|📖|
@@ -866,7 +866,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 03|[Cursed Princess Club, vol. 6](https://www.penguinrandomhouse.com/books/836100/cursed-princess-club-vol-6-by-lambcat/9781834110530 "WEBTOON Unscrolled")|6|WEBTOON Unscrolled|📖|
 |Nov 03|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-2-0/product/9065/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Nov 03|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 03|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
 |Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[I'm Fine With Being the Second Girlfriend](https://sevenseasentertainment.com/books/im-fine-with-being-the-second-girlfriend-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
@@ -1107,7 +1107,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 08|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Dec 08|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808546/love-out-on-a-limb-5-by-yoko-nogiri/9798888776988 "Kodansha")|5|Kodansha|📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
-|Dec 08|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 08|[Men of the Harem](https://yenpress.com/titles/9798400905643-men-of-the-harem-vol-8 "Ize Press")|8|Ize Press|📖|
 |Dec 08|[Merry Marbling](https://yenpress.com/titles/9798400905995-merry-marbling-vol-1 "Ize Press")|1|Ize Press|📖|
@@ -1403,7 +1403,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Feb 02|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|📖|
-|Feb 02|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 02|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Feb 02|[GremoryLand](https://www.penguinrandomhouse.com/books/827225/gremoryland-vol-2-by-a-rasen/9781834110165 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
 |Feb 02|[Lilia's Pregnancy Spells the World's End](https://sevenseasentertainment.com/books/lilias-pregnancy-spells-the-worlds-end-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
@@ -1429,7 +1429,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Feb 09|[Kiss or Die Trying!](https://www.penguinrandomhouse.com/books/826315/kiss-or-die-trying-2-by-den-mitao/9798888779095 "Kodansha")|2|Kodansha|📖|
 |Feb 09|[Love at First Memory](https://www.penguinrandomhouse.com/books/813123/love-at-first-memory-5-by-narumi-hasegaki/9798888777183 "Kodansha")|5|Kodansha|📖|
 |Feb 09|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/813129/love-out-on-a-limb-6-by-yoko-nogiri/9798888777244 "Kodansha")|6|Kodansha|📖|
-|Feb 09|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
+|Feb 09|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Feb 09|[Pass the Monster Meat, Milady!](https://www.penguinrandomhouse.com/books/830927/pass-the-monster-meat-milady-12-by-chika-mizube/9798888779996 "Kodansha")|12|Kodansha|📖|
 |Feb 09|[Perfectly Fine on My Own](https://www.penguinrandomhouse.com/books/852306/perfectly-fine-on-my-own-4-by-yahiro-arase/9781647297077 "Kodansha")|4|Kodansha|📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|

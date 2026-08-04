@@ -121,12 +121,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 04|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-1-0/product/8946/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 04|[D.Gray-man](https://www.viz.com/manga-books/manga/dgray-man-volume-29-0/product/8935/paperback "VIZ Media")|29|VIZ Media|🖥️📖|
 |Aug 04|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-7-0/product/8939/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Aug 04|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 04|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-4-0/product/8945/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Aug 04|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-8-0/product/8944/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 04|[Kaiju No. 8: Relax](https://www.viz.com/manga-books/manga/kaiju-no-8-relax-volume-3-0/product/8948/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Aug 04|[Kaze Hikaru](https://www.viz.com/manga-books/manga/kaze-hikaru-volume-34-0/product/8952/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
-|Aug 04|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 04|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-2-0/product/8957/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Aug 04|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-8-0/product/8963/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 04|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-21-0/product/8966/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
@@ -363,7 +361,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751250/how-to-hide-the-emperors-child-volume-1-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872451 "Inklore")|1|Inklore|🖥️📖|
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
 |Oct 13|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 13|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Oct 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 13|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-12-0/product/9041/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 13|[Splatoon 3: Splatlands](https://www.viz.com/manga-books/manga/splatoon-3-splatlands-volume-7-0/product/9045/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
@@ -444,7 +441,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-9-0/product/9063/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-2-0/product/9065/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Nov 03|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
 |Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-9-0/product/9066/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
@@ -561,7 +557,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
-|Dec 08|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 08|[Mii-chan and Miss Yamada](https://sevenseasentertainment.com/books/mii-chan-and-miss-yamada-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797866/my-love-story-with-yamada-kun-at-lv999-volume-8-by-mashiro/9798217091911 "Inklore")|8|Inklore|🖥️📖|
@@ -700,7 +695,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
-|Feb 02|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
 |Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Nono's Phantom Shop](https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -710,7 +704,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[DRAGON CIRCUS](https://www.penguinrandomhouse.com/books/840411/dragon-circus-2-by-eiichi-shimizu/9781647296568 "Kodansha")|2|Kodansha|🖥️📖|
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Feb 09|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
-|Feb 09|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 09|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
