@@ -767,6 +767,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 04|[Welcome to Demon School! Iruma-kun: Devilish Tales - Kalego's Story](https://www.penguinrandomhouse.com/books/840410/welcome-to-demon-school-iruma-kun-devilish-tales---kalegos-story-by-osamu-nishi/9781647296599 "Kodansha")|1|Kodansha|🖥️📖|
+|May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### June

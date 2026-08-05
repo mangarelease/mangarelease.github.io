@@ -1660,6 +1660,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 20|[The Great Cleric](https://www.penguinrandomhouse.com/books/817270/the-great-cleric-15-by-original-story-by-broccoli-lion-art-by-hiiro-akikaze-character-design-by-sime/9798888778173 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 20|[The Rabbit Circle](https://www.penguinrandomhouse.com/books/856909/the-rabbit-circle-by-written-sanada-shiro/9781787749405 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
+|Apr 27|[AIDOL Omnibus](https://www.penguinrandomhouse.com/books/826313/aidol-omnibus-2-vol-3-4-by-story-by-yuu-kuraishi-art-by-kazu-inabe-original-concept-by-kuu-tanaka/9798888778500 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817260/blue-lock-omnibus-8-vol-22-24-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778289 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 27|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
 |Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
@@ -1676,6 +1677,13 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 04|[Love Bites, vol. 2](https://www.penguinrandomhouse.com/books/833600/love-bites-vol-2-by-alicia-wallace/9781834110585 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|May 04|[Meaheim](https://www.penguinrandomhouse.com/books/840446/meaheim-2-by-kenji-tsurubuchi/9781647296834 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|May 04|[The Ayakashi Hunter's Tainted Bride](https://www.penguinrandomhouse.com/books/845131/the-ayakashi-hunters-tainted-bride-10-by-midori-yuma/9798888779552 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
+|May 04|[Welcome to Demon School! Iruma-kun: Devilish Tales - Kalego's Story](https://www.penguinrandomhouse.com/books/840410/welcome-to-demon-school-iruma-kun-devilish-tales---kalegos-story-by-osamu-nishi/9781647296599 "Kodansha")|1|Kodansha|🖥️📖|
+|May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|
+|May 04|[What if I Said, "I Love You"? 4](https://www.penguinrandomhouse.com/books/845125/what-if-i-said-i-love-you4-by-kumosoku/9798900741376 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
+|May 04|[Witch Hat Atelier: Special Stories](https://www.penguinrandomhouse.com/books/845089/witch-hat-atelier-special-stories-by-by-jun-esaka-created-and-supervised-by-kamome-shirahama/9798900740676 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### June
