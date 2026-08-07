@@ -289,6 +289,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 11|[Tank Chair](https://www.penguinrandomhouse.com/books/824185/tank-chair-9-by-manabu-yashiro/9798888778968 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 11|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/787977/the-fragrant-flower-blooms-with-dignity-14-by-saka-mikami/9798888775226 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 11|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775434/the-knight-and-her-emperor-volume-2-by-original-story-by-gm-illustrated-by-winter-adapted-by-heyum/9780593976043 "Inklore")|2|Inklore|🖥️📖|
+|Aug 11|[The Revenge of My Youth: Re Life with an Angelic Girl](https://www.onepeacebooks.com/jt/Revenge.html#:~:text=The%20Revenge%20of%20My%20Youth%3A%20Re%20Life%20with%20an%20Angelic%20Girl%20Volume%204 "One Peace Books")|4|One Peace Books|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Tsumiki Ogami's Not-So-Ordinary Life](https://www.viz.com/manga-books/manga/tsumiki-ogami-s-not-so-ordinary-life-volume-7-0/product/8967/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Aug 11|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/824195/you-might-as-well-be-the-one-1-by-megumu-seto/9798888778371 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 12|[Duchess in the Attic](https://j-novel.club/series/duchess-in-the-attic-manga#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️<span class="hidden">📖</span>|
@@ -971,7 +972,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 17|[Marriage to the Wolf: An Interspecies Union](https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905193-my-secretly-hot-husband-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[NakiNagi](https://www.penguinrandomhouse.com/books/830935/nakinagi-1-by-keigo-maki/9798888779484 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
-|Nov 17|[Omega Megaera](https://www.penguinrandomhouse.com/books/800464/omega-megaera-7-by-maki-marukido/9798888775974 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Overgeared](https://yenpress.com/titles/9798400905476-overgeared-vol-12 "Ize Press")|12|Ize Press|🖥️📖|
 |Nov 17|[Puniru is a Kawaii Slime (Omnibus)](https://sevenseasentertainment.com/books/puniru-is-a-kawaii-slime-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Pupposites Attract](https://www.penguinrandomhouse.com/books/830928/pupposites-attract-5-by-hono-natsuna/9798900740003 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1269,7 +1269,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 05|[Kaya-chan Isn't Scary](https://sevenseasentertainment.com/books/kaya-chan-isnt-scary-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Miss Kobayashi's Dragon Maid: Fafnir the Recluse](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-fafnir-the-recluse-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[My Stepmother and Stepsisters Aren't Wicked](https://sevenseasentertainment.com/books/my-stepmother-and-stepsisters-arent-wicked-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Jan 05|[Nina the Starry Bride](https://www.penguinrandomhouse.com/books/845095/nina-the-starry-bride-18-by-rikachi/9798900741178 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[She's the Strongest Bride, But I'm Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://sevenseasentertainment.com/books/shes-the-strongest-bride-but-im-stronger-in-night-battles-a-harem-chronicle-of-advancing-through-cunning-tactics-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Shugo Chara! Jewel Joker](https://www.penguinrandomhouse.com/books/830918/shugo-chara-jewel-joker-3-by-peach-pit/9798888779903 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1292,6 +1291,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 12|[Killer Shark in Another World](https://sevenseasentertainment.com/books/killer-shark-in-another-world-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Miss Kobayashi's Dragon Maid: Elma's Office Lady Diary](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-elmas-office-lady-diary-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Jan 12|[Omega Megaera](https://www.penguinrandomhouse.com/books/800464/omega-megaera-7-by-maki-marukido/9798888775974 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Sheltering Eaves](https://www.penguinrandomhouse.com/books/830919/sheltering-eaves-6-by-rie-aruga/9798888779910 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718337442-the-brilliant-healer-s-new-life-in-the-shadows-volume-5-manga "J-Novel Club")|5|J-Novel Club|<span class="hidden">🖥️</span>📖|
@@ -1315,6 +1315,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 19|[My New Life as a Cat](https://sevenseasentertainment.com/books/my-new-life-as-a-cat-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Myther](https://www.penguinrandomhouse.com/books/830932/myther-1-by-teki-yatsuda/9798888779361 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Nakamura-san, the Uninvited Gyaru](https://sevenseasentertainment.com/books/nakamura-san-the-uninvited-gyaru-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Jan 19|[Nina the Starry Bride](https://www.penguinrandomhouse.com/books/845095/nina-the-starry-bride-18-by-rikachi/9798900741178 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400904448-omniscient-reader-s-viewpoint-vol-13 "Ize Press")|13|Ize Press|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Philomel the Fake](https://yenpress.com/titles/9798400906923-philomel-the-fake-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Rainy Day Serenade Omnibus](https://www.penguinrandomhouse.com/books/826316/rainy-day-serenade-omnibus-1-vol-1-2-by-haruka-kawachi/9798888779255 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
