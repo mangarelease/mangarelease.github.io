@@ -129,6 +129,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Sep 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-7-0/product/9088/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Sep 01|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[Delusion](https://www.penguinrandomhouse.com/books/799610/delusion-volume-1-by-hongjacga/9798217092925 "Inklore")|1|Inklore|🖥️📖|
 |Sep 01|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-2-0/product/8980/paperback "VIZ Media")|2|VIZ Media|🖥️📖|

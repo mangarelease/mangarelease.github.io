@@ -212,6 +212,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |:---:|---|:---:|---|:---:|
 |Sep 01|[10 Things I Want to Do Before I Turn 40 – Part 2](https://sevenseasentertainment.com/books/10-things-i-want-to-do-before-i-turn-40-part-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 01|[Accidental Assassin](https://www.penguinrandomhouse.com/books/827228/accidental-assassin-vol-1-by-molly-ni-cheileachair/9781834110509 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Sep 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-7-0/product/9088/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Sep 01|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[Dai Dark](https://sevenseasentertainment.com/books/dai-dark-deluxe-edition-1-vol-1-3-hardcover-omnibus/ "Seven Seas Entertainment")|1-3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 01|[Delusion](https://www.penguinrandomhouse.com/books/799610/delusion-volume-1-by-hongjacga/9798217092925 "Inklore")|1|Inklore|🖥️📖|
