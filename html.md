@@ -65,12 +65,12 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 11|[Betrayed by the Hero, I Formed a MILF Party With His Mom!](https://sevenseasentertainment.com/books/betrayed-by-the-hero-i-formed-a-milf-party-with-his-mom-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-20-0/product/8937/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
 |Aug 11|[Diary of a Female Lead: Shujinkou Nikki](https://sevenseasentertainment.com/books/diary-of-a-female-lead-shujinkou-nikki-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Aug 11|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 11|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Girl Crush](https://www.viz.com/manga-books/manga/girl-crush-volume-8-0/product/8940/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 11|[Girls Zombie Party](https://sevenseasentertainment.com/books/girls-zombie-party-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Hate Me, but Let Me Stay](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[High Elf with a Long Life](https://www.penguinrandomhouse.com/books/824092/high-elf-with-a-long-life-vol1-by-written-by-rarutori/9781787749085 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
-|Aug 11|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 11|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Issak Omnibus](https://www.penguinrandomhouse.com/books/783725/issak-omnibus-7-vol-13-14-by-story-by-shinji-makari-art-by-double-s/9798888775011 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Karate Survivor in Another World](https://sevenseasentertainment.com/books/karate-survivor-in-another-world-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-8-0/product/8951/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
@@ -85,7 +85,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 11|[Pass the Monster Meat, Milady!](https://www.penguinrandomhouse.com/books/830925/pass-the-monster-meat-milady-10-by-chika-mizube/9798888779972 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Perfectly Fine on My Own, So My Fiancé Can Twist in the Wind](https://www.penguinrandomhouse.com/books/834139/perfectly-fine-on-my-own-so-my-fiance-can-twist-in-the-wind-3-by-yahiro-arase/9781647296346 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Pet Shop of Horrors: Collector's Edition](https://sevenseasentertainment.com/books/pet-shop-of-horrors-collectors-edition-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Aug 11|[PUNKS TRIANGLE stitch](https://sevenseasentertainment.com/books/punks-triangle-stitch-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 11|[PUNKS TRIANGLE stitch](https://sevenseasentertainment.com/books/punks-triangle-stitch-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-11-0/product/8958/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Aug 11|[Rai Rai Rai](https://www.viz.com/manga-books/manga/rai-rai-rai-volume-5-0/product/8956/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Aug 11|[Romelia War Chronicle: The Count's Daughter Rallies an Army in the Wake of Mankind's Victory](https://sevenseasentertainment.com/books/romelia-war-chronicle-the-counts-daughter-rallies-an-army-in-the-wake-of-mankinds-victory-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -327,7 +327,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 15|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-2-0/product/8994/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Sep 15|[The Assassin Laughs at Twilight](https://www.penguinrandomhouse.com/books/824135/the-assassin-laughs-at-twilight-vol1-by-written-by-megurikukuru/9781787749344 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 15|[The Cursed Sword Master's Harem Life: By the Sword, For the Sword](https://sevenseasentertainment.com/books/the-cursed-sword-masters-harem-life-by-the-sword-for-the-sword-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 15|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427888723 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Sep 15|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427892034 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 15|[Time Stop Hero](https://sevenseasentertainment.com/books/time-stop-hero-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Villain Actor](https://www.penguinrandomhouse.com/books/830913/villain-actor-vol3-by-written-by-mikumo-seto/9781787749610 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -434,6 +434,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 29|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427887535 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Slow Life In Another World (I Wish!)](https://sevenseasentertainment.com/books/slow-life-in-another-world-i-wish-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[That's Not Love](https://www.penguinrandomhouse.com/books/813098/thats-not-love-3-by-peko-watanabe/9798888777534 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
+|Sep 29|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427888723 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Sep 29|[The Dragon Knight's Beloved](https://sevenseasentertainment.com/books/the-dragon-knights-beloved-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[The Legend of Dororo and Hyakkimaru](https://sevenseasentertainment.com/books/the-legend-of-dororo-and-hyakkimaru-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[The Masterful Cat Is Depressed Again Today](https://sevenseasentertainment.com/books/the-masterful-cat-is-depressed-again-today-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -677,10 +678,10 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 03|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-9-0/product/9063/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Cursed Princess Club, vol. 6](https://www.penguinrandomhouse.com/books/836100/cursed-princess-club-vol-6-by-lambcat/9781834110530 "WEBTOON Unscrolled")|6|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-2-0/product/9065/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
-|Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[I'm Fine With Being the Second Girlfriend](https://sevenseasentertainment.com/books/im-fine-with-being-the-second-girlfriend-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[I'm the Heroic Knight of an Intergalactic Empire!](https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-9-0/product/9066/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
@@ -1213,7 +1214,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |:---:|---|:---:|---|:---:|
 |Feb 02|[100 Ghost Stories That Will Lead to My Own Death](https://sevenseasentertainment.com/books/100-ghost-stories-that-will-lead-to-my-own-death-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 02|[Black Jack](https://www.penguinrandomhouse.com/books/834123/black-jack-deluxe-edition-3-by-osamu-tezuka/9781647296179 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
-|Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 02|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 02|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 02|[Geniearth](https://www.penguinrandomhouse.com/books/859449/geniearth-vol3-by-written-by-rensuke-oshikiri/9781787747104 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -1240,7 +1241,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 09|[Erin the Beast Player](https://www.penguinrandomhouse.com/books/834144/erin-the-beast-player-2-by-nahoko-uehashi/9781647296223 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Have Fun, it's the End of the World](https://www.penguinrandomhouse.com/books/841869/have-fun-its-the-end-of-the-world-vol2-by-written-by-sakyuu-tottori/9781787749429 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
-|Feb 09|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
+|Feb 09|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Kiss or Die Trying!](https://www.penguinrandomhouse.com/books/826315/kiss-or-die-trying-2-by-den-mitao/9798888779095 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Love at First Memory](https://www.penguinrandomhouse.com/books/813123/love-at-first-memory-5-by-narumi-hasegaki/9798888777183 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/813129/love-out-on-a-limb-6-by-yoko-nogiri/9798888777244 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1432,6 +1433,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 06|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 06|[I Got Reincarnated in a (BL) World of Big (Man) Boobs](https://www.penguinrandomhouse.com/books/845130/i-got-reincarnated-in-a-bl-world-of-big-man-boobs-3-by-tsukiji-nao/9798888772966 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Apr 06|[Kha and the Dragon's Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Apr 06|[LastBoss LoveDeath](https://www.penguinrandomhouse.com/books/856911/lastboss-lovedeath-by-written-by-yoshikazu-kuwajima/9781806184897 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|

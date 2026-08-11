@@ -35,15 +35,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 05|[The Oblivious Saint Can't Contain Her Power: Disgraced No Longer, I'm Finding Happiness with the Prince!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-disgraced-no-longer-i-m-finding-happiness-with-the-prince-manga#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Aug 11|[Akane-banashi](https://www.viz.com/manga-books/manga/akane-banashi-volume-17-0/product/8930/paperback "VIZ Media")|17|VIZ Media|🖥️📖|
 |Aug 11|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-20-0/product/8937/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
-|Aug 11|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Girl Crush](https://www.viz.com/manga-books/manga/girl-crush-volume-8-0/product/8940/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 11|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-8-0/product/8951/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/qualia-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 11|[Mao](https://www.viz.com/manga-books/manga/mao-volume-25-0/product/8954/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Aug 11|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-14-0/product/8955/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Aug 11|[My Noons and Midnights Are for You](https://www.penguinrandomhouse.com/books/820638/my-noons-and-midnights-are-for-you-volume-2-by-luria/9781427886279 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
-|Aug 11|[PUNKS TRIANGLE stitch](https://sevenseasentertainment.com/books/punks-triangle-stitch-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 11|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-11-0/product/8958/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Aug 11|[Rai Rai Rai](https://www.viz.com/manga-books/manga/rai-rai-rai-volume-5-0/product/8956/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Aug 11|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775434/the-knight-and-her-emperor-volume-2-by-original-story-by-gm-illustrated-by-winter-adapted-by-heyum/9780593976043 "Inklore")|2|Inklore|🖥️📖|
@@ -169,7 +166,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 15|[Sakamoto Days](https://www.viz.com/manga-books/manga/sakamoto-days-volume-23-0/product/8997/paperback "VIZ Media")|23|VIZ Media|🖥️📖|
 |Sep 15|[Sound of a Blink](https://www.viz.com/manga-books/manga/sound-of-a-blink-volume-1-0/product/9002/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 15|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-2-0/product/8994/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Sep 15|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427888723 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Sep 15|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427892034 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 16|[Black Summoner](https://j-novel.club/series/black-summoner-manga#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 19|[Fired? But I Maintain All the Software!](https://j-novel.club/series/fired-but-i-maintain-all-the-software-manga#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 22|[Agents of the Four Seasons: Dance of Spring](https://yenpress.com/titles/9798855426540-agents-of-the-four-seasons-dance-of-spring-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -340,9 +337,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Blue Box](https://www.viz.com/manga-books/manga/blue-box-volume-22-0/product/9047/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Nov 03|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-9-0/product/9063/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-2-0/product/9065/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Nov 03|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784696/heaven-officials-blessing-the-comic-volume-3-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984420 "Inklore")|3|Inklore|🖥️📖|
-|Nov 03|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-9-0/product/9066/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[KPop Demon Hunters: The Official Screen Comic Boxed Set](https://www.penguinrandomhouse.com/books/828178/kpop-demon-hunters-the-official-screen-comic-boxed-set-by-netflix/9798217373918 "Inklore")|1|Inklore|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -594,7 +589,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Feb 02|[Draw This, Then Die!](https://sevenseasentertainment.com/books/draw-this-then-die-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
 |Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Nono's Phantom Shop](https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -603,7 +597,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[Building a Monster Girl Harem with Forbidden Science](https://sevenseasentertainment.com/books/building-a-monster-girl-harem-with-forbidden-science-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[DRAGON CIRCUS](https://www.penguinrandomhouse.com/books/840411/dragon-circus-2-by-eiichi-shimizu/9781647296568 "Kodansha")|2|Kodansha|🖥️📖|
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
-|Feb 09|[Hotel Inhumans](https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 09|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
