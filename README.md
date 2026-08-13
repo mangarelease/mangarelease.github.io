@@ -535,7 +535,9 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 20|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/825200/as-yubooh-slumbers-volume-1-by-paulina-palacios/9781427886699 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 20|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 20|[Blue Lock](https://www.penguinrandomhouse.com/books/824216/blue-lock-35-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778678 "Kodansha")|35|Kodansha|📖|
-|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1.1|TOKYOPOP|🖥️|
+|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892362 "TOKYOPOP")|1.2|TOKYOPOP|🖥️|
 |Oct 20|[Drifting Dragons](https://www.penguinrandomhouse.com/books/787967/drifting-dragons-18-by-taku-kuwabara/9798888775325 "Kodansha")|18|Kodansha|📖|
 |Oct 20|[Fan/Girl X Call/Boy](https://www.penguinrandomhouse.com/books/825971/fangirl-x-callboy-1-by-kotora-aoshima/9798888778463 "Kodansha")|1|Kodansha|📖|
 |Oct 20|[Finding Camellia](https://yenpress.com/titles/9798400905155-finding-camellia-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
@@ -633,7 +635,8 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 27|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Outsiders](https://www.penguinrandomhouse.com/books/799948/outsiders-vol3-by-written-by-akira-kanou/9781787745766 "Titan Comics")|3|Titan Comics|📖|
-|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892386 "TOKYOPOP")|2|TOKYOPOP|🖥️|
 |Oct 27|[Phantom of the Idol](https://www.penguinrandomhouse.com/books/817275/phantom-of-the-idol-9-by-hijiki-isoflavone/9798888778128 "Kodansha")|9|Kodansha|📖|
 |Oct 27|[Pokémon Adventures: Red and Blue, Deluxe Edition](https://www.viz.com/manga-books/manga/pokemon-adventures-red-and-blue-deluxe-edition-volume-1-0/product/9018/hardcover "VIZ Media")|1|VIZ Media|📖|
 |Oct 27|[Redeem: Only One Forever](https://yenpress.com/titles/9798855423457-redeem-only-one-forever-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
