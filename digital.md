@@ -179,8 +179,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855422498-from-old-country-bumpkin-to-master-swordsman-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Sep 22|[Give Me a Hug, Mr. Frog!](https://sevenseasentertainment.com/books/give-me-a-hug-mr-frog/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[How to Handle My Sassy Big Sis](https://yenpress.com/titles/9798855429039-how-to-handle-my-sassy-big-sis-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 22|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 22|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[It's Strictly Business](https://yenpress.com/titles/9798855429619-it-s-strictly-business-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-9-0/product/8984/hardcover "VIZ Media")|9|VIZ Media|🖥️📖|
 |Sep 22|[Land](https://yenpress.com/titles/9798855421880-land-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -193,7 +191,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[Murciélago](https://yenpress.com/titles/9798855436082-murcielago-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
 |Sep 22|[My Lover Is Just Too Innocent to Handle](https://yenpress.com/titles/9798855425161-my-lover-is-just-too-innocent-to-handle-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[My Super-Cute Black Mage!](https://yenpress.com/titles/9798855417999-my-super-cute-black-mage-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 22|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[Overlord: The Undead King Oh!](https://yenpress.com/titles/9798855428216-overlord-the-undead-king-oh-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 22|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Scenes from Awajima](https://yenpress.com/titles/9798855428940-scenes-from-awajima-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -205,7 +202,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[The Failure at God School](https://yenpress.com/titles/9798855404654-the-failure-at-god-school-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[The Holy Grail of Eris](https://yenpress.com/titles/9798855426588-the-holy-grail-of-eris-vol-12-manga "Yen Press")|12|Yen Press|🖥️📖|
 |Sep 22|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 22|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[The Terrifying Students at Ghoul School!](https://yenpress.com/titles/9798855418491-the-terrifying-students-at-ghoul-school-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Three Days of Happiness: The Complete Omnibus](https://yenpress.com/titles/9798855429053-three-days-of-happiness-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855436983-thus-spoke-the-rabbit-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -223,8 +219,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[Can You Kiss Me First?](https://sevenseasentertainment.com/books/can-you-kiss-me-first-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 29|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 29|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
+|Sep 29|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 29|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 29|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 30|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-manga#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️<span class="hidden">📖</span>|
 
@@ -242,6 +241,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 06|[Fushigi Yûgi: Byakko Senki](https://www.viz.com/manga-books/manga/fushigi-yugi-byakko-senki-volume-5-0/product/9022/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-5-0/product/9025/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
+|Oct 06|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 06|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-15-0/product/9034/digital "VIZ Media")|15|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Oct 06|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-5-0/product/9029/paperback "VIZ Media")|5|VIZ Media|🖥️📖|

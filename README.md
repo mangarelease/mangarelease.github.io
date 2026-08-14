@@ -325,7 +325,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 15|[Time Stop Hero](https://sevenseasentertainment.com/books/time-stop-hero-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Sep 15|[Villain Actor](https://www.penguinrandomhouse.com/books/830913/villain-actor-vol3-by-written-by-mikumo-seto/9781787749610 "Titan Comics")|3|Titan Comics|📖|
 |Sep 15|[Virgin Knight: I Became the Frontier Lord in a World Ruled by Women](https://sevenseasentertainment.com/books/virgin-knight-i-became-the-frontier-lord-in-a-world-ruled-by-women-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Sep 15|[What If I Said, "I Love You"?](https://www.penguinrandomhouse.com/books/817222/what-if-i-said-i-love-you-2-by-kumosoku/9798888778357 "Kodansha")|2|Kodansha|📖|
 |Sep 15|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/817268/wistoria-wand-and-sword-13-by-story-by-fujino-omori-manga-by-toshi-aoi/9798888778197 "Kodansha")|13|Kodansha|📖|
 |Sep 15|[Wolf's Daughter: A Werewolf's Tale](https://sevenseasentertainment.com/books/wolfs-daughter-a-werewolfs-tale-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Sep 16|[Black Summoner](https://j-novel.club/series/black-summoner-manga#volume-23 "J-Novel Club")|23|J-Novel Club|🖥️|
@@ -348,8 +347,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 22|[Gachiakuta](https://www.penguinrandomhouse.com/books/787963/gachiakuta-12-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888775363 "Kodansha")|12|Kodansha|📖|
 |Sep 22|[Give Me a Hug, Mr. Frog!](https://sevenseasentertainment.com/books/give-me-a-hug-mr-frog/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[How to Handle My Sassy Big Sis](https://yenpress.com/titles/9798855429039-how-to-handle-my-sassy-big-sis-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 22|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 22|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[It's Strictly Business](https://yenpress.com/titles/9798855429619-it-s-strictly-business-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-9-0/product/8984/hardcover "VIZ Media")|9|VIZ Media|🖥️📖|
 |Sep 22|[JUDGE Ultimate Verdict Edition](https://yenpress.com/titles/9798855431605-judge-ultimate-verdict-edition-vol-1 "Yen Press")|1|Yen Press|📖|
@@ -369,7 +366,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 22|[My Lover Is Just Too Innocent to Handle](https://yenpress.com/titles/9798855425161-my-lover-is-just-too-innocent-to-handle-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[My Super-Cute Black Mage!](https://yenpress.com/titles/9798855417999-my-super-cute-black-mage-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/834156/nezumis-first-love-5-by-riku-oseto/9781647296025 "Kodansha")|5|Kodansha|📖|
-|Sep 22|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[Overlord: The Undead King Oh!](https://yenpress.com/titles/9798855428216-overlord-the-undead-king-oh-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 22|[Parallel Paradise](https://sevenseasentertainment.com/books/parallel-paradise-vol-27/ "Seven Seas Entertainment")|27|Seven Seas Entertainment|📖|
 |Sep 22|[Pardon the Intrusion, I'm Home!](https://yenpress.com/titles/9798855444285-pardon-the-intrusion-i-m-home-vol-1 "Yen Press")|1|Yen Press|📖|
@@ -388,7 +384,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 22|[The Failure at God School](https://yenpress.com/titles/9798855404654-the-failure-at-god-school-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[The Holy Grail of Eris](https://yenpress.com/titles/9798855426588-the-holy-grail-of-eris-vol-12-manga "Yen Press")|12|Yen Press|🖥️📖|
 |Sep 22|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 22|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[The Terrifying Students at Ghoul School!](https://yenpress.com/titles/9798855418491-the-terrifying-students-at-ghoul-school-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Three Days of Happiness: The Complete Omnibus](https://yenpress.com/titles/9798855429053-three-days-of-happiness-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855436983-thus-spoke-the-rabbit-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -397,6 +392,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 22|[Victoria of Many Faces](https://yenpress.com/titles/9798855428377-victoria-of-many-faces-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[Void: No. Nine](https://yenpress.com/titles/9798855433029-void-no-nine-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Welcome to Ghost Mansion](https://www.penguinrandomhouse.com/books/811643/welcome-to-ghost-mansion-vol3-by-written-by-nebukuro/9781787749498 "Titan Comics")|3|Titan Comics|📖|
+|Sep 22|[What If I Said, "I Love You"?](https://www.penguinrandomhouse.com/books/817222/what-if-i-said-i-love-you-2-by-kumosoku/9798888778357 "Kodansha")|2|Kodansha|📖|
 |Sep 22|[What Six Survivors Told…](https://yenpress.com/titles/9798855425451-what-six-survivors-told-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[When I Was Reincarnated in Another World, I Was a Heroine and He Was a Hero](https://www.penguinrandomhouse.com/books/824137/when-i-was-reincarnated-in-another-world-i-was-a-heroine-and-he-was-a-hero-vol1-by-written-by-mizunomoto/9781787749504 "Titan Comics")|1|Titan Comics|📖|
 |Sep 22|[Witch Hat Atelier: Grimoire Edition](https://www.penguinrandomhouse.com/books/815006/witch-hat-atelier-grimoire-edition-2-by-kamome-shirahama/9798888777800 "Kodansha")|2|Kodansha|📖|
@@ -416,11 +412,13 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 29|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|📖|
 |Sep 29|[His Sensual Whisper: The Voice That Sets Me On Fire](https://sevenseasentertainment.com/books/his-sensual-whisper-the-voice-that-sets-me-on-fire-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Sep 29|[How NOT to Summon a Demon Lord](https://sevenseasentertainment.com/books/how-not-to-summon-a-demon-lord-manga-vol-25/ "Seven Seas Entertainment")|25|Seven Seas Entertainment|📖|
+|Sep 29|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 29|[It Takes More Than a Pretty Face to Fall in Love](https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 29|[Keep Your Hands Off Eizouken!](https://www.darkhorse.com/books/3014-967/keep-your-hands-off-eizouken-volume-8-tpb/ "Dark Horse")|8|Dark Horse|📖|
 |Sep 29|[Kitayama and Minamiya](https://sevenseasentertainment.com/books/kitayama-and-minamiya-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Sep 29|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Sep 29|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427888822 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Sep 29|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 29|[Omega Megaera](https://www.penguinrandomhouse.com/books/800465/omega-megaera-6-by-maki-marukido/9798888775967 "Kodansha")|6|Kodansha|📖|
 |Sep 29|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-manga-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -434,6 +432,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 29|[The Masterful Cat Is Depressed Again Today](https://sevenseasentertainment.com/books/the-masterful-cat-is-depressed-again-today-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Sep 29|[The Raven Dark Hero](https://www.penguinrandomhouse.com/books/811648/the-raven-dark-hero-vol3-by-written-by-tonkye/9781787749245 "Titan Comics")|3|Titan Comics|📖|
 |Sep 29|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/824188/the-seven-deadly-sins-four-knights-of-the-apocalypse-23-by-nakaba-suzuki/9798888778999 "Kodansha")|23|Kodansha|📖|
+|Sep 29|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 29|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[Whoever You Are, I Love You](https://www.penguinrandomhouse.com/books/834158/whoever-you-are-i-love-you-2-by-keiku-hagiwara/9781647295783 "Kodansha")|2|Kodansha|📖|
 |Sep 29|[You Can't Bluff the Sharp-Eyed Sister](https://www.penguinrandomhouse.com/books/824190/you-cant-bluff-the-sharp-eyed-sister-5-by-story-by-natsu-hyuuga-manga-by-yo-asami-character-designs-by-chiho-shinishi/9798888779019 "Kodansha")|5|Kodansha|📖|
@@ -465,6 +464,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[Ichi the Killer (Omnibus)](https://sevenseasentertainment.com/books/ichi-the-killer-omnibus-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Oct 06|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-5-0/product/9025/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[I Have a Secret](https://sevenseasentertainment.com/books/i-have-a-secret-the-complete-manga-collection-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Oct 06|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 06|[Lore Olympus: Volume Eleven](https://www.penguinrandomhouse.com/books/789707/lore-olympus-volume-eleven-by-rachel-smythe/9798217091218 "Inklore")|11|Inklore|📖|
 |Oct 06|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|📖|
