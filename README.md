@@ -372,7 +372,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 22|[Pokémon: Sun & Moon Complete Manga Box Set](https://www.viz.com/manga-books/manga/pokemon-sun-moon-complete-box-set/product/9009/paperback "VIZ Media")|1|VIZ Media|📖|
 |Sep 22|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Scenes from Awajima](https://yenpress.com/titles/9798855428940-scenes-from-awajima-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Sep 22|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/824134/school-for-wizards-old-enough-to-learn-magic-vol1-by-written-by-yuhi-ueno/9781787749252 "Titan Comics")|1|Titan Comics|📖|
 |Sep 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855440188-sentenced-to-be-a-hero-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Servant Beasts](https://yenpress.com/titles/9798855425437-servant-beasts-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Shino & Ren](https://yenpress.com/titles/9798855432985-shino-ren-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
@@ -473,6 +472,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[My Journey to Her](https://www.penguinrandomhouse.com/books/824196/my-journey-to-her-by-yuna-hirasawa/9798888778388 "Kodansha")|1|Kodansha|📖|
 |Oct 06|[Peach Boy Riverside](https://www.penguinrandomhouse.com/books/787949/peach-boy-riverside-16-by-story-by-coolkyousinnjya-art-by-johanne/9798888775400 "Kodansha")|16|Kodansha|📖|
 |Oct 06|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-5-0/product/9029/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
+|Oct 06|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/824134/school-for-wizards-old-enough-to-learn-magic-vol1-by-written-by-yuhi-ueno/9781787749252 "Titan Comics")|1|Titan Comics|📖|
 |Oct 06|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-3-0/product/9030/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 06|[Sword of the Titans](https://www.penguinrandomhouse.com/books/811647/sword-of-the-titans-vol2-by-written-by-kashidashiki/9781787749320 "Titan Comics")|2|Titan Comics|📖|
 |Oct 06|[The Beast King: Master of Medicines](https://sevenseasentertainment.com/books/the-beast-king-master-of-medicines-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
