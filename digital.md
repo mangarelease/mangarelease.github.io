@@ -62,12 +62,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 18|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797865/my-love-story-with-yamada-kun-at-lv999-volume-7-by-mashiro/9798217091898 "Inklore")|7|Inklore|🖥️📖|
 |Aug 18|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905179-my-secretly-hot-husband-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Aug 18|[Overgeared](https://yenpress.com/titles/9798400905452-overgeared-vol-11 "Ize Press")|11|Ize Press|🖥️📖|
-|Aug 18|[Puniru is a Kawaii Slime (Omnibus)](https://sevenseasentertainment.com/books/puniru-is-a-kawaii-slime-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|🖥️📖|
 |Aug 18|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400904578-revenge-of-the-baskerville-bloodhound-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
 |Aug 18|[Sakamoto Holidays](https://www.viz.com/manga-books/manga/sakamoto-holidays-volume-2-0/product/8960/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Aug 18|[Show-ha Shoten!](https://www.viz.com/manga-books/manga/show-ha-shoten-volume-11-0/product/8962/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Aug 18|[Snowball Earth](https://www.viz.com/manga-books/manga/snowball-earth-volume-9-0/product/8964/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Aug 18|[The Death Defying Princess Creates a Yuri Harem to Survive](https://sevenseasentertainment.com/books/the-death-defying-princess-creates-a-yuri-harem-to-survive-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 18|[Undead Unluck](https://www.viz.com/manga-books/manga/undead-unluck-volume-26-0/product/8968/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
 |Aug 18|[Villains Are Destined to Die](https://yenpress.com/titles/9798400905759-villains-are-destined-to-die-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
 |Aug 19|[My Tiny Senpai](https://j-novel.club/series/my-tiny-senpai#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️<span class="hidden">📖</span>|
@@ -386,7 +384,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 17|[Maid to Skate](https://www.viz.com/manga-books/manga/maid-to-skate-volume-2-0/product/9069/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905193-my-secretly-hot-husband-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[Overgeared](https://yenpress.com/titles/9798400905476-overgeared-vol-12 "Ize Press")|12|Ize Press|🖥️📖|
-|Nov 17|[Puniru is a Kawaii Slime (Omnibus)](https://sevenseasentertainment.com/books/puniru-is-a-kawaii-slime-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905834-revenge-of-the-baskerville-bloodhound-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Nov 17|[Seven Sundays](https://yenpress.com/titles/9798400905438-seven-sundays-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
@@ -450,7 +447,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 01|[I Thought My Childhood Friend Was a Guy… Now She's My Wife and It's Going Too Well!](https://sevenseasentertainment.com/books/i-thought-my-childhood-friend-was-a-guy-now-shes-my-wife-and-its-going-too-well-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[I Wish I Could Meet You Again on the Hill Where That Flower Blooms (Omnibus)](https://sevenseasentertainment.com/books/i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-manga-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[Marchen](https://sevenseasentertainment.com/books/marchen/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Dec 01|[The Death Defying Princess Creates a Yuri Harem to Survive](https://sevenseasentertainment.com/books/the-death-defying-princess-creates-a-yuri-harem-to-survive-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
