@@ -531,6 +531,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy](https://sevenseasentertainment.com/books/the-tomorrow-i-want-to-see-with-kako-a-time-loop-romantic-comedy-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Villainous Noble is Way Too Fond of MILF Heroines](https://sevenseasentertainment.com/books/the-villainous-noble-is-way-too-fond-of-milf-heroines-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jan 19|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Record of Chrono's War: Apparently I'm Only the Strongest in Bed](https://sevenseasentertainment.com/books/record-of-chronos-war-apparently-im-only-the-strongest-in-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reunion](https://yenpress.com/titles/9798400905674-reunion-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
@@ -664,6 +665,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |May 04|[Welcome to Demon School! Iruma-kun: Devilish Tales - Kalego's Story](https://www.penguinrandomhouse.com/books/840410/welcome-to-demon-school-iruma-kun-devilish-tales---kalegos-story-by-osamu-nishi/9781647296599 "Kodansha")|1|Kodansha|🖥️📖|
 |May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|May 18|[Wild Paws](https://www.penguinrandomhouse.com/books/837127/wild-paws-volume-2-by-victor-nordahl/9781427889584 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 
 ### June
 
