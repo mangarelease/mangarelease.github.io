@@ -652,7 +652,9 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[The one. Later on…](https://www.penguinrandomhouse.com/books/830906/the-one-later-on-vol2-by-written-by-nahato/9781787747449 "Titan Comics")|2|Titan Comics|📖|
 |Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427887863 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427887863 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892492 "TOKYOPOP")|1.1|TOKYOPOP|🖥️|
+|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1.2|TOKYOPOP|🖥️|
 |Oct 27|[The Record of Fantastical Nomenclature](https://yenpress.com/titles/9798855423013-the-record-of-fantastical-nomenclature-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Summer Hikaru Died](https://yenpress.com/titles/9798855437799-the-summer-hikaru-died-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 27|[The Villainess Stans the Heroes: Playing the Antagonist to Support Her Faves!](https://yenpress.com/titles/9798855436167-the-villainess-stans-the-heroes-playing-the-antagonist-to-support-her-faves-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
@@ -1431,7 +1433,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 06|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Apr 06|[I Got Reincarnated in a (BL) World of Big (Man) Boobs](https://www.penguinrandomhouse.com/books/845130/i-got-reincarnated-in-a-bl-world-of-big-man-boobs-3-by-tsukiji-nao/9798888772966 "Kodansha")|3|Kodansha|📖|
 |Apr 06|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Apr 06|[Kha and the Dragon's Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Apr 06|[Kha and the Dragons Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-betrayed-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Apr 06|[LastBoss LoveDeath](https://www.penguinrandomhouse.com/books/856911/lastboss-lovedeath-by-written-by-yoshikazu-kuwajima/9781806184897 "Titan Comics")|1|Titan Comics|📖|
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
@@ -1522,7 +1524,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |May 18|[Rega in the Sleeping Forest](https://www.penguinrandomhouse.com/books/845136/rega-in-the-sleeping-forest-1-by-yoruhashi/9798900740683 "Kodansha")|1|Kodansha|📖|
 |May 18|[Shugo Chara! Jewel Joker](https://www.penguinrandomhouse.com/books/859683/shugo-chara-jewel-joker-4-by-peach-pit/9798900742861 "Kodansha")|4|Kodansha|📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|May 18|[Wild Paws](https://www.penguinrandomhouse.com/books/837127/wild-paws-volume-2-by-victor-nordahl/9781427889584 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|May 18|[Wild Paws](https://www.penguinrandomhouse.com/books/837127/wild-paws-volume-2-the-forest-by-victor-nordahl/9781427889584 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 
 ### June
 
