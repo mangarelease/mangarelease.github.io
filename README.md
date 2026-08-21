@@ -874,7 +874,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 01|[Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://sevenseasentertainment.com/books/backstabbed-in-a-backwater-dungeon-my-party-tried-to-kill-me-but-thanks-to-an-infinite-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Dec 01|[Black Jack](https://www.penguinrandomhouse.com/books/834124/black-jack-deluxe-edition-2-by-osamu-tezuka/9781647296162 "Kodansha")|2|Kodansha|📖|
 |Dec 01|[Blue Period](https://www.penguinrandomhouse.com/books/830903/blue-period-18-by-tsubasa-yamaguchi/9798888779811 "Kodansha")|18|Kodansha|📖|
-|Dec 01|[Broken Blade](https://www.penguinrandomhouse.com/books/834033/broken-blade-vol1-by-written-by-yunosuke-yoshinaga/9781806182961 "Titan Comics")|1|Titan Comics|📖|
+|Dec 01|[Break Blade](https://www.penguinrandomhouse.com/books/834033/break-blade-vol1-by-written-by-yunosuke-yoshinaga/9781806182961 "Titan Comics")|1|Titan Comics|📖|
 |Dec 01|[Chasing Red](https://www.penguinrandomhouse.com/books/827229/chasing-red-vol-3-by-isabelle-ronin/9781834110516 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
 |Dec 01|[Death of a Pop Star](https://www.penguinrandomhouse.com/books/816102/death-of-a-pop-star-vol-3-by-violet-karim/9781834110356 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
 |Dec 01|[DOGGO](https://sevenseasentertainment.com/books/doggo-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -1314,7 +1314,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 02|[A Prince of a Friend](https://sevenseasentertainment.com/books/a-prince-of-a-friend-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Mar 02|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Mar 02|[As Fish to Water: Where the Forest Meets the Sea](https://sevenseasentertainment.com/books/as-fish-to-water-where-the-forest-meets-the-sea-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Mar 02|[Broken Blade](https://www.penguinrandomhouse.com/books/838963/broken-blade-vol2-by-written-by-yunosuke-yoshinaga/9781806182978 "Titan Comics")|2|Titan Comics|📖|
+|Mar 02|[Break Blade](https://www.penguinrandomhouse.com/books/838963/break-blade-vol2-by-written-by-yunosuke-yoshinaga/9781806182978 "Titan Comics")|2|Titan Comics|📖|
 |Mar 02|[Deva Zan (Second Edition)](https://www.darkhorse.com/books/3016-964/deva-zan-hc-second-edition/ "Dark Horse")|1|Dark Horse|📖|
 |Mar 02|[Dinosaur Sanctuary](https://sevenseasentertainment.com/books/dinosaur-sanctuary-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Mar 02|[FAIRY TAIL: 100 Years Quest](https://www.penguinrandomhouse.com/books/845148/fairy-tail-100-years-quest-23-by-hiro-mashima/9798900741017 "Kodansha")|23|Kodansha|📖|
