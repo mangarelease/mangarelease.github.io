@@ -343,7 +343,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 22|[Mage of Leda](https://yenpress.com/titles/9798855423037-mage-of-leda-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Magia Record: Puella Magi Madoka Magica Side Story](https://yenpress.com/titles/9781975394028-magia-record-puella-magi-madoka-magica-side-story-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 22|[Merit and the Egyptian God](https://yenpress.com/titles/9798855418156-merit-and-the-egyptian-god-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 22|[Merry Witches' Life](https://www.penguinrandomhouse.com/books/833336/merry-witches-life-volume-4-by-menota/9781427887528 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
 |Sep 22|[Mobile Suit Gundam: The Witch from Mercury—Vanadis Heart](https://yenpress.com/titles/9798855438758-mobile-suit-gundam-the-witch-from-mercury-vanadis-heart-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Murciélago](https://yenpress.com/titles/9798855436082-murcielago-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
 |Sep 22|[Mushishi Collector's Edition](https://www.penguinrandomhouse.com/books/802029/mushishi-collectors-edition-3-by-yuki-urushibara/9798888776360 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -388,7 +387,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 29|[Eko Eko Azarak Reborn](https://www.penguinrandomhouse.com/books/830760/eko-eko-azarak-reborn-vol2-by-written-by-yamada-jta/9781787747043 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[Free Life Fantasy Online: Immortal Princess](https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 29|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 29|[His Sensual Whisper: The Voice That Sets Me On Fire](https://sevenseasentertainment.com/books/his-sensual-whisper-the-voice-that-sets-me-on-fire-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[How NOT to Summon a Demon Lord](https://sevenseasentertainment.com/books/how-not-to-summon-a-demon-lord-manga-vol-25/ "Seven Seas Entertainment")|25|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -401,7 +399,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 29|[Omega Megaera](https://www.penguinrandomhouse.com/books/800465/omega-megaera-6-by-maki-marukido/9798888775967 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-manga-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 29|[Resident Evil: Death Island](https://www.penguinrandomhouse.com/books/840692/resident-evil-death-island-vol1-by-written-by-zino/9781806182923 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427887535 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Slow Life In Another World (I Wish!)](https://sevenseasentertainment.com/books/slow-life-in-another-world-i-wish-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[That's Not Love](https://www.penguinrandomhouse.com/books/813098/thats-not-love-3-by-peko-watanabe/9798888777534 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -448,6 +445,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 06|[Lore Olympus: Volume Eleven](https://www.penguinrandomhouse.com/books/789707/lore-olympus-volume-eleven-by-rachel-smythe/9798217091218 "Inklore")|11|Inklore|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Oct 06|[Merry Witches' Life](https://www.penguinrandomhouse.com/books/833336/merry-witches-life-volume-4-by-menota/9781427887528 "TOKYOPOP")|4|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Monster Cats](https://sevenseasentertainment.com/books/monster-cats-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[My Journey to Her](https://www.penguinrandomhouse.com/books/824196/my-journey-to-her-by-yuna-hirasawa/9798888778388 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Peach Boy Riverside](https://www.penguinrandomhouse.com/books/787949/peach-boy-riverside-16-by-story-by-coolkyousinnjya-art-by-johanne/9798888775400 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -470,7 +468,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 13|[A Prince of a Friend](https://sevenseasentertainment.com/books/a-prince-of-a-friend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 13|[BABY.](https://www.penguinrandomhouse.com/books/834026/baby-vol1-by-written-by-chang-sheng/9781787748774 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-7-0/product/9033/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Oct 13|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-100-0/product/9028/paperback "VIZ Media")|100|VIZ Media|🖥️📖|
 |Oct 13|[Chainsaw Man](https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Oct 13|[Does it Count if You Lose Your Virginity to an Android?](https://sevenseasentertainment.com/books/does-it-count-if-you-lose-your-virginity-to-an-android-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -494,6 +491,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 13|[Please Go Home, Miss Akutsu!](https://sevenseasentertainment.com/books/please-go-home-miss-akutsu-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Pokémon: Scarlet & Violet](https://www.viz.com/manga-books/manga/pokemon-scarlet-violet-volume-6-0/product/9038/paperback "VIZ Media")|6|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-12-0/product/9041/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
+|Oct 13|[Resident Evil: Death Island](https://www.penguinrandomhouse.com/books/840692/resident-evil-death-island-vol1-by-written-by-zino/9781806182923 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Saint Seiya: Dark Wing](https://www.penguinrandomhouse.com/books/826386/saint-seiya-dark-wing-vol4-by-written-by-masami-kurumada/9781787747210 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Shimazaki in the Land of Peace](https://www.penguinrandomhouse.com/books/834151/shimazaki-in-the-land-of-peace-10-by-gouten-hamada/9781647296148 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Somali and the Forest Spirit](https://www.penguinrandomhouse.com/books/841865/somali-and-the-forest-spirit-vol6-by-written-by-yako-gureishi/9781787748538 "Titan Comics")|6|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -694,6 +692,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/747113/cherry-blossoms-after-winter-volume-5-by-bamwoo/9780593871058 "Inklore")|5|Inklore|🖥️📖|
 |Nov 10|[Darwin's Game (3-in-1 Edition) (Vol.1, 2, 3)](https://www.penguinrandomhouse.com/books/834031/darwins-game-3-in-1-edition-vol1-2-3-vol1-by-written-by-flipflops/9781806182930 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 10|[From Villainess to Healer: I Know the Cheat to Change My Fate](https://yenpress.com/titles/9781718333628-from-villainess-to-healer-i-know-the-cheat-to-change-my-fate-volume-1-manga "J-Novel Club")|1|J-Novel Club|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Have Fun! Its the End of the World!](https://www.penguinrandomhouse.com/books/824136/have-fun-its-the-end-of-the-world-vol1-by-written-by-sakyuu-tottori/9781787749412 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 10|[High Elf with a Long Life](https://www.penguinrandomhouse.com/books/841866/high-elf-with-a-long-life-vol2-by-written-by-rarutori/9781787749092 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -733,6 +732,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824199/beck-omnibus-1-vol-1-2-by-harold-sakuishi/9798888778470 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
+|Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Blue Lock](https://www.penguinrandomhouse.com/books/830950/blue-lock-36-by-muneyuki-kaneshiro/9798888779743 "Kodansha")|36|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Bug Ego](https://www.viz.com/manga-books/manga/bug-ego-volume-3-0/product/9058/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-4-0/product/9056/paperback "VIZ Media")|4|VIZ Media|🖥️📖|

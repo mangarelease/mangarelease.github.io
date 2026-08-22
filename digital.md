@@ -184,7 +184,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[Mage of Leda](https://yenpress.com/titles/9798855423037-mage-of-leda-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Magia Record: Puella Magi Madoka Magica Side Story](https://yenpress.com/titles/9781975394028-magia-record-puella-magi-madoka-magica-side-story-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 22|[Merit and the Egyptian God](https://yenpress.com/titles/9798855418156-merit-and-the-egyptian-god-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 22|[Merry Witches' Life](https://www.penguinrandomhouse.com/books/833336/merry-witches-life-volume-4-by-menota/9781427887528 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
+|Sep 22|[Merry Witches' Life](https://www.penguinrandomhouse.com/books/833336/merry-witches-life-volume-4-by-menota/9781427892072 "TOKYOPOP")|4|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 22|[Mobile Suit Gundam: The Witch from Mercury—Vanadis Heart](https://yenpress.com/titles/9798855438758-mobile-suit-gundam-the-witch-from-mercury-vanadis-heart-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Murciélago](https://yenpress.com/titles/9798855436082-murcielago-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
 |Sep 22|[My Lover Is Just Too Innocent to Handle](https://yenpress.com/titles/9798855425161-my-lover-is-just-too-innocent-to-handle-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
