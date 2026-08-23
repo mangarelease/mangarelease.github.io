@@ -57,7 +57,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 10|[Ascendance of a Bookworm Part 4](https://j-novel.club/series/ascendance-of-a-bookworm-manga#volume-29 "J-Novel Club")|5|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Akane-banashi](https://www.viz.com/manga-books/manga/akane-banashi-volume-17-0/product/8930/paperback "VIZ Media")|17|VIZ Media|🖥️📖|
 |Aug 11|[Arifureta: From Commonplace to World's Strongest](https://sevenseasentertainment.com/books/arifureta-from-commonplace-to-worlds-strongest-manga-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Aug 11|[Ask Iwata](https://www.viz.com/manga-books/book/ask-iwata/product/8931/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
+|Aug 11|[Ask Iwata](https://www.viz.com/manga-books/book/ask-iwata/product/8931/paperback "VIZ Media")|1.2|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Betrayed by the Hero, I Formed a MILF Party With His Mom!](https://sevenseasentertainment.com/books/betrayed-by-the-hero-i-formed-a-milf-party-with-his-mom-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-20-0/product/8937/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
 |Aug 11|[Diary of a Female Lead: Shujinkou Nikki](https://sevenseasentertainment.com/books/diary-of-a-female-lead-shujinkou-nikki-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -72,7 +72,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Aug 11|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-8-0/product/8951/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 11|[Koharu and Minato: Happy Life with My Girlfriend](https://sevenseasentertainment.com/books/koharu-and-minato-happy-life-with-my-girlfriend-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 11|[Love at First Memory](https://www.penguinrandomhouse.com/books/813121/love-at-first-memory-3-by-narumi-hasegaki/9798888777169 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
-|Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/qualia-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/lynx-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 11|[Mao](https://www.viz.com/manga-books/manga/mao-volume-25-0/product/8954/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Aug 11|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-14-0/product/8955/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Aug 11|[My Girlfriend is 8 Meters Tall](https://sevenseasentertainment.com/books/my-girlfriend-is-8-meters-tall-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -296,6 +296,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 15|[Marriage of Convenience](https://yenpress.com/titles/9798400905278-marriage-of-convenience-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
 |Sep 15|[MARS 30th Anniversary Edition](https://www.penguinrandomhouse.com/books/815011/mars-30th-anniversary-edition-2-by-fuyumi-soryo/9798888777855 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Men of the Harem](https://yenpress.com/titles/9798400905636-men-of-the-harem-vol-7 "Ize Press")|7|Ize Press|<span class="hidden">🖥️</span>📖|
+|Sep 15|[Mobile Suit Gundam Thunderbolt](https://www.viz.com/manga-books/manga/mobile-suit-gundam-thunderbolt-volume-26-0/product/9089/paperback "VIZ Media")|26|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Murderous Lewellyn's Candlelit Dinner](https://yenpress.com/titles/9798400903472-murderous-lewellyn-s-candlelit-dinner-vol-6 "Ize Press")|6|Ize Press|<span class="hidden">🖥️</span>📖|
 |Sep 15|[My Useless “Cuddle” Skill Awakened, and Now I'm Building the Ultimate Harem!](https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 15|[Nobuo Uematsu: On the Record](https://www.viz.com/manga-books/book/nobuo-uematsu-on-the-record/product/9004/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|

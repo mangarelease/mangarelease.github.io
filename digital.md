@@ -37,7 +37,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 11|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-20-0/product/8937/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
 |Aug 11|[Girl Crush](https://www.viz.com/manga-books/manga/girl-crush-volume-8-0/product/8940/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Aug 11|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-8-0/product/8951/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/qualia-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/lynx-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 11|[Mao](https://www.viz.com/manga-books/manga/mao-volume-25-0/product/8954/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Aug 11|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-14-0/product/8955/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Aug 11|[My Noons and Midnights Are for You](https://www.penguinrandomhouse.com/books/820638/my-noons-and-midnights-are-for-you-volume-2-by-luria/9781427886279 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
