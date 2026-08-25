@@ -91,7 +91,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 25|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855424423-i-don-t-know-which-is-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855424751-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-28-manga "Yen Press")|28|Yen Press|🖥️📖|
 |Aug 25|[Konosuba: God's Blessing on This Wonderful World!](https://yenpress.com/titles/9798855433685-konosuba-god-s-blessing-on-this-wonderful-world-vol-21-manga "Yen Press")|21|Yen Press|🖥️📖|
-|Aug 25|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[Manga in Theory and Practice: How to Create Villains](https://www.viz.com/manga-books/book/manga-in-theory-and-practice-volume-1-0/product/8953/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 25|[Mechanical Marie](https://yenpress.com/titles/9798855407891-mechanical-marie-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Mobile Suit Gundam: The Witch from Mercury—Vanadis Heart](https://yenpress.com/titles/9798855437102-mobile-suit-gundam-the-witch-from-mercury-vanadis-heart-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -99,7 +98,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 25|[My Dear, Curse-Casting Vampiress](https://yenpress.com/titles/9798855436105-my-dear-curse-casting-vampiress-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Aug 25|[No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!](https://yenpress.com/titles/9798855436129-no-matter-how-i-look-at-it-it-s-you-guys-fault-i-m-not-popular-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
 |Aug 25|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420876-playing-death-games-to-put-food-on-the-table-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[Rock Is a Lady's Modesty](https://yenpress.com/titles/9798855408010-rock-is-a-lady-s-modesty-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427892058 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Aug 25|[Shy](https://yenpress.com/titles/9798855402551-shy-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
@@ -110,7 +108,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 25|[The Broken Ring](https://www.penguinrandomhouse.com/books/769048/the-broken-ring-volume-3-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9780593972670 "Inklore")|3|Inklore|🖥️📖|
 |Aug 25|[The Color of the End: Mission in the Apocalypse](https://yenpress.com/titles/9798855435290-the-color-of-the-end-mission-in-the-apocalypse-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Aug 25|[The Demon Consort: “I Love You” Are Frightening Words](https://yenpress.com/titles/9798855421804-the-demon-consort-i-love-you-are-frightening-words-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Aug 25|[Then Shall I Kill in Your Stead?](https://yenpress.com/titles/9798855427028-then-shall-i-kill-in-your-stead-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[The War of Greedy Witches](https://yenpress.com/titles/9798855401486-the-war-of-greedy-witches-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/834155/welcome-to-demon-school-iruma-kun-irumafia-edition-5-by-osamu-nishi/9781647296032 "Kodansha")|5|Kodansha|🖥️📖|
@@ -422,7 +419,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[Non and Akari: The Complete Omnibus](https://yenpress.com/titles/9798855420630-non-and-akari-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[[Oshi No Ko]](https://yenpress.com/titles/9798855439687-oshi-no-ko-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Nov 24|[Pink & Habanero](https://yenpress.com/titles/9781975397524-pink-habanero-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Nov 24|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[Shadows House](https://yenpress.com/titles/9798855403510-shadows-house-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Nov 24|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -481,7 +477,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[I'm the Monster Girl You Once Saved: A Middle-Aged Teacher in Another World Is Concerned About His Sudden Popularity](https://yenpress.com/titles/9798855442939-i-m-the-monster-girl-you-once-saved-a-middle-aged-teacher-in-another-world-is-concerned-about-his-sudden-popularity-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[In Such a Small World](https://yenpress.com/titles/9798855444520-in-such-a-small-world "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[My Sketchy Roommate](https://sevenseasentertainment.com/books/my-sketchy-roommate/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855430288-once-upon-a-witch-s-death-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|

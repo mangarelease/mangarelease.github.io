@@ -178,7 +178,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 25|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855424751-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-28-manga "Yen Press")|28|Yen Press|🖥️📖|
 |Aug 25|[Kamen Rider Kuuga](https://www.penguinrandomhouse.com/books/799902/kamen-rider-kuuga-vol12-by-written-by-shotaro-ishinomori/9781787741157 "Titan Comics")|12|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Konosuba: God's Blessing on This Wonderful World!](https://yenpress.com/titles/9798855433685-konosuba-god-s-blessing-on-this-wonderful-world-vol-21-manga "Yen Press")|21|Yen Press|🖥️📖|
-|Aug 25|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 25|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Manga in Theory and Practice: How to Create Villains](https://www.viz.com/manga-books/book/manga-in-theory-and-practice-volume-1-0/product/8953/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Aug 25|[Mechanical Marie](https://yenpress.com/titles/9798855407891-mechanical-marie-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Miss Kobayashi's Dragon Maid](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-vol-17/ "Seven Seas Entertainment")|17|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -189,7 +189,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 25|[No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!](https://yenpress.com/titles/9798855436129-no-matter-how-i-look-at-it-it-s-you-guys-fault-i-m-not-popular-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
 |Aug 25|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420876-playing-death-games-to-put-food-on-the-table-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[Precarious Woman Executive Miss Black General](https://sevenseasentertainment.com/books/precarious-woman-executive-miss-black-general-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Aug 25|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 25|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Rock Is a Lady's Modesty](https://yenpress.com/titles/9798855408010-rock-is-a-lady-s-modesty-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Aug 25|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427892058 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Aug 25|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/772327/senpai-is-an-otokonoko-my-crossdressing-classmate-7-by-pom/9798888773673 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -208,7 +208,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 25|[The Kiss Bet](https://www.penguinrandomhouse.com/books/816100/the-kiss-bet-vol-4-by-ingrid-ochoa/9781834110318 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Aug 25|[The Last Elf](https://sevenseasentertainment.com/books/the-last-elf-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 25|[The Long Summer of August 31](https://sevenseasentertainment.com/books/the-long-summer-of-august-31-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Aug 25|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Aug 25|[The Misdeeds of an Extremely Arrogant Villain Aristocrat](https://sevenseasentertainment.com/books/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Aug 25|[Then Shall I Kill in Your Stead?](https://yenpress.com/titles/9798855427028-then-shall-i-kill-in-your-stead-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Aug 25|[The War of Greedy Witches](https://yenpress.com/titles/9798855401486-the-war-of-greedy-witches-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Aug 25|[Toxic Super Beasts](https://www.penguinrandomhouse.com/books/833049/toxic-super-beasts-vol4-by-written-by-nykken/9781806182244 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -841,7 +841,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 24|[Non and Akari: The Complete Omnibus](https://yenpress.com/titles/9798855420630-non-and-akari-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[[Oshi No Ko]](https://yenpress.com/titles/9798855439687-oshi-no-ko-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Nov 24|[Pink & Habanero](https://yenpress.com/titles/9781975397524-pink-habanero-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Nov 24|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 24|[Raul and His Vampire Prince](https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Rebel Hero: I Will Use My Skills to Control the Scheming Princess's Heart and Body](https://sevenseasentertainment.com/books/rebel-hero-i-will-use-my-skills-to-control-the-scheming-princesss-heart-and-body-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-manga-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Ripples in the River](https://sevenseasentertainment.com/books/ripples-in-the-river-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -981,7 +981,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[I Won't Let Mistress Suck My Blood](https://sevenseasentertainment.com/books/i-wont-let-mistress-suck-my-blood-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Koharu and Minato: Happy Life with My Girlfriend](https://sevenseasentertainment.com/books/koharu-and-minato-happy-life-with-my-girlfriend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Miss Kobayashi's Dragon Maid](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Monster Musume](https://sevenseasentertainment.com/books/monster-musume-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Mushishi Collector's Edition](https://www.penguinrandomhouse.com/books/802028/mushishi-collectors-edition-4-by-yuki-urushibara/9798888776377 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
