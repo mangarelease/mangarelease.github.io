@@ -664,6 +664,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 18|[Wild Paws](https://www.penguinrandomhouse.com/books/837127/wild-paws-volume-2-the-forest-by-victor-nordahl/9781427889584 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|May 25|[Fruit of the Underworld](https://www.penguinrandomhouse.com/books/852305/fruit-of-the-underworld-3-by-aya-kanno/9781647297107 "Kodansha")|3|Kodansha|🖥️📖|
+|May 25|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/840435/the-magnificent-bastard-6-by-keiichiro-ryu/9781647295240 "Kodansha")|6|Kodansha|🖥️📖|
 
 ### June
 

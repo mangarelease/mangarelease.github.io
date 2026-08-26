@@ -1331,7 +1331,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 02|[Mr. Vamp Is a Vampire](https://www.penguinrandomhouse.com/books/830967/mr-vamp-is-a-vampire-2-by-dorothy-odoroo/9798888779606 "Kodansha")|2|Kodansha|📖|
 |Mar 02|[Specimen Raw Blue](https://www.penguinrandomhouse.com/books/833307/specimen-raw-blue-volume-1-by-chikage/9781427888488 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Mar 02|[Stella Must Die](https://www.penguinrandomhouse.com/books/830933/stella-must-die-3-by-yasunori-mitsunaga/9798888779446 "Kodansha")|3|Kodansha|📖|
-|Mar 02|[Stella Must Die](https://www.penguinrandomhouse.com/books/830912/stella-must-die-4-by-yasunori-mitsunaga/9798888779873 "Kodansha")|4|Kodansha|📖|
 |Mar 02|[The Barbarian's Bride](https://sevenseasentertainment.com/books/the-barbarians-bride-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
 |Mar 02|[The Horizon Will Soon Shine](https://sevenseasentertainment.com/books/the-horizon-will-soon-shine-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 02|[The Lady Knight and the Beast-Eared Child](https://sevenseasentertainment.com/books/the-lady-knight-and-the-beast-eared-child-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
@@ -1527,6 +1526,21 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |May 18|[Shugo Chara! Jewel Joker](https://www.penguinrandomhouse.com/books/859683/shugo-chara-jewel-joker-4-by-peach-pit/9798900742861 "Kodansha")|4|Kodansha|📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |May 18|[Wild Paws](https://www.penguinrandomhouse.com/books/837127/wild-paws-volume-2-the-forest-by-victor-nordahl/9781427889584 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|May 25|[Anyway, I'm Falling in Love With You.](https://www.penguinrandomhouse.com/books/845184/anyway-im-falling-in-love-with-you-13-by-haruka-mitsui/9798900740935 "Kodansha")|13|Kodansha|📖|
+|May 25|[Cells at Work! Cat](https://www.penguinrandomhouse.com/books/859707/cells-at-work-cat-5-by-manga-by-meku-kaire-story-by-choco-aozora-based-on-cells-at-work-by-akane-shimizu/9798900742540 "Kodansha")|5|Kodansha|📖|
+|May 25|[Dig It](https://www.penguinrandomhouse.com/books/845140/dig-it-1-by-yoshidamaru/9798900740898 "Kodansha")|1|Kodansha|📖|
+|May 25|[Fruit of the Underworld](https://www.penguinrandomhouse.com/books/852305/fruit-of-the-underworld-3-by-aya-kanno/9781647297107 "Kodansha")|3|Kodansha|🖥️📖|
+|May 25|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/845153/grand-blue-dreaming-26-by-kenji-inoue/9798900741062 "Kodansha")|26|Kodansha|📖|
+|May 25|[Mayfly Island](https://www.penguinrandomhouse.com/books/843426/mayfly-island-volume-1-by-evergreen-yeh/9781427890351 "TOKYOPOP")|1|TOKYOPOP|📖|
+|May 25|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|📖|
+|May 25|[Shangri-La Frontier](https://www.penguinrandomhouse.com/books/826297/shangri-la-frontier-24-by-ryosuke-fuji/9798888779187 "Kodansha")|24|Kodansha|📖|
+|May 25|[Stella Must Die](https://www.penguinrandomhouse.com/books/830912/stella-must-die-4-by-yasunori-mitsunaga/9798888779873 "Kodansha")|4|Kodansha|📖|
+|May 25|[The Mafia Nanny, vol. 4](https://www.penguinrandomhouse.com/books/838398/the-mafia-nanny-vol-4-by-sh00-violet-matter/9781834110875 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|📖|
+|May 25|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/840435/the-magnificent-bastard-6-by-keiichiro-ryu/9781647295240 "Kodansha")|6|Kodansha|🖥️📖|
+|May 25|[The Reclusive Consort of the Rikan Empire](https://www.penguinrandomhouse.com/books/843442/the-reclusive-consort-of-the-rikan-empire-volume-1-by-misaki-sako/9781427891143 "TOKYOPOP")|1|TOKYOPOP|📖|
+|May 25|[Tower of God, vol. 7](https://www.penguinrandomhouse.com/books/842816/tower-of-god-vol-7-by-siu/9781990778261 "WEBTOON Unscrolled")|7|WEBTOON Unscrolled|📖|
+|May 25|[WIND BREAKER](https://www.penguinrandomhouse.com/books/845127/wind-breaker-25-by-satoru-nii/9798900741390 "Kodansha")|25|Kodansha|📖|
+|May 25|[Your Throne](https://www.penguinrandomhouse.com/books/781992/your-throne-vol-3-by-sam/9781998341252 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
 
 ### June
 
