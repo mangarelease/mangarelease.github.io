@@ -418,13 +418,11 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Sep 29|[It Takes More Than a Pretty Face to Fall in Love](https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Keep Your Hands Off Eizouken!](https://www.darkhorse.com/books/3014-967/keep-your-hands-off-eizouken-volume-8-tpb/ "Dark Horse")|8|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Kitayama and Minamiya](https://sevenseasentertainment.com/books/kitayama-and-minamiya-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 29|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Sep 29|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427888822 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 29|[Omega Megaera](https://www.penguinrandomhouse.com/books/800465/omega-megaera-6-by-maki-marukido/9798888775967 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Reincarnated as a Dragon Hatchling](https://sevenseasentertainment.com/books/reincarnated-as-a-dragon-hatchling-manga-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 29|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427887535 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Sep 29|[Slow Life In Another World (I Wish!)](https://sevenseasentertainment.com/books/slow-life-in-another-world-i-wish-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 29|[That's Not Love](https://www.penguinrandomhouse.com/books/813098/thats-not-love-3-by-peko-watanabe/9798888777534 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Sep 29|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/833372/the-devils-in-the-lunch-deals-volume-1-by-ishiko/9781427888723 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
@@ -476,6 +474,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 06|[My Journey to Her](https://www.penguinrandomhouse.com/books/824196/my-journey-to-her-by-yuna-hirasawa/9798888778388 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Peach Boy Riverside](https://www.penguinrandomhouse.com/books/787949/peach-boy-riverside-16-by-story-by-coolkyousinnjya-art-by-johanne/9798888775400 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-5-0/product/9029/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
+|Oct 06|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427887535 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 06|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/824134/school-for-wizards-old-enough-to-learn-magic-vol1-by-written-by-yuhi-ueno/9781787749252 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-3-0/product/9030/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 06|[Sword of the Titans](https://www.penguinrandomhouse.com/books/811647/sword-of-the-titans-vol2-by-written-by-kashidashiki/9781787749320 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -513,6 +512,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 13|[Malevolent Spirits: Mononogatari](https://sevenseasentertainment.com/books/malevolent-spirits-mononogatari-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 13|[My Hero Academia: Team-Up Missions](https://www.viz.com/manga-books/art-book/my-hero-academia-ultra-artworks/product/9013/hardcover "VIZ Media")|8|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Nagahama to Be, or Not to Be: The Second Voyage](https://sevenseasentertainment.com/books/nagahama-to-be-or-not-to-be-the-second-voyage/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Oct 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427886712 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 13|[No Longer Allowed In Another World](https://sevenseasentertainment.com/books/no-longer-allowed-in-another-world-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Please Go Home, Miss Akutsu!](https://sevenseasentertainment.com/books/please-go-home-miss-akutsu-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 13|[Pokémon: Scarlet & Violet](https://www.viz.com/manga-books/manga/pokemon-scarlet-violet-volume-6-0/product/9038/paperback "VIZ Media")|6|VIZ Media|<span class="hidden">🖥️</span>📖|
@@ -967,6 +967,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[In Such a Small World](https://yenpress.com/titles/9798855444520-in-such-a-small-world "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[I Won't Let Mistress Suck My Blood](https://sevenseasentertainment.com/books/i-wont-let-mistress-suck-my-blood-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Koharu and Minato: Happy Life with My Girlfriend](https://sevenseasentertainment.com/books/koharu-and-minato-happy-life-with-my-girlfriend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 15|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Miss Kobayashi's Dragon Maid](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|

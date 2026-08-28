@@ -215,7 +215,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 29|[Can You Kiss Me First?](https://sevenseasentertainment.com/books/can-you-kiss-me-first-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Sep 29|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Sep 29|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -476,6 +475,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Imitation](https://yenpress.com/titles/9798855412826-imitation-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Dec 15|[I'm the Monster Girl You Once Saved: A Middle-Aged Teacher in Another World Is Concerned About His Sudden Popularity](https://yenpress.com/titles/9798855442939-i-m-the-monster-girl-you-once-saved-a-middle-aged-teacher-in-another-world-is-concerned-about-his-sudden-popularity-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[In Such a Small World](https://yenpress.com/titles/9798855444520-in-such-a-small-world "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 15|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[My Sketchy Roommate](https://sevenseasentertainment.com/books/my-sketchy-roommate/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
