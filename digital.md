@@ -252,7 +252,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751250/how-to-hide-the-emperors-child-volume-1-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872451 "Inklore")|1|Inklore|🖥️📖|
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
 |Oct 13|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 13|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-12-0/product/9041/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 13|[Splatoon 3: Splatlands](https://www.viz.com/manga-books/manga/splatoon-3-splatlands-volume-7-0/product/9045/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 13|[The Apology of Noumi-Senpai](https://sevenseasentertainment.com/books/the-apology-of-noumi-senpai/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -426,6 +425,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[Sword Art Online Ordinal Scale](https://yenpress.com/titles/9798855411843-sword-art-online-ordinal-scale-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Tale of the Wizrain Kingdom: The Dragon Is the Bride](https://yenpress.com/titles/9798855435252-tale-of-the-wizrain-kingdom-the-dragon-is-the-bride-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Terrarium in a Drawer](https://yenpress.com/titles/9798855447477-terrarium-in-a-drawer "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-1-0/product/9090/digital "VIZ Media")|1|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-2-0/product/9091/digital "VIZ Media")|2|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-3-0/product/9092/digital "VIZ Media")|3|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-4-0/product/9093/digital "VIZ Media")|4|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-5-0/product/9094/digital "VIZ Media")|5|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Saga of Tanya the Evil](https://yenpress.com/titles/9798855406849-the-saga-of-tanya-the-evil-vol-29-manga "Yen Press")|29|Yen Press|🖥️📖|
 |Nov 24|[The Shiunji Family Children](https://yenpress.com/titles/9798855439601-the-shiunji-family-children-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Toilet-bound Hanako-kun](https://yenpress.com/titles/9798855441994-toilet-bound-hanako-kun-vol-25 "Yen Press")|25|Yen Press|🖥️📖|
@@ -439,24 +443,45 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-8-0/product/9097/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-tokyopop/9781427886682 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-adriano-barone/9781427892225 "TOKYOPOP")|2.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-adriano-barone/9781427892232 "TOKYOPOP")|2.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Dec 01|[Blue Exorcist](https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
+|Dec 01|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-22-0/product/9104/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
+|Dec 01|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
+|Dec 01|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-6-0/product/9099/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
+|Dec 01|[I'm No Angel](https://www.viz.com/manga-books/manga/i-m-no-angel-volume-3-0/product/9100/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Dec 01|[I Thought My Childhood Friend Was a Guy… Now She's My Wife and It's Going Too Well!](https://sevenseasentertainment.com/books/i-thought-my-childhood-friend-was-a-guy-now-shes-my-wife-and-its-going-too-well-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[I Wish I Could Meet You Again on the Hill Where That Flower Blooms (Omnibus)](https://sevenseasentertainment.com/books/i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-manga-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 01|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-10-0/product/9102/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Dec 01|[Marchen](https://sevenseasentertainment.com/books/marchen/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 01|[Otaku Vampire's Love Bite](https://www.viz.com/manga-books/manga/otaku-vampire-s-love-bite-volume-9-0/product/9103/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
+|Dec 01|[Pink Candy Kiss](https://www.viz.com/manga-books/manga/pink-candy-kiss-volume-6-0/product/9110/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
+|Dec 01|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-4-0/product/9108/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
+|Dec 01|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-10-0/product/9106/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 01|[Vampire Knight: Memories](https://www.viz.com/manga-books/manga/vampire-knight-memories-volume-11-0/product/9111/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[Call of the Night: Paradise Arc](https://www.viz.com/manga-books/manga/call-of-the-night-paradise-arc/product/9095/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Dec 08|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-34-0/product/9112/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
+|Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
 |Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 08|[Mii-chan and Miss Yamada](https://sevenseasentertainment.com/books/mii-chan-and-miss-yamada-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[Moriarty the Patriot](https://www.viz.com/manga-books/manga/moriarty-the-patriot-volume-21-0/product/9109/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 08|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797866/my-love-story-with-yamada-kun-at-lv999-volume-8-by-mashiro/9798217091911 "Inklore")|8|Inklore|🖥️📖|
+|Dec 08|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-13-0/product/9107/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
+|Dec 08|[Rai Rai Rai](https://www.viz.com/manga-books/manga/rai-rai-rai-volume-6-0/product/9120/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Dec 08|[Sleeping Dead (Omnibus)](https://sevenseasentertainment.com/books/sleeping-dead-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[SSS-Class Revival Hunter](https://yenpress.com/titles/9798400903991-sss-class-revival-hunter-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
+|Dec 08|[Status Royale](https://www.viz.com/manga-books/graphic-novel/status-royale-volume-3-0/product/9114/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
+|Dec 08|[Tsumiki Ogami's Not-So-Ordinary Life](https://www.viz.com/manga-books/manga/tsumiki-ogami-s-not-so-ordinary-life-volume-8-0/product/9118/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 08|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834150/welcome-to-demon-school-iruma-kun-23-by-osamu-nishi/9781647294243 "Kodansha")|23|Kodansha|🖥️📖|
+|Dec 08|[Yakuza vs. Cat](https://www.viz.com/manga-books/manga/yakuza-vs-cat-volume-1-0/product/9119/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Dec 15|[Alma-chan Wants to Be a Family!](https://yenpress.com/titles/9798855432343-alma-chan-wants-to-be-a-family-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -464,8 +489,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Beneath the Fur](https://yenpress.com/titles/9798855421828-beneath-the-fur-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Bocchi the Rock! Side Story: Kikuri Hiroi's Heavy-Drinking Diary](https://yenpress.com/titles/9798855423846-bocchi-the-rock-side-story-kikuri-hiroi-s-heavy-drinking-diary-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Bungo Stray Dogs: Wan!](https://yenpress.com/titles/9798855438659-bungo-stray-dogs-wan-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
+|Dec 15|[Cosmos](https://www.viz.com/manga-books/manga/cosmos-volume-7-0/product/9117/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Dec 15|[Deep-Sea Aquarium Magmell](https://yenpress.com/titles/9798855421583-deep-sea-aquarium-magmell-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Divine Incursions](https://yenpress.com/titles/9798855427837-divine-incursions-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
+|Dec 15|[Fool Night](https://www.viz.com/manga-books/manga/fool-night-volume-11-0/product/9116/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Dec 15|[Futari Switch](https://yenpress.com/titles/9798855413298-futari-switch-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Gabriel Dropout](https://yenpress.com/titles/9798855438376-gabriel-dropout-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Dec 15|[Gusts and Beats](https://yenpress.com/titles/9798855432008-gusts-and-beats-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -649,6 +676,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
