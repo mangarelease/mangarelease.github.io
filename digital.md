@@ -209,7 +209,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[Yuri Yuri Panic: A Case of Extreme Cuteness Has Occurred!](https://sevenseasentertainment.com/books/yuri-yuri-panic-a-case-of-extreme-cuteness-has-occurred-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 23|[Reset](https://j-novel.club/series/resetreboot#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 29|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-tokyopop/9781427885968 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892201 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[Can You Kiss Me First?](https://sevenseasentertainment.com/books/can-you-kiss-me-first-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
