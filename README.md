@@ -220,7 +220,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 01|[10 Things I Want to Do Before I Turn 40 – Part 2](https://sevenseasentertainment.com/books/10-things-i-want-to-do-before-i-turn-40-part-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Sep 01|[Accidental Assassin](https://www.penguinrandomhouse.com/books/827228/accidental-assassin-vol-1-by-molly-ni-cheileachair/9781834110509 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
 |Sep 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-7-0/product/9088/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Sep 01|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 01|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Sep 01|[Dai Dark](https://sevenseasentertainment.com/books/dai-dark-deluxe-edition-1-vol-1-3-hardcover-omnibus/ "Seven Seas Entertainment")|1-3|Seven Seas Entertainment|📖|
 |Sep 01|[Delusion](https://www.penguinrandomhouse.com/books/799610/delusion-volume-1-by-hongjacga/9798217092925 "Inklore")|1|Inklore|🖥️📖|
 |Sep 01|[Dungeon Elf: What's a Dungeon without Treasure Chests?](https://sevenseasentertainment.com/books/dungeon-elf-whats-a-dungeon-without-treasure-chests-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
@@ -234,7 +234,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 01|[Nana 25th Anniversary Edition](https://www.viz.com/manga-books/manga/nana-25th-anniversary-edition-volume-5-0/product/8982/paperback "VIZ Media")|5|VIZ Media|📖|
 |Sep 01|[Nina the Starry Bride](https://www.penguinrandomhouse.com/books/824186/nina-the-starry-bride-17-by-rikachi/9798888778975 "Kodansha")|17|Kodansha|📖|
 |Sep 01|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-8-0/product/8983/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Sep 01|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 01|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Sep 01|[RuriDragon](https://www.viz.com/manga-books/manga/ruridragon-volume-4-0/product/9000/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Sep 01|[Seaside Stranger](https://sevenseasentertainment.com/books/seaside-stranger-vol-7-harukaze-no-etranger/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Sep 01|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-1-0/product/8977/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -242,7 +242,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Sep 01|[Spy x Family](https://www.viz.com/manga-books/manga/spy-x-family-volume-16-0/product/8976/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Sep 01|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-5-0/product/8987/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Sep 01|[Tamamori's Fantasies Never Stop!](https://sevenseasentertainment.com/books/tamamoris-fantasies-never-stop-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
-|Sep 01|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 01|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Sep 01|[The Strange House](https://sevenseasentertainment.com/books/the-strange-house-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Sep 01|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-manga-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Sep 01|[The Weakest Tamer Began a Journey to Pick Up Trash](https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-manga-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
@@ -1103,13 +1103,13 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jan 05|[Kaya-chan Isn't Scary](https://sevenseasentertainment.com/books/kaya-chan-isnt-scary-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Jan 05|[Miss Kobayashi's Dragon Maid: Fafnir the Recluse](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-fafnir-the-recluse-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Jan 05|[My Stepmother and Stepsisters Aren't Wicked](https://sevenseasentertainment.com/books/my-stepmother-and-stepsisters-arent-wicked-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|📖|
-|Jan 05|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 05|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jan 05|[She's the Strongest Bride, But I'm Stronger in Night Battles: A Harem Chronicle of Advancing Through Cunning Tactics](https://sevenseasentertainment.com/books/shes-the-strongest-bride-but-im-stronger-in-night-battles-a-harem-chronicle-of-advancing-through-cunning-tactics-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Jan 05|[Shugo Chara! Jewel Joker](https://www.penguinrandomhouse.com/books/830918/shugo-chara-jewel-joker-3-by-peach-pit/9798888779903 "Kodansha")|3|Kodansha|📖|
 |Jan 05|[Skip and Loafer](https://sevenseasentertainment.com/books/skip-and-loafer-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Jan 05|[Sword of the Demon Hunter: Kijin Gentōshō](https://sevenseasentertainment.com/books/sword-of-the-demon-hunter-kijin-gentosho-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Jan 05|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834126/the-magnificent-bastard-5-by-keiichiro-ryu/9781647295233 "Kodansha")|5|Kodansha|🖥️📖|
-|Jan 05|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 05|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jan 05|[The One. Later On…](https://www.penguinrandomhouse.com/books/858414/the-one-later-on-vol3-by-written-by-nahato/9781787747456 "Titan Comics")|3|Titan Comics|📖|
 |Jan 12|[Blaze of Flesh and Blood](https://www.penguinrandomhouse.com/books/840450/blaze-of-flesh-and-blood-1-by-honomi/9781647296629 "Kodansha")|1|Kodansha|📖|
 |Jan 12|[Blue Lock](https://www.penguinrandomhouse.com/books/845144/blue-lock-38-by-muneyuki-kaneshiro/9798900740973 "Kodansha")|38|Kodansha|📖|
@@ -1177,7 +1177,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jan 26|[Blend-S](https://yenpress.com/titles/9798855406146-blend-s-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Chained Soldier](https://yenpress.com/titles/9798855447125-chained-soldier-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Jan 26|[Cheeky Brat](https://yenpress.com/titles/9781975362157-cheeky-brat-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
-|Jan 26|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Jan 26|[Chiruran: Shinsengumi Requiem (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/841786/chiruran-shinsengumi-requiem-3-in-1-edition-volume-1-vol-123-by-written-by-shinya-umemura/9781806186068 "Titan Comics")|1|Titan Comics|📖|
 |Jan 26|[Citrus+](https://sevenseasentertainment.com/books/citrusplus-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|

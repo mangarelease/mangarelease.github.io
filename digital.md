@@ -122,19 +122,16 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Sep 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-7-0/product/9088/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Sep 01|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[Delusion](https://www.penguinrandomhouse.com/books/799610/delusion-volume-1-by-hongjacga/9798217092925 "Inklore")|1|Inklore|🖥️📖|
 |Sep 01|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-2-0/product/8980/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Sep 01|[I'm No Angel](https://www.viz.com/manga-books/manga/i-m-no-angel-volume-2-0/product/8981/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Sep 01|[Kaiju No. 8](https://www.viz.com/manga-books/manga/kaiju-no-8-volume-16-0/product/8992/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Sep 01|[Magical Girl Dandelion](https://www.viz.com/manga-books/manga/magical-girl-dandelion-volume-3-0/product/8999/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Sep 01|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-8-0/product/8983/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Sep 01|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[RuriDragon](https://www.viz.com/manga-books/manga/ruridragon-volume-4-0/product/9000/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Sep 01|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-1-0/product/8977/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 01|[Spy x Family](https://www.viz.com/manga-books/manga/spy-x-family-volume-16-0/product/8976/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Sep 01|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-5-0/product/8987/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
-|Sep 01|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 01|[Ultimate Exorcist Kiyoshi](https://www.viz.com/manga-books/manga/ultimate-exorcist-kiyoshi-volume-3-0/product/8988/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Sep 08|[Akira Failing in Love](https://www.viz.com/manga-books/manga/akira-failing-in-love-volume-4-0/product/8989/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Sep 08|[Animal Crossing: New Horizons](https://www.viz.com/manga-books/manga/animal-crossing-deserted-island-diary-vol-1-volume-11-0/product/8973/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
@@ -546,9 +543,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Jan 05|[Printernia Nippon: My Squishy Bio-Printed Pet](https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834126/the-magnificent-bastard-5-by-keiichiro-ryu/9781647295233 "Kodansha")|5|Kodansha|🖥️📖|
-|Jan 05|[The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice](https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -571,7 +566,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Blend-S](https://yenpress.com/titles/9798855406146-blend-s-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Chained Soldier](https://yenpress.com/titles/9798855447125-chained-soldier-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Jan 26|[Cheeky Brat](https://yenpress.com/titles/9781975362157-cheeky-brat-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
-|Jan 26|[Cheeky Devil Cop!](https://sevenseasentertainment.com/books/cheeky-devil-cop-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 26|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9798855447644-death-march-to-the-parallel-world-rhapsody-vol-19-manga "Yen Press")|19|Yen Press|🖥️📖|
 |Jan 26|[Disenchantment Camera](https://yenpress.com/titles/9798855436464-disenchantment-camera "Yen Press")|1|Yen Press|🖥️📖|
