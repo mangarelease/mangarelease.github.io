@@ -435,7 +435,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Oct 06|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 06|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/826389/aoashi-3-in-1-edition-volume-2-vol-456-by-written-by-kobayashi-yuugo/9781787748651 "Titan Comics")|2|Titan Comics|📖|
 |Oct 06|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Oct 06|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-tokyopop/9781427885968 "TOKYOPOP")|1|TOKYOPOP|📖|
@@ -446,7 +445,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 06|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
-|Oct 06|[Far Cry: Cull The Herd](https://www.penguinrandomhouse.com/books/813923/far-cry-cull-the-herd-volume-1-graphic-novel-by-ryan-nichols/9781427878137 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 06|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Fushigi Yûgi: Byakko Senki](https://www.viz.com/manga-books/manga/fushigi-yugi-byakko-senki-volume-5-0/product/9022/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Get Married So I Can Curse Your Firstborn and Finally Be Free!](https://sevenseasentertainment.com/books/get-married-so-i-can-curse-your-firstborn-and-finally-be-free-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -482,12 +480,14 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834149/welcome-to-demon-school-iruma-kun-22-by-osamu-nishi/9781647294236 "Kodansha")|22|Kodansha|🖥️📖|
 |Oct 06|[Yokai Cats](https://sevenseasentertainment.com/books/yokai-cats-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Oct 13|[100 Ghost Stories That Will Lead to My Own Death](https://sevenseasentertainment.com/books/100-ghost-stories-that-will-lead-to-my-own-death-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
+|Oct 13|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 13|[A Prince of a Friend](https://sevenseasentertainment.com/books/a-prince-of-a-friend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Oct 13|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-7-0/product/9033/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 13|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-100-0/product/9028/paperback "VIZ Media")|100|VIZ Media|🖥️📖|
 |Oct 13|[Chainsaw Man](https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Oct 13|[Does it Count if You Lose Your Virginity to an Android?](https://sevenseasentertainment.com/books/does-it-count-if-you-lose-your-virginity-to-an-android-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Oct 13|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808553/drawing-from-your-memory-3-by-shiki-kawabata/9798888776919 "Kodansha")|3|Kodansha|📖|
+|Oct 13|[Far Cry: Cull The Herd](https://www.penguinrandomhouse.com/books/813923/far-cry-cull-the-herd-volume-1-graphic-novel-by-ryan-nichols/9781427878137 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 13|[Farewell, My Odin](https://www.penguinrandomhouse.com/books/830908/farewell-my-odin-vol3-by-written-by-chihiro-yoshioka/9781787748897 "Titan Comics")|3|Titan Comics|📖|
 |Oct 13|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Oct 13|[GalaXic Baseball League](https://www.viz.com/manga-books/manga/galaxic-baseball-league-volume-1-0/product/8974/paperback "VIZ Media")|1|VIZ Media|📖|
@@ -957,7 +957,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 15|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/838960/aoashi-3-in-1-edition-volume-3-vol-789-by-written-by-kobayashi-yuugo/9781787748668 "Titan Comics")|3|Titan Comics|📖|
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Dec 15|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|8.1|Kodansha|📖|
+|Dec 15|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|7|Kodansha|📖|
 |Dec 15|[Battle Royale Deluxe Edition](https://yenpress.com/titles/9798855431483-battle-royale-deluxe-edition-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Beneath the Fur](https://yenpress.com/titles/9798855421828-beneath-the-fur-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Blue Lock](https://www.penguinrandomhouse.com/books/845143/blue-lock-37-by-muneyuki-kaneshiro/9798900740966 "Kodansha")|37|Kodansha|📖|
@@ -1501,7 +1501,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 13|[The Kingdoms of Ruin](https://sevenseasentertainment.com/books/the-kingdoms-of-ruin-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Apr 13|[The POOL](https://www.penguinrandomhouse.com/books/781142/the-pool-by-gamon-sakurai/9781647294625 "Kodansha")|1|Kodansha|📖|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
-|Apr 20|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-8-by-chiba-tetsuya/9781647295196 "Kodansha")|8.2|Kodansha|📖|
+|Apr 20|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/861834/ashita-no-joe-fighting-for-tomorrow-8-by-chiba-tetsuya/9781647295196 "Kodansha")|8|Kodansha|📖|
 |Apr 20|[Let's Go to Dinoland! – A Dinosaur Sanctuary Book](https://sevenseasentertainment.com/books/lets-go-to-dinoland-a-dinosaur-sanctuary-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Drifting Dragons](https://www.penguinrandomhouse.com/books/802038/drifting-dragons-19-by-taku-kuwabara/9798888776278 "Kodansha")|19|Kodansha|📖|
@@ -1578,7 +1578,15 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jun 01|[Go! Go! Loser Ranger!](https://www.penguinrandomhouse.com/books/845152/go-go-loser-ranger-21-by-negi-haruba/9798900741055 "Kodansha")|21|Kodansha|📖|
+|Jun 01|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800455/initial-d-omnibus-14-vol-27-28-by-shuichi-shigeno/9798888776063 "Kodansha")|14|Kodansha|📖|
+|Jun 01|[Killer Peter, vol. 1](https://www.penguinrandomhouse.com/books/844770/killer-peter-vol-1-by-kim-junghyun/9781834110950 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
+|Jun 01|[Manga Lover](https://www.penguinrandomhouse.com/books/840452/manga-lover-1-by-ko-fumimura/9781647296582 "Kodansha")|1|Kodansha|📖|
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jun 01|[Myther](https://www.penguinrandomhouse.com/books/845093/myther-3-by-teki-yatsuda/9798900741154 "Kodansha")|3|Kodansha|📖|
+|Jun 01|[Osamu Tezuka's Phoenix Deluxe Hardcover Collection](https://www.penguinrandomhouse.com/books/845086/osamu-tezukas-phoenix-deluxe-hardcover-collection-2-by-osamu-tezuka/9798900740096 "Kodansha")|2|Kodansha|📖|
+|Jun 01|[She Is Still Cute Today](https://www.penguinrandomhouse.com/books/820641/she-is-still-cute-today-volume-2-by-guo-si-te/9781427886217 "TOKYOPOP")|2|TOKYOPOP|📖|
+|Jun 01|[Snow & Ink](https://www.penguinrandomhouse.com/books/845101/snow-and-ink-9-by-miyuki-unohana/9798900741239 "Kodansha")|9|Kodansha|📖|
 
 ### July
 

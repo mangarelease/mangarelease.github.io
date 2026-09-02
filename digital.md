@@ -222,12 +222,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Oct 06|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 06|[Boruto: Two Blue Vortex](https://www.viz.com/manga-books/manga/boruto-two-blue-vortex-volume-6-0/product/9023/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 06|[Crow Hill: Don't Be Shy!! – The Complete BL Manga Collection (Omnibus)](https://sevenseasentertainment.com/books/crow-hill-dont-be-shy-the-complete-bl-manga-collection-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Oct 06|[Far Cry: Cull The Herd](https://www.penguinrandomhouse.com/books/813923/far-cry-cull-the-herd-volume-1-graphic-novel-by-ryan-nichols/9781427878137 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 06|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Fushigi Yûgi: Byakko Senki](https://www.viz.com/manga-books/manga/fushigi-yugi-byakko-senki-volume-5-0/product/9022/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -242,9 +240,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 06|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834127/the-magnificent-bastard-4-by-keiichiro-ryu/9781647295226 "Kodansha")|4|Kodansha|🖥️📖|
 |Oct 06|[Visions 2024__Illustrators Book](https://yenpress.com/titles/9798855437829-visions-2024-illustrators-book "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 06|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834149/welcome-to-demon-school-iruma-kun-22-by-osamu-nishi/9781647294236 "Kodansha")|22|Kodansha|🖥️📖|
+|Oct 13|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 13|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-7-0/product/9033/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 13|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-100-0/product/9028/paperback "VIZ Media")|100|VIZ Media|🖥️📖|
 |Oct 13|[Chainsaw Man](https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
+|Oct 13|[Far Cry: Cull The Herd](https://www.penguinrandomhouse.com/books/813923/far-cry-cull-the-herd-volume-1-graphic-novel-by-ryan-nichols/9781427878137 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 13|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Oct 13|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751250/how-to-hide-the-emperors-child-volume-1-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872451 "Inklore")|1|Inklore|🖥️📖|
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
