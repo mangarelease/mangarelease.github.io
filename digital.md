@@ -264,7 +264,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 20|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-12-0/product/9035/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 20|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-15-0/product/9037/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
-|Oct 20|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Oct 20|[Not-Sew-Wicked Stepmom](https://yenpress.com/titles/9798400905919-not-sew-wicked-stepmom-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Oct 20|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-20-0/product/9043/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
@@ -308,7 +307,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[Sasaki and Peeps](https://yenpress.com/titles/9798855433722-sasaki-and-peeps-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[Slasher Maidens](https://yenpress.com/titles/9798855436143-slasher-maidens-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Oct 27|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Oct 27|[The Studio Ghibli Chronicles](https://www.viz.com/manga-books/book/studio-ghibli-chronicles/product/9006/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 27|[Takumi: A Little Japanese Bakery](https://www.viz.com/manga-books/art-book/takumi-a-little-japanese-bakery/product/9019/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 27|[The Dragon School Is Atop the Mountain](https://yenpress.com/titles/9798855444759-the-dragon-school-is-atop-the-mountain "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -336,6 +334,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Kindergarten Wars](https://yenpress.com/titles/9798855409161-kindergarten-wars-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 03|[KPop Demon Hunters: The Official Screen Comic Boxed Set](https://www.penguinrandomhouse.com/books/828178/kpop-demon-hunters-the-official-screen-comic-boxed-set-by-netflix/9798217373918 "Inklore")|1|Inklore|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436488-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
@@ -499,20 +498,27 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Imitation](https://yenpress.com/titles/9798855412826-imitation-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Dec 15|[I'm the Monster Girl You Once Saved: A Middle-Aged Teacher in Another World Is Concerned About His Sudden Popularity](https://yenpress.com/titles/9798855442939-i-m-the-monster-girl-you-once-saved-a-middle-aged-teacher-in-another-world-is-concerned-about-his-sudden-popularity-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[In Such a Small World](https://yenpress.com/titles/9798855444520-in-such-a-small-world "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-14-0/product/9121/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Dec 15|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 15|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-16-0/product/9122/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
+|Dec 15|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-26-0/product/9123/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
+|Dec 15|[Mujina into the Deep](https://www.viz.com/manga-books/manga/mujina-into-the-deep-volume-5-0/product/9125/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Dec 15|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[My Sketchy Roommate](https://sevenseasentertainment.com/books/my-sketchy-roommate/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855430288-once-upon-a-witch-s-death-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420890-playing-death-games-to-put-food-on-the-table-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
+|Dec 15|[Sakamoto Days](https://www.viz.com/manga-books/manga/sakamoto-days-volume-24-0/product/9124/paperback "VIZ Media")|24|VIZ Media|🖥️📖|
 |Dec 15|[Seeds of Anxiety*](https://yenpress.com/titles/9798855427226-seeds-of-anxiety-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Shigahime](https://yenpress.com/titles/9798855416480-shigahime-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Sinful Is the Angel Who Loves](https://yenpress.com/titles/9798855438994-sinful-is-the-angel-who-loves-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 15|[Snowball Earth](https://www.viz.com/manga-books/manga/snowball-earth-volume-10-0/product/9127/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Dec 15|[Stomp, Kick, Love](https://yenpress.com/titles/9798855423532-stomp-kick-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Dec 15|[Strategic Lovers](https://yenpress.com/titles/9798855403916-strategic-lovers-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Dec 15|[Studio Cabana](https://yenpress.com/titles/9798855436709-studio-cabana-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Super String: Marco Polo's Travel to the Multiverse](https://yenpress.com/titles/9798855411478-super-string-marco-polo-s-travel-to-the-multiverse-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Takahashi from the Bike Shop](https://yenpress.com/titles/9798855404531-takahashi-from-the-bike-shop-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Dec 15|[The Apothecary Diaries: Maomao's Notes on the Inner Palace](https://www.viz.com/manga-books/manga/apothecary-diaries-maomao-s-notes-on-the-inner-palace-volume-2-0/product/9126/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Dec 15|[The Bubble Love of the Mermaid](https://yenpress.com/titles/9798855439465-the-bubble-love-of-the-mermaid-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[The Demons Are Planning Something Good!](https://yenpress.com/titles/9798855438673-the-demons-are-planning-something-good-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Then Shall I Kill in Your Stead?](https://yenpress.com/titles/9798855427042-then-shall-i-kill-in-your-stead-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -526,6 +532,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Wonder Boy](https://yenpress.com/titles/9798855422399-wonder-boy-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Yamada's Class Diary](https://yenpress.com/titles/9798855439014-yamada-s-class-diary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Your Castle's Little Helper: Please Feed Me, I'll Work](https://yenpress.com/titles/9798855432220-your-castle-s-little-helper-please-feed-me-i-ll-work-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 22|[Trillion Game](https://www.viz.com/manga-books/manga/trillion-game-volume-11-0/product/9128/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
+|Dec 22|[Zom 100: Bucket List of the Dead](https://www.viz.com/manga-books/manga/zom-100-bucket-list-of-the-dead-vol-1-volume-21-0/product/9129/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 29|[A Couple Drifting in the Wind](https://sevenseasentertainment.com/books/a-couple-drifting-in-the-wind-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[A Quirky Girl Is Inviting Me to Bed](https://sevenseasentertainment.com/books/a-quirky-girl-is-inviting-me-to-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834159/kirio-fan-club-5-by-chikyu-no-osakana-ponchan/9781647295325 "Kodansha")|5|Kodansha|🖥️📖|
@@ -694,3 +702,9 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+
+### October
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Oct 26|[The Studio Ghibli Chronicles](https://www.viz.com/manga-books/book/studio-ghibli-chronicles/product/9006/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
