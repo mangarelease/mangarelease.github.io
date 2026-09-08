@@ -10,113 +10,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 ## [2026](/year/2026)
 
-### August
-
-|Date|Series|Volume|Publisher|Type|
-|:---:|---|:---:|---|:---:|
-|Aug 04|[Black Clover](https://www.viz.com/manga-books/manga/black-clover-volume-37-0/product/8938/paperback "VIZ Media")|37|VIZ Media|🖥️📖|
-|Aug 04|[Blue Box](https://www.viz.com/manga-books/manga/blue-box-volume-21-0/product/8936/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
-|Aug 04|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-8-0/product/8934/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 04|[Daydream Darling](https://www.viz.com/manga-books/manga/daydream-darling-volume-1-0/product/8946/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 04|[D.Gray-man](https://www.viz.com/manga-books/manga/dgray-man-volume-29-0/product/8935/paperback "VIZ Media")|29|VIZ Media|🖥️📖|
-|Aug 04|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-7-0/product/8939/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Aug 04|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-4-0/product/8945/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
-|Aug 04|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-8-0/product/8944/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 04|[Kaiju No. 8: Relax](https://www.viz.com/manga-books/manga/kaiju-no-8-relax-volume-3-0/product/8948/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
-|Aug 04|[Kaze Hikaru](https://www.viz.com/manga-books/manga/kaze-hikaru-volume-34-0/product/8952/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
-|Aug 04|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-2-0/product/8957/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Aug 04|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-8-0/product/8963/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 04|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-21-0/product/8966/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
-|Aug 04|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-1-0/product/8942/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 04|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834148/welcome-to-demon-school-iruma-kun-21-by-osamu-nishi/9781647294229 "Kodansha")|21|Kodansha|🖥️📖|
-|Aug 05|[All Eyes on Nekoyashiki-kun! Notice Me, Not My Characters](https://j-novel.club/series/all-eyes-on-nekoyashiki-kun-notice-me-not-my-characters#volume-2 "J-Novel Club")|2|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 05|[Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat](https://j-novel.club/series/mercedes-and-the-waning-moon-the-dungeoneering-feats-of-a-discarded-vampire-aristocrat-manga#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 05|[Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer](https://j-novel.club/series/scooped-up-by-an-s-rank-adventurer-this-white-mage-is-one-heck-of-a-healer-manga#volume-5 "J-Novel Club")|5|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 05|[The Oblivious Saint Can't Contain Her Power: Disgraced No Longer, I'm Finding Happiness with the Prince!](https://j-novel.club/series/the-oblivious-saint-can-t-contain-her-power-disgraced-no-longer-i-m-finding-happiness-with-the-prince-manga#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 11|[Akane-banashi](https://www.viz.com/manga-books/manga/akane-banashi-volume-17-0/product/8930/paperback "VIZ Media")|17|VIZ Media|🖥️📖|
-|Aug 11|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-20-0/product/8937/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
-|Aug 11|[Girl Crush](https://www.viz.com/manga-books/manga/girl-crush-volume-8-0/product/8940/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 11|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-8-0/product/8951/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
-|Aug 11|[LYNX](https://www.viz.com/manga-books/graphic-novel/lynx-volume-1-0/product/8927/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 11|[Mao](https://www.viz.com/manga-books/manga/mao-volume-25-0/product/8954/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
-|Aug 11|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-14-0/product/8955/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Aug 11|[My Noons and Midnights Are for You](https://www.penguinrandomhouse.com/books/820638/my-noons-and-midnights-are-for-you-volume-2-by-luria/9781427886279 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
-|Aug 11|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-11-0/product/8958/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
-|Aug 11|[Rai Rai Rai](https://www.viz.com/manga-books/manga/rai-rai-rai-volume-5-0/product/8956/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
-|Aug 11|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775434/the-knight-and-her-emperor-volume-2-by-original-story-by-gm-illustrated-by-winter-adapted-by-heyum/9780593976043 "Inklore")|2|Inklore|🖥️📖|
-|Aug 11|[Tsumiki Ogami's Not-So-Ordinary Life](https://www.viz.com/manga-books/manga/tsumiki-ogami-s-not-so-ordinary-life-volume-7-0/product/8967/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Aug 12|[Duchess in the Attic](https://j-novel.club/series/duchess-in-the-attic-manga#volume-7 "J-Novel Club")|7|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 12|[Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends](https://j-novel.club/series/even-exiled-she-s-still-the-beloved-saint-st-evelyn-s-weird-and-wonderful-friends-manga#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 18|[Beware the Villainess!](https://yenpress.com/titles/9798400904721-beware-the-villainess-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
-|Aug 18|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-3-0/product/8932/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
-|Aug 18|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-6-0/product/8941/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
-|Aug 18|[Father, I Don't Want This Marriage](https://www.penguinrandomhouse.com/books/751248/father-i-dont-want-this-marriage-volume-7-by-original-story-by-hong-heesu-art-by-roal-adapted-by-yuri/9780593872390 "Inklore")|7|Inklore|🖥️📖|
-|Aug 18|[Half Is More](https://www.viz.com/manga-books/manga/half-is-more-volume-1-0/product/8972/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 18|[I Love Amy](https://yenpress.com/titles/9798400904240-i-love-amy-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
-|Aug 18|[Kill the Villainess](https://yenpress.com/titles/9798400904882-kill-the-villainess-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
-|Aug 18|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-10-0/product/8949/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
-|Aug 18|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834161/kirio-fan-club-3-by-chikyu-no-osakana-ponchan/9781647295301 "Kodansha")|3|Kodansha|🖥️📖|
-|Aug 18|[Lady Devil](https://yenpress.com/titles/9798400905056-lady-devil-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
-|Aug 18|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-14-0/product/8950/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Aug 18|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-24-0/product/8959/paperback "VIZ Media")|24|VIZ Media|🖥️📖|
-|Aug 18|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797865/my-love-story-with-yamada-kun-at-lv999-volume-7-by-mashiro/9798217091898 "Inklore")|7|Inklore|🖥️📖|
-|Aug 18|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905179-my-secretly-hot-husband-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
-|Aug 18|[Overgeared](https://yenpress.com/titles/9798400905452-overgeared-vol-11 "Ize Press")|11|Ize Press|🖥️📖|
-|Aug 18|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400904578-revenge-of-the-baskerville-bloodhound-vol-3 "Ize Press")|3|Ize Press|🖥️📖|
-|Aug 18|[Sakamoto Holidays](https://www.viz.com/manga-books/manga/sakamoto-holidays-volume-2-0/product/8960/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Aug 18|[Show-ha Shoten!](https://www.viz.com/manga-books/manga/show-ha-shoten-volume-11-0/product/8962/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
-|Aug 18|[Snowball Earth](https://www.viz.com/manga-books/manga/snowball-earth-volume-9-0/product/8964/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Aug 18|[Undead Unluck](https://www.viz.com/manga-books/manga/undead-unluck-volume-26-0/product/8968/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
-|Aug 18|[Villains Are Destined to Die](https://yenpress.com/titles/9798400905759-villains-are-destined-to-die-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
-|Aug 19|[My Tiny Senpai](https://j-novel.club/series/my-tiny-senpai#volume-6 "J-Novel Club")|6|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 19|[The Fearsome Witch Teaches in Another World: Ms. Aoi's Lesson Plans](https://j-novel.club/series/the-fearsome-witch-teaches-in-another-world-manga-ms-aoi-s-lesson-plans#volume-4 "J-Novel Club")|4|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 25|[A Certain Magical Index](https://yenpress.com/titles/9798855436020-a-certain-magical-index-vol-32-manga "Yen Press")|32|Yen Press|🖥️📖|
-|Aug 25|[Apocalypse Bringer Mynoghra](https://yenpress.com/titles/9798855424263-apocalypse-bringer-mynoghra-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
-|Aug 25|[Bad Girl](https://yenpress.com/titles/9798855417579-bad-girl-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Aug 25|[Battle Royale Deluxe Edition](https://yenpress.com/titles/9798855431469-battle-royale-deluxe-edition-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Aug 25|[Bungo Stray Dogs: The Official Comic Anthology](https://yenpress.com/titles/9798855406788-bungo-stray-dogs-the-official-comic-anthology-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Aug 25|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855442847-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Common-Sense Monster](https://yenpress.com/titles/9798855434545-common-sense-monster-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Aug 25|[Cosmos](https://www.viz.com/manga-books/manga/cosmos-volume-6-0/product/8933/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
-|Aug 25|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747047/daughter-of-a-thousand-faces-volume-1-the-comic-by-velinxi/9780593870846 "Inklore")|1|Inklore|🖥️📖|
-|Aug 25|[Deep-Sea Aquarium Magmell](https://yenpress.com/titles/9798855421569-deep-sea-aquarium-magmell-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Demi-Human Sharehouse](https://yenpress.com/titles/9798855424126-demi-human-sharehouse-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Aug 25|[Don't Confuse Me, Yamori-kun](https://yenpress.com/titles/9798855423730-don-t-confuse-me-yamori-kun-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Dungeons That Surely Slaughter Adventurers](https://yenpress.com/titles/9798855428292-dungeons-that-surely-slaughter-adventurers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Aug 25|[Elden Ring: Distant Tales Between](https://yenpress.com/titles/9798855430592-elden-ring-distant-tales-between-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Final Fantasy Lost Stranger](https://yenpress.com/titles/9798855436044-final-fantasy-lost-stranger-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
-|Aug 25|[Golden Man](https://yenpress.com/titles/9798855435573-golden-man-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Hand in Hand with Mu-chan: Lessons from My Autistic Daughter](https://yenpress.com/titles/9798855426663-hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/820636/honkai-impact-3rd-second-eruption-volume-2-by-mihoyo-comics/9781427885944 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
-|Aug 25|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855424423-i-don-t-know-which-is-love-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Aug 25|[Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria](https://yenpress.com/titles/9798855424751-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-vol-28-manga "Yen Press")|28|Yen Press|🖥️📖|
-|Aug 25|[Konosuba: God's Blessing on This Wonderful World!](https://yenpress.com/titles/9798855433685-konosuba-god-s-blessing-on-this-wonderful-world-vol-21-manga "Yen Press")|21|Yen Press|🖥️📖|
-|Aug 25|[Manga in Theory and Practice: How to Create Villains](https://www.viz.com/manga-books/book/manga-in-theory-and-practice-volume-1-0/product/8953/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
-|Aug 25|[Mechanical Marie](https://yenpress.com/titles/9798855407891-mechanical-marie-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Aug 25|[Mobile Suit Gundam: The Witch from Mercury—Vanadis Heart](https://yenpress.com/titles/9798855437102-mobile-suit-gundam-the-witch-from-mercury-vanadis-heart-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Monthly Girls' Nozaki-kun](https://yenpress.com/titles/9798855436068-monthly-girls-nozaki-kun-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
-|Aug 25|[My Dear, Curse-Casting Vampiress](https://yenpress.com/titles/9798855436105-my-dear-curse-casting-vampiress-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
-|Aug 25|[No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!](https://yenpress.com/titles/9798855436129-no-matter-how-i-look-at-it-it-s-you-guys-fault-i-m-not-popular-vol-27 "Yen Press")|27|Yen Press|🖥️📖|
-|Aug 25|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420876-playing-death-games-to-put-food-on-the-table-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Rock Is a Lady's Modesty](https://yenpress.com/titles/9798855408010-rock-is-a-lady-s-modesty-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Aug 25|[Sanctuary Priestess](https://www.penguinrandomhouse.com/books/833335/sanctuary-priestess-volume-1-by-odayaka/9781427892058 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Aug 25|[Shy](https://yenpress.com/titles/9798855402551-shy-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
-|Aug 25|[Sister and Giant: A Young Lady Is Reborn in Another World](https://yenpress.com/titles/9798855423297-sister-and-giant-a-young-lady-is-reborn-in-another-world-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Aug 25|[Stray Cat & Wolf](https://yenpress.com/titles/9798855423419-stray-cat-wolf-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Aug 25|[Sword Art Online Unital Ring](https://yenpress.com/titles/9798855433708-sword-art-online-unital-ring-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
-|Aug 25|[The Blood-Crawling Princess of a Ruined Country](https://yenpress.com/titles/9798855422146-the-blood-crawling-princess-of-a-ruined-country-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[The Broken Ring](https://www.penguinrandomhouse.com/books/769048/the-broken-ring-volume-3-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9780593972670 "Inklore")|3|Inklore|🖥️📖|
-|Aug 25|[The Color of the End: Mission in the Apocalypse](https://yenpress.com/titles/9798855435290-the-color-of-the-end-mission-in-the-apocalypse-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Aug 25|[The Demon Consort: “I Love You” Are Frightening Words](https://yenpress.com/titles/9798855421804-the-demon-consort-i-love-you-are-frightening-words-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[Then Shall I Kill in Your Stead?](https://yenpress.com/titles/9798855427028-then-shall-i-kill-in-your-stead-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[The War of Greedy Witches](https://yenpress.com/titles/9798855401486-the-war-of-greedy-witches-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
-|Aug 25|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/834155/welcome-to-demon-school-iruma-kun-irumafia-edition-5-by-osamu-nishi/9781647296032 "Kodansha")|5|Kodansha|🖥️📖|
-|Aug 25|[What Does the Fox Say?](https://yenpress.com/titles/9798855423921-what-does-the-fox-say-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Aug 25|[WITCH WATCH](https://www.viz.com/manga-books/manga/witch-watch-volume-19-0/product/9054/digital "VIZ Media")|19|VIZ Media|🖥️<span class="hidden">📖</span>|
-|Aug 26|[Ascendance of a Bookworm Part 4](https://j-novel.club/series/ascendance-of-a-bookworm-manga#volume-31 "J-Novel Club")|7|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 26|[Last Summer Sparkle](https://j-novel.club/series/last-summer-sparkle#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Aug 26|[Sweet Reincarnation](https://j-novel.club/series/sweet-reincarnation#volume-13 "J-Novel Club")|13|J-Novel Club|🖥️<span class="hidden">📖</span>|
-
 ### September
 
 |Date|Series|Volume|Publisher|Type|
@@ -137,7 +30,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 08|[Animal Crossing: New Horizons](https://www.viz.com/manga-books/manga/animal-crossing-deserted-island-diary-vol-1-volume-11-0/product/8973/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Sep 08|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/833324/apprentice-nail-artist-in-a-foreign-land-volume-2-by-marukawa/9781427891938 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-33-0/product/8995/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
-|Sep 08|[Gilded Seven](https://sevenseasentertainment.com/books/gilded-seven-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 08|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-49-0/product/8975/paperback "VIZ Media")|49|VIZ Media|🖥️📖|
 |Sep 08|[Spider-Man: Kizuna](https://www.viz.com/manga-books/manga/spider-man-kizuna-volume-4-0/product/9001/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Sep 08|[The Amazing Digital Circus](https://www.viz.com/manga-books/manga/amazing-digital-circus-volume-1-0/product/8993/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -546,7 +438,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Jan 05|[Gilded Seven](https://sevenseasentertainment.com/books/gilded-seven-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Hate Me, but Let Me Stay – Mr. Asanaga and Mr. Yanagi](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-mr-asanaga-and-mr-yanagi-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
