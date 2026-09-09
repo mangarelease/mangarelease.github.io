@@ -265,7 +265,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[The Demon Prince of Momochi House: Succession](https://www.viz.com/manga-books/manga/demon-prince-of-momochi-house-succession-volume-3-0/product/9032/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 06|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834127/the-magnificent-bastard-4-by-keiichiro-ryu/9781647295226 "Kodansha")|4|Kodansha|🖥️📖|
 |Oct 06|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/824188/the-seven-deadly-sins-four-knights-of-the-apocalypse-23-by-nakaba-suzuki/9798888778999 "Kodansha")|23|Kodansha|📖|
-|Oct 06|[Vinland Saga](https://www.penguinrandomhouse.com/books/830754/vinland-saga-15-by-makoto-yukimura/9798888779347 "Kodansha")|15|Kodansha|📖|
 |Oct 06|[Visions 2024__Illustrators Book](https://yenpress.com/titles/9798855437829-visions-2024-illustrators-book "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 06|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834149/welcome-to-demon-school-iruma-kun-22-by-osamu-nishi/9781647294236 "Kodansha")|22|Kodansha|🖥️📖|
 |Oct 06|[Yokai Cats](https://sevenseasentertainment.com/books/yokai-cats-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
@@ -310,6 +309,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 13|[The Mortifying Ordeal of Being Seen](https://www.viz.com/manga-books/manga/mortifying-ordeal-of-being-seen-volume-3-0/product/9036/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 13|[This Is Screwed Up, but I Was Reincarnated as a GIRL in Another World!](https://sevenseasentertainment.com/books/this-is-screwed-up-but-i-was-reincarnated-as-a-girl-in-another-world-manga-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|📖|
 |Oct 13|[To Your Eternity](https://www.penguinrandomhouse.com/books/824215/to-your-eternity-25-by-yoshitoki-oima/9798888778661 "Kodansha")|25|Kodansha|📖|
+|Oct 13|[Vinland Saga](https://www.penguinrandomhouse.com/books/830754/vinland-saga-15-by-makoto-yukimura/9798888779347 "Kodansha")|15|Kodansha|📖|
 |Oct 13|[Yaiba: Samurai Legend](https://www.viz.com/manga-books/manga/yaiba-volume-6-0/product/9039/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 20|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 20|[Aharen-san is Indecipherable (Omnibus)](https://sevenseasentertainment.com/books/aharen-san-is-indecipherable-omnibus-vol-5-6/ "Seven Seas Entertainment")|5-6|Seven Seas Entertainment|📖|
@@ -1343,7 +1343,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |May 11|[Outsiders](https://www.penguinrandomhouse.com/books/811662/outsiders-vol4-by-written-by-akira-kanou/9781787745773 "Titan Comics")|4|Titan Comics|📖|
 |May 11|[Tank Chair](https://www.penguinrandomhouse.com/books/845103/tank-chair-10-by-manabu-yashiro/9798900741253 "Kodansha")|10|Kodansha|📖|
 |May 11|[That Time I Got Reincarnated as a Slime: Trinity in Tempest](https://www.penguinrandomhouse.com/books/845105/that-time-i-got-reincarnated-as-a-slime-trinity-in-tempest-manga-13-by-fuse/9798900741277 "Kodansha")|13|Kodansha|📖|
-|May 11|[Totally Spies](https://www.penguinrandomhouse.com/books/837117/totally-spies-volume-1-attack-of-the-giant-panda-by-lou-allori/9781427889515 "TOKYOPOP")|1|TOKYOPOP|📖|
+|May 11|[Totally Spies!, Book 1: Attack of the Giant Panda](https://www.penguinrandomhouse.com/books/837117/totally-spies-book-1-attack-of-the-giant-panda-by-lou-allori/9781427889515 "TOKYOPOP")|1|TOKYOPOP|📖|
 |May 11|[Wandance](https://www.penguinrandomhouse.com/books/830924/wandance-15-by-coffee/9798888779965 "Kodansha")|15|Kodansha|📖|
 |May 11|[Westwood Vibrato](https://www.penguinrandomhouse.com/books/843429/westwood-vibrato-volume-1-by-inwan-youn/9781427890894 "TOKYOPOP")|1|TOKYOPOP|📖|
 |May 11|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/824202/you-might-as-well-be-the-one-4-by-megumu-seto/9798888778531 "Kodansha")|4|Kodansha|📖|
@@ -1386,6 +1386,11 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jun 01|[Osamu Tezuka's Phoenix Deluxe Hardcover Collection](https://www.penguinrandomhouse.com/books/845086/osamu-tezukas-phoenix-deluxe-hardcover-collection-2-by-osamu-tezuka/9798900740096 "Kodansha")|2|Kodansha|📖|
 |Jun 01|[She Is Still Cute Today](https://www.penguinrandomhouse.com/books/820641/she-is-still-cute-today-volume-2-by-guo-si-te/9781427886217 "TOKYOPOP")|2|TOKYOPOP|📖|
 |Jun 01|[Snow & Ink](https://www.penguinrandomhouse.com/books/845101/snow-and-ink-9-by-miyuki-unohana/9798900741239 "Kodansha")|9|Kodansha|📖|
+|Jun 08|[Cosmic Censorship](https://www.penguinrandomhouse.com/books/841863/cosmic-censorship-vol5-by-written-by-ryu-ichi-sadamatsu/9781787747012 "Titan Comics")|5|Titan Comics|📖|
+|Jun 08|[Ikoku Nikki](https://www.penguinrandomhouse.com/books/803761/ikoku-nikki-volume-1-by-tomoko-yamashita/9798217094202 "Inklore")|1|Inklore|📖|
+|Jun 08|[The Cat and Dog's Nine-Tailed Lives](https://www.penguinrandomhouse.com/books/845135/the-cat-and-dogs-nine-tailed-lives-by-art-by-hamuhamu-story-by-maki/9798900740621 "Kodansha")|1|Kodansha|📖|
+|Jun 08|[The Serenade of Spring Thunder](https://www.penguinrandomhouse.com/books/840451/the-serenade-of-spring-thunder-1-by-nikki-asada/9781647296612 "Kodansha")|1|Kodansha|📖|
+|Jun 08|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/845128/wistoria-wand-and-sword-15-by-fujino-omori/9798900741406 "Kodansha")|15|Kodansha|📖|
 
 ### July
 
