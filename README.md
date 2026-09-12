@@ -843,7 +843,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 22|[Now That We Draw](https://sevenseasentertainment.com/books/now-that-we-draw-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Dec 22|[Orient](https://www.penguinrandomhouse.com/books/777799/orient-21-by-shinobu-ohtaka/9798888774106 "Kodansha")|21|Kodansha|📖|
 |Dec 22|[Perfect Addiction](https://sevenseasentertainment.com/books/perfect-addiction-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Dec 22|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/777785/senpai-is-an-otokonoko-my-crossdressing-classmate-9-by-pom/9798888774243 "Kodansha")|9|Kodansha|📖|
 |Dec 22|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Dec 22|[Sword of the Titans](https://www.penguinrandomhouse.com/books/811647/sword-of-the-titans-vol2-by-written-by-kashidashiki/9781787749320 "Titan Comics")|2|Titan Comics|📖|
 |Dec 22|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841971/tengen-hero-wars-vol4-by-written-by-yasu-hiromoto/9781806184965 "Titan Comics")|4|Titan Comics|📖|
@@ -926,6 +925,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jan 12|[Miss Kobayashi's Dragon Maid: Elma's Office Lady Diary](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-elmas-office-lady-diary-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Jan 12|[Omega Megaera](https://www.penguinrandomhouse.com/books/800464/omega-megaera-7-by-maki-marukido/9798888775974 "Kodansha")|7|Kodansha|📖|
 |Jan 12|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/777785/senpai-is-an-otokonoko-my-crossdressing-classmate-9-by-pom/9798888774243 "Kodansha")|9|Kodansha|📖|
 |Jan 12|[Sheltering Eaves](https://www.penguinrandomhouse.com/books/830919/sheltering-eaves-6-by-rie-aruga/9798888779910 "Kodansha")|6|Kodansha|📖|
 |Jan 12|[The Brilliant Healer's New Life in the Shadows](https://yenpress.com/titles/9781718337442-the-brilliant-healer-s-new-life-in-the-shadows-volume-5-manga "J-Novel Club")|5|J-Novel Club|📖|
 |Jan 12|[The Cursed Sword Master's Harem Life: By the Sword, For the Sword](https://sevenseasentertainment.com/books/the-cursed-sword-masters-harem-life-by-the-sword-for-the-sword-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
@@ -1006,7 +1006,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jan 26|[Mignon: Special Box Set w/USB](https://yenpress.com/titles/9798400906855-mignon-special-box-set-w-usb "Ize Press")|1|Ize Press|📖|
 |Jan 26|[Miss Kobayashi's Dragon Maid: Kanna's Daily Life](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-kannas-daily-life-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Jan 26|[My First Love with You Again](https://yenpress.com/titles/9798855432046-my-first-love-with-you-again-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Jan 26|[Omega Megaera](https://www.penguinrandomhouse.com/books/800463/omega-megaera-8-by-maki-marukido/9798888775981 "Kodansha")|8|Kodansha|📖|
 |Jan 26|[Operation: True Love, vol. 2](https://www.penguinrandomhouse.com/books/833599/operation-true-love-vol-2-by-kkokkalee/9781834110578 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |Jan 26|[Sharkmaid of the Shore](https://yenpress.com/titles/9798855438017-sharkmaid-of-the-shore-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Snowmelt and Agapanthus](https://yenpress.com/titles/9798855438055-snowmelt-and-agapanthus-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -1125,7 +1124,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Feb 23|[Made in Abyss](https://sevenseasentertainment.com/books/made-in-abyss-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|📖|
 |Feb 23|[Morgana and Oz, vol. 5](https://www.penguinrandomhouse.com/books/833597/morgana-and-oz-vol-5-by-miyuli/9781834110158 "WEBTOON Unscrolled")|5|WEBTOON Unscrolled|📖|
 |Feb 23|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/817274/rent-a-girlfriend-41-by-reiji-miyajima/9798888778135 "Kodansha")|41|Kodansha|📖|
-|Feb 23|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/787946/senpai-is-an-otokonoko-my-crossdressing-classmate-10-by-pom/9798888775431 "Kodansha")|10|Kodansha|📖|
 |Feb 23|[Spacewalking With You](https://www.penguinrandomhouse.com/books/826294/spacewalking-with-you-5-by-inuhiko-doronoda/9798888779217 "Kodansha")|5|Kodansha|📖|
 |Feb 23|[The Chronicles of Leënde](https://www.penguinrandomhouse.com/books/840453/the-chronicles-of-leende-1-by-nezu-usugumo/9781647296544 "Kodansha")|1|Kodansha|📖|
 |Feb 23|[The Clingy New Hire Keeps Asking Me Out](https://sevenseasentertainment.com/books/the-clingy-new-hire-keeps-asking-me-out-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1199,6 +1197,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 16|[MARS 30th Anniversary Edition](https://www.penguinrandomhouse.com/books/815043/mars-30th-anniversary-edition-4-by-fuyumi-soryo/9798888777879 "Kodansha")|4|Kodansha|📖|
 |Mar 16|[Night of the Living Cat](https://sevenseasentertainment.com/books/night-of-the-living-cat-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Mar 16|[Osamu Tezuka's Phoenix Deluxe Hardcover Collection](https://www.penguinrandomhouse.com/books/845087/osamu-tezukas-phoenix-deluxe-hardcover-collection-1-by-osamu-tezuka/9798900740089 "Kodansha")|1|Kodansha|📖|
+|Mar 16|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/787946/senpai-is-an-otokonoko-my-crossdressing-classmate-10-by-pom/9798888775431 "Kodansha")|10|Kodansha|📖|
 |Mar 16|[Someone's Girlfriend](https://sevenseasentertainment.com/books/someones-girlfriend-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Mar 16|[The Elf Sisters Can't Wait for the Night](https://sevenseasentertainment.com/books/the-elf-sisters-cant-wait-for-the-night-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Mar 16|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/830942/wistoria-wand-and-sword-14-by-story-by-fujino-omori-manga-by-toshi-aoi/9798888779651 "Kodansha")|14|Kodansha|📖|
@@ -1243,7 +1242,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 30|[Let's Buy the Land and Cultivate It in a Different World](https://sevenseasentertainment.com/books/lets-buy-the-land-and-cultivate-it-in-a-different-world-manga-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Mar 30|[Mushoku Tensei: Jobless Reincarnation](https://sevenseasentertainment.com/books/mushoku-tensei-jobless-reincarnation-manga-vol-24/ "Seven Seas Entertainment")|24|Seven Seas Entertainment|📖|
 |Mar 30|[NakiNagi](https://www.penguinrandomhouse.com/books/830939/nakinagi-2-by-keigo-maki/9798888779613 "Kodansha")|2|Kodansha|📖|
-|Mar 30|[Omega Megaera](https://www.penguinrandomhouse.com/books/800462/omega-megaera-9-by-maki-marukido/9798888775998 "Kodansha")|9|Kodansha|📖|
+|Mar 30|[Omega Megaera](https://www.penguinrandomhouse.com/books/800463/omega-megaera-8-by-maki-marukido/9798888775981 "Kodansha")|8|Kodansha|📖|
 |Mar 30|[OMORI](https://www.penguinrandomhouse.com/books/852307/omori-4-by-omocat/9781647297084 "Kodansha")|4|Kodansha|📖|
 |Mar 30|[Parallel Paradise](https://sevenseasentertainment.com/books/parallel-paradise-vol-29/ "Seven Seas Entertainment")|29|Seven Seas Entertainment|📖|
 |Mar 30|[Raven Saga, vol. 3](https://www.penguinrandomhouse.com/books/833598/raven-saga-vol-3-by-chihiro-howe/9781834110561 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
@@ -1312,7 +1311,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 20|[The Great Cleric](https://www.penguinrandomhouse.com/books/817270/the-great-cleric-15-by-original-story-by-broccoli-lion-art-by-hiiro-akikaze-character-design-by-sime/9798888778173 "Kodansha")|15|Kodansha|📖|
 |Apr 20|[The Rabbit Circle](https://www.penguinrandomhouse.com/books/856909/the-rabbit-circle-by-written-sanada-shiro/9781787749405 "Titan Comics")|1|Titan Comics|📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
-|Apr 27|[AIDOL Omnibus](https://www.penguinrandomhouse.com/books/826313/aidol-omnibus-2-vol-3-4-by-story-by-yuu-kuraishi-art-by-kazu-inabe-original-concept-by-kuu-tanaka/9798888778500 "Kodansha")|2|Kodansha|📖|
 |Apr 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817260/blue-lock-omnibus-8-vol-22-24-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778289 "Kodansha")|8|Kodansha|📖|
 |Apr 27|[Chiruran: Shinsengumi Requiem (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/859469/chiruran-shinsengumi-requiem-3-in-1-edition-volume-2-vol-456-by-written-by-shinya-umemura/9781806186587 "Titan Comics")|2|Titan Comics|📖|
 |Apr 27|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
@@ -1331,6 +1329,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 04|[AIDOL Omnibus](https://www.penguinrandomhouse.com/books/826313/aidol-omnibus-2-vol-3-4-by-story-by-yuu-kuraishi-art-by-kazu-inabe-original-concept-by-kuu-tanaka/9798888778500 "Kodansha")|2|Kodansha|📖|
 |May 04|[Love Bites, vol. 2](https://www.penguinrandomhouse.com/books/833600/love-bites-vol-2-by-alicia-wallace/9781834110585 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |May 04|[Meaheim](https://www.penguinrandomhouse.com/books/840446/meaheim-2-by-kenji-tsurubuchi/9781647296834 "Kodansha")|2|Kodansha|📖|
 |May 04|[The Ayakashi Hunter's Tainted Bride](https://www.penguinrandomhouse.com/books/845131/the-ayakashi-hunters-tainted-bride-10-by-midori-yuma/9798888779552 "Kodansha")|10|Kodansha|📖|
@@ -1366,6 +1365,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |May 25|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/845153/grand-blue-dreaming-26-by-kenji-inoue/9798900741062 "Kodansha")|26|Kodansha|📖|
 |May 25|[Mayfly Island](https://www.penguinrandomhouse.com/books/843426/mayfly-island-volume-1-by-evergreen-yeh/9781427890351 "TOKYOPOP")|1|TOKYOPOP|📖|
 |May 25|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|📖|
+|May 25|[Omega Megaera](https://www.penguinrandomhouse.com/books/800462/omega-megaera-9-by-maki-marukido/9798888775998 "Kodansha")|9|Kodansha|📖|
 |May 25|[Shangri-La Frontier](https://www.penguinrandomhouse.com/books/826297/shangri-la-frontier-24-by-ryosuke-fuji/9798888779187 "Kodansha")|24|Kodansha|📖|
 |May 25|[Stella Must Die](https://www.penguinrandomhouse.com/books/830912/stella-must-die-4-by-yasunori-mitsunaga/9798888779873 "Kodansha")|4|Kodansha|📖|
 |May 25|[The Mafia Nanny, vol. 4](https://www.penguinrandomhouse.com/books/838398/the-mafia-nanny-vol-4-by-sh00-violet-matter/9781834110875 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|📖|
