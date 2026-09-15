@@ -89,7 +89,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 15|[Fool Night](https://www.viz.com/manga-books/manga/fool-night-volume-10-0/product/8986/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Sep 15|[Haikyu!! (3-in-1 Edition)](https://www.viz.com/manga-books/manga/haikyu-3-in-1-edition-volume-10-0/product/8985/paperback "VIZ Media")|10|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Hope You're Happy, Lemon](https://sevenseasentertainment.com/books/hope-youre-happy-lemon-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Sep 15|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 15|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 15|[I'm in Love with the Villainess](https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-manga-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Jungle Juice](https://yenpress.com/titles/9798400905773-jungle-juice-vol-8 "Ize Press")|8|Ize Press|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Kageki Shojo!!](https://sevenseasentertainment.com/books/kageki-shojo-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -102,7 +102,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Sep 15|[Men of the Harem](https://yenpress.com/titles/9798400905636-men-of-the-harem-vol-7 "Ize Press")|7|Ize Press|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Mobile Suit Gundam Thunderbolt](https://www.viz.com/manga-books/manga/mobile-suit-gundam-thunderbolt-volume-26-0/product/9089/paperback "VIZ Media")|26|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Murderous Lewellyn's Candlelit Dinner](https://yenpress.com/titles/9798400903472-murderous-lewellyn-s-candlelit-dinner-vol-6 "Ize Press")|6|Ize Press|<span class="hidden">🖥️</span>📖|
-|Sep 15|[My Useless “Cuddle” Skill Awakened, and Now I'm Building the Ultimate Harem!](https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Sep 15|[My Useless “Cuddle” Skill Awakened, and Now I'm Building the Ultimate Harem!](https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Sep 15|[Nobuo Uematsu: On the Record](https://www.viz.com/manga-books/book/nobuo-uematsu-on-the-record/product/9004/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 15|[Not So Shoujo Love Story](https://www.viz.com/manga-books/graphic-novel/not-so-shoujo-love-story-volume-4-0/product/9007/paperback "VIZ Media")|4|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Sep 15|[One-Punch Man](https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
@@ -686,7 +686,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-34-0/product/9112/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
 |Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Dec 08|[Have Fun! Its the End of the World!](https://www.penguinrandomhouse.com/books/824136/have-fun-its-the-end-of-the-world-vol1-by-written-by-sakyuu-tottori/9781787749412 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
-|Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[It Takes More Than a Pretty Face to Fall in Love](https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Kiss or Die Trying!](https://www.penguinrandomhouse.com/books/826314/kiss-or-die-trying-1-by-den-mitao/9798888779088 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|

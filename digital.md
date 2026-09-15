@@ -40,11 +40,9 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 15|[Beneath the Falling Camellia Blooms](https://www.penguinrandomhouse.com/books/833326/beneath-the-falling-camellia-blooms-volume-2-by-natsuwo-ichikawa/9781427891884 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 15|[Choujin X](https://www.viz.com/manga-books/manga/choujin-x-volume-13-0/product/8998/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
 |Sep 15|[Fool Night](https://www.viz.com/manga-books/manga/fool-night-volume-10-0/product/8986/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
-|Sep 15|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-11-0/product/8978/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Sep 15|[King's Maker](https://www.penguinrandomhouse.com/books/768991/kings-maker-volume-3-by-haga-kang-jiyoung/9780593972618 "Inklore")|3|Inklore|🖥️📖|
 |Sep 15|[Marriage of Convenience](https://yenpress.com/titles/9798400905278-marriage-of-convenience-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
-|Sep 15|[My Useless “Cuddle” Skill Awakened, and Now I'm Building the Ultimate Harem!](https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 15|[Nobuo Uematsu: On the Record](https://www.viz.com/manga-books/book/nobuo-uematsu-on-the-record/product/9004/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Sep 15|[One-Punch Man](https://www.viz.com/manga-books/manga/one-punch-man-volume-34-0/product/8996/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
 |Sep 15|[Sakamoto Days](https://www.viz.com/manga-books/manga/sakamoto-days-volume-23-0/product/8997/paperback "VIZ Media")|23|VIZ Media|🖥️📖|
@@ -141,7 +139,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
 |Oct 13|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427888822 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Oct 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892683 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 13|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-12-0/product/9041/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 13|[Splatoon 3: Splatlands](https://www.viz.com/manga-books/manga/splatoon-3-splatlands-volume-7-0/product/9045/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 13|[The Apology of Noumi-Senpai](https://sevenseasentertainment.com/books/the-apology-of-noumi-senpai/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -359,7 +356,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 08|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-34-0/product/9112/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
 |Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
-|Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
 |Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
@@ -574,6 +570,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
+|Apr 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Apr 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
