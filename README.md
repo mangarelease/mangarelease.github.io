@@ -248,7 +248,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 06|[I Have a Secret](https://sevenseasentertainment.com/books/i-have-a-secret-the-complete-manga-collection-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 06|[Lore Olympus: Volume Eleven](https://www.penguinrandomhouse.com/books/789707/lore-olympus-volume-eleven-by-rachel-smythe/9798217091218 "Inklore")|11|Inklore|📖|
-|Oct 06|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|📖|
 |Oct 06|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-15-0/product/9034/digital "VIZ Media")|15|VIZ Media|🖥️|
 |Oct 06|[Merry Witches' Life](https://www.penguinrandomhouse.com/books/833336/merry-witches-life-volume-4-by-menota/9781427887528 "TOKYOPOP")|4|TOKYOPOP|📖|
 |Oct 06|[Monster Cats](https://sevenseasentertainment.com/books/monster-cats-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
@@ -317,7 +316,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 20|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/825200/as-yubooh-slumbers-volume-1-by-paulina-palacios/9781427886699 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 20|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Oct 20|[Blue Lock](https://www.penguinrandomhouse.com/books/824216/blue-lock-35-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778678 "Kodansha")|35|Kodansha|📖|
-|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1|TOKYOPOP|🖥️|
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1.1|TOKYOPOP|🖥️|
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892362 "TOKYOPOP")|1.2|TOKYOPOP|🖥️|
 |Oct 20|[Drifting Dragons](https://www.penguinrandomhouse.com/books/787967/drifting-dragons-18-by-taku-kuwabara/9798888775325 "Kodansha")|18|Kodansha|📖|
@@ -382,6 +381,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 27|[Blue Lock: Episode Nagi](https://www.penguinrandomhouse.com/books/824217/blue-lock-episode-nagi-8-by-by-kota-sannomiya-created-by-muneyuki-kaneshiro-character-designs-by-yusuke-nomura/9798888778685 "Kodansha")|8|Kodansha|📖|
 |Oct 27|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
+|Oct 27|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Erin the Beast Player](https://www.penguinrandomhouse.com/books/834145/erin-the-beast-player-1-by-nahoko-uehashi/9781647296216 "Kodansha")|1|Kodansha|📖|
@@ -401,6 +401,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 27|[Kiki's Delivery Service: The Official Cookbook](https://www.viz.com/manga-books/activity-book/kiki-s-delivery-service-the-official-cookbook/product/9015/hardcover "VIZ Media")|1|VIZ Media|📖|
 |Oct 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855414783-kunon-the-sorcerer-can-see-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Love Bullet](https://yenpress.com/titles/9798855441499-love-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Oct 27|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|📖|
 |Oct 27|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824203/luca-the-dragon-vet-2-by-yuna-hirasawa/9798888778548 "Kodansha")|2|Kodansha|📖|
 |Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -1175,7 +1176,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
 |Mar 09|[On the Tenth Year, the Transferee Who Gave up Returning Finally Becomes the Protagonist](https://www.penguinrandomhouse.com/books/858416/on-the-tenth-year-the-transferee-who-gave-up-returning-finally-becomes-the-protagonist-vol2-by-written-by-hisume/9781787749184 "Titan Comics")|2|Titan Comics|📖|
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Mar 09|[Rainy Day Serenade Omnibus](https://www.penguinrandomhouse.com/books/826317/rainy-day-serenade-omnibus-2-vol-3-4-by-haruka-kawachi/9798888779262 "Kodansha")|2|Kodansha|📖|
 |Mar 09|[School for Wizards: Old Enough to Learn Magic](https://www.penguinrandomhouse.com/books/841867/school-for-wizards-old-enough-to-learn-magic-vol2-by-written-by-yuhi-ueno/9781787749269 "Titan Comics")|2|Titan Comics|📖|
 |Mar 09|[Snow & Ink](https://www.penguinrandomhouse.com/books/824192/snow-and-ink-8-by-miyuki-unohana/9798888779033 "Kodansha")|8|Kodansha|📖|
 |Mar 09|[Suicide Island](https://www.darkhorse.com/books/3016-760/suicide-island-volume-2-tpb/ "Dark Horse")|2|Dark Horse|📖|
@@ -1293,7 +1293,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 13|[Himegasaki Sakurako Is a Hot Mess](https://sevenseasentertainment.com/books/himegasaki-sakurako-is-a-hot-mess-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Apr 13|[In the Clear Moonlit Dusk](https://www.penguinrandomhouse.com/books/845157/in-the-clear-moonlit-dusk-10-by-mika-yamamori/9798900741109 "Kodansha")|10|Kodansha|📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Apr 13|[Mushishi Collector's Edition](https://www.penguinrandomhouse.com/books/802027/mushishi-collectors-edition-5-by-yuki-urushibara/9798888776384 "Kodansha")|5|Kodansha|📖|
 |Apr 13|[My Friend the Merboy](https://www.penguinrandomhouse.com/books/841346/my-friend-the-merboy-volume-1-hardcover-by-wonsangi/9781427890160 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Apr 13|[My Husband is a Doomsday Weapon.](https://www.penguinrandomhouse.com/books/840441/my-husband-is-a-doomsday-weapon-2-by-yuki-amemiya/9781647296902 "Kodansha")|2|Kodansha|📖|
 |Apr 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️|
@@ -1394,6 +1393,18 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jun 08|[The Cat and Dog's Nine-Tailed Lives](https://www.penguinrandomhouse.com/books/845135/the-cat-and-dogs-nine-tailed-lives-by-art-by-hamuhamu-story-by-maki/9798900740621 "Kodansha")|1|Kodansha|📖|
 |Jun 08|[The Serenade of Spring Thunder](https://www.penguinrandomhouse.com/books/840451/the-serenade-of-spring-thunder-1-by-nikki-asada/9781647296612 "Kodansha")|1|Kodansha|📖|
 |Jun 08|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/845128/wistoria-wand-and-sword-15-by-fujino-omori/9798900741406 "Kodansha")|15|Kodansha|📖|
+|Jun 15|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824163/cells-at-work-picture-book-4-just-a-cold-just-a-bump-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778432 "Kodansha")|4|Kodansha|📖|
+|Jun 15|[Fatale Game](https://www.penguinrandomhouse.com/books/845132/fatale-game-1-by-battan/9798900740591 "Kodansha")|1|Kodansha|📖|
+|Jun 15|[I Love You, Please Dump Me](https://www.penguinrandomhouse.com/books/845137/i-love-you-please-dump-me-by-torii-shizuku/9798900740836 "Kodansha")|2|Kodansha|📖|
+|Jun 15|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/840461/lonely-deaths-lie-thick-as-snow-8-by-hajime-inoryu/9781647296100 "Kodansha")|8|Kodansha|📖|
+|Jun 15|[MARS 30th Anniversary Edition](https://www.penguinrandomhouse.com/books/815044/mars-30th-anniversary-edition-5-by-fuyumi-soryo/9798888777886 "Kodansha")|5|Kodansha|📖|
+|Jun 15|[Mushishi Collector's Edition](https://www.penguinrandomhouse.com/books/802027/mushishi-collectors-edition-5-by-yuki-urushibara/9798888776384 "Kodansha")|5|Kodansha|📖|
+|Jun 15|[Rainy Day Serenade Omnibus](https://www.penguinrandomhouse.com/books/826317/rainy-day-serenade-omnibus-2-vol-3-4-by-haruka-kawachi/9798888779262 "Kodansha")|2|Kodansha|📖|
+|Jun 15|[The Red Sleeve](https://www.penguinrandomhouse.com/books/812809/the-red-sleeve-volume-1-by-original-story-by-kang-mikang-art-by-creativesumm-adapted-by-dopamine-storyboard-by-lee-ji-yong/9798217298204 "Inklore")|1|Inklore|🖥️📖|
+|Jun 15|[The Regalia of the Underdog](https://www.penguinrandomhouse.com/books/834027/the-regalia-of-the-underdog-vol1-by-written-by-shinachiku/9781787748804 "Titan Comics")|1|Titan Comics|📖|
+|Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
+|Jun 15|[Where Pigs Fly](https://www.penguinrandomhouse.com/books/837116/where-pigs-fly-by-marie-millotte/9781427889690 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Jun 15|[Witch Hat Atelier](https://www.penguinrandomhouse.com/books/845129/witch-hat-atelier-16-by-kamome-shirahama/9798900741413 "Kodansha")|16|Kodansha|📖|
 
 ### July
 

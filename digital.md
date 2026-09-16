@@ -146,7 +146,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[Yaiba: Samurai Legend](https://www.viz.com/manga-books/manga/yaiba-volume-6-0/product/9039/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 20|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 20|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/825200/as-yubooh-slumbers-volume-1-by-paulina-palacios/9781427886699 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892362 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 20|[Finding Camellia](https://yenpress.com/titles/9798400905155-finding-camellia-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
@@ -595,6 +595,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jun 15|[The Red Sleeve](https://www.penguinrandomhouse.com/books/812809/the-red-sleeve-volume-1-by-original-story-by-kang-mikang-art-by-creativesumm-adapted-by-dopamine-storyboard-by-lee-ji-yong/9798217298204 "Inklore")|1|Inklore|🖥️📖|
+|Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
 
 ### October
 
