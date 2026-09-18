@@ -304,7 +304,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 13|[Yaiba: Samurai Legend](https://www.viz.com/manga-books/manga/yaiba-volume-6-0/product/9039/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 20|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Oct 20|[Aharen-san is Indecipherable (Omnibus)](https://sevenseasentertainment.com/books/aharen-san-is-indecipherable-omnibus-vol-5-6/ "Seven Seas Entertainment")|5-6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Oct 20|[Assassin's Creed Dynasty: The Complete Collection](https://www.penguinrandomhouse.com/books/843376/assassins-creed-dynasty-the-complete-collection-by-xu-xianzhe/9781427891082 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 20|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/825200/as-yubooh-slumbers-volume-1-by-paulina-palacios/9781427886699 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 20|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Blue Lock](https://www.penguinrandomhouse.com/books/824216/blue-lock-35-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778678 "Kodansha")|35|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -674,6 +673,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Appleseed Companion (Deluxe Edition)](https://www.darkhorse.com/books/3010-377/appleseed-companion-hc-deluxe-edition/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Dec 08|[A Sign of Affection](https://www.penguinrandomhouse.com/books/830945/a-sign-of-affection-13-by-suu-morishita/9798888779682 "Kodansha")|13|Kodansha|<span class="hidden">🖥️</span>📖|
+|Dec 08|[Assassin's Creed Dynasty: The Complete Collection](https://www.penguinrandomhouse.com/books/843376/assassins-creed-dynasty-the-complete-collection-by-xu-xianzhe/9781427891082 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 08|[BABY.](https://www.penguinrandomhouse.com/books/834026/baby-vol1-by-written-by-chang-sheng/9781787748774 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Beatrice](https://yenpress.com/titles/9798855439809-beatrice-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 08|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830938/blue-lock-full-color-selection-3-michael-kaiser-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779590 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -959,7 +959,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 26|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9798855447644-death-march-to-the-parallel-world-rhapsody-vol-19-manga "Yen Press")|19|Yen Press|🖥️📖|
 |Jan 26|[Disenchantment Camera](https://yenpress.com/titles/9798855436464-disenchantment-camera "Yen Press")|1|Yen Press|🖥️📖|
-|Jan 26|[Elden Ring: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[ELDEN RING: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440423-fate-rewinder-all-great-achievements-require-time-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 26|[From Villainess to Healer: I Know the Cheat to Change My Fate](https://yenpress.com/titles/9781718333635-from-villainess-to-healer-i-know-the-cheat-to-change-my-fate-volume-2-manga "J-Novel Club")|2|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|

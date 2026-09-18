@@ -468,7 +468,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 26|[Death March to the Parallel World Rhapsody](https://yenpress.com/titles/9798855447644-death-march-to-the-parallel-world-rhapsody-vol-19-manga "Yen Press")|19|Yen Press|🖥️📖|
 |Jan 26|[Disenchantment Camera](https://yenpress.com/titles/9798855436464-disenchantment-camera "Yen Press")|1|Yen Press|🖥️📖|
-|Jan 26|[Elden Ring: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[ELDEN RING: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440423-fate-rewinder-all-great-achievements-require-time-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Jan 26|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
