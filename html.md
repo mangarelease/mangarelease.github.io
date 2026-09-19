@@ -414,7 +414,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[My Dear Detective: Mitsuko's Case Files](https://sevenseasentertainment.com/books/my-dear-detective-mitsukos-case-files-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Oct 27|[Outsiders](https://www.penguinrandomhouse.com/books/799948/outsiders-vol3-by-written-by-akira-kanou/9781787745766 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892386 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Phantom of the Idol](https://www.penguinrandomhouse.com/books/817275/phantom-of-the-idol-9-by-hijiki-isoflavone/9798888778128 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -957,6 +956,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 19|[Nakamura-san, the Uninvited Gyaru](https://sevenseasentertainment.com/books/nakamura-san-the-uninvited-gyaru-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Nina the Starry Bride](https://www.penguinrandomhouse.com/books/845095/nina-the-starry-bride-18-by-rikachi/9798900741178 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400904448-omniscient-reader-s-viewpoint-vol-13 "Ize Press")|13|Ize Press|<span class="hidden">🖥️</span>📖|
+|Jan 19|[Outsiders](https://www.penguinrandomhouse.com/books/799948/outsiders-vol3-by-written-by-akira-kanou/9781787745766 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Philomel the Fake](https://yenpress.com/titles/9798400906923-philomel-the-fake-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Rainy Day Serenade Omnibus](https://www.penguinrandomhouse.com/books/826316/rainy-day-serenade-omnibus-1-vol-1-2-by-haruka-kawachi/9798888779255 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
