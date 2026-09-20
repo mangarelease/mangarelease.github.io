@@ -357,7 +357,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 20|[Tomb Raider King](https://yenpress.com/titles/9798400905391-tomb-raider-king-vol-16 "Ize Press")|16|Ize Press|🖥️📖|
 |Oct 20|[Ultraman](https://www.viz.com/manga-books/manga/ultraman-volume-22-0/product/9051/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Oct 20|[Undead Unluck](https://www.viz.com/manga-books/manga/undead-unluck-volume-27-0/product/9050/paperback "VIZ Media")|27|VIZ Media|🖥️📖|
-|Oct 20|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|📖|
 |Oct 20|[Wave, Listen to Me!](https://www.penguinrandomhouse.com/books/813108/wave-listen-to-me-12-by-hiroaki-samura/9798888777336 "Kodansha")|12|Kodansha|📖|
 |Oct 20|[Wet Sand](https://www.penguinrandomhouse.com/books/814846/wet-sand-volume-4-by-doyak/9798217298280 "Inklore")|4|Inklore|🖥️📖|
 |Oct 20|[Witching Hour](https://www.viz.com/manga-books/manga/witching-hour-volume-1-0/product/9048/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -411,7 +410,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892386 "TOKYOPOP")|2|TOKYOPOP|🖥️|
 |Oct 27|[Phantom of the Idol](https://www.penguinrandomhouse.com/books/817275/phantom-of-the-idol-9-by-hijiki-isoflavone/9798888778128 "Kodansha")|9|Kodansha|📖|
-|Oct 27|[Pokémon Adventures: Red and Blue, Deluxe Edition](https://www.viz.com/manga-books/manga/pokemon-adventures-red-and-blue-deluxe-edition-volume-1-0/product/9018/hardcover "VIZ Media")|1|VIZ Media|📖|
 |Oct 27|[Redeem: Only One Forever](https://yenpress.com/titles/9798855423457-redeem-only-one-forever-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Reincarnation Coliseum](https://yenpress.com/titles/9798855424188-reincarnation-coliseum-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Remnant: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/remnant-the-beastmen-omegaverse-saga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
@@ -516,6 +514,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 10|[Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger](https://sevenseasentertainment.com/books/only-i-know-the-world-is-ending-and-getting-killed-by-rampaging-beasts-only-makes-me-stronger-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 10|[Otaku Elf](https://sevenseasentertainment.com/books/otaku-elf-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Nov 10|[Pass the Monster Meat, Milady!](https://www.penguinrandomhouse.com/books/830926/pass-the-monster-meat-milady-11-by-chika-mizube/9798888779989 "Kodansha")|11|Kodansha|📖|
+|Nov 10|[Pokémon Adventures: Red and Blue, Deluxe Edition](https://www.viz.com/manga-books/manga/pokemon-adventures-red-and-blue-deluxe-edition-volume-1-0/product/9018/hardcover "VIZ Media")|1|VIZ Media|📖|
 |Nov 10|[Say Hello to Mr. Wallaby!](https://www.penguinrandomhouse.com/books/830964/say-hello-to-mr-wallaby-2-by-marume-goshika/9798888779538 "Kodansha")|2|Kodansha|📖|
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Nov 10|[Servamp](https://sevenseasentertainment.com/books/servamp-vol-24/ "Seven Seas Entertainment")|24|Seven Seas Entertainment|📖|
@@ -569,6 +568,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|📖|
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Nov 17|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|🖥️📖|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
