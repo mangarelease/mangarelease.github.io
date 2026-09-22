@@ -59,7 +59,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[Daughter of the Emperor](https://yenpress.com/titles/9798855419856-daughter-of-the-emperor-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Sep 22|[Dead Mount Death Play Side Story: Phantom Solitaire's Art of Disguising Oneself as a Supernatural Being](https://yenpress.com/titles/9798855435429-dead-mount-death-play-side-story-phantom-solitaire-s-art-of-disguising-oneself-as-a-supernatural-being-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 22|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855422498-from-old-country-bumpkin-to-master-swordsman-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Sep 22|[Give Me a Hug, Mr. Frog!](https://sevenseasentertainment.com/books/give-me-a-hug-mr-frog/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[How to Handle My Sassy Big Sis](https://yenpress.com/titles/9798855429039-how-to-handle-my-sassy-big-sis-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[It's Strictly Business](https://yenpress.com/titles/9798855429619-it-s-strictly-business-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-9-0/product/8984/hardcover "VIZ Media")|9|VIZ Media|🖥️📖|
@@ -74,7 +73,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[My Lover Is Just Too Innocent to Handle](https://yenpress.com/titles/9798855425161-my-lover-is-just-too-innocent-to-handle-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[My Super-Cute Black Mage!](https://yenpress.com/titles/9798855417999-my-super-cute-black-mage-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Overlord: The Undead King Oh!](https://yenpress.com/titles/9798855428216-overlord-the-undead-king-oh-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
-|Sep 22|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Scenes from Awajima](https://yenpress.com/titles/9798855428940-scenes-from-awajima-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Sep 22|[Sentenced to Be a Hero](https://yenpress.com/titles/9798855440188-sentenced-to-be-a-hero-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Servant Beasts](https://yenpress.com/titles/9798855425437-servant-beasts-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -83,17 +81,14 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[The Eminence in Shadow](https://yenpress.com/titles/9798855427813-the-eminence-in-shadow-vol-15-manga "Yen Press")|15|Yen Press|🖥️📖|
 |Sep 22|[The Failure at God School](https://yenpress.com/titles/9798855404654-the-failure-at-god-school-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[The Holy Grail of Eris](https://yenpress.com/titles/9798855426588-the-holy-grail-of-eris-vol-12-manga "Yen Press")|12|Yen Press|🖥️📖|
-|Sep 22|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[The Terrifying Students at Ghoul School!](https://yenpress.com/titles/9798855418491-the-terrifying-students-at-ghoul-school-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[Three Days of Happiness: The Complete Omnibus](https://yenpress.com/titles/9798855429053-three-days-of-happiness-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855436983-thus-spoke-the-rabbit-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 22|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 22|[Unnamed Memory](https://yenpress.com/titles/9798855424201-unnamed-memory-vol-8-manga "Yen Press")|8|Yen Press|🖥️📖|
 |Sep 22|[Victoria of Many Faces](https://yenpress.com/titles/9798855428377-victoria-of-many-faces-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Sep 22|[Void: No. Nine](https://yenpress.com/titles/9798855433029-void-no-nine-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 22|[What Six Survivors Told…](https://yenpress.com/titles/9798855425451-what-six-survivors-told-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Yowamushi Pedal](https://yenpress.com/titles/9798855402797-yowamushi-pedal-vol-29 "Yen Press")|29|Yen Press|🖥️📖|
-|Sep 22|[Yuri Yuri Panic: A Case of Extreme Cuteness Has Occurred!](https://sevenseasentertainment.com/books/yuri-yuri-panic-a-case-of-extreme-cuteness-has-occurred-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 23|[Reset](https://j-novel.club/series/resetreboot#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️<span class="hidden">📖</span>|
 |Sep 29|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -228,6 +223,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-2-0/product/9073/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
@@ -253,7 +250,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[One Piece](https://www.viz.com/manga-books/manga/one-piece-volume-113-0/product/9076/paperback "VIZ Media")|113|VIZ Media|🖥️📖|
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
-|Nov 10|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-2-0/product/9086/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 10|[Wild Paws](https://www.penguinrandomhouse.com/books/825917/wild-paws-volume-1-the-fox-farm-by-victor-nordahl/9781427886934 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -275,7 +271,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 17|[Seven Sundays](https://yenpress.com/titles/9798400905438-seven-sundays-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
-|Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|🖥️📖|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -451,7 +446,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[The Villainous Noble is Way Too Fond of MILF Heroines](https://sevenseasentertainment.com/books/the-villainous-noble-is-way-too-fond-of-milf-heroines-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
-|Jan 19|[Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Record of Chrono's War: Apparently I'm Only the Strongest in Bed](https://sevenseasentertainment.com/books/record-of-chronos-war-apparently-im-only-the-strongest-in-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reunion](https://yenpress.com/titles/9798400905674-reunion-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Jan 19|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904813-solo-leveling-ragnarok-vol-3-comic "Ize Press")|3|Ize Press|🖥️📖|
@@ -503,7 +497,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/840434/welcome-to-demon-school-iruma-kun-irumafia-edition-7-by-osamu-nishi/9781647296865 "Kodansha")|7|Kodansha|🖥️📖|
 |Jan 26|[With You, Our Love Will Make It Through](https://yenpress.com/titles/9781975397401-with-you-our-love-will-make-it-through-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Your Meteor, Hidden in Flowers](https://sevenseasentertainment.com/books/your-meteor-hidden-in-flowers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Jan 26|[Yuri Yuri Panic: A Case of Extreme Cuteness Has Occurred!](https://sevenseasentertainment.com/books/yuri-yuri-panic-a-case-of-extreme-cuteness-has-occurred-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 
 ### February
 
@@ -518,14 +511,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[DRAGON CIRCUS](https://www.penguinrandomhouse.com/books/840411/dragon-circus-2-by-eiichi-shimizu/9781647296568 "Kodansha")|2|Kodansha|🖥️📖|
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
-|Feb 09|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Erotical Wizard and His Twelve Brides](https://sevenseasentertainment.com/books/the-erotical-wizard-and-his-twelve-brides-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Makeup Remover](https://www.penguinrandomhouse.com/books/752047/the-makeup-remover-volume-3-by-lee-yeon/9780593872826 "Inklore")|3|Inklore|🖥️📖|
-|Feb 16|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/840436/kirio-fan-club-6-by-chikyu-no-osakana-ponchan/9781647295332 "Kodansha")|6|Kodansha|🖥️📖|
@@ -570,8 +561,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Apr 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Apr 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
