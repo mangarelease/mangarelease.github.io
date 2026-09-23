@@ -411,7 +411,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[The one. Later on…](https://www.penguinrandomhouse.com/books/830906/the-one-later-on-vol2-by-written-by-nahato/9781787747449 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427887863 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 27|[The Record of Fantastical Nomenclature](https://yenpress.com/titles/9798855423013-the-record-of-fantastical-nomenclature-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Summer Hikaru Died](https://yenpress.com/titles/9798855437799-the-summer-hikaru-died-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 27|[The Villainess Stans the Heroes: Playing the Antagonist to Support Her Faves!](https://yenpress.com/titles/9798855436167-the-villainess-stans-the-heroes-playing-the-antagonist-to-support-her-faves-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
@@ -463,7 +462,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 03|[The Ayakashi Hunter's Tainted Bride](https://www.penguinrandomhouse.com/books/817271/the-ayakashi-hunters-tainted-bride-8-by-manga-by-mamenosuke-fujimaru-created-by-midori-yuma/9798888778166 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Barbarian's Bride](https://sevenseasentertainment.com/books/the-barbarians-bride-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-22-0/product/9081/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
-|Nov 03|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427887870 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 03|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427887863 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 03|[The Seaside Where Dragon Boys Dwell](https://www.viz.com/manga-books/manga/seaside-where-dragon-boys-dwell-volume-1-0/product/9020/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 03|[Twilight Out of Focus](https://www.penguinrandomhouse.com/books/834130/twilight-out-of-focus-7-afterimages-in-slow-motion-2-by-jyanome/9781647296490 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Two A.M. at the Dining Table](https://yenpress.com/titles/9798855430615-two-a-m-at-the-dining-table-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -503,6 +502,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Nov 10|[Servamp](https://sevenseasentertainment.com/books/servamp-vol-24/ "Seven Seas Entertainment")|24|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Spacewalking With You](https://www.penguinrandomhouse.com/books/808558/spacewalking-with-you-4-by-inuhiko-doronoda/9798888776865 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427887870 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Long Summer of August 31](https://sevenseasentertainment.com/books/the-long-summer-of-august-31-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-2-0/product/9086/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
@@ -1378,6 +1378,12 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
 |Jun 15|[Where Pigs Fly](https://www.penguinrandomhouse.com/books/837116/where-pigs-fly-by-marie-millotte/9781427889690 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Witch Hat Atelier](https://www.penguinrandomhouse.com/books/845129/witch-hat-atelier-16-by-kamome-shirahama/9798900741413 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 22|[Advent vs. Justice: The Comic](https://www.penguinrandomhouse.com/books/843440/advent-vs-justice-the-comic-volume-1-by-hololive/9781427891112 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Jun 22|[Gazing at the Star Next Door](https://www.penguinrandomhouse.com/books/863125/gazing-at-the-star-next-door-10-by-ammitsu/9798900743400 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 22|[Medaka Kuroiwa is Impervious to My Charms](https://www.penguinrandomhouse.com/books/840442/medaka-kuroiwa-is-impervious-to-my-charms-18-by-ran-kuze/9781647296896 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 22|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840443/nezumis-first-love-9-by-riku-oseto/9781647296957 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
+|Jun 22|[The Fragrant Flower Blooms with Dignity](https://www.penguinrandomhouse.com/books/824180/the-fragrant-flower-blooms-with-dignity-19-by-saka-mikami/9798888778913 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
 
 ### July
 

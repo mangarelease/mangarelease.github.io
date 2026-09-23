@@ -197,7 +197,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[The Dragon School Is Atop the Mountain](https://yenpress.com/titles/9798855444759-the-dragon-school-is-atop-the-mountain "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427887863 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892492 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[The Record of Fantastical Nomenclature](https://yenpress.com/titles/9798855423013-the-record-of-fantastical-nomenclature-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -232,7 +232,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-6-0/product/9079/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Nov 03|[Tamon's B-Side](https://www.viz.com/manga-books/manga/tamon-s-b-side-volume-12-0/product/9080/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Nov 03|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-22-0/product/9081/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
-|Nov 03|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427887870 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 03|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427892591 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427892607 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[The Seaside Where Dragon Boys Dwell](https://www.viz.com/manga-books/manga/seaside-where-dragon-boys-dwell-volume-1-0/product/9020/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 03|[Two A.M. at the Dining Table](https://yenpress.com/titles/9798855430615-two-a-m-at-the-dining-table-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -586,6 +586,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jun 15|[The Red Sleeve](https://www.penguinrandomhouse.com/books/812809/the-red-sleeve-volume-1-by-original-story-by-kang-mikang-art-by-creativesumm-adapted-by-dopamine-storyboard-by-lee-ji-yong/9798217298204 "Inklore")|1|Inklore|🖥️📖|
 |Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
+|Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
 
 ### October
 
