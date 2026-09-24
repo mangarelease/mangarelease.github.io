@@ -186,7 +186,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[mono](https://yenpress.com/titles/9798855435719-mono-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892379 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892386 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Redeem: Only One Forever](https://yenpress.com/titles/9798855423457-redeem-only-one-forever-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Reincarnation Coliseum](https://yenpress.com/titles/9798855424188-reincarnation-coliseum-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
@@ -445,7 +445,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy](https://sevenseasentertainment.com/books/the-tomorrow-i-want-to-see-with-kako-a-time-loop-romantic-comedy-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Villainous Noble is Way Too Fond of MILF Heroines](https://sevenseasentertainment.com/books/the-villainous-noble-is-way-too-fond-of-milf-heroines-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Jan 19|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jan 19|[Record of Chrono's War: Apparently I'm Only the Strongest in Bed](https://sevenseasentertainment.com/books/record-of-chronos-war-apparently-im-only-the-strongest-in-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Reunion](https://yenpress.com/titles/9798400905674-reunion-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Jan 19|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904813-solo-leveling-ragnarok-vol-3-comic "Ize Press")|3|Ize Press|🖥️📖|
@@ -556,6 +555,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Apr 06|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 06|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784698/heaven-officials-blessing-the-comic-volume-5-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984482 "Inklore")|5|Inklore|🖥️📖|
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|

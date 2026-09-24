@@ -385,7 +385,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[Blue Lock: Episode Nagi](https://www.penguinrandomhouse.com/books/824217/blue-lock-episode-nagi-8-by-by-kota-sannomiya-created-by-muneyuki-kaneshiro-character-designs-by-yusuke-nomura/9798888778685 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
-|Oct 27|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Erin the Beast Player](https://www.penguinrandomhouse.com/books/834145/erin-the-beast-player-1-by-nahoko-uehashi/9781647296216 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -413,7 +412,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[My Dear Detective: Mitsuko's Case Files](https://sevenseasentertainment.com/books/my-dear-detective-mitsukos-case-files-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892379 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427892386 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Phantom of the Idol](https://www.penguinrandomhouse.com/books/817275/phantom-of-the-idol-9-by-hijiki-isoflavone/9798888778128 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Redeem: Only One Forever](https://yenpress.com/titles/9798855423457-redeem-only-one-forever-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -450,6 +449,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 03|[Blue Box](https://www.viz.com/manga-books/manga/blue-box-volume-22-0/product/9047/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Nov 03|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830937/blue-lock-full-color-selection-2-seishiro-nagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779583 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Bocchi the Rock! Comic Anthology](https://yenpress.com/titles/9798855428155-bocchi-the-rock-comic-anthology-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Nov 03|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427888242 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 03|[CITY](https://www.penguinrandomhouse.com/books/834141/city-14-by-keiichi-arawi/9781647296315 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Colette Decides to Die](https://www.viz.com/manga-books/manga/colette-decides-to-die-volume-9-0/product/9063/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Cursed Princess Club, vol. 6](https://www.penguinrandomhouse.com/books/836100/cursed-princess-club-vol-6-by-lambcat/9781834110530 "WEBTOON Unscrolled")|6|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
@@ -565,6 +565,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 17|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905193-my-secretly-hot-husband-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[NakiNagi](https://www.penguinrandomhouse.com/books/830935/nakinagi-1-by-keigo-maki/9798888779484 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Overgeared](https://yenpress.com/titles/9798400905476-overgeared-vol-12 "Ize Press")|12|Ize Press|🖥️📖|
+|Nov 17|[Perfeddion](https://www.penguinrandomhouse.com/books/833298/perfeddion-by-dani-bermudez/9781427887849 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Puniru is a Kawaii Slime (Omnibus)](https://sevenseasentertainment.com/books/puniru-is-a-kawaii-slime-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Pupposites Attract](https://www.penguinrandomhouse.com/books/830928/pupposites-attract-5-by-hono-natsuna/9798900740003 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Re-Living My Life with a Boyfriend Who Doesn't Remember Me](https://sevenseasentertainment.com/books/re-living-my-life-with-a-boyfriend-who-doesnt-remember-me-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -946,7 +947,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Cells at Work! Cat](https://www.penguinrandomhouse.com/books/824222/cells-at-work-cat-3-by-manga-by-meku-kaire-story-by-choco-aozora-based-on-cells-at-work-by-akane-shimizu/9798888778739 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jan 19|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jan 19|[Dragon Head](https://www.penguinrandomhouse.com/books/834163/dragon-head-4-by-minetaro-mochizuki/9781647295134 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Dungeon People](https://sevenseasentertainment.com/books/dungeon-people-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Eleceed](https://www.penguinrandomhouse.com/books/803004/eleceed-volume-1-by-story-by-jeho-son-art-by-zhena/9798217093496 "Inklore")|1|Inklore|<span class="hidden">🖥️</span>📖|
@@ -1265,6 +1265,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Apr 06|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 06|[Colori Colore Creare](https://www.penguinrandomhouse.com/books/858415/colori-colore-creare-vol3-by-written-by-kozue-amano/9781787748835 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Drawn Deep](https://www.penguinrandomhouse.com/books/840459/drawn-deep-1-by-suji-hanabusa/9781647296131 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Gantz Deluxe Edition](https://www.darkhorse.com/books/3017-883/gantz-deluxe-edition-volume-1-hc/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
