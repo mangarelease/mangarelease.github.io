@@ -405,7 +405,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855414783-kunon-the-sorcerer-can-see-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Love Bullet](https://yenpress.com/titles/9798855441499-love-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
-|Oct 27|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824203/luca-the-dragon-vet-2-by-yuna-hirasawa/9798888778548 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[mono](https://yenpress.com/titles/9798855435719-mono-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -465,6 +464,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 03|[Kindergarten Wars](https://yenpress.com/titles/9798855409161-kindergarten-wars-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 03|[KPop Demon Hunters: The Official Screen Comic Boxed Set](https://www.penguinrandomhouse.com/books/828178/kpop-demon-hunters-the-official-screen-comic-boxed-set-by-netflix/9798217373918 "Inklore")|1|Inklore|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/834152/lonely-deaths-lie-thick-as-snow-5-by-hajime-inoryu/9781647296070 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824203/luca-the-dragon-vet-2-by-yuna-hirasawa/9798888778548 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Marrying the Dark Knight (For Her Money)](https://www.penguinrandomhouse.com/books/826271/marrying-the-dark-knight-for-her-money-3-by-sometime/9798888779248 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436488-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
@@ -924,7 +924,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 12|[Blaze of Flesh and Blood](https://www.penguinrandomhouse.com/books/840450/blaze-of-flesh-and-blood-1-by-honomi/9781647296629 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Blue Lock](https://www.penguinrandomhouse.com/books/845144/blue-lock-38-by-muneyuki-kaneshiro/9798900740973 "Kodansha")|38|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Jan 12|[Disney Poor Unfortunate Soul, The Manga Edition](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-the-manga-edition-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Jan 12|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808552/drawing-from-your-memory-4-by-shiki-kawabata/9798888776926 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Gachiakuta](https://www.penguinrandomhouse.com/books/806873/gachiakuta-14-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888776537 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|

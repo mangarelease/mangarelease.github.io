@@ -438,6 +438,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834126/the-magnificent-bastard-5-by-keiichiro-ryu/9781647295233 "Kodansha")|5|Kodansha|🖥️📖|
+|Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
