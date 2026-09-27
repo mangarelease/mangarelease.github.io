@@ -116,7 +116,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-5-0/product/9025/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Oct 06|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-15-0/product/9034/digital "VIZ Media")|15|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Oct 06|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-15-0/product/9034/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 06|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-5-0/product/9029/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-3-0/product/9030/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 06|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-9-0/product/9026/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
@@ -129,6 +129,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[Chainsaw Man](https://www.viz.com/manga-books/manga/chainsaw-man-volume-22-0/product/9031/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Oct 13|[Far Cry: Cull The Herd](https://www.penguinrandomhouse.com/books/813923/far-cry-cull-the-herd-volume-1-graphic-novel-by-ryan-nichols/9781427878137 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 13|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-8-0/product/9040/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
+|Oct 13|[GalaXic Baseball League](https://www.viz.com/manga-books/manga/galaxic-baseball-league-volume-1-0/product/8974/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 13|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751250/how-to-hide-the-emperors-child-volume-1-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872451 "Inklore")|1|Inklore|🖥️📖|
 |Oct 13|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
