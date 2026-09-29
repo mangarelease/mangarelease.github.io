@@ -90,17 +90,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Sep 22|[What Six Survivors Told…](https://yenpress.com/titles/9798855425451-what-six-survivors-told-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Sep 22|[Yowamushi Pedal](https://yenpress.com/titles/9798855402797-yowamushi-pedal-vol-29 "Yen Press")|29|Yen Press|🖥️📖|
 |Sep 23|[Reset](https://j-novel.club/series/resetreboot#volume-1 "J-Novel Club")|1|J-Novel Club|🖥️<span class="hidden">📖</span>|
-|Sep 29|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892201 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Sep 29|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-adriano-barone/9781427892218 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Sep 29|[Can You Kiss Me First?](https://sevenseasentertainment.com/books/can-you-kiss-me-first-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Sep 29|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[How to Love a Loser](https://yenpress.com/titles/9798855425147-how-to-love-a-loser-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Sep 29|[Nomi x Shiba](https://yenpress.com/titles/9781975397746-nomi-x-shiba-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Sep 29|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 29|[The Succubus Meets Her Match](https://yenpress.com/titles/9798855425758-the-succubus-meets-her-match-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Sep 29|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Sep 30|[A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://j-novel.club/series/a-livid-lady-s-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-manga#volume-9 "J-Novel Club")|9|J-Novel Club|🖥️<span class="hidden">📖</span>|
 
 ### October
@@ -352,7 +347,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Beatrice](https://yenpress.com/titles/9798855439809-beatrice-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 08|[Call of the Night: Paradise Arc](https://www.viz.com/manga-books/manga/call-of-the-night-paradise-arc/product/9095/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Dec 08|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-34-0/product/9112/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
 |Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
@@ -371,7 +365,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 08|[Yakuza vs. Cat](https://www.viz.com/manga-books/manga/yakuza-vs-cat-volume-1-0/product/9119/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Dec 15|[Alma-chan Wants to Be a Family!](https://yenpress.com/titles/9798855432343-alma-chan-wants-to-be-a-family-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Dec 15|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[Battle Royale Deluxe Edition](https://yenpress.com/titles/9798855431483-battle-royale-deluxe-edition-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Beneath the Fur](https://yenpress.com/titles/9798855421828-beneath-the-fur-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Bocchi the Rock! Side Story: Kikuri Hiroi's Heavy-Drinking Diary](https://yenpress.com/titles/9798855423846-bocchi-the-rock-side-story-kikuri-hiroi-s-heavy-drinking-diary-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -446,7 +439,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Jan 12|[Reluctant Space Commander: From Death Wish to Galactic Hero!](https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy](https://sevenseasentertainment.com/books/the-tomorrow-i-want-to-see-with-kako-a-time-loop-romantic-comedy-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Villainous Noble is Way Too Fond of MILF Heroines](https://sevenseasentertainment.com/books/the-villainous-noble-is-way-too-fond-of-milf-heroines-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -496,7 +488,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[The Small-Animallike Lady Is Adored by the Ice Prince](https://yenpress.com/titles/9798855427790-the-small-animallike-lady-is-adored-by-the-ice-prince-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
 |Jan 26|[The Vampire and His Pleasant Companions](https://yenpress.com/titles/9798855435467-the-vampire-and-his-pleasant-companions-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Jan 26|[The Villainesses Are Unwavering](https://yenpress.com/titles/9798855433043-the-villainesses-are-unwavering-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Jan 26|[Unexpectedly Naughty Fukami](https://sevenseasentertainment.com/books/unexpectedly-naughty-fukami-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Visions 2025__Illustrators Book](https://yenpress.com/titles/9798855437843-visions-2025-illustrators-book "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/840434/welcome-to-demon-school-iruma-kun-irumafia-edition-7-by-osamu-nishi/9781647296865 "Kodansha")|7|Kodansha|🖥️📖|
 |Jan 26|[With You, Our Love Will Make It Through](https://yenpress.com/titles/9781975397401-with-you-our-love-will-make-it-through-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
@@ -536,7 +527,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 02|[I Will Fall in Love with Azami Yako (if it kills me)](https://sevenseasentertainment.com/books/i-will-fall-in-love-with-azami-yako-if-it-kills-me-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 02|[King's Maker: Triple Crown](https://www.penguinrandomhouse.com/books/768683/kings-maker-triple-crown-volume-1-by-haga-kang-jiyoung/9780593972410 "Inklore")|1|Inklore|🖥️📖|
 |Mar 02|[The Horizon Will Soon Shine](https://sevenseasentertainment.com/books/the-horizon-will-soon-shine-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Mar 09|[Even the Student Council Has Its Holes!](https://sevenseasentertainment.com/books/even-the-student-council-has-its-holes-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[My Name is Mienne: Tales of a Blind Kitten](https://sevenseasentertainment.com/books/my-name-is-mienne-tales-of-a-blind-kitten/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
