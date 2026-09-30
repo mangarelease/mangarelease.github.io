@@ -1416,8 +1416,15 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jun 22|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840443/nezumis-first-love-9-by-riku-oseto/9781647296957 "Kodansha")|9|Kodansha|📖|
 |Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
 |Jun 22|[The Fragrant Flower Blooms with Dignity](https://www.penguinrandomhouse.com/books/824180/the-fragrant-flower-blooms-with-dignity-19-by-saka-mikami/9798888778913 "Kodansha")|19|Kodansha|📖|
+|Jun 29|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817259/blue-lock-omnibus-9-vol-25-27-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778296 "Kodansha")|9|Kodansha|📖|
+|Jun 29|[Disney Manga: Beauty and the Beast (Special 2-in-1 Collectors Edition)](https://www.penguinrandomhouse.com/books/836432/disney-manga-beauty-and-the-beast-special-2-in-1-collectors-edition-by-mallory-reaves/9781427889768 "TOKYOPOP")|2|TOKYOPOP|📖|
+|Jun 29|[Disney Manga: Stitch!](https://www.penguinrandomhouse.com/books/837130/disney-manga-stitch-volume-2-full-color-edition-by-yumi-tsukurino/9781427889744 "TOKYOPOP")|2.2|TOKYOPOP|🖥️📖|
 |Jun 29|[Gourmet Hound, vol. 2](https://www.penguinrandomhouse.com/books/838399/gourmet-hound-vol-2-by-robyn-lee-hamada/9781834110882 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
+|Jun 29|[NakiNagi](https://www.penguinrandomhouse.com/books/830940/nakinagi-3-by-keigo-maki/9798888779620 "Kodansha")|3|Kodansha|📖|
+|Jun 29|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/830951/rent-a-girlfriend-43-by-reiji-miyajima/9798888779750 "Kodansha")|43|Kodansha|📖|
 |Jun 29|[The Kiss Bet, vol. 5](https://www.penguinrandomhouse.com/books/833601/the-kiss-bet-vol-5-by-ingrid-ochoa/9781834110592 "WEBTOON Unscrolled")|5|WEBTOON Unscrolled|📖|
+|Jun 29|[Tune In to the Midnight Heart](https://www.penguinrandomhouse.com/books/845124/tune-in-to-the-midnight-heart-12-by-masakuni-igarashi/9798900741369 "Kodansha")|12|Kodansha|📖|
+|Jun 29|[What Did You Eat Yesterday?](https://www.penguinrandomhouse.com/books/840460/what-did-you-eat-yesterday-24-by-fumi-yoshinaga/9781647296124 "Kodansha")|24|Kodansha|📖|
 
 ### July
 

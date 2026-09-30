@@ -582,6 +582,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jun 15|[The Red Sleeve](https://www.penguinrandomhouse.com/books/812809/the-red-sleeve-volume-1-by-original-story-by-kang-mikang-art-by-creativesumm-adapted-by-dopamine-storyboard-by-lee-ji-yong/9798217298204 "Inklore")|1|Inklore|🖥️📖|
 |Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
 |Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
+|Jun 29|[Disney Manga: Stitch!](https://www.penguinrandomhouse.com/books/837130/disney-manga-stitch-volume-2-full-color-edition-by-yumi-tsukurino/9781427889744 "TOKYOPOP")|2.2|TOKYOPOP|🖥️📖|
 
 ### October
 
