@@ -1214,7 +1214,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 16|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/830942/wistoria-wand-and-sword-14-by-story-by-fujino-omori-manga-by-toshi-aoi/9798888779651 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 23|[After School Invaders](https://www.penguinrandomhouse.com/books/841969/after-school-invaders-vol1-by-written-by-watanao/9781806182947 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Mar 23|[A Suitable Fetish](https://sevenseasentertainment.com/books/a-suitable-fetish-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Mar 23|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Mar 23|[Cat + Crazy](https://www.darkhorse.com/books/3013-202/cat-crazy-volume-6-tpb/ "Dark Horse")|6|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Mar 23|[Cells at Work! Cat](https://www.penguinrandomhouse.com/books/824223/cells-at-work-cat-4-by-manga-by-meku-kaire-story-by-choco-aozora-based-on-cells-at-work-by-akane-shimizu/9798888778746 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 23|[Chii's Winged Life](https://sevenseasentertainment.com/books/chiis-winged-life-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1276,7 +1275,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 06|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 06|[I Got Reincarnated in a (BL) World of Big (Man) Boobs](https://www.penguinrandomhouse.com/books/845130/i-got-reincarnated-in-a-bl-world-of-big-man-boobs-3-by-tsukiji-nao/9798888772966 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Apr 06|[Kha and the Dragons Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-betrayed-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Apr 06|[LastBoss LoveDeath](https://www.penguinrandomhouse.com/books/856911/lastboss-lovedeath-by-written-by-yoshikazu-kuwajima/9781806184897 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -1296,6 +1294,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 06|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/845111/the-seven-deadly-sins-four-knights-of-the-apocalypse-25-by-nakaba-suzuki/9798900741338 "Kodansha")|25|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[The Sky Is But One Roof of the World](https://www.darkhorse.com/books/3017-834/sky-is-but-one-roof-of-the-world-tpb/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Apr 13|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 13|[At 25:00 in Akasaka](https://sevenseasentertainment.com/books/at-2500-in-akasaka-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 13|[BABY.](https://www.penguinrandomhouse.com/books/859463/baby-vol3-by-written-by-chang-sheng/9781787748798 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Bless](https://www.penguinrandomhouse.com/books/845142/bless-8-by-yukino-sonoyama/9798900740959 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1306,7 +1305,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 13|[Himegasaki Sakurako Is a Hot Mess](https://sevenseasentertainment.com/books/himegasaki-sakurako-is-a-hot-mess-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 13|[In the Clear Moonlit Dusk](https://www.penguinrandomhouse.com/books/845157/in-the-clear-moonlit-dusk-10-by-mika-yamamori/9798900741109 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
-|Apr 13|[My Friend the Merboy](https://www.penguinrandomhouse.com/books/841346/my-friend-the-merboy-volume-1-hardcover-by-wonsangi/9781427890160 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Apr 13|[My Husband is a Doomsday Weapon.](https://www.penguinrandomhouse.com/books/840441/my-husband-is-a-doomsday-weapon-2-by-yuki-amemiya/9781647296902 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841972/tengen-hero-wars-vol5-by-written-by-yasu-hiromoto/9781806184972 "Titan Comics")|5|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 13|[The Kingdoms of Ruin](https://sevenseasentertainment.com/books/the-kingdoms-of-ruin-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -1392,6 +1390,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |:---:|---|:---:|---|:---:|
 |Jun 01|[Go! Go! Loser Ranger!](https://www.penguinrandomhouse.com/books/845152/go-go-loser-ranger-21-by-negi-haruba/9798900741055 "Kodansha")|21|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800455/initial-d-omnibus-14-vol-27-28-by-shuichi-shigeno/9798888776063 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 01|[Kha and the Dragons Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-betrayed-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Killer Peter, vol. 1](https://www.penguinrandomhouse.com/books/844770/killer-peter-vol-1-by-kim-junghyun/9781834110950 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Manga Lover](https://www.penguinrandomhouse.com/books/840452/manga-lover-1-by-ko-fumimura/9781647296582 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1426,6 +1425,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jun 29|[Disney Manga: Beauty and the Beast (Special 2-in-1 Collectors Edition)](https://www.penguinrandomhouse.com/books/836432/disney-manga-beauty-and-the-beast-special-2-in-1-collectors-edition-by-mallory-reaves/9781427889768 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 29|[Disney Manga: Stitch!](https://www.penguinrandomhouse.com/books/837130/disney-manga-stitch-volume-2-full-color-edition-by-yumi-tsukurino/9781427889744 "TOKYOPOP")|2.2|TOKYOPOP|🖥️📖|
 |Jun 29|[Gourmet Hound, vol. 2](https://www.penguinrandomhouse.com/books/838399/gourmet-hound-vol-2-by-robyn-lee-hamada/9781834110882 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Jun 29|[My Friend the Merboy](https://www.penguinrandomhouse.com/books/841346/my-friend-the-merboy-volume-1-hardcover-by-wonsangi/9781427890160 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 29|[NakiNagi](https://www.penguinrandomhouse.com/books/830940/nakinagi-3-by-keigo-maki/9798888779620 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 29|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/830951/rent-a-girlfriend-43-by-reiji-miyajima/9798888779750 "Kodansha")|43|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 29|[The Kiss Bet, vol. 5](https://www.penguinrandomhouse.com/books/833601/the-kiss-bet-vol-5-by-ingrid-ochoa/9781834110592 "WEBTOON Unscrolled")|5|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|

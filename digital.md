@@ -534,7 +534,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
-|Mar 23|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Mar 23|[Chii's Winged Life](https://sevenseasentertainment.com/books/chiis-winged-life-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Good Night, My Little Bird](https://sevenseasentertainment.com/books/good-night-my-little-bird/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/807001/my-love-story-with-yamada-kun-at-lv999-volume-9-by-mashiro/9798217095032 "Inklore")|9|Inklore|🖥️📖|
@@ -554,6 +553,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 06|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784698/heaven-officials-blessing-the-comic-volume-5-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984482 "Inklore")|5|Inklore|🖥️📖|
 |Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Apr 13|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
