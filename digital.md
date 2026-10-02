@@ -159,12 +159,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 20|[Undead Unluck](https://www.viz.com/manga-books/manga/undead-unluck-volume-27-0/product/9050/paperback "VIZ Media")|27|VIZ Media|🖥️📖|
 |Oct 20|[Wet Sand](https://www.penguinrandomhouse.com/books/814846/wet-sand-volume-4-by-doyak/9798217298280 "Inklore")|4|Inklore|🖥️📖|
 |Oct 20|[Witching Hour](https://www.viz.com/manga-books/manga/witching-hour-volume-1-0/product/9048/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
-|Oct 27|[After-school Hanako-kun](https://yenpress.com/titles/9798855439847-after-school-hanako-kun-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Oct 27|[After-school Hanako-kun](https://yenpress.com/titles/9798855439854-after-school-hanako-kun-vol-2 "Yen Press")|2|Yen Press|🖥️<span class="hidden">📖</span>|
 |Oct 27|[A Reincarnated Witch Spells Doom](https://yenpress.com/titles/9798855433913-a-reincarnated-witch-spells-doom-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 27|[A Timid Lady Was Turned into an Ugly Cat, but on the Verge of Fainting Is Picked Up by the Most Fearsome Military Duke](https://yenpress.com/titles/9798855423624-a-timid-lady-was-turned-into-an-ugly-cat-but-on-the-verge-of-fainting-is-picked-up-by-the-most-fearsome-military-duke-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[A Witch's Life in Mongol](https://yenpress.com/titles/9798855425833-a-witch-s-life-in-mongol-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Black Butler](https://yenpress.com/titles/9798855439946-black-butler-vol-35 "Yen Press")|35|Yen Press|🖥️📖|
-|Oct 27|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -177,8 +176,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[How to Keep a Human](https://yenpress.com/titles/9798855419795-how-to-keep-a-human-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855414783-kunon-the-sorcerer-can-see-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Love Bullet](https://yenpress.com/titles/9798855441499-love-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415032-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️<span class="hidden">📖</span>|
+|Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424980-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️<span class="hidden">📖</span>|
 |Oct 27|[mono](https://yenpress.com/titles/9798855435719-mono-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
@@ -188,7 +187,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[Reincarnation Coliseum](https://yenpress.com/titles/9798855424188-reincarnation-coliseum-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Sasaki and Peeps](https://yenpress.com/titles/9798855433722-sasaki-and-peeps-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[Slasher Maidens](https://yenpress.com/titles/9798855436143-slasher-maidens-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
-|Oct 27|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Oct 27|[Takumi: A Little Japanese Bakery](https://www.viz.com/manga-books/art-book/takumi-a-little-japanese-bakery/product/9019/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 27|[The Dragon School Is Atop the Mountain](https://yenpress.com/titles/9798855444759-the-dragon-school-is-atop-the-mountain "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
@@ -215,10 +213,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-9-0/product/9066/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Kindergarten Wars](https://yenpress.com/titles/9798855409161-kindergarten-wars-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 03|[KPop Demon Hunters: The Official Screen Comic Boxed Set](https://www.penguinrandomhouse.com/books/828178/kpop-demon-hunters-the-official-screen-comic-boxed-set-by-netflix/9798217373918 "Inklore")|1|Inklore|🖥️<span class="hidden">📖</span>|
-|Nov 03|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436488-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Nov 03|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436495-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435283-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
@@ -236,6 +234,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[Akane-banashi](https://www.viz.com/manga-books/manga/akane-banashi-volume-18-0/product/9057/paperback "VIZ Media")|18|VIZ Media|🖥️📖|
 |Nov 10|[Akira Failing in Love](https://www.viz.com/manga-books/manga/akira-failing-in-love-volume-5-0/product/9060/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Nov 10|[Albus Changes the World](https://www.viz.com/manga-books/manga/albus-changes-the-world-volume-1-0/product/9084/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Nov 10|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 10|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/747113/cherry-blossoms-after-winter-volume-5-by-bamwoo/9780593871058 "Inklore")|5|Inklore|🖥️📖|
 |Nov 10|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-3-0/product/9061/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
@@ -246,6 +245,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[One Piece](https://www.viz.com/manga-books/manga/one-piece-volume-113-0/product/9076/paperback "VIZ Media")|113|VIZ Media|🖥️📖|
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
+|Nov 10|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-2-0/product/9086/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 10|[Wild Paws](https://www.penguinrandomhouse.com/books/825917/wild-paws-volume-1-the-fox-farm-by-victor-nordahl/9781427886934 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|

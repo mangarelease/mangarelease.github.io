@@ -355,7 +355,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 20|[Yona of the Dawn (3-in-1 Edition)](https://www.viz.com/manga-books/manga/yona-of-the-dawn-3-in-1-edition-volume-1-0/product/9016/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 26|[The Water Magician](https://j-novel.club/series/the-water-magician-manga#volume-2 "J-Novel Club")|2|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Oct 27|[7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Oct 27|[After-school Hanako-kun](https://yenpress.com/titles/9798855439847-after-school-hanako-kun-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Al the Adventurer: That Magic Shouldn't Work!](https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[A Reincarnated Witch Spells Doom](https://yenpress.com/titles/9798855433913-a-reincarnated-witch-spells-doom-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Oct 27|[A Timid Lady Was Turned into an Ugly Cat, but on the Verge of Fainting Is Picked Up by the Most Fearsome Military Duke](https://yenpress.com/titles/9798855423624-a-timid-lady-was-turned-into-an-ugly-cat-but-on-the-verge-of-fainting-is-picked-up-by-the-most-fearsome-military-duke-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -366,7 +365,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 27|[Black Summoner](https://yenpress.com/titles/9798855425406-black-summoner-vol-9-manga "J-Novel Club")|9|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817263/blue-lock-omnibus-5-vol-13-15-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778258 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Blue Lock: Episode Nagi](https://www.penguinrandomhouse.com/books/824217/blue-lock-episode-nagi-8-by-by-kota-sannomiya-created-by-muneyuki-kaneshiro-character-designs-by-yusuke-nomura/9798888778685 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
-|Oct 27|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -389,8 +387,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855414783-kunon-the-sorcerer-can-see-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Love Bullet](https://yenpress.com/titles/9798855441499-love-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808547/love-out-on-a-limb-4-by-yoko-nogiri/9798888776971 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
-|Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
-|Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[mono](https://yenpress.com/titles/9798855435719-mono-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[My Dear Detective: Mitsuko's Case Files](https://sevenseasentertainment.com/books/my-dear-detective-mitsukos-case-files-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
@@ -402,7 +398,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 27|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/802041/rent-a-girlfriend-39-by-reiji-miyajima/9798888776247 "Kodansha")|39|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Sasaki and Peeps](https://yenpress.com/titles/9798855433722-sasaki-and-peeps-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[Slasher Maidens](https://yenpress.com/titles/9798855436143-slasher-maidens-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
-|Oct 27|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Oct 27|[Takumi: A Little Japanese Bakery](https://www.viz.com/manga-books/art-book/takumi-a-little-japanese-bakery/product/9019/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 27|[The Dragon School Is Atop the Mountain](https://yenpress.com/titles/9798855444759-the-dragon-school-is-atop-the-mountain "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Eccentric Doctor of the Moon Flower Kingdom](https://sevenseasentertainment.com/books/the-eccentric-doctor-of-the-moon-flower-kingdom-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -443,13 +438,12 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 03|[Kindergarten Wars](https://yenpress.com/titles/9798855409161-kindergarten-wars-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 03|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/834152/lonely-deaths-lie-thick-as-snow-5-by-hajime-inoryu/9781647296070 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824203/luca-the-dragon-vet-2-by-yuna-hirasawa/9798888778548 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Marrying the Dark Knight (For Her Money)](https://www.penguinrandomhouse.com/books/826271/marrying-the-dark-knight-for-her-money-3-by-sometime/9798888779248 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
-|Nov 03|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436488-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Mocha the Cat and His Forever Family](https://sevenseasentertainment.com/books/mocha-the-cat-and-his-forever-family-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[My Kitten is a Picky Eater](https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 03|[OMORI](https://www.penguinrandomhouse.com/books/834132/omori-3-by-omocat/9781647296476 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -476,6 +470,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Ascendance of a Bookworm Part 2](https://yenpress.com/titles/9781718372665-ascendance-of-a-bookworm-manga-part-2-volume-10 "J-Novel Club")|10|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Asumi-chan is Interested in Lesbian Brothels!](https://sevenseasentertainment.com/books/asumi-chan-is-interested-in-lesbian-brothels-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Babanba Banban Vampire](https://www.darkhorse.com/books/3017-298/babanba-banban-vampire-volume-1-tpb/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 10|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/747113/cherry-blossoms-after-winter-volume-5-by-bamwoo/9780593871058 "Inklore")|5|Inklore|🖥️📖|
 |Nov 10|[From Villainess to Healer: I Know the Cheat to Change My Fate](https://yenpress.com/titles/9781718333628-from-villainess-to-healer-i-know-the-cheat-to-change-my-fate-volume-1-manga "J-Novel Club")|1|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -488,8 +483,10 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Kakuriyo: Bed & Breakfast for Spirits](https://www.viz.com/manga-books/manga/kakuriyo-bed-breakfast-for-spirits-volume-12-0/product/9070/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Nov 10|[KILLING ME / KILLING YOU](https://sevenseasentertainment.com/books/killing-me-killing-you-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Love at First Memory](https://www.penguinrandomhouse.com/books/813122/love-at-first-memory-4-by-narumi-hasegaki/9798888777176 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Mao](https://www.viz.com/manga-books/manga/mao-volume-26-0/product/9071/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
 |Nov 10|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 10|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|<span class="hidden">🖥️</span>📖|
 |Nov 10|[NEMURUBAKA: Half-Awake Fools](https://sevenseasentertainment.com/books/nemurubaka-half-awake-fools/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/834156/nezumis-first-love-5-by-riku-oseto/9781647296025 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -502,6 +499,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Nov 10|[Servamp](https://sevenseasentertainment.com/books/servamp-vol-24/ "Seven Seas Entertainment")|24|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Spacewalking With You](https://www.penguinrandomhouse.com/books/808558/spacewalking-with-you-4-by-inuhiko-doronoda/9798888776865 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Nov 10|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[The Encyclopedia of Vegetable Fairies](https://www.penguinrandomhouse.com/books/834215/the-encyclopedia-of-vegetable-fairies-by-ponkichi/9781427887870 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Long Summer of August 31](https://sevenseasentertainment.com/books/the-long-summer-of-august-31-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 10|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -536,6 +534,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 17|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Maid to Skate](https://www.viz.com/manga-books/manga/maid-to-skate-volume-2-0/product/9069/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[Marriage to the Wolf: An Interspecies Union](https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 17|[Meiji-Era Master-and-Servant Tungsten](https://yenpress.com/titles/9798855436488-meiji-era-master-and-servant-tungsten-vol-1 "Yen Press")|1|Yen Press|<span class="hidden">🖥️</span>📖|
 |Nov 17|[My Secretly Hot Husband](https://yenpress.com/titles/9798400905193-my-secretly-hot-husband-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
 |Nov 17|[NakiNagi](https://www.penguinrandomhouse.com/books/830935/nakinagi-1-by-keigo-maki/9798888779484 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Overgeared](https://yenpress.com/titles/9798400905476-overgeared-vol-12 "Ize Press")|12|Ize Press|🖥️📖|
@@ -722,6 +721,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 08|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/834150/welcome-to-demon-school-iruma-kun-23-by-osamu-nishi/9781647294243 "Kodansha")|23|Kodansha|🖥️📖|
 |Dec 08|[Witch Hat Atelier](https://www.penguinrandomhouse.com/books/830758/witch-hat-atelier-15-by-kamome-shirahama/9798888779781 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Yakuza vs. Cat](https://www.viz.com/manga-books/manga/yakuza-vs-cat-volume-1-0/product/9119/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Dec 15|[After-school Hanako-kun](https://yenpress.com/titles/9798855439847-after-school-hanako-kun-vol-2 "Yen Press")|2|Yen Press|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Alma-chan Wants to Be a Family!](https://yenpress.com/titles/9798855432343-alma-chan-wants-to-be-a-family-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/838960/aoashi-3-in-1-edition-volume-3-vol-789-by-written-by-kobayashi-yuugo/9781787748668 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -1206,7 +1206,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Mar 30|[Amamiya-san is the Cutest…and I'm a Close Second!](https://sevenseasentertainment.com/books/amamiya-san-is-the-cutest-and-im-a-close-second-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 30|[A Ninja and an Assassin Under One Roof](https://sevenseasentertainment.com/books/a-ninja-and-an-assassin-under-one-roof-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 30|[Chainsmoker Cat](https://sevenseasentertainment.com/books/chainsmoker-cat-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Mar 30|[Disney Stitch! Cute and Sassy](https://www.penguinrandomhouse.com/books/837124/disney-stitch-cute-and-sassy-volume-1-by-tokyopop/9781427889508 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Mar 30|[Disney Stitch! Cute and Sassy](https://www.penguinrandomhouse.com/books/837124/disney-stitch-cute-and-sassy-by-tokyopop/9781427889508 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Mar 30|[Doom Breaker, vol. 4](https://www.penguinrandomhouse.com/books/838397/doom-breaker-vol-4-by-blue-deep/9781834110868 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Mar 30|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 30|[Gran Familia](https://www.penguinrandomhouse.com/books/859450/gran-familia-vol5-by-written-by-kenji-hamada/9781787747173 "Titan Comics")|5|Titan Comics|<span class="hidden">🖥️</span>📖|
