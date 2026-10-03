@@ -504,7 +504,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 10|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 10|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/747113/cherry-blossoms-after-winter-volume-5-by-bamwoo/9780593871058 "Inklore")|5|Inklore|🖥️📖|
 |Nov 10|[From Villainess to Healer: I Know the Cheat to Change My Fate](https://yenpress.com/titles/9781718333628-from-villainess-to-healer-i-know-the-cheat-to-change-my-fate-volume-1-manga "J-Novel Club")|1|J-Novel Club|<span class="hidden">🖥️</span>📖|
-|Nov 10|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 10|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-3-0/product/9061/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 10|[History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland](https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -679,6 +678,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 01|[DOGGO](https://sevenseasentertainment.com/books/doggo-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 01|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/826304/grand-blue-dreaming-25-by-kenji-inoue/9798888779118 "Kodansha")|25|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-6-0/product/9099/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Dec 01|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -1420,8 +1420,8 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jun 15|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840433/welcome-to-demon-school-iruma-kun-26-by-osamu-nishi/9781647296674 "Kodansha")|26|Kodansha|🖥️📖|
 |Jun 15|[Where Pigs Fly](https://www.penguinrandomhouse.com/books/837116/where-pigs-fly-by-marie-millotte/9781427889690 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Witch Hat Atelier](https://www.penguinrandomhouse.com/books/845129/witch-hat-atelier-16-by-kamome-shirahama/9798900741413 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jun 22|[Advent vs. Justice: The Comic](https://www.penguinrandomhouse.com/books/843440/advent-vs-justice-the-comic-volume-1-by-hololive/9781427891112 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 22|[Gazing at the Star Next Door](https://www.penguinrandomhouse.com/books/863125/gazing-at-the-star-next-door-10-by-ammitsu/9798900743400 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 22|[hololive: Advent VS Justice: The Comic](https://www.penguinrandomhouse.com/books/843440/hololive-advent-vs-justice-the-comic-volume-1-by-hololive/9781427891112 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 22|[Medaka Kuroiwa is Impervious to My Charms](https://www.penguinrandomhouse.com/books/840442/medaka-kuroiwa-is-impervious-to-my-charms-18-by-ran-kuze/9781647296896 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 22|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840443/nezumis-first-love-9-by-riku-oseto/9781647296957 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
