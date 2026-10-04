@@ -148,7 +148,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 20|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-15-0/product/9037/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 20|[Not-Sew-Wicked Stepmom](https://yenpress.com/titles/9798400905919-not-sew-wicked-stepmom-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Oct 20|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Oct 20|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-20-0/product/9043/paperback "VIZ Media")|20|VIZ Media|🖥️📖|
+|Oct 20|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-20-0/product/9043/paperback "VIZ Media")|20.1|VIZ Media|🖥️📖|
 |Oct 20|[Reunion](https://yenpress.com/titles/9798400905650-reunion-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
 |Oct 20|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904790-solo-leveling-ragnarok-vol-2-comic "Ize Press")|2|Ize Press|🖥️📖|
@@ -430,22 +430,49 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 05|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
+|Jan 05|[Gokurakugai](https://www.viz.com/manga-books/manga/gokurakugai-volume-6-0/product/9139/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Jan 05|[Hate Me, but Let Me Stay – Mr. Asanaga and Mr. Yanagi](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-mr-asanaga-and-mr-yanagi-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 05|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-4-0/product/9137/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-16-0/product/9144/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
+|Jan 05|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-10-0/product/9141/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
+|Jan 05|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-6-0/product/9148/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
+|Jan 05|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-3-0/product/9145/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
+|Jan 05|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-7-0/product/9153/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
+|Jan 05|[The Elusive Samurai](https://www.viz.com/manga-books/manga/elusive-samurai-volume-23-0/product/9138/paperback "VIZ Media")|23|VIZ Media|🖥️📖|
 |Jan 05|[The Magnificent Bastard](https://www.penguinrandomhouse.com/books/834126/the-magnificent-bastard-5-by-keiichiro-ryu/9781647295233 "Kodansha")|5|Kodansha|🖥️📖|
+|Jan 05|[Ultimate Exorcist Kiyoshi](https://www.viz.com/manga-books/manga/ultimate-exorcist-kiyoshi-volume-5-0/product/9158/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
+|Jan 05|[Yona of the Dawn](https://www.viz.com/manga-books/manga/yona-of-the-dawn-volume-47-0/product/9161/paperback "VIZ Media")|47|VIZ Media|🖥️📖|
+|Jan 12|[Albus Changes the World](https://www.viz.com/manga-books/manga/albus-changes-the-world-volume-2-0/product/9130/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
+|Jan 12|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-8-0/product/9135/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
+|Jan 12|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-101-0/product/9133/paperback "VIZ Media")|101|VIZ Media|🖥️📖|
 |Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Spider-Man: Octo-Girl](https://www.viz.com/manga-books/manga/spider-man-octo-girl-volume-4-0/product/9150/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
+|Jan 12|[Persona 5](https://www.viz.com/manga-books/manga/persona-5-volume-16-0/product/9149/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
+|Jan 12|[The Mortifying Ordeal of Being Seen](https://www.viz.com/manga-books/manga/mortifying-ordeal-of-being-seen-volume-4-0/product/9154/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Jan 12|[The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy](https://sevenseasentertainment.com/books/the-tomorrow-i-want-to-see-with-kako-a-time-loop-romantic-comedy-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[The Villainous Noble is Way Too Fond of MILF Heroines](https://sevenseasentertainment.com/books/the-villainous-noble-is-way-too-fond-of-milf-heroines-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Yaiba: Samurai Legend](https://www.viz.com/manga-books/manga/yaiba-volume-7-0/product/9157/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
+|Jan 19|[And Then There Were None](https://www.viz.com/manga-books/manga/and-then-there-were-none-volume-2-0/product/9131/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Jan 19|[And They Were Roommates…!](https://sevenseasentertainment.com/books/and-they-were-roommates/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[Choujin X](https://www.viz.com/manga-books/manga/choujin-x-volume-14-0/product/9134/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
+|Jan 19|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-15-0/product/9140/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
+|Jan 19|[One-Punch Man](https://www.viz.com/manga-books/manga/one-punch-man-volume-35-0/product/9147/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Jan 19|[Record of Chrono's War: Apparently I'm Only the Strongest in Bed](https://sevenseasentertainment.com/books/record-of-chronos-war-apparently-im-only-the-strongest-in-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Jan 19|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-21-0/product/9151/paperback "VIZ Media")|20.2|VIZ Media|🖥️📖|
 |Jan 19|[Reunion](https://yenpress.com/titles/9798400905674-reunion-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Jan 19|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904813-solo-leveling-ragnarok-vol-3-comic "Ize Press")|3|Ize Press|🖥️📖|
+|Jan 19|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-4-0/product/9155/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
+|Jan 19|[The Climber](https://www.viz.com/manga-books/manga/climber-volume-8-0/product/9152/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Jan 19|[Tomb Raider King](https://yenpress.com/titles/9798400906664-tomb-raider-king-vol-17 "Ize Press")|17|Ize Press|🖥️📖|
+|Jan 19|[Witching Hour](https://www.viz.com/manga-books/manga/witching-hour-volume-2-0/product/9159/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Jan 26|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846607/a-gentle-nobles-vacation-recommendation-omnibus-volume-3-volumes-7-9-by-misaki/9781427891310 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 26|[Alya Sometimes Hides Her Feelings in Russian](https://yenpress.com/titles/9798855424874-alya-sometimes-hides-her-feelings-in-russian-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[A Misanthrope Teaches a Class for Demi-Humans](https://yenpress.com/titles/9798855438611-a-misanthrope-teaches-a-class-for-demi-humans-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
@@ -453,6 +480,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Bad Girl](https://yenpress.com/titles/9798855417593-bad-girl-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Jan 26|[Be My Worst Nightmare!](https://yenpress.com/titles/9781975397623-be-my-worst-nightmare-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[Blend-S](https://yenpress.com/titles/9798855406146-blend-s-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 26|[Boy's Abyss](https://www.viz.com/manga-books/manga/boy-s-abyss-volume-16-0/product/9132/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Jan 26|[Chained Soldier](https://yenpress.com/titles/9798855447125-chained-soldier-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Jan 26|[Cheeky Brat](https://yenpress.com/titles/9781975362157-cheeky-brat-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
 |Jan 26|[Convenient Semi-Friend](https://yenpress.com/titles/9798855435696-convenient-semi-friend-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -469,6 +497,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855447682-isshiki-san-wants-to-know-about-love-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 26|[It's All Your Fault](https://yenpress.com/titles/9798855423860-it-s-all-your-fault-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[I Want a Gal Gamer to Praise Me](https://yenpress.com/titles/9798855433661-i-want-a-gal-gamer-to-praise-me-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Jan 26|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-11-0/product/9142/hardcover "VIZ Media")|11|VIZ Media|🖥️📖|
 |Jan 26|[Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero](https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Konosuba: Even More Explosions on This Wonderful World!](https://yenpress.com/titles/9798855417807-konosuba-even-more-explosions-on-this-wonderful-world-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[Land](https://yenpress.com/titles/9798855421903-land-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
