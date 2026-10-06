@@ -238,17 +238,17 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 06|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830936/blue-lock-full-color-selection-1-yoichi-isagi-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779545 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Boruto: Two Blue Vortex](https://www.viz.com/manga-books/manga/boruto-two-blue-vortex-volume-6-0/product/9023/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
-|Oct 06|[Crow Hill: Don't Be Shy!! – The Complete BL Manga Collection (Omnibus)](https://sevenseasentertainment.com/books/crow-hill-dont-be-shy-the-complete-bl-manga-collection-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 06|[Crow Hill: Don't Be Shy!! – The Complete BL Manga Collection (Omnibus)](https://sevenseasentertainment.com/books/crow-hill-dont-be-shy-the-complete-bl-manga-collection-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 06|[Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://sevenseasentertainment.com/books/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Oct 06|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|🖥️📖|
+|Oct 06|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Fushigi Yûgi: Byakko Senki](https://www.viz.com/manga-books/manga/fushigi-yugi-byakko-senki-volume-5-0/product/9022/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Get Married So I Can Curse Your Firstborn and Finally Be Free!](https://sevenseasentertainment.com/books/get-married-so-i-can-curse-your-firstborn-and-finally-be-free-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Ghost and Witch](https://sevenseasentertainment.com/books/ghost-and-witch-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Gladiator Battle Life](https://sevenseasentertainment.com/books/gladiator-battle-life-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Grim Night Tales](https://sevenseasentertainment.com/books/grim-night-tales-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Ichi the Killer (Omnibus)](https://sevenseasentertainment.com/books/ichi-the-killer-omnibus-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-5-0/product/9025/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[I Have a Secret](https://sevenseasentertainment.com/books/i-have-a-secret-the-complete-manga-collection-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -947,7 +947,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 12|[Chronicles of an Aristocrat Reborn in Another World](https://sevenseasentertainment.com/books/chronicles-of-an-aristocrat-reborn-in-another-world-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Jan 12|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808552/drawing-from-your-memory-4-by-shiki-kawabata/9798888776926 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
+|Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Gachiakuta](https://www.penguinrandomhouse.com/books/806873/gachiakuta-14-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888776537 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
@@ -976,7 +976,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 19|[Betrothed to My Sister's Ex](https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Cells at Work! Cat](https://www.penguinrandomhouse.com/books/824222/cells-at-work-cat-3-by-manga-by-meku-kaire-story-by-choco-aozora-based-on-cells-at-work-by-akane-shimizu/9798888778739 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Choujin X](https://www.viz.com/manga-books/manga/choujin-x-volume-14-0/product/9134/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Jan 19|[Dragon Head](https://www.penguinrandomhouse.com/books/834163/dragon-head-4-by-minetaro-mochizuki/9781647295134 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Dungeon People](https://sevenseasentertainment.com/books/dungeon-people-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Eleceed](https://www.penguinrandomhouse.com/books/803004/eleceed-volume-1-by-story-by-jeho-son-art-by-zhena/9798217093496 "Inklore")|1|Inklore|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Footsteps in the Snow](https://yenpress.com/titles/9798400907234-footsteps-in-the-snow "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
@@ -1036,7 +1035,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 26|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440423-fate-rewinder-all-great-achievements-require-time-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 26|[From Villainess to Healer: I Know the Cheat to Change My Fate](https://yenpress.com/titles/9781718333635-from-villainess-to-healer-i-know-the-cheat-to-change-my-fate-volume-2-manga "J-Novel Club")|2|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
-|Jan 26|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Jan 26|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 26|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975370459-hell-is-dark-with-no-flowers-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[If It's You, I Might Try Falling in Love](https://yenpress.com/titles/9798855405071-if-it-s-you-i-might-try-falling-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://yenpress.com/titles/9798855435443-i-m-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girl-s-pet-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
@@ -1193,6 +1192,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 02|[Break Blade](https://www.penguinrandomhouse.com/books/838963/break-blade-vol2-by-written-by-yunosuke-yoshinaga/9781806182978 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Mar 02|[Deva Zan (Second Edition)](https://www.darkhorse.com/books/3016-964/deva-zan-hc-second-edition/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Mar 02|[Dinosaur Sanctuary](https://sevenseasentertainment.com/books/dinosaur-sanctuary-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Mar 02|[Dragon Head](https://www.penguinrandomhouse.com/books/834163/dragon-head-4-by-minetaro-mochizuki/9781647295134 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 02|[FAIRY TAIL: 100 Years Quest](https://www.penguinrandomhouse.com/books/845148/fairy-tail-100-years-quest-23-by-hiro-mashima/9798900741017 "Kodansha")|23|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 02|[Great Deadful](https://www.penguinrandomhouse.com/books/856910/great-deadful-by-written-by-kobayashi-yumio/9781806184873 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Mar 02|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800456/initial-d-omnibus-13-vol-25-26-by-shuichi-shigeno/9798888776056 "Kodansha")|13|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1364,7 +1364,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 27|[Historié Omnibus](https://www.penguinrandomhouse.com/books/845088/historie-omnibus-1-vol-1-2-by-hitoshi-iwaaki/9798888779569 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 27|[H.P. Lovecraft's The Haunter of the Dark](https://www.darkhorse.com/books/3008-014/hp-lovecrafts-the-haunter-of-the-dark-tpb/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Apr 27|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Apr 27|[Kilala Princess: The Royal Edition](https://www.penguinrandomhouse.com/books/860462/kilala-princess-the-royal-edition-by-nao-kodaka/9781427890702 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Apr 27|[Kraken Mare](https://www.penguinrandomhouse.com/books/845133/kraken-mare-1-by-story-by-izu-art-by-hagane/9798900740607 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 27|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/840462/lonely-deaths-lie-thick-as-snow-7-by-hajime-inoryu/9781647296094 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 27|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824204/luca-the-dragon-vet-3-by-yuna-hirasawa/9798888778555 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1398,6 +1397,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |May 18|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824165/beck-omnibus-3-vol-5-6-by-harold-sakuishi/9798888778760 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 18|[Gachiakuta](https://www.penguinrandomhouse.com/books/824187/gachiakuta-16-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888778982 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 18|[Interstellar Violin](https://www.penguinrandomhouse.com/books/840444/interstellar-violin-2-by-kazuto-mihara/9781647296858 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|May 18|[Kilala Princess: The Royal Edition](https://www.penguinrandomhouse.com/books/860462/kilala-princess-the-royal-edition-by-nao-kodaka/9781427890702 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |May 18|[Magus of the Library](https://www.penguinrandomhouse.com/books/853265/magus-of-the-library-9-by-mitsu-izumi/9798900741482 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 18|[Masters of the Universe: Legends of Eternia](https://www.penguinrandomhouse.com/books/825204/masters-of-the-universe-legends-of-eternia-by-amanda-deibert/9781427886477 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |May 18|[Rega in the Sleeping Forest](https://www.penguinrandomhouse.com/books/845136/rega-in-the-sleeping-forest-1-by-yoruhashi/9798900740683 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|

@@ -103,12 +103,9 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Oct 06|[Boruto: Two Blue Vortex](https://www.viz.com/manga-books/manga/boruto-two-blue-vortex-volume-6-0/product/9023/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
-|Oct 06|[Crow Hill: Don't Be Shy!! – The Complete BL Manga Collection (Omnibus)](https://sevenseasentertainment.com/books/crow-hill-dont-be-shy-the-complete-bl-manga-collection-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Oct 06|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-1-2/ "Seven Seas Entertainment")|1-2|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Fushigi Yûgi: Byakko Senki](https://www.viz.com/manga-books/manga/fushigi-yugi-byakko-senki-volume-5-0/product/9022/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
-|Oct 06|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 06|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-5-0/product/9025/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Oct 06|[Kill Blue](https://www.viz.com/manga-books/manga/kill-blue-volume-9-0/product/9021/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Oct 06|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-15-0/product/9034/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
@@ -450,7 +447,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-8-0/product/9135/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Jan 12|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-101-0/product/9133/paperback "VIZ Media")|101|VIZ Media|🖥️📖|
 |Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
@@ -489,7 +485,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[ELDEN RING: Become Lord](https://yenpress.com/titles/9798855448030-elden-ring-become-lord-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440423-fate-rewinder-all-great-achievements-require-time-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
-|Jan 26|[Harem Camp!](https://sevenseasentertainment.com/books/harem-camp-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975370459-hell-is-dark-with-no-flowers-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[If It's You, I Might Try Falling in Love](https://yenpress.com/titles/9798855405071-if-it-s-you-i-might-try-falling-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Jan 26|[I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://yenpress.com/titles/9798855435443-i-m-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girl-s-pet-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
