@@ -1473,7 +1473,16 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jul 06|[Accidental Assassin, vol. 2](https://www.penguinrandomhouse.com/books/862574/accidental-assassin-vol-2-by-molly-ni-cheileachair/9781834111391 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Blue Period](https://www.penguinrandomhouse.com/books/859705/blue-period-19-by-tsubasa-yamaguchi/9798900742526 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833293/honkai-impact-3rd-second-eruption-volume-4-by-mihoyo-comics/9781427888235 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
+|Jul 06|[Kei X Yaku: Bound By Law](https://www.penguinrandomhouse.com/books/859673/kei-x-yaku-bound-by-law-15-by-yoshie-kaoruhara/9798900742762 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Last Samurai Standing](https://www.penguinrandomhouse.com/books/859676/last-samurai-standing-8-by-shogo-imamura/9798900742793 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Mili and Quesito Go to the Seaside](https://www.penguinrandomhouse.com/books/837993/mili-and-quesito-go-to-the-seaside-by-lucia-orozco/9781427889942 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jul 06|[My Wife Has No Emotion](https://sevenseasentertainment.com/books/my-wife-has-no-emotion-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Shugo Chara! 20th Anniversary Edition](https://www.penguinrandomhouse.com/books/813114/shugo-chara-20th-anniversary-edition-6-by-peach-pit/9798888777091 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 06|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/845112/the-seven-deadly-sins-four-knights-of-the-apocalypse-26-by-nakaba-suzuki/9798900741345 "Kodansha")|26|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 06|[Whisper Me A Love Song](https://www.penguinrandomhouse.com/books/845126/whisper-me-a-love-song-12-by-eku-takeshima/9798900741383 "Kodansha")|12|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 27|[I Got Fired as a Court Wizard so Now I'm Moving to the Country to Become a Magic Teacher](https://sevenseasentertainment.com/books/i-got-fired-as-a-court-wizard-so-now-im-moving-to-the-country-to-become-a-magic-teacher-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 
 ### October

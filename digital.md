@@ -608,6 +608,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
 |Jun 29|[Disney Manga: Stitch!](https://www.penguinrandomhouse.com/books/837130/disney-manga-stitch-volume-2-full-color-edition-by-yumi-tsukurino/9781427889744 "TOKYOPOP")|2.2|TOKYOPOP|🖥️📖|
 
+### July
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Jul 06|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833293/honkai-impact-3rd-second-eruption-volume-4-by-mihoyo-comics/9781427888235 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
+
 ### October
 
 |Date|Series|Volume|Publisher|Type|
