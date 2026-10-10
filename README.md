@@ -321,7 +321,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[After God](https://www.viz.com/manga-books/manga/after-god-volume-10-0/product/9059/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824199/beck-omnibus-1-vol-1-2-by-harold-sakuishi/9798888778470 "Kodansha")|1|Kodansha|📖|
-|Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427892966 "TOKYOPOP")|1|TOKYOPOP|🖥️|
 |Nov 17|[Blue Lock](https://www.penguinrandomhouse.com/books/830950/blue-lock-36-by-muneyuki-kaneshiro/9798888779743 "Kodansha")|36|Kodansha|📖|
 |Nov 17|[Bug Ego](https://www.viz.com/manga-books/manga/bug-ego-volume-3-0/product/9058/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-4-0/product/9056/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
@@ -333,8 +333,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[I Think I Turned My Childhood Friend Into a Girl](https://sevenseasentertainment.com/books/i-think-i-turned-my-childhood-friend-into-a-girl-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
 |Nov 17|[Kaijin Fugeki: Kindled Spirits](https://www.penguinrandomhouse.com/books/834137/kaijin-fugeki-kindled-spirits-6-by-ohgreat/9781647296421 "Kodansha")|6|Kodansha|📖|
 |Nov 17|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-13-0/product/9067/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
-|Nov 17|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
-|Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427888365 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1|TOKYOPOP|🖥️|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1.1|TOKYOPOP|🖥️|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892836 "TOKYOPOP")|1.2|TOKYOPOP|🖥️|
 |Nov 17|[Lady Devil](https://yenpress.com/titles/9798400905070-lady-devil-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
@@ -348,7 +347,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[Pupposites Attract](https://www.penguinrandomhouse.com/books/830928/pupposites-attract-5-by-hono-natsuna/9798900740003 "Kodansha")|5|Kodansha|📖|
 |Nov 17|[Re-Living My Life with a Boyfriend Who Doesn't Remember Me](https://sevenseasentertainment.com/books/re-living-my-life-with-a-boyfriend-who-doesnt-remember-me-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Nov 17|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905834-revenge-of-the-baskerville-bloodhound-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
-|Nov 17|[Somali and the Forest Spirit](https://www.penguinrandomhouse.com/books/841865/somali-and-the-forest-spirit-vol6-by-written-by-yako-gureishi/9781787748538 "Titan Comics")|6|Titan Comics|📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Elf Sisters Can't Wait for the Night](https://sevenseasentertainment.com/books/the-elf-sisters-cant-wait-for-the-night-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Nov 17|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|📖|
@@ -381,6 +379,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 24|[Izumi and the Dragon Encyclopedia](https://yenpress.com/titles/9798855436426-izumi-and-the-dragon-encyclopedia-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[JoJo's Bizarre Adventure: Part 7--Steel Ball Run](https://www.viz.com/manga-books/manga/jojo-s-bizarre-adventure-part-7-steel-ball-run-volume-10-0/product/9064/hardcover "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 24|[Kakegurui - Compulsive Gambler -](https://yenpress.com/titles/9798855440201-kakegurui-compulsive-gambler-vol-20 "Yen Press")|20|Yen Press|🖥️📖|
+|Nov 24|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427888365 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Nov 24|[Laid-Back Camp](https://yenpress.com/titles/9798855440386-laid-back-camp-vol-18 "Yen Press")|18|Yen Press|🖥️📖|
 |Nov 24|[Let This Grieving Soul Retire](https://yenpress.com/titles/9798855433951-let-this-grieving-soul-retire-vol-11-manga "Yen Press")|11|Yen Press|🖥️📖|
 |Nov 24|[Liste Rouge](https://yenpress.com/titles/9798855438451-liste-rouge-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -514,6 +513,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 08|[Rai Rai Rai](https://www.viz.com/manga-books/manga/rai-rai-rai-volume-6-0/product/9120/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Dec 08|[Sleeping Dead (Omnibus)](https://sevenseasentertainment.com/books/sleeping-dead-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Snow & Ink](https://www.penguinrandomhouse.com/books/806868/snow-and-ink-7-by-miyuki-unohana/9798888776582 "Kodansha")|7|Kodansha|📖|
+|Dec 08|[Somali and the Forest Spirit](https://www.penguinrandomhouse.com/books/841865/somali-and-the-forest-spirit-vol6-by-written-by-yako-gureishi/9781787748538 "Titan Comics")|6|Titan Comics|📖|
 |Dec 08|[SSS-Class Revival Hunter](https://yenpress.com/titles/9798400903991-sss-class-revival-hunter-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
 |Dec 08|[Status Royale](https://www.viz.com/manga-books/graphic-novel/status-royale-volume-3-0/product/9114/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Dec 08|[Suicide Island](https://www.darkhorse.com/books/3016-759/suicide-island-volume-1-tpb/ "Dark Horse")|1|Dark Horse|📖|
@@ -566,7 +566,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 15|[I Won't Let Mistress Suck My Blood](https://sevenseasentertainment.com/books/i-wont-let-mistress-suck-my-blood-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Dec 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-14-0/product/9121/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Dec 15|[Koharu and Minato: Happy Life with My Girlfriend](https://sevenseasentertainment.com/books/koharu-and-minato-happy-life-with-my-girlfriend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
-|Dec 15|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Dec 15|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-16-0/product/9122/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
@@ -624,6 +623,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 15|[Your Castle's Little Helper: Please Feed Me, I'll Work](https://yenpress.com/titles/9798855432220-your-castle-s-little-helper-please-feed-me-i-ll-work-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 22|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/834142/a-love-too-captivating-1-by-mia-sorahana/9781647296292 "Kodansha")|1|Kodansha|📖|
 |Dec 22|[Black Witch Mirror](https://www.penguinrandomhouse.com/books/841968/black-witch-mirror-vol1-by-written-by-togawa-yonan/9781787749740 "Titan Comics")|1|Titan Comics|📖|
+|Dec 22|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Dec 22|[CALL TO ADVENTURE! Defeating Dungeons with a Skill Board](https://sevenseasentertainment.com/books/call-to-adventure-defeating-dungeons-with-a-skill-board-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Dec 22|[Gran Familia](https://www.penguinrandomhouse.com/books/841864/gran-familia-vol4-by-written-by-kenji-hamada/9781787747166 "Titan Comics")|4|Titan Comics|📖|
 |Dec 22|[He Craves to be Teased by His Favorite ASMR Streamer](https://sevenseasentertainment.com/books/he-craves-to-be-teased-by-his-favorite-asmr-streamer-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
@@ -872,6 +872,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Feb 02|[Girl Meets Rock!](https://sevenseasentertainment.com/books/girl-meets-rock-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|📖|
 |Feb 02|[GremoryLand](https://www.penguinrandomhouse.com/books/827225/gremoryland-vol-2-by-a-rasen/9781834110165 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
+|Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Feb 02|[Lilia's Pregnancy Spells the World's End](https://sevenseasentertainment.com/books/lilias-pregnancy-spells-the-worlds-end-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Medalist](https://www.penguinrandomhouse.com/books/830923/medalist-14-by-tsurumaikada/9798888779958 "Kodansha")|14|Kodansha|📖|
@@ -1152,6 +1153,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |May 04|[AIDOL Omnibus](https://www.penguinrandomhouse.com/books/826313/aidol-omnibus-2-vol-3-4-by-story-by-yuu-kuraishi-art-by-kazu-inabe-original-concept-by-kuu-tanaka/9798888778500 "Kodansha")|2|Kodansha|📖|
+|May 04|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
 |May 04|[Love Bites, vol. 2](https://www.penguinrandomhouse.com/books/833600/love-bites-vol-2-by-alicia-wallace/9781834110585 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|📖|
 |May 04|[Meaheim](https://www.penguinrandomhouse.com/books/840446/meaheim-2-by-kenji-tsurubuchi/9781647296834 "Kodansha")|2|Kodansha|📖|
 |May 04|[The Ayakashi Hunter's Tainted Bride](https://www.penguinrandomhouse.com/books/845131/the-ayakashi-hunters-tainted-bride-10-by-midori-yuma/9798888779552 "Kodansha")|10|Kodansha|📖|

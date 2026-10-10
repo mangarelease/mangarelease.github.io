@@ -160,14 +160,13 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[After God](https://www.viz.com/manga-books/manga/after-god-volume-10-0/product/9059/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
-|Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427892966 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Bug Ego](https://www.viz.com/manga-books/manga/bug-ego-volume-3-0/product/9058/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-4-0/product/9056/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Nov 17|[Father, I Don't Want This Marriage](https://www.penguinrandomhouse.com/books/751249/father-i-dont-want-this-marriage-volume-8-by-original-story-by-hong-heesu-art-by-roal-adapted-by-yuri-and-myrrha/9780593872420 "Inklore")|8|Inklore|🖥️📖|
 |Nov 17|[Heroes](https://www.viz.com/manga-books/manga/heroes/product/9055/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 17|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-13-0/product/9067/paperback "VIZ Media")|13|VIZ Media|🖥️📖|
-|Nov 17|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
-|Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427888365 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892836 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Lady Devil](https://yenpress.com/titles/9798400905070-lady-devil-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
@@ -287,7 +286,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[I'm That Monster Girl You Once Helped Out: A Middle-Aged Teacher Finds Unexpected Popularity in Another World](https://yenpress.com/titles/9798855442939-i-m-that-monster-girl-you-once-helped-out-a-middle-aged-teacher-finds-unexpected-popularity-in-another-world-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-14-0/product/9121/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Dec 15|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-16-0/product/9122/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Dec 15|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-26-0/product/9123/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
@@ -435,6 +433,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
+|Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Nono's Phantom Shop](https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Sworn Brothers on the Farm](https://sevenseasentertainment.com/books/sworn-brothers-on-the-farm/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -506,6 +505,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 04|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
 |May 04|[Welcome to Demon School! Iruma-kun: Devilish Tales - Kalego's Story](https://www.penguinrandomhouse.com/books/840410/welcome-to-demon-school-iruma-kun-devilish-tales---kalegos-story-by-osamu-nishi/9781647296599 "Kodansha")|1|Kodansha|🖥️📖|
 |May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|
 |May 18|[That Girl I'm Interested in is a Maid from the Abyss](https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
