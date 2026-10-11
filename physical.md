@@ -14,6 +14,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Oct 01|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 06|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/826389/aoashi-3-in-1-edition-volume-2-vol-456-by-written-by-kobayashi-yuugo/9781787748651 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-tokyopop/9781427885968 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
@@ -160,6 +161,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Oct 27|[Black Summoner](https://yenpress.com/titles/9798855425406-black-summoner-vol-9-manga "J-Novel Club")|9|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817263/blue-lock-omnibus-5-vol-13-15-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778258 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Blue Lock: Episode Nagi](https://www.penguinrandomhouse.com/books/824217/blue-lock-episode-nagi-8-by-by-kota-sannomiya-created-by-muneyuki-kaneshiro-character-designs-by-yusuke-nomura/9798888778685 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
+|Oct 27|[Boy's Abyss](https://www.viz.com/manga-books/manga/boy-s-abyss-volume-15-0/product/9162/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -239,6 +241,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Mocha the Cat and His Forever Family](https://sevenseasentertainment.com/books/mocha-the-cat-and-his-forever-family-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 03|[My Kitten is a Picky Eater](https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 03|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-9-0/product/9168/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[OMORI](https://www.penguinrandomhouse.com/books/834132/omori-3-by-omocat/9781647296476 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -670,6 +673,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[How to Deal When Your Intimidating Neighbor is Actually an Omega](https://www.penguinrandomhouse.com/books/830929/how-to-deal-when-your-intimidating-neighbor-is-actually-an-omega-3-by-nikuya-inui/9798900740010 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 05|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Jan 05|[Jujutsu Kaisen Modulo](https://www.viz.com/manga-books/manga/jujutsu-kaisen-modulo-volume-1-0/product/9164/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 05|[Kaya-chan Isn't Scary](https://sevenseasentertainment.com/books/kaya-chan-isnt-scary-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-16-0/product/9144/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Jan 05|[Miss Kobayashi's Dragon Maid: Fafnir the Recluse](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-fafnir-the-recluse-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -699,6 +703,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jan 12|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808552/drawing-from-your-memory-4-by-shiki-kawabata/9798888776926 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Flirting with my Bear-like Boyfriend (Omnibus)](https://sevenseasentertainment.com/books/flirting-with-my-bear-like-boyfriend-omnibus-vol-3-4/ "Seven Seas Entertainment")|3-4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 12|[Gachiakuta](https://www.penguinrandomhouse.com/books/806873/gachiakuta-14-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888776537 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jan 12|[#Gal x Gal Yuri](https://www.viz.com/manga-books/manga/gal-x-gal-yuri-volume-1-0/product/9163/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Hope You're Happy, Lemon](https://sevenseasentertainment.com/books/hope-youre-happy-lemon-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|

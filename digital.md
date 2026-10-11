@@ -14,6 +14,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Oct 01|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 06|[Boruto: Two Blue Vortex](https://www.viz.com/manga-books/manga/boruto-two-blue-vortex-volume-6-0/product/9023/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
@@ -73,6 +74,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[A Timid Lady Was Turned into an Ugly Cat, but on the Verge of Fainting Is Picked Up by the Most Fearsome Military Duke](https://yenpress.com/titles/9798855423624-a-timid-lady-was-turned-into-an-ugly-cat-but-on-the-verge-of-fainting-is-picked-up-by-the-most-fearsome-military-duke-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[A Witch's Life in Mongol](https://yenpress.com/titles/9798855425833-a-witch-s-life-in-mongol-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Black Butler](https://yenpress.com/titles/9798855439946-black-butler-vol-35 "Yen Press")|35|Yen Press|🖥️📖|
+|Oct 27|[Boy's Abyss](https://www.viz.com/manga-books/manga/boy-s-abyss-volume-15-0/product/9162/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 27|[Cheeky Brat](https://yenpress.com/titles/9781975362133-cheeky-brat-vol-17 "Yen Press")|17|Yen Press|🖥️📖|
 |Oct 27|[Dara-san of Reiwa](https://yenpress.com/titles/9798855425185-dara-san-of-reiwa-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -87,6 +89,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[Love Bullet](https://yenpress.com/titles/9798855441499-love-bullet-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Oct 27|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415032-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️<span class="hidden">📖</span>|
 |Oct 27|[Mad Miniscape](https://yenpress.com/titles/9798855424980-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️<span class="hidden">📖</span>|
+|Oct 27|[Me & Roboco](https://www.viz.com/manga-books/manga/me-roboco-volume-21-0/product/9165/digital "VIZ Media")|21|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Oct 27|[mono](https://yenpress.com/titles/9798855435719-mono-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[My Mate Is a Feline Gentleman: Another Story: The Foreign Alpha Loves the Brown Tabby Gentleman](https://yenpress.com/titles/9798855430516-my-mate-is-a-feline-gentleman-another-story "Yen Press")|5|Yen Press|🖥️📖|
 |Oct 27|[-N](https://yenpress.com/titles/9798855425697-n-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
@@ -128,6 +131,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435283-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Nov 03|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-9-0/product/9168/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-2-0/product/9073/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
@@ -216,6 +220,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-3-0/product/9092/digital "VIZ Media")|3|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-4-0/product/9093/digital "VIZ Media")|4|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-5-0/product/9094/digital "VIZ Media")|5|VIZ Media|🖥️<span class="hidden">📖</span>|
+|Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-6-0/product/9166/digital "VIZ Media")|6|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Shiunji Family Children](https://yenpress.com/titles/9798855439601-the-shiunji-family-children-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Tougen Anki: Legend of the Cursed Blood](https://yenpress.com/titles/9798855400014-tougen-anki-legend-of-the-cursed-blood-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
@@ -344,6 +349,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Jujutsu Kaisen Modulo](https://www.viz.com/manga-books/manga/jujutsu-kaisen-modulo-volume-1-0/product/9164/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 05|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-16-0/product/9144/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Jan 05|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-10-0/product/9141/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Jan 05|[Phantom Busters](https://www.viz.com/manga-books/manga/phantom-busters-volume-6-0/product/9148/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
@@ -357,6 +363,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[Beyblade X](https://www.viz.com/manga-books/manga/beyblade-x-volume-8-0/product/9135/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Jan 12|[Case Closed](https://www.viz.com/manga-books/manga/case-closed-volume-101-0/product/9133/paperback "VIZ Media")|101|VIZ Media|🖥️📖|
 |Jan 12|[Disney Poor Unfortunate Soul: A Villains Manga](https://www.penguinrandomhouse.com/books/825202/disney-poor-unfortunate-soul-a-villains-manga-by-barbara-perez-marquez/9781427881366 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
+|Jan 12|[#Gal x Gal Yuri](https://www.viz.com/manga-books/manga/gal-x-gal-yuri-volume-1-0/product/9163/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
 |Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
