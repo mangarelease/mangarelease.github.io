@@ -38,11 +38,9 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 13|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751250/how-to-hide-the-emperors-child-volume-1-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872451 "Inklore")|1|Inklore|🖥️📖|
 |Oct 13|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855430226-isshiki-san-wants-to-know-about-love-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 13|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834160/kirio-fan-club-4-by-chikyu-no-osakana-ponchan/9781647295318 "Kodansha")|4|Kodansha|🖥️📖|
-|Oct 13|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 13|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427888822 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Oct 13|[Rainbows After Storms](https://www.viz.com/manga-books/manga/rainbows-after-storms-volume-12-0/product/9041/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 13|[Splatoon 3: Splatlands](https://www.viz.com/manga-books/manga/splatoon-3-splatlands-volume-7-0/product/9045/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
-|Oct 13|[The Apology of Noumi-Senpai](https://sevenseasentertainment.com/books/the-apology-of-noumi-senpai/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 13|[The Mortifying Ordeal of Being Seen](https://www.viz.com/manga-books/manga/mortifying-ordeal-of-being-seen-volume-3-0/product/9036/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Oct 13|[Yaiba: Samurai Legend](https://www.viz.com/manga-books/manga/yaiba-volume-6-0/product/9039/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 20|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846606/a-gentle-nobles-vacation-recommendation-omnibus-volume-2-volumes-4-6-by-misaki/9781427891303 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
@@ -366,7 +364,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 12|[#Gal x Gal Yuri](https://www.viz.com/manga-books/manga/gal-x-gal-yuri-volume-1-0/product/9163/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 12|[Hayate the Combat Butler](https://www.viz.com/manga-books/manga/hayate-the-combat-butler-volume-50-0/product/9136/paperback "VIZ Media")|50|VIZ Media|🖥️📖|
 |Jan 12|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784697/heaven-officials-blessing-the-comic-volume-4-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984451 "Inklore")|4|Inklore|🖥️📖|
-|Jan 12|[Living with My Old Cat](https://sevenseasentertainment.com/books/living-with-my-old-cat-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Jan 12|[Spider-Man: Octo-Girl](https://www.viz.com/manga-books/manga/spider-man-octo-girl-volume-4-0/product/9150/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Jan 12|[Persona 5](https://www.viz.com/manga-books/manga/persona-5-volume-16-0/product/9149/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Jan 12|[The Mortifying Ordeal of Being Seen](https://www.viz.com/manga-books/manga/mortifying-ordeal-of-being-seen-volume-4-0/product/9154/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
@@ -451,15 +448,55 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 16|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
+|Feb 16|[Lady Devil](https://yenpress.com/titles/9798400905094-lady-devil-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
+|Feb 16|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
 |Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 16|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905858-revenge-of-the-baskerville-bloodhound-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
 |Feb 16|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Erotical Wizard and His Twelve Brides](https://sevenseasentertainment.com/books/the-erotical-wizard-and-his-twelve-brides-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Makeup Remover](https://www.penguinrandomhouse.com/books/752047/the-makeup-remover-volume-3-by-lee-yeon/9780593872826 "Inklore")|3|Inklore|🖥️📖|
+|Feb 16|[The Reformation of the World as Overseen by a Realist Demon King](https://yenpress.com/titles/9798855426212-the-reformation-of-the-world-as-overseen-by-a-realist-demon-king-vol-9-manga "Yen Press")|9|Yen Press|🖥️<span class="hidden">📖</span>|
+|Feb 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855426168-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
+|Feb 23|[Bride of the Barrier Master](https://yenpress.com/titles/9798855448733-bride-of-the-barrier-master-vol-7-manga "Yen Press")|7|Yen Press|🖥️📖|
+|Feb 23|[Dead Mount Death Play](https://yenpress.com/titles/9798855448429-dead-mount-death-play-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
+|Feb 23|[ELDEN RING: The Road to the Erdtree](https://yenpress.com/titles/9798855448160-elden-ring-the-road-to-the-erdtree-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|Feb 23|[Goblin Slayer](https://yenpress.com/titles/9798855448443-goblin-slayer-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
 |Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 23|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855448771-handyman-saitou-in-another-world-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Feb 23|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 23|[I Cannot Reach You](https://yenpress.com/titles/9798855448207-i-cannot-reach-you-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
+|Feb 23|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855449648-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-7-manga "Yen Press")|7|Yen Press|🖥️📖|
+|Feb 23|[I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time](https://yenpress.com/titles/9798855435191-i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
+|Feb 23|[Interdimensional Memoir](https://yenpress.com/titles/9798855436648-interdimensional-memoir-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 23|[I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://yenpress.com/titles/9798855448481-i-ve-been-killing-slimes-for-300-years-and-maxed-out-my-level-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
+|Feb 23|[Kaiju Girl Caramelise](https://yenpress.com/titles/9798855448269-kaiju-girl-caramelise-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
 |Feb 23|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/840436/kirio-fan-club-6-by-chikyu-no-osakana-ponchan/9781647295332 "Kodansha")|6|Kodansha|🖥️📖|
+|Feb 23|[Mage of Leda](https://yenpress.com/titles/9798855447668-mage-of-leda-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 23|[Magical Explorer](https://yenpress.com/titles/9798855443691-magical-explorer-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
+|Feb 23|[Mieruko-chan](https://yenpress.com/titles/9798855448221-mieruko-chan-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
+|Feb 23|[My Crush's Crush](https://yenpress.com/titles/9798855429411-my-crush-s-crush-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 23|[Nights with a Cat](https://yenpress.com/titles/9798855448535-nights-with-a-cat-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
+|Feb 23|[[Oshi No Ko]](https://yenpress.com/titles/9798855439700-oshi-no-ko-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
+|Feb 23|[Overlord: The Undead King Oh!](https://yenpress.com/titles/9798855447729-overlord-the-undead-king-oh-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
+|Feb 23|[Servant Beasts](https://yenpress.com/titles/9798855448757-servant-beasts-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 23|[Tales of the Kingdom](https://yenpress.com/titles/9798855447163-tales-of-the-kingdom-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Feb 23|[The 31st Consort](https://yenpress.com/titles/9798855416343-the-31st-consort-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Feb 23|[The Boy Who Ruled the Monsters](https://yenpress.com/titles/9798855449761-the-boy-who-ruled-the-monsters-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 23|[The Clingy New Hire Keeps Asking Me Out](https://sevenseasentertainment.com/books/the-clingy-new-hire-keeps-asking-me-out-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Feb 23|[The Goblin Samurai](https://yenpress.com/titles/9798855431902-the-goblin-samurai-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 23|[The Gray Exorcist](https://yenpress.com/titles/9798855450996-the-gray-exorcist-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Feb 23|[The Hachioji Specialty: Tengu's Love](https://yenpress.com/titles/9798855447705-the-hachioji-specialty-tengu-s-love-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Feb 23|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775435/the-knight-and-her-emperor-volume-3-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976067 "Inklore")|3|Inklore|🖥️📖|
+|Feb 23|[The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://yenpress.com/titles/9798855449808-the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-vol-8-manga "Yen Press")|8|Yen Press|🖥️📖|
+|Feb 23|[The Other World's Books Depend on the Bean Counter](https://yenpress.com/titles/9798855449471-the-other-world-s-books-depend-on-the-bean-counter-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Feb 23|[The Record of Fantastical Nomenclature](https://yenpress.com/titles/9798855448184-the-record-of-fantastical-nomenclature-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 23|[The Tiger Won't Eat the Dragon Yet](https://yenpress.com/titles/9798855435313-the-tiger-won-t-eat-the-dragon-yet-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Feb 23|[To Save the World, Can You Wake Up the Morning After with a Demi-Human?](https://yenpress.com/titles/9798855444643-to-save-the-world-can-you-wake-up-the-morning-after-with-a-demi-human-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
+|Feb 23|[Touring After the Apocalypse](https://yenpress.com/titles/9798855449785-touring-after-the-apocalypse-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
+|Feb 23|[Two A.M. at the Dining Table](https://yenpress.com/titles/9798855448719-two-a-m-at-the-dining-table-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Feb 23|[Void: No. Nine](https://yenpress.com/titles/9798855445541-void-no-nine-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Feb 23|[When I Became a Commoner, They Broke Off Our Engagement!](https://yenpress.com/titles/9798855433999-when-i-became-a-commoner-they-broke-off-our-engagement-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Feb 23|[Working as a Goddess in Another World!](https://sevenseasentertainment.com/books/working-as-a-goddess-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 
 ### March
@@ -477,14 +514,60 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
+|Mar 16|[Codename: Anastasia](https://yenpress.com/titles/9798400906558-codename-anastasia-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
+|Mar 16|[Love So Pure](https://yenpress.com/titles/9798400907043-love-so-pure-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
+|Mar 16|[Marriage of Convenience](https://yenpress.com/titles/9798400905315-marriage-of-convenience-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
+|Mar 16|[SSS-Class Revival Hunter](https://yenpress.com/titles/9798400904011-sss-class-revival-hunter-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
+|Mar 23|[After-School Duty](https://yenpress.com/titles/9798855451610-after-school-duty-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 23|[Blade & Bastard](https://yenpress.com/titles/9798855445565-blade-bastard-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 23|[Chef in the Demon King's Castle: Despite All the Scary-Hot Demons, This Is a Great Workplace](https://yenpress.com/titles/9798855430844-chef-in-the-demon-king-s-castle-despite-all-the-scary-hot-demons-this-is-a-great-workplace-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Chewed Flesh, Ground Bones](https://yenpress.com/titles/9798855430943-chewed-flesh-ground-bones-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[Chii's Winged Life](https://sevenseasentertainment.com/books/chiis-winged-life-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855443158-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Mar 23|[Dead Mount Death Play Side Story: Phantom Solitaire's Art of Disguising Oneself as a Supernatural Being](https://yenpress.com/titles/9798855448405-dead-mount-death-play-side-story-phantom-solitaire-s-art-of-disguising-oneself-as-a-supernatural-being-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 23|[Defying Expectations with Gravity Magic to Be Unparalleled](https://yenpress.com/titles/9798855453386-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 23|[Desire of the Untouchable Flower](https://yenpress.com/titles/9798855439540-desire-of-the-untouchable-flower-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Exchange Parties with Anthropomorphic Figures](https://yenpress.com/titles/9798855426823-exchange-parties-with-anthropomorphic-figures "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Goblin Slayer Side Story: Year One](https://yenpress.com/titles/9798855448467-goblin-slayer-side-story-year-one-vol-14-manga "Yen Press")|14|Yen Press|🖥️📖|
 |Mar 23|[Good Night, My Little Bird](https://sevenseasentertainment.com/books/good-night-my-little-bird/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[He Was My Brother](https://yenpress.com/titles/9798855442977-he-was-my-brother-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 23|[Honey Lemon Soda](https://yenpress.com/titles/9781975363550-honey-lemon-soda-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
+|Mar 23|[I'll Become a Villainess Who Goes Down in History](https://yenpress.com/titles/9798855426144-i-ll-become-a-villainess-who-goes-down-in-history-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Mar 23|[In the Heavenly Prison, the Devil Enchants Me](https://yenpress.com/titles/9798855433760-in-the-heavenly-prison-the-devil-enchants-me-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 23|[I Want You to Expose Me](https://yenpress.com/titles/9798855437614-i-want-you-to-expose-me-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Kindergarten Wars](https://yenpress.com/titles/9798855409185-kindergarten-wars-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 23|[Let's Go Nirvana!](https://yenpress.com/titles/9798855447002-let-s-go-nirvana-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 23|[Level Up with the Gods](https://yenpress.com/titles/9798855446272-level-up-with-the-gods-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 23|[Lilies in Love for 101 Days](https://yenpress.com/titles/9798855433067-lilies-in-love-for-101-days "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Lord Hades's Vernal Honeymoon](https://yenpress.com/titles/9798855435733-lord-hades-s-vernal-honeymoon "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Lycoris Recoil](https://yenpress.com/titles/9798855428742-lycoris-recoil-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 23|[Mint Chocolate](https://yenpress.com/titles/9798855445480-mint-chocolate-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
+|Mar 23|[Monster of Absolute Evil](https://yenpress.com/titles/9798855437232-monster-of-absolute-evil-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[My Girlfriend Is a Colossal Cutie](https://yenpress.com/titles/9798855449839-my-girlfriend-is-a-colossal-cutie-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 23|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/807001/my-love-story-with-yamada-kun-at-lv999-volume-9-by-mashiro/9798217095032 "Inklore")|9|Inklore|🖥️📖|
+|Mar 23|[Planarian Humans: The Complete Omnibus](https://yenpress.com/titles/9798855432947-planarian-humans-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[Rock Is a Lady's Modesty](https://yenpress.com/titles/9798855408034-rock-is-a-lady-s-modesty-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 23|[Sacrificial Princess and the King of Beasts Heir: White Rabbit and the Prince of Beasts](https://yenpress.com/titles/9798855404852-sacrificial-princess-and-the-king-of-beasts-heir-white-rabbit-and-the-prince-of-beasts-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Mar 23|[Secrets of the Silent Witch](https://yenpress.com/titles/9798855439922-secrets-of-the-silent-witch-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 23|[Shino & Ren](https://yenpress.com/titles/9798855451597-shino-ren-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
+|Mar 23|[Shy](https://yenpress.com/titles/9798855402575-shy-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
+|Mar 23|[Singularity Love: A Kenji Tsurubuchi Collection](https://yenpress.com/titles/9798855426809-singularity-love-a-kenji-tsurubuchi-collection "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Spring Storm and Monster](https://yenpress.com/titles/9798855447286-spring-storm-and-monster-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Mar 23|[Stray Cat & Wolf](https://yenpress.com/titles/9798855447309-stray-cat-wolf-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Mar 23|[Summer Love Begins with a Lie -squall-](https://yenpress.com/titles/9798855431568-summer-love-begins-with-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Fake Alchemist](https://yenpress.com/titles/9798855439311-the-fake-alchemist-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Mar 23|[The Great Yet Flawed Gods](https://yenpress.com/titles/9798855431377-the-great-yet-flawed-gods "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Immortal Girl's Breeding and Cultivation Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-and-cultivation-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Journey of a Dark Elf with Fading Powers](https://sevenseasentertainment.com/books/the-journey-of-a-dark-elf-with-fading-powers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[The Parasite Princess](https://yenpress.com/titles/9798855431001-the-parasite-princess-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[This Time Around, My Lovesick Hero Will Keep Me Alive… If I'm Lucky!](https://sevenseasentertainment.com/books/this-time-around-my-lovesick-hero-will-keep-me-alive-if-im-lucky-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855447187-thus-spoke-the-rabbit-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Mar 23|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855438338-to-sir-without-love-i-m-divorcing-you-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 23|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/855486/welcome-to-demon-school-iruma-kun-irumafia-edition-8-by-osamu-nishi/9781647297053 "Kodansha")|8|Kodansha|🖥️📖|
+|Mar 23|[YATTARA](https://yenpress.com/titles/9798855429336-yattara-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[You Can't Escape from Mizudako-chan!](https://yenpress.com/titles/9798855447200-you-can-t-escape-from-mizudako-chan-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 30|[Amamiya-san is the Cutest…and I'm a Close Second!](https://sevenseasentertainment.com/books/amamiya-san-is-the-cutest-and-im-a-close-second-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 30|[Disney Stitch! Cute and Sassy](https://www.penguinrandomhouse.com/books/837124/disney-stitch-cute-and-sassy-by-tokyopop/9781427889508 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Mar 30|[Disney Stitch! Cute and Sassy](https://www.penguinrandomhouse.com/books/837124/disney-stitch-cute-and-sassy-by-tokyopop/9781427892935 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -535,6 +618,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Jul 06|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833293/honkai-impact-3rd-second-eruption-volume-4-by-mihoyo-comics/9781427888235 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
+|Jul 13|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784699/heaven-officials-blessing-the-comic-volume-6-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984512 "Inklore")|6|Inklore|🖥️📖|
 
 ### October
 
