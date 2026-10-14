@@ -353,7 +353,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905834-revenge-of-the-baskerville-bloodhound-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Elf Sisters Can't Wait for the Night](https://sevenseasentertainment.com/books/the-elf-sisters-cant-wait-for-the-night-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
-|Nov 17|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|📖|
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 17|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|📖|
@@ -410,6 +409,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 24|[Tale of the Wizrain Kingdom: The Dragon Is the Bride](https://yenpress.com/titles/9798855435252-tale-of-the-wizrain-kingdom-the-dragon-is-the-bride-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Terrarium in a Drawer](https://yenpress.com/titles/9798855447477-terrarium-in-a-drawer "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[That's Not Love](https://www.penguinrandomhouse.com/books/813100/thats-not-love-4-by-peko-watanabe/9798888777558 "Kodansha")|4|Kodansha|📖|
+|Nov 24|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|📖|
 |Nov 24|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444629-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-2-numbered-edition-web-exclusive "Yen Press")|2|Yen Press|📖|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-1-0/product/9090/digital "VIZ Media")|1|VIZ Media|🖥️|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-2-0/product/9091/digital "VIZ Media")|2|VIZ Media|🖥️|
@@ -1372,7 +1372,14 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jul 06|[Shugo Chara! 20th Anniversary Edition](https://www.penguinrandomhouse.com/books/813114/shugo-chara-20th-anniversary-edition-6-by-peach-pit/9798888777091 "Kodansha")|6|Kodansha|📖|
 |Jul 06|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/845112/the-seven-deadly-sins-four-knights-of-the-apocalypse-26-by-nakaba-suzuki/9798900741345 "Kodansha")|26|Kodansha|📖|
 |Jul 06|[Whisper Me A Love Song](https://www.penguinrandomhouse.com/books/845126/whisper-me-a-love-song-12-by-eku-takeshima/9798900741383 "Kodansha")|12|Kodansha|📖|
+|Jul 13|[A Sign of Affection](https://www.penguinrandomhouse.com/books/859702/a-sign-of-affection-14-by-suu-morishita/9798900742496 "Kodansha")|14|Kodansha|📖|
+|Jul 13|[FAIRY TAIL: 100 Years Quest](https://www.penguinrandomhouse.com/books/863122/fairy-tail-100-years-quest-24-by-hiro-mashima/9798900743356 "Kodansha")|24|Kodansha|📖|
+|Jul 13|[Fan/Girl x Call/Boy](https://www.penguinrandomhouse.com/books/859711/fangirl-x-callboy-3-by-kotora-aoshima/9798900742588 "Kodansha")|3|Kodansha|📖|
 |Jul 13|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784699/heaven-officials-blessing-the-comic-volume-6-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984512 "Inklore")|6|Inklore|🖥️📖|
+|Jul 13|[I See Your Face, Turned Away](https://www.penguinrandomhouse.com/books/845156/i-see-your-face-turned-away-5-by-rumi-ichinohe/9798900741093 "Kodansha")|5|Kodansha|📖|
+|Jul 13|[Kusunoki's Flunking Her High School Glow-Up](https://www.penguinrandomhouse.com/books/859675/kusunokis-flunking-her-high-school-glow-up-8-by-mitsuki-mii/9798900742786 "Kodansha")|8|Kodansha|📖|
+|Jul 13|[Subaru and Subaru](https://www.penguinrandomhouse.com/books/859696/subaru-and-subaru-2-by-shuichi-shigeno/9798900740881 "Kodansha")|2|Kodansha|📖|
+|Jul 13|[Trapped on Tape!](https://www.penguinrandomhouse.com/books/860947/trapped-on-tape-1-by-tnsk/9781647297183 "Kodansha")|1|Kodansha|📖|
 |Jul 27|[I Got Fired as a Court Wizard so Now I'm Moving to the Country to Become a Magic Teacher](https://sevenseasentertainment.com/books/i-got-fired-as-a-court-wizard-so-now-im-moving-to-the-country-to-become-a-magic-teacher-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 
 ### October
