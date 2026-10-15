@@ -177,7 +177,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 17|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905834-revenge-of-the-baskerville-bloodhound-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
-|Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|🖥️📖|
+|Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296407 "Kodansha")|6|Kodansha|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -344,9 +344,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 05|[Gokurakugai](https://www.viz.com/manga-books/manga/gokurakugai-volume-6-0/product/9139/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Jan 05|[Hate Me, but Let Me Stay – Mr. Asanaga and Mr. Yanagi](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-mr-asanaga-and-mr-yanagi-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-4-0/product/9137/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
-|Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
-|Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891723 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Jujutsu Kaisen Modulo](https://www.viz.com/manga-books/manga/jujutsu-kaisen-modulo-volume-1-0/product/9164/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Jan 05|[Marriage Toxin](https://www.viz.com/manga-books/manga/marriage-toxin-volume-16-0/product/9144/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Jan 05|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-10-0/product/9141/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
@@ -464,6 +462,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 23|[Goblin Slayer](https://yenpress.com/titles/9798855448443-goblin-slayer-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
 |Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855448771-handyman-saitou-in-another-world-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
+|Feb 23|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
+|Feb 23|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Feb 23|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[I Cannot Reach You](https://yenpress.com/titles/9798855448207-i-cannot-reach-you-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 23|[I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too](https://yenpress.com/titles/9798855449648-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-vol-7-manga "Yen Press")|7|Yen Press|🖥️📖|

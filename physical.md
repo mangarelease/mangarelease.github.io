@@ -339,7 +339,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|<span class="hidden">🖥️</span>📖|
-|Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|🖥️📖|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -400,6 +399,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 24|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Nov 24|[Tsubaki-chou Lonely Planet](https://yenpress.com/titles/9781975346447-tsubaki-chou-lonely-planet-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Nov 24|[Wakaba Won't Give Up!](https://sevenseasentertainment.com/books/wakaba-wont-give-up-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 24|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 24|[When a Dragon Calls](https://www.penguinrandomhouse.com/books/834143/when-a-dragon-calls-1-by-sachiko-kashiwaba/9781647296278 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Witch and Hound](https://yenpress.com/titles/9798855434927-witch-and-hound-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[World's End Harem: Fantasia](https://sevenseasentertainment.com/books/worlds-end-harem-fantasia-vol-16/ "Seven Seas Entertainment")|16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -670,7 +670,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jan 05|[Gokurakugai](https://www.viz.com/manga-books/manga/gokurakugai-volume-6-0/product/9139/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Jan 05|[Hate Me, but Let Me Stay – Mr. Asanaga and Mr. Yanagi](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-mr-asanaga-and-mr-yanagi-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 05|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-4-0/product/9137/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
-|Jan 05|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jan 05|[How to Deal When Your Intimidating Neighbor is Actually an Omega](https://www.penguinrandomhouse.com/books/830929/how-to-deal-when-your-intimidating-neighbor-is-actually-an-omega-3-by-nikuya-inui/9798900740010 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 05|[I'm Running for Crown Princess, but All I Want is a Steady Paycheck!](https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Jujutsu Kaisen Modulo](https://www.viz.com/manga-books/manga/jujutsu-kaisen-modulo-volume-1-0/product/9164/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
@@ -936,6 +935,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Feb 23|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855448771-handyman-saitou-in-another-world-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Feb 23|[Headhunted to Another World: From Salaryman to Big Four!](https://sevenseasentertainment.com/books/headhunted-to-another-world-from-salaryman-to-big-four-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Hitting Rewind With You](https://www.penguinrandomhouse.com/books/830946/hitting-rewind-with-you-5-by-hanamaru-kira/9798888779705 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
+|Feb 23|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Feb 23|[I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse](https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[I Cannot Reach You](https://yenpress.com/titles/9798855448207-i-cannot-reach-you-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 23|[Ifrit of the Sand Sea](https://www.penguinrandomhouse.com/books/841964/ifrit-of-the-sand-sea-vol1-by-written-by-tatsuya-tobitaka/9781787749153 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
