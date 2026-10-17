@@ -513,6 +513,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/852486/the-devils-in-the-lunch-deals-volume-2-by-ishiko/9781427890337 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
 |Mar 16|[Codename: Anastasia](https://yenpress.com/titles/9798400906558-codename-anastasia-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
 |Mar 16|[Love So Pure](https://yenpress.com/titles/9798400907043-love-so-pure-vol-2 "Ize Press")|2|Ize Press|🖥️📖|

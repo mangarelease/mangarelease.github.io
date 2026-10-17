@@ -409,7 +409,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 24|[Tale of the Wizrain Kingdom: The Dragon Is the Bride](https://yenpress.com/titles/9798855435252-tale-of-the-wizrain-kingdom-the-dragon-is-the-bride-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Terrarium in a Drawer](https://yenpress.com/titles/9798855447477-terrarium-in-a-drawer "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[That's Not Love](https://www.penguinrandomhouse.com/books/813100/thats-not-love-4-by-peko-watanabe/9798888777558 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
-|Nov 24|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Nov 24|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444629-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-2-numbered-edition-web-exclusive "Yen Press")|2|Yen Press|<span class="hidden">🖥️</span>📖|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-1-0/product/9090/digital "VIZ Media")|1|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-2-0/product/9091/digital "VIZ Media")|2|VIZ Media|🖥️<span class="hidden">📖</span>|
@@ -474,6 +473,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 01|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-10-0/product/9106/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Dec 01|[The Cuckolding Wizard's Adventure](https://sevenseasentertainment.com/books/the-cuckolding-wizards-adventure-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Death Defying Princess Creates a Yuri Harem to Survive](https://sevenseasentertainment.com/books/the-death-defying-princess-creates-a-yuri-harem-to-survive-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 01|[The Five Star Stories](https://www.penguinrandomhouse.com/books/800307/the-five-star-stories-vol1-by-written-by-mamoru-nagano/9781787748361 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Skull Dragon's Precious Daughter](https://sevenseasentertainment.com/books/the-skull-dragons-precious-daughter-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1067,6 +1067,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 09|[Suicide Island](https://www.darkhorse.com/books/3016-760/suicide-island-volume-2-tpb/ "Dark Horse")|2|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Mar 09|[The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://sevenseasentertainment.com/books/the-100-girlfriends-who-really-really-really-really-really-love-you-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/852486/the-devils-in-the-lunch-deals-volume-2-by-ishiko/9781427890337 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Mar 16|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/840455/a-love-too-captivating-2-by-mia-sorahana/9781647296353 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824162/cells-at-work-picture-book-3-im-not-scared-of-shots-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778425 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/770153/cherry-blossoms-after-winter-volume-6-by-bamwoo/9780593973929 "Inklore")|6|Inklore|🖥️📖|
