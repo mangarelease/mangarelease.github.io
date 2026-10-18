@@ -14,7 +14,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Oct 01|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Oct 01|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 06|[Aoashi (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/826389/aoashi-3-in-1-edition-volume-2-vol-456-by-written-by-kobayashi-yuugo/9781787748651 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Reincarnated Carrier's Strategy for Another World](https://sevenseasentertainment.com/books/a-reincarnated-carriers-strategy-for-another-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 06|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825203/a-stitch-in-time-volume-1-by-tokyopop/9781427885968 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|

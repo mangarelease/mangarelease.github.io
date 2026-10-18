@@ -14,7 +14,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
-|Oct 01|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
+|Oct 05|[VIZ Manga Sampler Fall 2026](https://www.viz.com/manga-books/manga/viz-sampler-2026/product/9167/digital "VIZ Media")|1|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Oct 06|[Boruto: Two Blue Vortex](https://www.viz.com/manga-books/manga/boruto-two-blue-vortex-volume-6-0/product/9023/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Oct 06|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-21-0/product/9024/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Oct 06|[Disney Manga: Tim Burton's The Nightmare Before Christmas - Zero's Journey (Ultimate Full-Color Graphic Novel Edition with Sprayed Edges)](https://www.penguinrandomhouse.com/books/841345/disney-manga-tim-burtons-the-nightmare-before-christmas---zeros-journey-ultimate-full-color-graphic-novel-edition-with-sprayed-edges-by-dj-milky/9781427890146 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
