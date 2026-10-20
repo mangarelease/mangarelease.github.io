@@ -111,7 +111,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 20|[Drifting Dragons](https://www.penguinrandomhouse.com/books/787967/drifting-dragons-18-by-taku-kuwabara/9798888775325 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Fan/Girl X Call/Boy](https://www.penguinrandomhouse.com/books/825971/fangirl-x-callboy-1-by-kotora-aoshima/9798888778463 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Finding Camellia](https://yenpress.com/titles/9798400905155-finding-camellia-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
-|Oct 20|[Follow That Kiss](https://sevenseasentertainment.com/books/follow-that-kiss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 20|[Follow That Kiss](https://sevenseasentertainment.com/books/follow-that-kiss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Glasses with a Chance of Delinquent](https://sevenseasentertainment.com/books/glasses-with-a-chance-of-delinquent-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Horror Picture Book: Is It There or Not](https://www.viz.com/manga-books/book/horror-picture-book-is-it-there-or-not/product/9012/hardcover "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Horror Picture Book: Looking at Me](https://www.viz.com/manga-books/book/horror-picture-book-looking-at-me/product/9053/hardcover "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
@@ -121,17 +121,17 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 20|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-12-0/product/9035/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Oct 20|[Let's Make a Harem in a Zombie World!](https://sevenseasentertainment.com/books/lets-make-a-harem-in-a-zombie-world-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Lone Wolf and Cub Deluxe Edition](https://www.darkhorse.com/books/3013-005/lone-wolf-and-cub-deluxe-edition-volume-3-hc/ "Dark Horse")|3|Dark Horse|<span class="hidden">🖥️</span>📖|
-|Oct 20|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 20|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-15-0/product/9037/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 20|[My Darling Devilish Daughter](https://sevenseasentertainment.com/books/my-darling-devilish-daughter-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[My Girlfriend's Not Here Today](https://sevenseasentertainment.com/books/my-girlfriends-not-here-today-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Not-Sew-Wicked Stepmom](https://yenpress.com/titles/9798400905919-not-sew-wicked-stepmom-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Oct 20|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400904431-omniscient-reader-s-viewpoint-vol-12 "Ize Press")|12|Ize Press|<span class="hidden">🖥️</span>📖|
-|Oct 20|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 20|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-20-0/product/9043/paperback "VIZ Media")|20.1|VIZ Media|🖥️📖|
 |Oct 20|[Red River (4-in-1 Edition)](https://www.viz.com/manga-books/manga/red-river-3-in-1-edition-volume-9-0/product/9042/paperback "VIZ Media")|9|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Reunion](https://yenpress.com/titles/9798400905650-reunion-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
-|Oct 20|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 20|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/772291/senpai-is-an-otokonoko-my-crossdressing-classmate-8-by-pom/9798888773901 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Oct 20|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904790-solo-leveling-ragnarok-vol-2-comic "Ize Press")|2|Ize Press|🖥️📖|
 |Oct 20|[That Time I Got Reincarnated as a Slime: Trinity in Tempest](https://www.penguinrandomhouse.com/books/813126/that-time-i-got-reincarnated-as-a-slime-trinity-in-tempest-manga-12-by-by-tae-tono-created-by-fuse-character-designs-by-mitz-vah/9798888777213 "Kodansha")|12|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -882,7 +882,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
 |Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
 |Feb 02|[Lilia's Pregnancy Spells the World's End](https://sevenseasentertainment.com/books/lilias-pregnancy-spells-the-worlds-end-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 02|[Medalist](https://www.penguinrandomhouse.com/books/830923/medalist-14-by-tsurumaikada/9798888779958 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 02|[Modern Villainess: It's Not Easy Building a Corporate Empire Before the Crash](https://www.penguinrandomhouse.com/books/841965/modern-villainess-its-not-easy-building-a-corporate-empire-before-the-crash-vol2-by-written-by-tofuro-futsukaichi/9781787749207 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Feb 02|[My Kitten is a Picky Eater](https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -932,9 +932,9 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 16|[My Darling Devilish Daughter](https://sevenseasentertainment.com/books/my-darling-devilish-daughter-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840440/nezumis-first-love-7-by-riku-oseto/9781647296919 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
-|Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905858-revenge-of-the-baskerville-bloodhound-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
-|Feb 16|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 16|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Special Civil Servant](https://yenpress.com/titles/9798400905971-special-civil-servant-vol-2 "Ize Press")|2|Ize Press|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Sword of the Titans](https://www.penguinrandomhouse.com/books/841966/sword-of-the-titans-vol3-by-written-by-kashidashiki/9781787749337 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Feb 16|[The Dashing Zaddy and His Icy Protégé](https://www.penguinrandomhouse.com/books/845106/the-dashing-zaddy-and-his-icy-protege-6-by-fumito/9798900741284 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -954,7 +954,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 23|[Cat-Life Balance](https://www.penguinrandomhouse.com/books/845145/cat-life-balance-3-by-akari-otokawa/9798900740980 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Corpse Knight Gunther](https://yenpress.com/titles/9798855417845-corpse-knight-gunther-vol-3 "Yen Press")|3|Yen Press|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Dead Mount Death Play](https://yenpress.com/titles/9798855448429-dead-mount-death-play-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
-|Feb 23|[Disney Stitch!](https://www.penguinrandomhouse.com/books/803407/disney-stitch-volume-1-full-color-edition-by-yumi-tsukurino/9781427889737 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Feb 23|[Disney Stitch!](https://www.penguinrandomhouse.com/books/803407/disney-stitch-volume-1-full-color-edition-by-yumi-tsukurino/9781427884268 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Don't Call it Mystery (Omnibus)](https://sevenseasentertainment.com/books/dont-call-it-mystery-omnibus-vol-15-16/ "Seven Seas Entertainment")|15-16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 23|[DUNGEON DIVE: Aim for the Deepest Level](https://sevenseasentertainment.com/books/dungeon-dive-aim-for-the-deepest-level-manga-vol-9/ "Seven Seas Entertainment")|9|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 23|[ELDEN RING: The Road to the Erdtree](https://yenpress.com/titles/9798855448160-elden-ring-the-road-to-the-erdtree-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
@@ -1228,6 +1228,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 13|[BABY.](https://www.penguinrandomhouse.com/books/859463/baby-vol3-by-written-by-chang-sheng/9781787748798 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Bless](https://www.penguinrandomhouse.com/books/845142/bless-8-by-yukino-sonoyama/9798900740959 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Blue Lock](https://www.penguinrandomhouse.com/books/859704/blue-lock-39-by-muneyuki-kaneshiro/9798900742519 "Kodansha")|39|Kodansha|<span class="hidden">🖥️</span>📖|
+|Apr 13|[Disney Stitch!](https://www.penguinrandomhouse.com/books/803407/disney-stitch-volume-1-full-color-edition-by-yumi-tsukurino/9781427889737 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Drawing From Your Memory](https://www.penguinrandomhouse.com/books/808551/drawing-from-your-memory-5-by-shiki-kawabata/9798888776933 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Fall in Love, You False Angels](https://www.penguinrandomhouse.com/books/845149/fall-in-love-you-false-angels-6-by-coco-uzuki/9798900741024 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1283,7 +1284,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |May 11|[Outsiders](https://www.penguinrandomhouse.com/books/811662/outsiders-vol4-by-written-by-akira-kanou/9781787745773 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |May 11|[Tank Chair](https://www.penguinrandomhouse.com/books/845103/tank-chair-10-by-manabu-yashiro/9798900741253 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 11|[That Time I Got Reincarnated as a Slime: Trinity in Tempest](https://www.penguinrandomhouse.com/books/845105/that-time-i-got-reincarnated-as-a-slime-trinity-in-tempest-manga-13-by-fuse/9798900741277 "Kodansha")|13|Kodansha|<span class="hidden">🖥️</span>📖|
-|May 11|[Totally Spies!, Book 1: Attack of the Giant Panda](https://www.penguinrandomhouse.com/books/837117/totally-spies-book-1-attack-of-the-giant-panda-by-lou-allori/9781427889515 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|May 11|[Totally Spies!, Book 1: Frankenpanda](https://www.penguinrandomhouse.com/books/837117/totally-spies-book-1-frankenpanda-by-lou-allori/9781427889515 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |May 11|[Wandance](https://www.penguinrandomhouse.com/books/830924/wandance-15-by-coffee/9798888779965 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 11|[Westwood Vibrato](https://www.penguinrandomhouse.com/books/843429/westwood-vibrato-volume-1-by-inwan-youn/9781427890894 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |May 11|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/824202/you-might-as-well-be-the-one-4-by-megumu-seto/9798888778531 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|

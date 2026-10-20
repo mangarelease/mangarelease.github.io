@@ -49,16 +49,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892355 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 20|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/833317/chibon-kaburi-the-masked-god-volume-1-by-tomo-kitaoka/9781427892362 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 20|[Finding Camellia](https://yenpress.com/titles/9798400905155-finding-camellia-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
-|Oct 20|[Follow That Kiss](https://sevenseasentertainment.com/books/follow-that-kiss/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[I Tamed My Ex-husband's Mad Dog](https://yenpress.com/titles/9798400904349-i-tamed-my-ex-husband-s-mad-dog-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
 |Oct 20|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-12-0/product/9035/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
-|Oct 20|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-15-0/product/9037/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Oct 20|[Not-Sew-Wicked Stepmom](https://yenpress.com/titles/9798400905919-not-sew-wicked-stepmom-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
-|Oct 20|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Record of Ragnarok](https://www.viz.com/manga-books/manga/record-of-ragnarok-volume-20-0/product/9043/paperback "VIZ Media")|20.1|VIZ Media|🖥️📖|
 |Oct 20|[Reunion](https://yenpress.com/titles/9798400905650-reunion-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
-|Oct 20|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 20|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904790-solo-leveling-ragnarok-vol-2-comic "Ize Press")|2|Ize Press|🖥️📖|
 |Oct 20|[The Apothecary Diaries: Maomao's Notes on the Inner Palace](https://www.viz.com/manga-books/manga/apothecary-diaries-maomao-s-notes-on-the-inner-palace-volume-1-0/product/9014/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 20|[The Climber](https://www.viz.com/manga-books/manga/climber-volume-7-0/product/9046/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
@@ -436,7 +432,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |:---:|---|:---:|---|:---:|
 |Feb 02|[Her Tale of Shim Chong](https://www.penguinrandomhouse.com/books/803473/her-tale-of-shim-chong-volume-1-by-story-by-seri-art-by-biwan/9798217093540 "Inklore")|1|Inklore|🖥️📖|
 |Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
-|Feb 02|[Love is Money](https://sevenseasentertainment.com/books/love-is-money-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Nono's Phantom Shop](https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Sworn Brothers on the Farm](https://sevenseasentertainment.com/books/sworn-brothers-on-the-farm/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840437/welcome-to-demon-school-iruma-kun-24-by-osamu-nishi/9781647294250 "Kodansha")|24|Kodansha|🖥️📖|
@@ -449,9 +444,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 16|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Feb 16|[Lady Devil](https://yenpress.com/titles/9798400905094-lady-devil-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
 |Feb 16|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
-|Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905858-revenge-of-the-baskerville-bloodhound-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
-|Feb 16|[Secret Rites with the Holy Maidens](https://sevenseasentertainment.com/books/secret-rites-with-the-holy-maidens-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Erotical Wizard and His Twelve Brides](https://sevenseasentertainment.com/books/the-erotical-wizard-and-his-twelve-brides-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Makeup Remover](https://www.penguinrandomhouse.com/books/752047/the-makeup-remover-volume-3-by-lee-yeon/9780593872826 "Inklore")|3|Inklore|🖥️📖|
 |Feb 16|[The Reformation of the World as Overseen by a Realist Demon King](https://yenpress.com/titles/9798855426212-the-reformation-of-the-world-as-overseen-by-a-realist-demon-king-vol-9-manga "Yen Press")|9|Yen Press|🖥️<span class="hidden">📖</span>|
