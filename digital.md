@@ -613,6 +613,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |:---:|---|:---:|---|:---:|
 |Jul 06|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833293/honkai-impact-3rd-second-eruption-volume-4-by-mihoyo-comics/9781427888235 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
 |Jul 13|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784699/heaven-officials-blessing-the-comic-volume-6-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984512 "Inklore")|6|Inklore|🖥️📖|
+|Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
+|Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 
 ### October
 
