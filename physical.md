@@ -339,10 +339,8 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 24|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
-|Nov 24|[Bocchi the Rock!](https://yenpress.com/titles/9798855440362-bocchi-the-rock-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 24|[Cat + Crazy](https://www.darkhorse.com/books/3013-201/cat-crazy-volume-5-tpb/ "Dark Horse")|5|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Cells at Work! Cat](https://www.penguinrandomhouse.com/books/824221/cells-at-work-cat-2-by-manga-by-meku-kaire-story-by-choco-aozora-based-on-cells-at-work-by-akane-shimizu/9798888778722 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855442861-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -394,7 +392,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 24|[The Shiunji Family Children](https://yenpress.com/titles/9798855439601-the-shiunji-family-children-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Tougen Anki: Legend of the Cursed Blood](https://yenpress.com/titles/9798855400014-tougen-anki-legend-of-the-cursed-blood-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Tower Dungeon](https://www.penguinrandomhouse.com/books/834131/tower-dungeon-6-by-tsutomu-nihei/9781647296483 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
-|Nov 24|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Nov 24|[Tsubaki-chou Lonely Planet](https://yenpress.com/titles/9781975346447-tsubaki-chou-lonely-planet-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Nov 24|[Wakaba Won't Give Up!](https://sevenseasentertainment.com/books/wakaba-wont-give-up-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296391 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -406,6 +403,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 01|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-8-0/product/9097/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-tokyopop/9781427886682 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Dec 01|[Attack on Titan Definitive Hardcover Collection](https://www.penguinrandomhouse.com/books/817255/attack-on-titan-definitive-hardcover-collection-1-vol-1-3-by-hajime-isayama/9798888777930 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -413,6 +411,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 01|[Black Jack](https://www.penguinrandomhouse.com/books/834124/black-jack-deluxe-edition-2-by-osamu-tezuka/9781647296162 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Blue Exorcist](https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
 |Dec 01|[Blue Period](https://www.penguinrandomhouse.com/books/830903/blue-period-18-by-tsubasa-yamaguchi/9798888779811 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
+|Dec 01|[Bocchi the Rock!](https://yenpress.com/titles/9798855440362-bocchi-the-rock-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Dec 01|[Chasing Red](https://www.penguinrandomhouse.com/books/827229/chasing-red-vol-3-by-isabelle-ronin/9781834110516 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-22-0/product/9104/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Dec 01|[Death of a Pop Star](https://www.penguinrandomhouse.com/books/816102/death-of-a-pop-star-vol-3-by-violet-karim/9781834110356 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
@@ -450,6 +449,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 01|[The Skull Dragon's Precious Daughter](https://sevenseasentertainment.com/books/the-skull-dragons-precious-daughter-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 01|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Dec 01|[Vampire Knight: Memories](https://www.viz.com/manga-books/manga/vampire-knight-memories-volume-11-0/product/9111/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Dec 08|[A Ninja and an Assassin Under One Roof](https://sevenseasentertainment.com/books/a-ninja-and-an-assassin-under-one-roof-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -1111,7 +1111,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Mar 23|[The Five Star Stories](https://www.penguinrandomhouse.com/books/830911/the-five-star-stories-vol2-by-written-by-mamoru-nagano/9781787748903 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Mar 23|[The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Onikin Alna](https://yenpress.com/titles/9781718397422-the-frontier-lord-begins-with-zero-subjects-tales-of-blue-dias-and-the-onikin-alna-volume-3-manga "J-Novel Club")|3|J-Novel Club|<span class="hidden">🖥️</span>📖|
 |Mar 23|[The Great Yet Flawed Gods](https://yenpress.com/titles/9798855431377-the-great-yet-flawed-gods-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[The Immortal Girl's Breeding and Cultivation Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-and-cultivation-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Immortal Girl's Breeding Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Journey of a Dark Elf with Fading Powers](https://sevenseasentertainment.com/books/the-journey-of-a-dark-elf-with-fading-powers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[The Parasite Princess](https://yenpress.com/titles/9798855431001-the-parasite-princess-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[This Time Around, My Lovesick Hero Will Keep Me Alive… If I'm Lucky!](https://sevenseasentertainment.com/books/this-time-around-my-lovesick-hero-will-keep-me-alive-if-im-lucky-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|

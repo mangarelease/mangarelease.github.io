@@ -173,10 +173,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296407 "Kodansha")|6|Kodansha|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 24|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 24|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
-|Nov 24|[Bocchi the Rock!](https://yenpress.com/titles/9798855440362-bocchi-the-rock-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Nov 24|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855442861-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 24|[Contract Sisters](https://yenpress.com/titles/9798855433784-contract-sisters-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[egg: I'm Your Child](https://yenpress.com/titles/9798855431223-egg-i-m-your-child-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -215,7 +213,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[The Ichinose Family's Deadly Sins](https://www.viz.com/manga-books/manga/ichinose-family-s-deadly-sins-volume-6-0/product/9166/digital "VIZ Media")|6|VIZ Media|🖥️<span class="hidden">📖</span>|
 |Nov 24|[The Shiunji Family Children](https://yenpress.com/titles/9798855439601-the-shiunji-family-children-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Tougen Anki: Legend of the Cursed Blood](https://yenpress.com/titles/9798855400014-tougen-anki-legend-of-the-cursed-blood-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Nov 24|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Nov 24|[Tsubaki-chou Lonely Planet](https://yenpress.com/titles/9781975346447-tsubaki-chou-lonely-planet-vol-13 "Yen Press")|13|Yen Press|🖥️📖|
 |Nov 24|[Witch and Hound](https://yenpress.com/titles/9798855434927-witch-and-hound-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 
@@ -223,11 +220,13 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Dec 01|[After-School Duty](https://yenpress.com/titles/9798855432763-after-school-duty-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 01|[A Star Brighter than the Sun](https://www.viz.com/manga-books/manga/star-brighter-than-the-sun-volume-8-0/product/9097/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-tokyopop/9781427886682 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-adriano-barone/9781427892225 "TOKYOPOP")|2.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Dec 01|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-adriano-barone/9781427892232 "TOKYOPOP")|2.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Dec 01|[Blue Exorcist](https://www.viz.com/manga-books/manga/blue-exorcist-volume-33-0/product/9098/paperback "VIZ Media")|33|VIZ Media|🖥️📖|
+|Dec 01|[Bocchi the Rock!](https://yenpress.com/titles/9798855440362-bocchi-the-rock-vol-8 "Yen Press")|8|Yen Press|🖥️📖|
 |Dec 01|[Dandadan](https://www.viz.com/manga-books/manga/dandadan-volume-22-0/product/9104/paperback "VIZ Media")|22|VIZ Media|🖥️📖|
 |Dec 01|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-6-0/product/9099/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
@@ -242,6 +241,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 01|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-4-0/product/9108/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Dec 01|[The Bugle Call: Song of War](https://www.viz.com/manga-books/manga/bugle-call-song-of-war-volume-10-0/product/9106/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 01|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Dec 01|[Vampire Knight: Memories](https://www.viz.com/manga-books/manga/vampire-knight-memories-volume-11-0/product/9111/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Beatrice](https://yenpress.com/titles/9798855439809-beatrice-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -552,7 +552,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 23|[Summer Love Begins with a Lie -squall-](https://yenpress.com/titles/9798855431568-summer-love-begins-with-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Fake Alchemist](https://yenpress.com/titles/9798855439311-the-fake-alchemist-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 23|[The Great Yet Flawed Gods](https://yenpress.com/titles/9798855431377-the-great-yet-flawed-gods-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[The Immortal Girl's Breeding and Cultivation Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-and-cultivation-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Immortal Girl's Breeding Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Journey of a Dark Elf with Fading Powers](https://sevenseasentertainment.com/books/the-journey-of-a-dark-elf-with-fading-powers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[The Parasite Princess](https://yenpress.com/titles/9798855431001-the-parasite-princess-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[This Time Around, My Lovesick Hero Will Keep Me Alive… If I'm Lucky!](https://sevenseasentertainment.com/books/this-time-around-my-lovesick-hero-will-keep-me-alive-if-im-lucky-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
