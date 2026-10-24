@@ -308,7 +308,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/824200/you-might-as-well-be-the-one-2-by-megumu-seto/9798888778517 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[2.5 Dimensional Seduction](https://sevenseasentertainment.com/books/2-5-dimensional-seduction-vol-20/ "Seven Seas Entertainment")|20|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Nov 17|[A Condition Called Love](https://www.penguinrandomhouse.com/books/826299/a-condition-called-love-18-by-megumi-morino/9798888779163 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Nov 17|[After God](https://www.viz.com/manga-books/manga/after-god-volume-10-0/product/9059/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824199/beck-omnibus-1-vol-1-2-by-harold-sakuishi/9798888778470 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -418,7 +417,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 01|[DOGGO](https://sevenseasentertainment.com/books/doggo-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 01|[Fluffy Café in Another World](https://sevenseasentertainment.com/books/fluffy-cafe-in-another-world-manga-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Dec 01|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/826304/grand-blue-dreaming-25-by-kenji-inoue/9798888779118 "Kodansha")|25|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 01|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-6-0/product/9099/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Dec 01|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -451,6 +449,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 01|[The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins](https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[Trinity Seven](https://yenpress.com/titles/9798855438536-trinity-seven-vol-33 "Yen Press")|33|Yen Press|🖥️📖|
 |Dec 01|[Vampire Knight: Memories](https://www.viz.com/manga-books/manga/vampire-knight-memories-volume-11-0/product/9111/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
+|Dec 08|[A Condition Called Love](https://www.penguinrandomhouse.com/books/826299/a-condition-called-love-18-by-megumi-morino/9798888779163 "Kodansha")|18|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 08|[A Ninja and an Assassin Under One Roof](https://sevenseasentertainment.com/books/a-ninja-and-an-assassin-under-one-roof-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Appleseed Companion (Deluxe Edition)](https://www.darkhorse.com/books/3010-377/appleseed-companion-hc-deluxe-edition/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
@@ -602,6 +601,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 22|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/834142/a-love-too-captivating-1-by-mia-sorahana/9781647296292 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 22|[CALL TO ADVENTURE! Defeating Dungeons with a Skill Board](https://sevenseasentertainment.com/books/call-to-adventure-defeating-dungeons-with-a-skill-board-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 22|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[He Craves to be Teased by His Favorite ASMR Streamer](https://sevenseasentertainment.com/books/he-craves-to-be-teased-by-his-favorite-asmr-streamer-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Ichi the Killer (Omnibus)](https://sevenseasentertainment.com/books/ichi-the-killer-omnibus-vol-0/ "Seven Seas Entertainment")|0|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -1046,7 +1046,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Mar 16|[Not Your Typical Reincarnation Story](https://yenpress.com/titles/9798400905025-not-your-typical-reincarnation-story-vol-2 "Ize Press")|2|Ize Press|<span class="hidden">🖥️</span>📖|
 |Mar 16|[On the Way to Meet Mom](https://yenpress.com/titles/9798400905940-on-the-way-to-meet-mom-vol-2 "Ize Press")|2|Ize Press|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Osamu Tezuka's Phoenix Deluxe Hardcover Collection](https://www.penguinrandomhouse.com/books/845087/osamu-tezukas-phoenix-deluxe-hardcover-collection-1-by-osamu-tezuka/9798900740089 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
-|Mar 16|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/787946/senpai-is-an-otokonoko-my-crossdressing-classmate-10-by-pom/9798888775431 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 16|[Someone's Girlfriend](https://sevenseasentertainment.com/books/someones-girlfriend-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 16|[SSS-Class Revival Hunter](https://yenpress.com/titles/9798400904011-sss-class-revival-hunter-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Mar 16|[The Assassin Laughs at Twilight](https://www.penguinrandomhouse.com/books/841868/the-assassin-laughs-at-twilight-vol2-by-written-by-megurikukuru/9781787749351 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -1166,6 +1165,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Apr 06|[On the Tenth Year, the Transferee Who Gave up Returning Finally Becomes the Protagonist](https://www.penguinrandomhouse.com/books/834029/on-the-tenth-year-the-transferee-who-gave-up-returning-finally-becomes-the-protagonist-vol1-by-written-by-hisume/9781787749177 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Romelia War Chronicle: The Count's Daughter Rallies an Army in the Wake of Mankind's Victory](https://sevenseasentertainment.com/books/romelia-war-chronicle-the-counts-daughter-rallies-an-army-in-the-wake-of-mankinds-victory-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Saint Seiya: Dark Wing](https://www.penguinrandomhouse.com/books/859451/saint-seiya-dark-wing-vol5-by-written-by-masami-kurumada/9781787747227 "Titan Comics")|5|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Apr 06|[Senpai is an Otokonoko: My Crossdressing Classmate](https://www.penguinrandomhouse.com/books/787946/senpai-is-an-otokonoko-my-crossdressing-classmate-10-by-pom/9798888775431 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Shimazaki in the Land of Peace](https://www.penguinrandomhouse.com/books/840449/shimazaki-in-the-land-of-peace-11-by-gouten-hamada/9781647296636 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Shugo Chara! 20th Anniversary Edition](https://www.penguinrandomhouse.com/books/813113/shugo-chara-20th-anniversary-edition-5-by-peach-pit/9798888777084 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 06|[Star Catcher, vol. 1](https://www.penguinrandomhouse.com/books/833613/star-catcher-vol-1-by-ro-taniah/9781834110615 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
