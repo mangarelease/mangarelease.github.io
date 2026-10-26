@@ -85,6 +85,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 13|[Splatoon 3: Splatlands](https://www.viz.com/manga-books/manga/splatoon-3-splatlands-volume-7-0/product/9045/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 13|[The Apology of Noumi-Senpai](https://sevenseasentertainment.com/books/the-apology-of-noumi-senpai/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Oct 13|[The Babe at My Back Has Her Eye on Me. I'm Done For.](https://sevenseasentertainment.com/books/the-babe-at-my-back-has-her-eye-on-me-im-done-for-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
+|Oct 13|[The Delinquent Girl Beside Me Suddenly Dyed Her Hair Black](https://www.onepeacebooks.com/jt/DelinquentGirl.html#:~:text=The%20Delinquent%20Girl%20Beside%20Me%20Suddenly%20Dyed%20Her%20Hair%20Black%20Volume%201 "One Peace Books")|1|One Peace Books|📖|
 |Oct 13|[The Dungeon of Black Company](https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|📖|
 |Oct 13|[The Feisty Omega and His Twin Mates](https://sevenseasentertainment.com/books/the-feisty-omega-and-his-twin-mates-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
 |Oct 13|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/802047/the-fragrant-flower-blooms-with-dignity-15-by-saka-mikami/9798888776186 "Kodansha")|15|Kodansha|📖|
@@ -133,6 +134,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Oct 20|[The Apothecary Diaries: Maomao's Notes on the Inner Palace](https://www.viz.com/manga-books/manga/apothecary-diaries-maomao-s-notes-on-the-inner-palace-volume-1-0/product/9014/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 20|[The Climber](https://www.viz.com/manga-books/manga/climber-volume-7-0/product/9046/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Oct 20|[The Darwin Incident](https://www.penguinrandomhouse.com/books/834140/the-darwin-incident-10-by-shun-umezawa/9781647296322 "Kodansha")|10|Kodansha|📖|
+|Oct 20|[The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible](https://www.onepeacebooks.com/jt/NewOssan.html#:~:text=The%20Ossan%20Newbie%20Adventurer%2C%20Trained%20to%20Death%20by%20the%20Most%20Powerful%20Party%2C%20Became%20Invincible%20Volume%203 "One Peace Books")|3|One Peace Books|📖|
 |Oct 20|[The Remarried Empress](https://yenpress.com/titles/9798400905957-the-remarried-empress-vol-11 "Ize Press")|11|Ize Press|📖|
 |Oct 20|[The Scum Laugh](https://sevenseasentertainment.com/books/the-scum-laugh-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Oct 20|[The Villainess and the Demon Knight](https://sevenseasentertainment.com/books/the-villainess-and-the-demon-knight-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|📖|
