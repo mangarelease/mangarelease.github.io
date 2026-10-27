@@ -179,7 +179,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[Gals Can't Be Kind to Otaku?!](https://yenpress.com/titles/9798855422917-gals-can-t-be-kind-to-otaku-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Game of Familia](https://yenpress.com/titles/9798855403855-game-of-familia-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
 |Oct 27|[Gourmet Hound](https://www.penguinrandomhouse.com/books/827227/gourmet-hound-vol-1-by-robyn-lee-hamada/9781834110493 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
-|Oct 27|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 27|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[Honey Lemon Soda](https://yenpress.com/titles/9781975363536-honey-lemon-soda-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Oct 27|[Horror Picture Book: A Bad Book](https://www.viz.com/manga-books/book/horror-picture-book-a-bad-book/product/9052/hardcover "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Oct 27|[How to Build a Dungeon: Book of the Demon King](https://sevenseasentertainment.com/books/how-to-build-a-dungeon-book-of-the-demon-king-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -209,7 +209,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Oct 27|[The Eccentric Doctor of the Moon Flower Kingdom](https://sevenseasentertainment.com/books/the-eccentric-doctor-of-the-moon-flower-kingdom-vol-14/ "Seven Seas Entertainment")|14|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Oct 27|[The one. Later on…](https://www.penguinrandomhouse.com/books/830906/the-one-later-on-vol2-by-written-by-nahato/9781787747449 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
-|Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892492 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -779,6 +779,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jan 19|[The Exiled Heavy Knight Knows How to Game the System (Omnibus)](https://sevenseasentertainment.com/books/the-exiled-heavy-knight-knows-how-to-game-the-system-omnibus-vol-5-6/ "Seven Seas Entertainment")|5-6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 19|[The Merman Trapped in My Lake](https://yenpress.com/titles/9798400907784-the-merman-trapped-in-my-lake-vol-3 "Ize Press")|3|Ize Press|<span class="hidden">🖥️</span>📖|
 |Jan 19|[The Moon on a Rainy Night](https://www.penguinrandomhouse.com/books/808561/the-moon-on-a-rainy-night-9-by-kuzushiro/9798888776834 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jan 19|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/852481/there-beneath-the-water-volume-2-by-kaiko-fuyumushi/9781427890610 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jan 19|[The World After the Fall](https://yenpress.com/titles/9798400906749-the-world-after-the-fall-vol-16 "Ize Press")|16|Ize Press|<span class="hidden">🖥️</span>📖|
 |Jan 19|[Tomb Raider King](https://yenpress.com/titles/9798400906664-tomb-raider-king-vol-17 "Ize Press")|17|Ize Press|🖥️📖|
 |Jan 19|[Tonight, I Have a Date with a Serial Killer](https://sevenseasentertainment.com/books/tonight-i-have-a-date-with-a-serial-killer-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -898,7 +899,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 09|[Succubus and Hitman](https://sevenseasentertainment.com/books/succubus-and-hitman-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 09|[The Lord-Magear's Apprentice](https://sevenseasentertainment.com/books/the-lord-magears-apprentice-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court](https://sevenseasentertainment.com/books/though-i-am-an-inept-villainess-tale-of-the-butterfly-rat-body-swap-in-the-maiden-court-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Tojima Wants to be a Kamen Rider](https://www.penguinrandomhouse.com/books/841983/tojima-wants-to-be-a-kamen-rider-vol2-by-written-by-yokusaru-shibata/9781806185078 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Feb 09|[Wait, I Love You](https://sevenseasentertainment.com/books/wait-i-love-you-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -950,7 +951,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 23|[Fan/Girl X Call/Boy](https://www.penguinrandomhouse.com/books/830759/fangirl-x-callboy-2-by-kotora-aoshima/9798888779798 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Goblin Slayer](https://yenpress.com/titles/9798855448443-goblin-slayer-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
 |Feb 23|[Grim Night Tales](https://sevenseasentertainment.com/books/grim-night-tales-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855448771-handyman-saitou-in-another-world-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Feb 23|[Headhunted to Another World: From Salaryman to Big Four!](https://sevenseasentertainment.com/books/headhunted-to-another-world-from-salaryman-to-big-four-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Hitting Rewind With You](https://www.penguinrandomhouse.com/books/830946/hitting-rewind-with-you-5-by-hanamaru-kira/9798888779705 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1321,7 +1322,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jun 01|[Chiruran: Shinsengumi Requiem (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/859469/chiruran-shinsengumi-requiem-3-in-1-edition-volume-2-vol-456-by-written-by-shinya-umemura/9781806186587 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Go! Go! Loser Ranger!](https://www.penguinrandomhouse.com/books/845152/go-go-loser-ranger-21-by-negi-haruba/9798900741055 "Kodansha")|21|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800455/initial-d-omnibus-14-vol-27-28-by-shuichi-shigeno/9798888776063 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jun 01|[Kha and the Dragons Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-betrayed-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
+|Jun 01|[Kha and the Dragon's Eye](https://www.penguinrandomhouse.com/books/843425/kha-and-the-dragons-eye-volume-1-betrayed-by-cha-sandmael/9781427890276 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Killer Peter, vol. 1](https://www.penguinrandomhouse.com/books/844770/killer-peter-vol-1-by-kim-junghyun/9781834110950 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jun 01|[Manga Lover](https://www.penguinrandomhouse.com/books/840452/manga-lover-1-by-ko-fumimura/9781647296582 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 01|[My Sword Saint Master Is Too Cute to Live With!](https://sevenseasentertainment.com/books/my-sword-saint-master-is-too-cute-to-live-with-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|

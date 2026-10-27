@@ -75,7 +75,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[Fate Rewinder: All Great Achievements Require Time](https://yenpress.com/titles/9798855440409-fate-rewinder-all-great-achievements-require-time-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Gals Can't Be Kind to Otaku?!](https://yenpress.com/titles/9798855422917-gals-can-t-be-kind-to-otaku-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Oct 27|[Game of Familia](https://yenpress.com/titles/9798855403855-game-of-familia-vol-9 "Yen Press")|9|Yen Press|🖥️📖|
-|Oct 27|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 27|[Honey Lemon Soda](https://yenpress.com/titles/9781975363536-honey-lemon-soda-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
 |Oct 27|[How to Keep a Human](https://yenpress.com/titles/9798855419795-how-to-keep-a-human-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[Kunon the Sorcerer Can See](https://yenpress.com/titles/9798855414783-kunon-the-sorcerer-can-see-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
@@ -93,7 +92,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Oct 27|[Takumi: A Little Japanese Bakery](https://www.viz.com/manga-books/art-book/takumi-a-little-japanese-bakery/product/9019/hardcover "VIZ Media")|1|VIZ Media|🖥️📖|
 |Oct 27|[The Dragon School Is Atop the Mountain](https://yenpress.com/titles/9798855444759-the-dragon-school-is-atop-the-mountain "Yen Press")|1|Yen Press|🖥️📖|
 |Oct 27|[The Guy She Was Interested In Wasn't a Guy at All](https://yenpress.com/titles/9798855444209-the-guy-she-was-interested-in-wasn-t-a-guy-at-all-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Oct 27|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892492 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Oct 27|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/833331/there-beneath-the-water-volume-1-by-kaiko-fuyumushi/9781427892508 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -375,6 +373,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 19|[Solo Leveling: Ragnarok](https://yenpress.com/titles/9798400904813-solo-leveling-ragnarok-vol-3-comic "Ize Press")|3|Ize Press|🖥️📖|
 |Jan 19|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-4-0/product/9155/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Jan 19|[The Climber](https://www.viz.com/manga-books/manga/climber-volume-8-0/product/9152/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
+|Jan 19|[There, Beneath the Water](https://www.penguinrandomhouse.com/books/852481/there-beneath-the-water-volume-2-by-kaiko-fuyumushi/9781427890610 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jan 19|[Tomb Raider King](https://yenpress.com/titles/9798400906664-tomb-raider-king-vol-17 "Ize Press")|17|Ize Press|🖥️📖|
 |Jan 19|[Witching Hour](https://www.viz.com/manga-books/manga/witching-hour-volume-2-0/product/9159/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Jan 26|[A Gentle Noble's Vacation Recommendation Omnibus](https://www.penguinrandomhouse.com/books/846607/a-gentle-nobles-vacation-recommendation-omnibus-volume-3-volumes-7-9-by-misaki/9781427891310 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
@@ -439,7 +438,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[DRAGON CIRCUS](https://www.penguinrandomhouse.com/books/840411/dragon-circus-2-by-eiichi-shimizu/9781647296568 "Kodansha")|2|Kodansha|🖥️📖|
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
-|Feb 09|[The Prince's Body Pillow](https://sevenseasentertainment.com/books/the-princes-body-pillow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Feb 16|[Lady Devil](https://yenpress.com/titles/9798400905094-lady-devil-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
@@ -453,7 +451,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 23|[Dead Mount Death Play](https://yenpress.com/titles/9798855448429-dead-mount-death-play-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Feb 23|[ELDEN RING: The Road to the Erdtree](https://yenpress.com/titles/9798855448160-elden-ring-the-road-to-the-erdtree-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Feb 23|[Goblin Slayer](https://yenpress.com/titles/9798855448443-goblin-slayer-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
-|Feb 23|[Hanaori-san Still Wants to Fight in the Next Life (Omnibus)](https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Feb 23|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855448771-handyman-saitou-in-another-world-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
 |Feb 23|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427887733 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Feb 23|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833301/honkai-impact-3rd-second-eruption-volume-3-by-mihoyo-comics/9781427891716 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
