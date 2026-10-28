@@ -1271,7 +1271,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |May 25|[Fruit of the Underworld](https://www.penguinrandomhouse.com/books/852305/fruit-of-the-underworld-3-by-aya-kanno/9781647297107 "Kodansha")|3|Kodansha|🖥️📖|
 |May 25|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/845153/grand-blue-dreaming-26-by-kenji-inoue/9798900741062 "Kodansha")|26|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 25|[Mayfly Island](https://www.penguinrandomhouse.com/books/843426/mayfly-island-volume-1-by-evergreen-yeh/9781427890351 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
-|May 25|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 25|[Omega Megaera](https://www.penguinrandomhouse.com/books/800462/omega-megaera-9-by-maki-marukido/9798888775998 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 25|[Shangri-La Frontier](https://www.penguinrandomhouse.com/books/826297/shangri-la-frontier-24-by-ryosuke-fuji/9798888779187 "Kodansha")|24|Kodansha|<span class="hidden">🖥️</span>📖|
 |May 25|[Stella Must Die](https://www.penguinrandomhouse.com/books/830912/stella-must-die-4-by-yasunori-mitsunaga/9798888779873 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1364,7 +1363,15 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jul 20|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[I Want to Love You Till Your Dying Day](https://www.penguinrandomhouse.com/books/859671/i-want-to-love-you-till-your-dying-day-9-by-nachi-aono/9798900742748 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[The Five Star Stories](https://www.penguinrandomhouse.com/books/859464/the-five-star-stories-vol3-by-written-by-mamoru-nagano/9781787748910 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Jul 27|[A Condition Called Love](https://www.penguinrandomhouse.com/books/859698/a-condition-called-love-19-by-megumi-morino/9798900741598 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Dig It](https://www.penguinrandomhouse.com/books/845146/dig-it-2-by-yoshidamaru/9798900740997 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[GremoryLand, vol. 3](https://www.penguinrandomhouse.com/books/844769/gremoryland-vol-3-by-a-rasen/9781834110943 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jul 27|[I Got Fired as a Court Wizard so Now I'm Moving to the Country to Become a Magic Teacher](https://sevenseasentertainment.com/books/i-got-fired-as-a-court-wizard-so-now-im-moving-to-the-country-to-become-a-magic-teacher-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Kraken Mare](https://www.penguinrandomhouse.com/books/859674/kraken-mare-2-by-story-by-izu-art-by-hagane/9798900742779 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824205/luca-the-dragon-vet-4-by-yuna-hirasawa/9798888778562 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Operation: True Love, vol. 3](https://www.penguinrandomhouse.com/books/853746/operation-true-love-vol-3-by-kkokkalee/9781834111100 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
 
 ### October
 
