@@ -1304,7 +1304,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jun 08|[Wistoria: Wand and Sword](https://www.penguinrandomhouse.com/books/845128/wistoria-wand-and-sword-15-by-fujino-omori/9798900741406 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Cells at Work! Picture Book](https://www.penguinrandomhouse.com/books/824163/cells-at-work-picture-book-4-just-a-cold-just-a-bump-by-story-and-art-by-kumi-makimura-based-on-cells-at-work-by-akane-shimizu/9798888778432 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Fatale Game](https://www.penguinrandomhouse.com/books/845132/fatale-game-1-by-battan/9798900740591 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jun 15|[I Love You, Please Dump Me](https://www.penguinrandomhouse.com/books/845137/i-love-you-please-dump-me-by-torii-shizuku/9798900740836 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jun 15|[I Love You, Please Dump Me](https://www.penguinrandomhouse.com/books/845137/i-love-you-please-dump-me-by-shizuku-torii/9798900740836 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/840461/lonely-deaths-lie-thick-as-snow-8-by-hajime-inoryu/9781647296100 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 15|[MARS 30th Anniversary Edition](https://www.penguinrandomhouse.com/books/815044/mars-30th-anniversary-edition-5-by-fuyumi-soryo/9798888777886 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 15|[Mushishi Collector's Edition](https://www.penguinrandomhouse.com/books/802027/mushishi-collectors-edition-5-by-yuki-urushibara/9798888776384 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
