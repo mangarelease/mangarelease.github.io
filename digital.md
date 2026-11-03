@@ -116,12 +116,10 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 03|[KPop Demon Hunters: The Official Screen Comic Boxed Set](https://www.penguinrandomhouse.com/books/828178/kpop-demon-hunters-the-official-screen-comic-boxed-set-by-netflix/9798217373918 "Inklore")|1|Inklore|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
-|Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 03|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-9-0/product/9168/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 03|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-2-0/product/9073/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 03|[Skip・Beat!](https://www.viz.com/manga-books/manga/skipbeat-volume-52-0/product/9083/paperback "VIZ Media")|52|VIZ Media|🖥️📖|
 |Nov 03|[Super Psychic Policeman Chojo](https://www.viz.com/manga-books/manga/super-psychic-policeman-chojo-volume-6-0/product/9079/paperback "VIZ Media")|6|VIZ Media|🖥️📖|

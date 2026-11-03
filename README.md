@@ -245,7 +245,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 03|[Lycoris Recoil Official Comic Anthology: Reload](https://yenpress.com/titles/9798855415025-lycoris-recoil-official-comic-anthology-reload-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Nov 03|[Marrying the Dark Knight (For Her Money)](https://www.penguinrandomhouse.com/books/826271/marrying-the-dark-knight-for-her-money-3-by-sometime/9798888779248 "Kodansha")|3|Kodansha|📖|
 |Nov 03|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-25-0/product/9044/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
-|Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 03|[Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 03|[Mocha the Cat and His Forever Family](https://sevenseasentertainment.com/books/mocha-the-cat-and-his-forever-family-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Nov 03|[My Kitten is a Picky Eater](https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|📖|
 |Nov 03|[Nightmare Library, Book 1: Welcome to the Nightmare Library](https://www.penguinrandomhouse.com/books/825201/nightmare-library-book-1-welcome-to-the-nightmare-library-by-taiga-kayama/9781427892676 "TOKYOPOP")|1|TOKYOPOP|🖥️|
@@ -253,7 +253,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 03|[Nue's Exorcist](https://www.viz.com/manga-books/manga/nue-s-exorcist-volume-9-0/product/9168/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Nov 03|[OMORI](https://www.penguinrandomhouse.com/books/834132/omori-3-by-omocat/9781647296476 "Kodansha")|3|Kodansha|📖|
 |Nov 03|[Prince Freya](https://www.viz.com/manga-books/manga/prince-freya-volume-14-0/product/9078/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
-|Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 03|[Record of Lusty Warriors: The Rod Master's Unstoppable Conquest in Another World](https://sevenseasentertainment.com/books/record-of-lusty-warriors-the-rod-masters-unstoppable-conquest-in-another-world-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 03|[Reincarnated as a Sword](https://sevenseasentertainment.com/books/reincarnated-as-a-sword-manga-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|📖|
 |Nov 03|[Shiba Inu Rooms](https://www.viz.com/manga-books/manga/shiba-inu-rooms-volume-2-0/product/9073/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 03|[Skip・Beat!](https://www.viz.com/manga-books/manga/skipbeat-volume-52-0/product/9083/paperback "VIZ Media")|52|VIZ Media|🖥️📖|
@@ -1100,7 +1100,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 16|[Even after Doronjo-Sama Was Reincarnated She Remained a Villainess](https://www.penguinrandomhouse.com/books/840686/even-after-doronjo-sama-was-reincarnated-she-remained-a-villainess-vol1-by-written-by-shin-kazuki/9781787748873 "Titan Comics")|1|Titan Comics|📖|
 |Mar 16|[Everything for Demon King Evelogia](https://sevenseasentertainment.com/books/everything-for-demon-king-evelogia-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|📖|
 |Mar 16|[Gachiakuta](https://www.penguinrandomhouse.com/books/813131/gachiakuta-15-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888777268 "Kodansha")|15|Kodansha|📖|
-|Mar 16|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|📖|
 |Mar 16|[I Quit My Apprenticeship as a Royal Court Wizard to Become a Magic Item Craftswoman](https://sevenseasentertainment.com/books/i-quit-my-apprenticeship-as-a-royal-court-wizard-to-become-a-magic-item-craftswoman-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
 |Mar 16|[Issak Omnibus](https://www.penguinrandomhouse.com/books/797947/issak-omnibus-9-vol-17-19-by-story-by-shinji-makari-art-by-double-s/9798888775707 "Kodansha")|9|Kodansha|📖|
 |Mar 16|[Last Samurai Standing](https://www.penguinrandomhouse.com/books/830761/last-samurai-standing-7-by-shogo-imamura/9798888779804 "Kodansha")|7|Kodansha|📖|
@@ -1438,6 +1437,13 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Jul 27|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|📖|
 |Jul 27|[Operation: True Love, vol. 3](https://www.penguinrandomhouse.com/books/853746/operation-true-love-vol-3-by-kkokkalee/9781834111100 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
 |Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
+
+### August
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Aug 03|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|📖|
+|Aug 03|[Raven Saga, vol. 4](https://www.penguinrandomhouse.com/books/853748/raven-saga-vol-4-by-chihiro-howe/9781834111124 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|📖|
 
 ### October
 
