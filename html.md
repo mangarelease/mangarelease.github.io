@@ -480,7 +480,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 08|[An Ordinary Guy's Crazy Modern Dungeon Survival!](https://sevenseasentertainment.com/books/an-ordinary-guys-crazy-modern-dungeon-survival-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Appleseed Companion (Deluxe Edition)](https://www.darkhorse.com/books/3010-377/appleseed-companion-hc-deluxe-edition/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Dec 08|[A Sign of Affection](https://www.penguinrandomhouse.com/books/830945/a-sign-of-affection-13-by-suu-morishita/9798888779682 "Kodansha")|13|Kodansha|<span class="hidden">🖥️</span>📖|
-|Dec 08|[Assassin's Creed Dynasty: The Complete Collection](https://www.penguinrandomhouse.com/books/843376/assassins-creed-dynasty-the-complete-collection-by-xu-xianzhe/9781427891082 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Beatrice](https://yenpress.com/titles/9798855439809-beatrice-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 08|[Blue Lock Full Color Selection](https://www.penguinrandomhouse.com/books/830938/blue-lock-full-color-selection-3-michael-kaiser-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888779590 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Break Blade](https://www.penguinrandomhouse.com/books/834033/break-blade-vol1-by-written-by-yunosuke-yoshinaga/9781806182961 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -535,6 +534,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
+|Dec 15|[Assassin's Creed Dynasty: The Complete Collection](https://www.penguinrandomhouse.com/books/843376/assassins-creed-dynasty-the-complete-collection-by-xu-xianzhe/9781427891082 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 15|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-tokyopop/9781427886682 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Battle Royale Deluxe Edition](https://yenpress.com/titles/9798855431483-battle-royale-deluxe-edition-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Beneath the Fur](https://yenpress.com/titles/9798855421828-beneath-the-fur-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -1448,8 +1448,13 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Aug 03|[Blue Summer Haze](https://www.penguinrandomhouse.com/books/859706/blue-summer-haze-4-by-dondon/9798900742533 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 03|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Aug 03|[Medalist](https://www.penguinrandomhouse.com/books/859678/medalist-15-by-tsurumaikada/9798900742816 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 03|[My Rebound Has Too Much Game!](https://www.penguinrandomhouse.com/books/863140/my-rebound-has-too-much-game-1-by-asumi-takabuchi/9798900742328 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 03|[Raven Saga, vol. 4](https://www.penguinrandomhouse.com/books/853748/raven-saga-vol-4-by-chihiro-howe/9781834111124 "WEBTOON Unscrolled")|4|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
+|Aug 03|[Saving 80,000 Gold in Another World for My Retirement](https://www.penguinrandomhouse.com/books/863113/saving-80000-gold-in-another-world-for-my-retirement-15-manga-by-funa/9798900743660 "Kodansha")|15|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 03|[Witch Hat Atelier: Grimoire Edition](https://www.penguinrandomhouse.com/books/815008/witch-hat-atelier-grimoire-edition-4-by-kamome-shirahama/9798888777824 "Kodansha")|4|Kodansha|<span class="hidden">🖥️</span>📖|
 
 ### October
 
