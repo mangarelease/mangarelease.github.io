@@ -442,7 +442,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 01|[Grand Blue Dreaming](https://www.penguinrandomhouse.com/books/826304/grand-blue-dreaming-25-by-kenji-inoue/9798888779118 "Kodansha")|25|Kodansha|📖|
 |Dec 01|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-6-0/product/9099/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Dec 01|[IDOL x IDOL STORY!](https://sevenseasentertainment.com/books/idol-x-idol-story-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|📖|
-|Dec 01|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800457/initial-d-omnibus-12-vol-23-24-by-shuichi-shigeno/9798888776049 "Kodansha")|12|Kodansha|📖|
 |Dec 01|[I Thought My Childhood Friend Was a Guy… Now She's My Wife and It's Going Too Well!](https://sevenseasentertainment.com/books/i-thought-my-childhood-friend-was-a-guy-now-shes-my-wife-and-its-going-too-well-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[I Wish I Could Meet You Again on the Hill Where That Flower Blooms (Omnibus)](https://sevenseasentertainment.com/books/i-wish-i-could-meet-you-again-on-the-hill-where-that-flower-blooms-manga-omnibus/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 01|[Kemono Jihen](https://sevenseasentertainment.com/books/kemono-jihen-vol-23/ "Seven Seas Entertainment")|23|Seven Seas Entertainment|📖|
@@ -487,6 +486,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Dec 08|[Have Fun! Its the End of the World!](https://www.penguinrandomhouse.com/books/824136/have-fun-its-the-end-of-the-world-vol1-by-written-by-sakyuu-tottori/9781787749412 "Titan Comics")|1|Titan Comics|📖|
 |Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
+|Dec 08|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800457/initial-d-omnibus-12-vol-23-24-by-shuichi-shigeno/9798888776049 "Kodansha")|12|Kodansha|📖|
 |Dec 08|[It Takes More Than a Pretty Face to Fall in Love](https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|📖|
 |Dec 08|[Kiss or Die Trying!](https://www.penguinrandomhouse.com/books/826314/kiss-or-die-trying-1-by-den-mitao/9798888779088 "Kodansha")|1|Kodansha|📖|
 |Dec 08|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-11/ "Seven Seas Entertainment")|11|Seven Seas Entertainment|📖|
@@ -1267,24 +1267,81 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 20|[Erin the Beast Player](https://www.penguinrandomhouse.com/books/840458/erin-the-beast-player-3-by-nahoko-uehashi/9781647296230 "Kodansha")|3|Kodansha|📖|
 |Apr 20|[High Elf with a Long Life](https://www.penguinrandomhouse.com/books/859465/high-elf-with-a-long-life-vol3-by-written-by-rarutori/9781787749108 "Titan Comics")|3|Titan Comics|📖|
 |Apr 20|[How I Met My Soulmate](https://www.penguinrandomhouse.com/books/845155/how-i-met-my-soulmate-8-by-anashin/9798900741086 "Kodansha")|8|Kodansha|📖|
+|Apr 20|[Legroom](https://yenpress.com/titles/9798400905780-legroom "Ize Press")|1|Ize Press|📖|
+|Apr 20|[Omniscient Reader's Viewpoint](https://yenpress.com/titles/9798400904455-omniscient-reader-s-viewpoint-vol-14 "Ize Press")|14|Ize Press|📖|
+|Apr 20|[Philomel the Fake](https://yenpress.com/titles/9798400906947-philomel-the-fake-vol-2 "Ize Press")|2|Ize Press|📖|
 |Apr 20|[Sanda](https://www.penguinrandomhouse.com/books/859452/sanda-vol5-by-written-by-paru-itagaki/9781787747289 "Titan Comics")|5|Titan Comics|📖|
+|Apr 20|[Solo Leveling](https://yenpress.com/titles/9798400906893-solo-leveling-vol-1-spanish-edition-comic "Ize Press")|1|Ize Press|🖥️📖|
 |Apr 20|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841972/tengen-hero-wars-vol5-by-written-by-yasu-hiromoto/9781806184972 "Titan Comics")|5|Titan Comics|📖|
 |Apr 20|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/824209/the-fragrant-flower-blooms-with-dignity-18-by-saka-mikami/9798888778609 "Kodansha")|18|Kodansha|📖|
 |Apr 20|[The Great Cleric](https://www.penguinrandomhouse.com/books/817270/the-great-cleric-15-by-original-story-by-broccoli-lion-art-by-hiiro-akikaze-character-design-by-sime/9798888778173 "Kodansha")|15|Kodansha|📖|
 |Apr 20|[The Rabbit Circle](https://www.penguinrandomhouse.com/books/856909/the-rabbit-circle-by-written-sanada-shiro/9781787749405 "Titan Comics")|1|Titan Comics|📖|
+|Apr 20|[The Remarried Empress](https://yenpress.com/titles/9798400906770-the-remarried-empress-vol-12 "Ize Press")|12|Ize Press|📖|
+|Apr 20|[The Villainess Is a Marionette](https://yenpress.com/titles/9798400907920-the-villainess-is-a-marionette-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
+|Apr 20|[The World After the Fall](https://yenpress.com/titles/9798400906756-the-world-after-the-fall-vol-17 "Ize Press")|17|Ize Press|📖|
+|Apr 20|[Tomb Raider King](https://yenpress.com/titles/9798400906688-tomb-raider-king-vol-18 "Ize Press")|18|Ize Press|🖥️📖|
 |Apr 20|[Welcome to Demon School! Iruma-kun](https://www.penguinrandomhouse.com/books/840412/welcome-to-demon-school-iruma-kun-25-by-osamu-nishi/9781647296667 "Kodansha")|25|Kodansha|🖥️📖|
+|Apr 20|[Whale Star: The Gyeongseong Mermaid](https://yenpress.com/titles/9798400907791-whale-star-the-gyeongseong-mermaid-vol-1 "Ize Press")|1|Ize Press|📖|
+|Apr 27|[About a Place in the Kinki Region](https://yenpress.com/titles/9798855425710-about-a-place-in-the-kinki-region-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[After Midnight Skin](https://yenpress.com/titles/9798855430684-after-midnight-skin-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[Agents of the Four Seasons: Dance of Spring](https://yenpress.com/titles/9798855435993-agents-of-the-four-seasons-dance-of-spring-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Apr 27|[All Eyes on Nekoyashiki-kun! Notice Me, Not My Characters](https://yenpress.com/titles/9781718335653-all-eyes-on-nekoyashiki-kun-notice-me-not-my-characters-volume-2 "J-Novel Club")|2|J-Novel Club|📖|
+|Apr 27|[Almark](https://yenpress.com/titles/9798855428315-almark-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 27|[April Showers Bring May Flowers](https://yenpress.com/titles/9798855412185-april-showers-bring-may-flowers-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Apr 27|[Beatrice](https://yenpress.com/titles/9798855439823-beatrice-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Apr 27|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817260/blue-lock-omnibus-8-vol-22-24-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778289 "Kodansha")|8|Kodansha|📖|
+|Apr 27|[Champignon Witch](https://yenpress.com/titles/9798855429497-champignon-witch-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[Contract Sisters](https://yenpress.com/titles/9798855433807-contract-sisters-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 27|[Cross-Dressing Villainess Cecilia Sylvie](https://yenpress.com/titles/9798855438352-cross-dressing-villainess-cecilia-sylvie-vol-8-manga "Yen Press")|8|Yen Press|🖥️📖|
 |Apr 27|[Darwin's Game (3-in-1 Edition)](https://www.penguinrandomhouse.com/books/859468/darwins-game-3-in-1-edition-volume-2-vol4-5-6-by-written-by-flipflops/9781806184750 "Titan Comics")|2|Titan Comics|📖|
 |Apr 27|[Delusion](https://www.penguinrandomhouse.com/books/799611/delusion-volume-2-by-hongjacga/9798217092949 "Inklore")|2|Inklore|🖥️📖|
+|Apr 27|[D.N.Angel New Edition](https://yenpress.com/titles/9798855420036-d-n-angel-new-edition-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
+|Apr 27|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855427653-even-a-replica-can-fall-in-love-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 27|[Every Adventure Needs a Weapon!](https://yenpress.com/titles/9798855428766-every-adventure-needs-a-weapon-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
+|Apr 27|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855425895-from-old-country-bumpkin-to-master-swordsman-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Apr 27|[Golden Man](https://yenpress.com/titles/9798855435597-golden-man-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Historié Omnibus](https://www.penguinrandomhouse.com/books/845088/historie-omnibus-1-vol-1-2-by-hitoshi-iwaaki/9798888779569 "Kodansha")|1|Kodansha|📖|
+|Apr 27|[Hollow Regalia](https://yenpress.com/titles/9798855423273-hollow-regalia-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 27|[How to Handle My Sassy Big Sis](https://yenpress.com/titles/9798855447149-how-to-handle-my-sassy-big-sis-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[H.P. Lovecraft's The Haunter of the Dark](https://www.darkhorse.com/books/3008-014/hp-lovecrafts-the-haunter-of-the-dark-tpb/ "Dark Horse")|1|Dark Horse|📖|
+|Apr 27|[I Kept Pressing the 100-Million-Year Button and Came Out on Top](https://yenpress.com/titles/9798855437690-i-kept-pressing-the-100-million-year-button-and-came-out-on-top-vol-9-manga "Yen Press")|9|Yen Press|🖥️📖|
+|Apr 27|[I Made Friends with the Second Prettiest Girl in My Class](https://yenpress.com/titles/9798855425222-i-made-friends-with-the-second-prettiest-girl-in-my-class-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 27|[Immortality and Punishment](https://yenpress.com/titles/9798855415742-immortality-and-punishment-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 27|[In Another World with My Smartphone](https://yenpress.com/titles/9798855438574-in-another-world-with-my-smartphone-vol-17-manga "Yen Press")|17|Yen Press|🖥️📖|
 |Apr 27|[I Reincarnated as the “Villain” Commander of an Order of Knights](https://sevenseasentertainment.com/books/i-reincarnated-as-the-villain-commander-of-an-order-of-knights-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Apr 27|[Is the Hot-Voiced Streamer Into Me?!](https://yenpress.com/titles/9798855429633-is-the-hot-voiced-streamer-into-me-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[Is the Order a Rabbit?](https://yenpress.com/titles/9798855405965-is-the-order-a-rabbit-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Apr 27|[Izumi and the Dragon Encyclopedia](https://yenpress.com/titles/9798855436440-izumi-and-the-dragon-encyclopedia-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Kraken Mare](https://www.penguinrandomhouse.com/books/845133/kraken-mare-1-by-story-by-izu-art-by-hagane/9798900740607 "Kodansha")|1|Kodansha|📖|
+|Apr 27|[Li'l Miss Vampire Can't Suck Right](https://yenpress.com/titles/9798855409727-li-l-miss-vampire-can-t-suck-right-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 27|[Lily: Lost and Found Again ~By the Sweet Lies and Love of a Nobleman Since Their First Night~](https://yenpress.com/titles/9798855437140-lily-lost-and-found-again-by-the-sweet-lies-and-love-of-a-nobleman-since-their-first-night-vol-1 "Yen Press")|1|Yen Press|📖|
 |Apr 27|[Lonely Deaths Lie Thick as Snow](https://www.penguinrandomhouse.com/books/840462/lonely-deaths-lie-thick-as-snow-7-by-hajime-inoryu/9781647296094 "Kodansha")|7|Kodansha|📖|
+|Apr 27|[Love from the Tip of the Tongue](https://yenpress.com/titles/9798855424812-love-from-the-tip-of-the-tongue-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Luca the Dragon Vet](https://www.penguinrandomhouse.com/books/824204/luca-the-dragon-vet-3-by-yuna-hirasawa/9798888778555 "Kodansha")|3|Kodansha|📖|
+|Apr 27|[Lycoris Recoil Official Comic Anthology: Repeat](https://yenpress.com/titles/9798855414882-lycoris-recoil-official-comic-anthology-repeat-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 27|[Monstrosities and Me](https://yenpress.com/titles/9798855430578-monstrosities-and-me-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[My Childhood Friend Meows Under the Skirt](https://yenpress.com/titles/9798855439786-my-childhood-friend-meows-under-the-skirt-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[My Yandere Girlfriend Hiding in the Dungeon Kills Me Over and Over Again](https://yenpress.com/titles/9798855440669-my-yandere-girlfriend-hiding-in-the-dungeon-kills-me-over-and-over-again-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Apr 27|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840438/nezumis-first-love-8-by-riku-oseto/9781647296933 "Kodansha")|8|Kodansha|📖|
+|Apr 27|[Please Look After the Dragon](https://yenpress.com/titles/9798855423808-please-look-after-the-dragon-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 27|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/824189/rent-a-girlfriend-42-by-reiji-miyajima/9798888779002 "Kodansha")|42|Kodansha|📖|
+|Apr 27|[Secret: Homicide Edition](https://yenpress.com/titles/9798855431582-secret-homicide-edition "Yen Press")|1|Yen Press|📖|
+|Apr 27|[Sister and Giant: A Young Lady Is Reborn in Another World](https://yenpress.com/titles/9798855439250-sister-and-giant-a-young-lady-is-reborn-in-another-world-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
+|Apr 27|[So What's Wrong with Getting Reborn as a Goblin?](https://yenpress.com/titles/9798855422337-so-what-s-wrong-with-getting-reborn-as-a-goblin-vol-11 "Yen Press")|11|Yen Press|🖥️📖|
+|Apr 27|[Summer Boy Blues](https://yenpress.com/titles/9798855438956-summer-boy-blues "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[Sword Art Online Re:Aincrad](https://yenpress.com/titles/9798855438390-sword-art-online-revol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
+|Apr 27|[Thank You for Taking Care of Our Boy Banri](https://yenpress.com/titles/9798855427523-thank-you-for-taking-care-of-our-boy-banri-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 27|[The 13th Footprint](https://yenpress.com/titles/9798855424959-the-13th-footprint-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
+|Apr 27|[The Daughter of the Demon Lord Is Too Kind!!](https://yenpress.com/titles/9798855418057-the-daughter-of-the-demon-lord-is-too-kind-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 27|[The Do-Over Damsel Conquers the Dragon Emperor](https://yenpress.com/titles/9798855430400-the-do-over-damsel-conquers-the-dragon-emperor-vol-8-manga "Yen Press")|8|Yen Press|🖥️📖|
+|Apr 27|[The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Onikin Alna](https://yenpress.com/titles/9781718397439-the-frontier-lord-begins-with-zero-subjects-tales-of-blue-dias-and-the-onikin-alna-volume-4-manga "J-Novel Club")|4|J-Novel Club|📖|
+|Apr 27|[The Ice-Core Meteoria](https://yenpress.com/titles/9798855444292-the-ice-core-meteoria-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Apr 27|[The Teen Exorcist](https://yenpress.com/titles/9798855438598-the-teen-exorcist-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
+|Apr 27|[Toxy Noxy Foresty Forest](https://yenpress.com/titles/9798855418552-toxy-noxy-foresty-forest-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
+|Apr 27|[Uncle from Another World](https://yenpress.com/titles/9798855439335-uncle-from-another-world-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
+|Apr 27|[What Does the Fox Say?](https://yenpress.com/titles/9798855423969-what-does-the-fox-say-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
+|Apr 27|[What's with the Bag, Kamiyama-san?](https://yenpress.com/titles/9781718332942-what-s-with-the-bag-kamiyama-san-manga-volume-2 "J-Novel Club")|2|J-Novel Club|📖|
 
 ### May
 
