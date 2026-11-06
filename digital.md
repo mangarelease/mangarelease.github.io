@@ -241,9 +241,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 08|[Call of the Night: Paradise Arc](https://www.viz.com/manga-books/manga/call-of-the-night-paradise-arc/product/9095/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Dec 08|[Fly Me to the Moon](https://www.viz.com/manga-books/manga/fly-me-to-the-moon-volume-34-0/product/9112/paperback "VIZ Media")|34|VIZ Media|🖥️📖|
 |Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
-|Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
-|Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 08|[Mii-chan and Miss Yamada](https://sevenseasentertainment.com/books/mii-chan-and-miss-yamada-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 08|[Moriarty the Patriot](https://www.viz.com/manga-books/manga/moriarty-the-patriot-volume-21-0/product/9109/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 08|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797866/my-love-story-with-yamada-kun-at-lv999-volume-8-by-mashiro/9798217091911 "Inklore")|8|Inklore|🖥️📖|
@@ -277,12 +275,13 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Handyman Saitou in Another World](https://yenpress.com/titles/9798855401288-handyman-saitou-in-another-world-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Dec 15|[Hirano and Kagiura](https://yenpress.com/titles/9798855439373-hirano-and-kagiura-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
 |Dec 15|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855439298-i-don-t-know-which-is-love-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Dec 15|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 15|[I'm No Angel](https://www.viz.com/manga-books/manga/i-m-no-angel-volume-3-0/product/9100/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Dec 15|[I'm That Monster Girl You Once Helped Out: A Middle-Aged Teacher Finds Unexpected Popularity in Another World](https://yenpress.com/titles/9798855442939-i-m-that-monster-girl-you-once-helped-out-a-middle-aged-teacher-finds-unexpected-popularity-in-another-world-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-14-0/product/9121/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-16-0/product/9122/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
+|Dec 15|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 15|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-26-0/product/9123/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
 |Dec 15|[Mujina into the Deep](https://www.viz.com/manga-books/manga/mujina-into-the-deep-volume-5-0/product/9125/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Dec 15|[My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won't Leave Me Alone](https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -322,6 +321,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 22|[Zom 100: Bucket List of the Dead](https://www.viz.com/manga-books/manga/zom-100-bucket-list-of-the-dead-vol-1-volume-21-0/product/9129/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 29|[A Couple Drifting in the Wind](https://sevenseasentertainment.com/books/a-couple-drifting-in-the-wind-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 29|[A Quirky Girl Is Inviting Me to Bed](https://sevenseasentertainment.com/books/a-quirky-girl-is-inviting-me-to-bed-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 29|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 29|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834159/kirio-fan-club-5-by-chikyu-no-osakana-ponchan/9781647295325 "Kodansha")|5|Kodansha|🖥️📖|
 |Dec 29|[Love Tattoo](https://sevenseasentertainment.com/books/love-tattoo/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 

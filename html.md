@@ -491,7 +491,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 08|[Frieren: Beyond Journey's End](https://www.viz.com/manga-books/manga/frieren-beyond-journey-s-end-volume-15-0/product/9113/paperback "VIZ Media")|15|VIZ Media|🖥️📖|
 |Dec 08|[Have Fun! Its the End of the World!](https://www.penguinrandomhouse.com/books/824136/have-fun-its-the-end-of-the-world-vol1-by-written-by-sakyuu-tottori/9781787749412 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 08|[I Like Cat Butts](https://sevenseasentertainment.com/books/i-like-cat-butts-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Dec 08|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 08|[Initial D Omnibus](https://www.penguinrandomhouse.com/books/800457/initial-d-omnibus-12-vol-23-24-by-shuichi-shigeno/9798888776049 "Kodansha")|12|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 08|[It Takes More Than a Pretty Face to Fall in Love](https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-8/ "Seven Seas Entertainment")|8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Kiss or Die Trying!](https://www.penguinrandomhouse.com/books/826314/kiss-or-die-trying-1-by-den-mitao/9798888779088 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -499,7 +498,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 08|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/808546/love-out-on-a-limb-5-by-yoko-nogiri/9798888776988 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Love So Pure](https://yenpress.com/titles/9798400907029-love-so-pure-vol-1 "Ize Press")|1|Ize Press|🖥️📖|
 |Dec 08|[Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!](https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Dec 08|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 08|[Men of the Harem](https://yenpress.com/titles/9798400905643-men-of-the-harem-vol-8 "Ize Press")|8|Ize Press|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Merry Marbling](https://yenpress.com/titles/9798400905995-merry-marbling-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Mii-chan and Miss Yamada](https://sevenseasentertainment.com/books/mii-chan-and-miss-yamada-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -508,7 +506,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 08|[Moriarty the Patriot](https://www.viz.com/manga-books/manga/moriarty-the-patriot-volume-21-0/product/9109/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 08|[My Girlfriend is 8 Meters Tall](https://sevenseasentertainment.com/books/my-girlfriend-is-8-meters-tall-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 08|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/797866/my-love-story-with-yamada-kun-at-lv999-volume-8-by-mashiro/9798217091911 "Inklore")|8|Inklore|🖥️📖|
-|Dec 08|[Not Your Typical Reincarnation Story](https://yenpress.com/titles/9798400904967-not-your-typical-reincarnation-story-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Dec 08|[One Piece Box Set 5: Wano to Egghead](https://www.viz.com/manga-books/manga/one-piece/product/9096/paperback "VIZ Media")|1|VIZ Media|<span class="hidden">🖥️</span>📖|
 |Dec 08|[On the Way to Meet Mom](https://yenpress.com/titles/9798400905933-on-the-way-to-meet-mom-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Dec 08|[Parallel Paradise](https://sevenseasentertainment.com/books/parallel-paradise-vol-28/ "Seven Seas Entertainment")|28|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -567,15 +564,16 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[Himegasaki Sakurako Is a Hot Mess](https://sevenseasentertainment.com/books/himegasaki-sakurako-is-a-hot-mess-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Hirano and Kagiura](https://yenpress.com/titles/9798855439373-hirano-and-kagiura-vol-6-manga "Yen Press")|6|Yen Press|🖥️📖|
 |Dec 15|[I Don't Know Which Is Love](https://yenpress.com/titles/9798855439298-i-don-t-know-which-is-love-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
+|Dec 15|[I Love Amy](https://yenpress.com/titles/9798400904264-i-love-amy-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Dec 15|[I'm No Angel](https://www.viz.com/manga-books/manga/i-m-no-angel-volume-3-0/product/9100/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Dec 15|[I'm That Monster Girl You Once Helped Out: A Middle-Aged Teacher Finds Unexpected Popularity in Another World](https://yenpress.com/titles/9798855442939-i-m-that-monster-girl-you-once-helped-out-a-middle-aged-teacher-finds-unexpected-popularity-in-another-world-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[I Won't Let Mistress Suck My Blood](https://sevenseasentertainment.com/books/i-wont-let-mistress-suck-my-blood-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-14-0/product/9121/paperback "VIZ Media")|14|VIZ Media|🖥️📖|
 |Dec 15|[Koharu and Minato: Happy Life with My Girlfriend](https://sevenseasentertainment.com/books/koharu-and-minato-happy-life-with-my-girlfriend-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Love Me to My Core](https://yenpress.com/titles/9798855433272-love-me-to-my-core-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Luna Knight](https://sevenseasentertainment.com/books/luna-knight-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-16-0/product/9122/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
+|Dec 15|[Marriage of Convenience](https://yenpress.com/titles/9798400905292-marriage-of-convenience-vol-6 "Ize Press")|6|Ize Press|🖥️📖|
 |Dec 15|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-26-0/product/9123/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
 |Dec 15|[Miss Kobayashi's Dragon Maid](https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-vol-18/ "Seven Seas Entertainment")|18|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Monster Musume](https://sevenseasentertainment.com/books/monster-musume-vol-21/ "Seven Seas Entertainment")|21|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -586,6 +584,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[My Sketchy Roommate](https://sevenseasentertainment.com/books/my-sketchy-roommate/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Dec 15|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/834133/nezumis-first-love-6-by-riku-oseto/9781647296469 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Non and Akari: The Complete Omnibus](https://yenpress.com/titles/9798855420630-non-and-akari-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 15|[Not Your Typical Reincarnation Story](https://yenpress.com/titles/9798400904967-not-your-typical-reincarnation-story-vol-1 "Ize Press")|1|Ize Press|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Once Upon a Witch's Death](https://yenpress.com/titles/9798855430288-once-upon-a-witch-s-death-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420890-playing-death-games-to-put-food-on-the-table-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Saint Seiya: Dark Wing](https://www.penguinrandomhouse.com/books/826386/saint-seiya-dark-wing-vol4-by-written-by-masami-kurumada/9781787747210 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -660,6 +659,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 29|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817262/blue-lock-omnibus-6-vol-16-18-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778265 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 29|[Dance in the Vampire Bund: Age of Scarlet Order](https://sevenseasentertainment.com/books/dance-in-the-vampire-bund-age-of-scarlet-order-vol-19/ "Seven Seas Entertainment")|19|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 29|[His Majesty the Demon King's Housekeeper](https://sevenseasentertainment.com/books/his-majesty-the-demon-kings-housekeeper-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 29|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 29|[Into the Deepest, Most Unknowable Dungeon](https://sevenseasentertainment.com/books/into-the-deepest-most-unknowable-dungeon-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 29|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834159/kirio-fan-club-5-by-chikyu-no-osakana-ponchan/9781647295325 "Kodansha")|5|Kodansha|🖥️📖|
 |Dec 29|[Love Tattoo](https://sevenseasentertainment.com/books/love-tattoo/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
