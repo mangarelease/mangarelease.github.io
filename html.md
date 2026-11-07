@@ -530,7 +530,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[Alma-chan Wants to Be a Family!](https://yenpress.com/titles/9798855432343-alma-chan-wants-to-be-a-family-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[A Pen, Handcuffs, and a Common-Law Marriage](https://yenpress.com/titles/9798855417951-a-pen-handcuffs-and-a-common-law-marriage-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Are You a Landmine, Chihara-san?](https://sevenseasentertainment.com/books/are-you-a-landmine-chihara-san-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Dec 15|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Assassin's Creed Dynasty: The Complete Collection](https://www.penguinrandomhouse.com/books/843376/assassins-creed-dynasty-the-complete-collection-by-xu-xianzhe/9781427891082 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 15|[A Stitch in Time](https://www.penguinrandomhouse.com/books/825205/a-stitch-in-time-volume-2-by-tokyopop/9781427886682 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Battle Royale Deluxe Edition](https://yenpress.com/titles/9798855431483-battle-royale-deluxe-edition-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -589,7 +588,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[Playing Death Games to Put Food on the Table](https://yenpress.com/titles/9798855420890-playing-death-games-to-put-food-on-the-table-vol-2-manga "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Saint Seiya: Dark Wing](https://www.penguinrandomhouse.com/books/826386/saint-seiya-dark-wing-vol4-by-written-by-masami-kurumada/9781787747210 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Sakamoto Days](https://www.viz.com/manga-books/manga/sakamoto-days-volume-24-0/product/9124/paperback "VIZ Media")|24|VIZ Media|🖥️📖|
-|Dec 15|[Sanda](https://www.penguinrandomhouse.com/books/830904/sanda-vol4-by-written-by-paru-itagaki/9781787747272 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Seeds of Anxiety*](https://yenpress.com/titles/9798855427226-seeds-of-anxiety-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Seven Sundays](https://yenpress.com/titles/9798400905438-seven-sundays-vol-2 "Ize Press")|2|Ize Press|🖥️📖|
 |Dec 15|[Shigahime](https://yenpress.com/titles/9798855416480-shigahime-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -628,6 +626,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 15|[Yamada's Class Diary](https://yenpress.com/titles/9798855439014-yamada-s-class-diary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Your Castle's Little Helper: Please Feed Me, I'll Work](https://yenpress.com/titles/9798855432220-your-castle-s-little-helper-please-feed-me-i-ll-work-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 22|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/834142/a-love-too-captivating-1-by-mia-sorahana/9781647296292 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
+|Dec 22|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 22|[CALL TO ADVENTURE! Defeating Dungeons with a Skill Board](https://sevenseasentertainment.com/books/call-to-adventure-defeating-dungeons-with-a-skill-board-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -640,6 +639,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Dec 22|[Now That We Draw](https://sevenseasentertainment.com/books/now-that-we-draw-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Orient](https://www.penguinrandomhouse.com/books/777799/orient-21-by-shinobu-ohtaka/9798888774106 "Kodansha")|21|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Perfect Addiction](https://sevenseasentertainment.com/books/perfect-addiction-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 22|[Sanda](https://www.penguinrandomhouse.com/books/830904/sanda-vol4-by-written-by-paru-itagaki/9781787747272 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841971/tengen-hero-wars-vol4-by-written-by-yasu-hiromoto/9781806184965 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[The Ancient Magus' Bride](https://sevenseasentertainment.com/books/the-ancient-magus-bride-vol-23/ "Seven Seas Entertainment")|23|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -678,8 +678,13 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 05|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/852484/apprentice-nail-artist-in-a-foreign-land-volume-3-by-marukawa/9781427893246 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/852484/apprentice-nail-artist-in-a-foreign-land-volume-3-by-marukawa/9781427893253 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Asobi Asobase Omnibus](https://www.darkhorse.com/books/3017-006/asobi-asobase-omnibus-volume-1-tpb/ "Dark Horse")|1|Dark Horse|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Colori Colore Creare](https://www.penguinrandomhouse.com/books/833048/colori-colore-creare-vol2-by-written-by-kozue-amano/9781787748828 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427888426 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427893284 "TOKYOPOP")|5.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427893291 "TOKYOPOP")|5.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Dungeon Elf: What's a Dungeon without Treasure Chests?](https://sevenseasentertainment.com/books/dungeon-elf-whats-a-dungeon-without-treasure-chests-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Exotic Animal Doctor](https://sevenseasentertainment.com/books/exotic-animal-doctor-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Jan 05|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143/paperback "VIZ Media")|9|VIZ Media|🖥️📖|

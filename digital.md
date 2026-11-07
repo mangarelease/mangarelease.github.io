@@ -332,6 +332,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|Jan 05|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/852484/apprentice-nail-artist-in-a-foreign-land-volume-3-by-marukawa/9781427893246 "TOKYOPOP")|3.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Apprentice Nail Artist in a Foreign Land](https://www.penguinrandomhouse.com/books/852484/apprentice-nail-artist-in-a-foreign-land-volume-3-by-marukawa/9781427893253 "TOKYOPOP")|3.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427888426 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427893284 "TOKYOPOP")|5.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Jan 05|[Deep 3](https://www.penguinrandomhouse.com/books/833309/deep-3-volume-5-by-mitsuhiro-mizuno/9781427893291 "TOKYOPOP")|5.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Jan 05|[Firefly Wedding](https://www.viz.com/manga-books/manga/firefly-wedding-volume-9-0/product/9143/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Jan 05|[Gokurakugai](https://www.viz.com/manga-books/manga/gokurakugai-volume-6-0/product/9139/paperback "VIZ Media")|6|VIZ Media|🖥️📖|
 |Jan 05|[Hate Me, but Let Me Stay – Mr. Asanaga and Mr. Yanagi](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-mr-asanaga-and-mr-yanagi-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
