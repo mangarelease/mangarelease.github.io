@@ -44,21 +44,16 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 10|[Albus Changes the World](https://www.viz.com/manga-books/manga/albus-changes-the-world-volume-1-0/product/9084/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 10|[Chained Soldier](https://yenpress.com/titles/9798855403732-chained-soldier-vol-15 "Yen Press")|15|Yen Press|🖥️📖|
 |Nov 10|[Cherry Blossoms After Winter](https://www.penguinrandomhouse.com/books/747113/cherry-blossoms-after-winter-volume-5-by-bamwoo/9780593871058 "Inklore")|5|Inklore|🖥️📖|
-|Nov 10|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[Hima-Ten!](https://www.viz.com/manga-books/manga/hima-ten-volume-3-0/product/9061/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 10|[Kakuriyo: Bed & Breakfast for Spirits](https://www.viz.com/manga-books/manga/kakuriyo-bed-breakfast-for-spirits-volume-12-0/product/9070/paperback "VIZ Media")|12|VIZ Media|🖥️📖|
 |Nov 10|[Mad Miniscape](https://yenpress.com/titles/9798855424973-mad-miniscape-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 10|[Mao](https://www.viz.com/manga-books/manga/mao-volume-26-0/product/9071/paperback "VIZ Media")|26|VIZ Media|🖥️📖|
-|Nov 10|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[My Oh My, Atami-kun](https://yenpress.com/titles/9798855435276-my-oh-my-atami-kun-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Nov 10|[NEMURUBAKA: Half-Awake Fools](https://sevenseasentertainment.com/books/nemurubaka-half-awake-fools/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 10|[Nemu the Corpse Bearer](https://sevenseasentertainment.com/books/nemu-the-corpse-bearer-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 10|[One Piece](https://www.viz.com/manga-books/manga/one-piece-volume-113-0/product/9076/paperback "VIZ Media")|113|VIZ Media|🖥️📖|
 |Nov 10|[Seraph of the End](https://www.viz.com/manga-books/manga/seraph-of-the-end-volume-35-0/product/9077/paperback "VIZ Media")|35|VIZ Media|🖥️📖|
 |Nov 10|[Spring Storm and Monster](https://yenpress.com/titles/9798855423396-spring-storm-and-monster-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 10|[The Marshal King](https://www.viz.com/manga-books/manga/marshal-king-volume-2-0/product/9086/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 10|[Wild Paws](https://www.penguinrandomhouse.com/books/825917/wild-paws-volume-1-the-fox-farm-by-victor-nordahl/9781427886934 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
-|Nov 10|[Wolfhound](https://sevenseasentertainment.com/books/wolfhound/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[After God](https://www.viz.com/manga-books/manga/after-god-volume-10-0/product/9059/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Nov 17|[Assassin's Creed Shadows: Tales of Iga](https://www.viz.com/manga-books/manga/assassin-s-creed-shadows-tales-of-iga-volume-2-0/product/9075/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427892966 "TOKYOPOP")|1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -444,8 +439,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427888389 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892980 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892997 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
-|Mar 09|[Good Morning, Good Night, and See You Tomorrow.](https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
-|Mar 09|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[My Name is Mienne: Tales of a Blind Kitten](https://sevenseasentertainment.com/books/my-name-is-mienne-tales-of-a-blind-kitten/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -606,6 +599,13 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
 |Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
+
+### August
+
+|Date|Series|Volume|Publisher|Type|
+|:---:|---|:---:|---|:---:|
+|Aug 10|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751251/how-to-hide-the-emperors-child-volume-2-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872482 "Inklore")|2|Inklore|🖥️📖|
+|Aug 10|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752074/sora-and-haena-volume-3-by-jackbull/9780593873038 "Inklore")|3|Inklore|🖥️📖|
 
 ### October
 
