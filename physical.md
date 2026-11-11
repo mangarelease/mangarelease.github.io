@@ -1250,6 +1250,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jul 20|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[I Remember the Color of the Wind](https://www.penguinrandomhouse.com/books/859699/i-remember-the-color-of-the-wind-1-by-kazari/9798900741659 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[I Want to Love You Till Your Dying Day](https://www.penguinrandomhouse.com/books/859671/i-want-to-love-you-till-your-dying-day-9-by-nachi-aono/9798900742748 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 20|[Secret Witchy Friends, Book 1](https://www.penguinrandomhouse.com/books/837120/secret-witchy-friends-book-1-by-ema-miyashita/9781427889591 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jul 20|[The Five Star Stories](https://www.penguinrandomhouse.com/books/859464/the-five-star-stories-vol3-by-written-by-mamoru-nagano/9781787748910 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jul 27|[A Condition Called Love](https://www.penguinrandomhouse.com/books/859698/a-condition-called-love-19-by-megumi-morino/9798900741598 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 27|[Dig It](https://www.penguinrandomhouse.com/books/845146/dig-it-2-by-yoshidamaru/9798900740997 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
