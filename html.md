@@ -1294,6 +1294,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jul 27|[Omega Megaera](https://www.penguinrandomhouse.com/books/800461/omega-megaera-10-by-maki-marukido/9798888776001 "Kodansha")|10|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 27|[Operation: True Love, vol. 3](https://www.penguinrandomhouse.com/books/853746/operation-true-love-vol-3-by-kkokkalee/9781834111100 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
+|Jul 27|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/866532/welcome-to-demon-school-iruma-kun-irumafia-edition-9-by-osamu-nishi/9781647297404 "Kodansha")|9|Kodansha|🖥️📖|
 
 ### August
 

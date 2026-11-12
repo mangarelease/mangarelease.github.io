@@ -599,6 +599,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
 |Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 |Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
+|Jul 27|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/866532/welcome-to-demon-school-iruma-kun-irumafia-edition-9-by-osamu-nishi/9781647297404 "Kodansha")|9|Kodansha|🖥️📖|
 
 ### August
 
