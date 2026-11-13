@@ -316,7 +316,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 15|[DEAD ROCK](https://www.penguinrandomhouse.com/books/830909/dead-rock-6-by-hiro-mashima/9798888779859 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Dear Sister, I've Become a Blessed Maiden](https://sevenseasentertainment.com/books/dear-sister-ive-become-a-blessed-maiden-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Deep-Sea Aquarium Magmell](https://yenpress.com/titles/9798855421583-deep-sea-aquarium-magmell-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Dec 15|[Divine Incursions](https://yenpress.com/titles/9798855427837-divine-incursions-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[D.N.Angel New Edition](https://yenpress.com/titles/9798855420012-d-n-angel-new-edition-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 15|[Egnaro the Star Eater Killer](https://www.penguinrandomhouse.com/books/840687/egnaro-the-star-eater-killer-vol1-by-written-by-arata-yamaji/9781787749160 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -390,13 +389,13 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 15|[What Does the Fox Say?](https://yenpress.com/titles/9798855423945-what-does-the-fox-say-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[What If I Said, "I Love You"?](https://www.penguinrandomhouse.com/books/826298/what-if-i-said-i-love-you-3-by-kumosoku/9798888779170 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 15|[Witches Can't Be Collared](https://yenpress.com/titles/9798855438154-witches-can-t-be-collared-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[Wonder Boy](https://yenpress.com/titles/9798855422399-wonder-boy-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Yamada's Class Diary](https://yenpress.com/titles/9798855439014-yamada-s-class-diary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Your Castle's Little Helper: Please Feed Me, I'll Work](https://yenpress.com/titles/9798855432220-your-castle-s-little-helper-please-feed-me-i-ll-work-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 22|[A Love Too Captivating](https://www.penguinrandomhouse.com/books/834142/a-love-too-captivating-1-by-mia-sorahana/9781647296292 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/834128/ashita-no-joe-fighting-for-tomorrow-7-by-tetsuya-chiba/9781647295189 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Bloody Mary, Bloody Mary](https://www.penguinrandomhouse.com/books/833299/bloody-mary-bloody-mary-by-kim-ji-suk/9781427887832 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Dec 22|[CALL TO ADVENTURE! Defeating Dungeons with a Skill Board](https://sevenseasentertainment.com/books/call-to-adventure-defeating-dungeons-with-a-skill-board-manga-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Dec 22|[Divine Incursions](https://yenpress.com/titles/9798855427837-divine-incursions-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 22|[Geniearth](https://www.penguinrandomhouse.com/books/830762/geniearth-vol2-by-written-by-rensuke-oshikiri/9781787747098 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[He Craves to be Teased by His Favorite ASMR Streamer](https://sevenseasentertainment.com/books/he-craves-to-be-teased-by-his-favorite-asmr-streamer-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince](https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -438,6 +437,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 29|[Strange Pictures](https://www.penguinrandomhouse.com/books/841780/strange-pictures-vol3-by-written-by-uketsu/9781806185061 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 29|[The Great Cleric](https://www.penguinrandomhouse.com/books/787945/the-great-cleric-14-by-original-story-by-broccoli-lion-art-by-hiiro-akikaze-character-design-by-sime/9798888775448 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
 |Dec 29|[The Seven Deadly Sins: Four Knights of the Apocalypse](https://www.penguinrandomhouse.com/books/830949/the-seven-deadly-sins-four-knights-of-the-apocalypse-24-by-nakaba-suzuki/9798888779736 "Kodansha")|24|Kodansha|<span class="hidden">🖥️</span>📖|
+|Dec 29|[Wonder Boy](https://yenpress.com/titles/9798855422399-wonder-boy-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 
 
 ## [2027](/year/2027)
@@ -933,7 +933,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Spring Storm and Monster](https://yenpress.com/titles/9798855447286-spring-storm-and-monster-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 23|[Stray Cat & Wolf](https://yenpress.com/titles/9798855447309-stray-cat-wolf-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Mar 23|[Summer Love Begins with a Lie -squall-](https://yenpress.com/titles/9798855431568-summer-love-begins-with-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[That's Not Love](https://www.penguinrandomhouse.com/books/813102/thats-not-love-6-by-peko-watanabe/9798888777572 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 23|[The Case Files of Jeweler Richard](https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-manga-vol-7/ "Seven Seas Entertainment")|7|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 23|[The Eccentric Doctor of the Moon Flower Kingdom](https://sevenseasentertainment.com/books/the-eccentric-doctor-of-the-moon-flower-kingdom-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -944,6 +943,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Mar 23|[The Immortal Girl's Breeding Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Journey of a Dark Elf with Fading Powers](https://sevenseasentertainment.com/books/the-journey-of-a-dark-elf-with-fading-powers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[The Parasite Princess](https://yenpress.com/titles/9798855431001-the-parasite-princess-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Summer Romance Bloomed from a Lie -squall-](https://yenpress.com/titles/9798855431568-the-summer-romance-bloomed-from-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[This Time Around, My Lovesick Hero Will Keep Me Alive… If I'm Lucky!](https://sevenseasentertainment.com/books/this-time-around-my-lovesick-hero-will-keep-me-alive-if-im-lucky-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855447187-thus-spoke-the-rabbit-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 23|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855438338-to-sir-without-love-i-m-divorcing-you-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|

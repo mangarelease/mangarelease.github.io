@@ -168,7 +168,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Bungo Stray Dogs: Wan!](https://yenpress.com/titles/9798855438659-bungo-stray-dogs-wan-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Dec 15|[Cosmos](https://www.viz.com/manga-books/manga/cosmos-volume-7-0/product/9117/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Dec 15|[Deep-Sea Aquarium Magmell](https://yenpress.com/titles/9798855421583-deep-sea-aquarium-magmell-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Dec 15|[Divine Incursions](https://yenpress.com/titles/9798855427837-divine-incursions-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[D.N.Angel New Edition](https://yenpress.com/titles/9798855420012-d-n-angel-new-edition-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Dec 15|[Dragon Quest: The Adventure of Dai](https://www.viz.com/manga-books/manga/dragon-quest-the-adventure-of-dai-volume-8-0/product/9101/paperback "VIZ Media")|8|VIZ Media|🖥️📖|
 |Dec 15|[Fool Night](https://www.viz.com/manga-books/manga/fool-night-volume-11-0/product/9116/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
@@ -217,9 +216,9 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 15|[Twilight Vessel-Gods](https://yenpress.com/titles/9798855438130-twilight-vessel-gods-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[What Does the Fox Say?](https://yenpress.com/titles/9798855423945-what-does-the-fox-say-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Dec 15|[Witches Can't Be Collared](https://yenpress.com/titles/9798855438154-witches-can-t-be-collared-vol-1-manga "Yen Press")|1|Yen Press|🖥️📖|
-|Dec 15|[Wonder Boy](https://yenpress.com/titles/9798855422399-wonder-boy-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 15|[Yamada's Class Diary](https://yenpress.com/titles/9798855439014-yamada-s-class-diary-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 15|[Your Castle's Little Helper: Please Feed Me, I'll Work](https://yenpress.com/titles/9798855432220-your-castle-s-little-helper-please-feed-me-i-ll-work-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Dec 22|[Divine Incursions](https://yenpress.com/titles/9798855427837-divine-incursions-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Dec 22|[Trillion Game](https://www.viz.com/manga-books/manga/trillion-game-volume-11-0/product/9128/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Dec 22|[Zom 100: Bucket List of the Dead](https://www.viz.com/manga-books/manga/zom-100-bucket-list-of-the-dead-vol-1-volume-21-0/product/9129/paperback "VIZ Media")|21|VIZ Media|🖥️📖|
 |Dec 29|[A Couple Drifting in the Wind](https://sevenseasentertainment.com/books/a-couple-drifting-in-the-wind-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -227,6 +226,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Dec 29|[In Such a Small World: The Complete Omnibus](https://yenpress.com/titles/9798855444520-in-such-a-small-world-the-complete-omnibus "Yen Press")|1|Yen Press|🖥️📖|
 |Dec 29|[Kirio Fan Club](https://www.penguinrandomhouse.com/books/834159/kirio-fan-club-5-by-chikyu-no-osakana-ponchan/9781647295325 "Kodansha")|5|Kodansha|🖥️📖|
 |Dec 29|[Love Tattoo](https://sevenseasentertainment.com/books/love-tattoo/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Dec 29|[Wonder Boy](https://yenpress.com/titles/9798855422399-wonder-boy-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 
 
 ## [2027](/year/2027)
@@ -348,6 +348,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 02|[Ichi the Witch](https://www.viz.com/manga-books/manga/ichi-the-witch-volume-7-0/product/9182/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Feb 02|[Kagurabachi](https://www.viz.com/manga-books/manga/kagurabachi-volume-10-0/product/9179/paperback "VIZ Media")|10|VIZ Media|🖥️📖|
 |Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427887160 "TOKYOPOP")|15|TOKYOPOP|🖥️📖|
+|Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427893628 "TOKYOPOP")|15.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
+|Feb 02|[Konohana Kitan](https://www.penguinrandomhouse.com/books/827213/konohana-kitan-volume-15-by-sakuya-amano/9781427893635 "TOKYOPOP")|15.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Feb 02|[Magical Girl Dandelion](https://www.viz.com/manga-books/manga/magical-girl-dandelion-volume-4-0/product/9188/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Feb 02|[Nono's Phantom Shop](https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 02|[Shinobi Undercover](https://www.viz.com/manga-books/manga/shinobi-undercover-volume-5-0/product/9193/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
@@ -486,12 +488,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Spring Storm and Monster](https://yenpress.com/titles/9798855447286-spring-storm-and-monster-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 23|[Stray Cat & Wolf](https://yenpress.com/titles/9798855447309-stray-cat-wolf-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
-|Mar 23|[Summer Love Begins with a Lie -squall-](https://yenpress.com/titles/9798855431568-summer-love-begins-with-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Fake Alchemist](https://yenpress.com/titles/9798855439311-the-fake-alchemist-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 23|[The Great Yet Flawed Gods](https://yenpress.com/titles/9798855431377-the-great-yet-flawed-gods-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Immortal Girl's Breeding Travelogue](https://yenpress.com/titles/9798855423884-the-immortal-girl-s-breeding-travelogue-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[The Journey of a Dark Elf with Fading Powers](https://sevenseasentertainment.com/books/the-journey-of-a-dark-elf-with-fading-powers-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[The Parasite Princess](https://yenpress.com/titles/9798855431001-the-parasite-princess-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Mar 23|[The Summer Romance Bloomed from a Lie -squall-](https://yenpress.com/titles/9798855431568-the-summer-romance-bloomed-from-a-lie-squall "Yen Press")|1|Yen Press|🖥️📖|
 |Mar 23|[This Time Around, My Lovesick Hero Will Keep Me Alive… If I'm Lucky!](https://sevenseasentertainment.com/books/this-time-around-my-lovesick-hero-will-keep-me-alive-if-im-lucky-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Thus Spoke the Rabbit](https://yenpress.com/titles/9798855447187-thus-spoke-the-rabbit-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Mar 23|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855438338-to-sir-without-love-i-m-divorcing-you-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
