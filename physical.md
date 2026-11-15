@@ -1253,6 +1253,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jul 20|[Secret Witchy Friends, Book 1](https://www.penguinrandomhouse.com/books/837120/secret-witchy-friends-book-1-by-ema-miyashita/9781427889591 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jul 20|[The Five Star Stories](https://www.penguinrandomhouse.com/books/859464/the-five-star-stories-vol3-by-written-by-mamoru-nagano/9781787748910 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jul 27|[A Condition Called Love](https://www.penguinrandomhouse.com/books/859698/a-condition-called-love-19-by-megumi-morino/9798900741598 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
+|Jul 27|[Bless](https://www.penguinrandomhouse.com/books/866944/bless-9-by-yukino-sonoyama/9798900744780 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 27|[Dig It](https://www.penguinrandomhouse.com/books/845146/dig-it-2-by-yoshidamaru/9798900740997 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 27|[GremoryLand, vol. 3](https://www.penguinrandomhouse.com/books/844769/gremoryland-vol-3-by-a-rasen/9781834110943 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jul 27|[I Got Fired as a Court Wizard so Now I'm Moving to the Country to Become a Magic Teacher](https://sevenseasentertainment.com/books/i-got-fired-as-a-court-wizard-so-now-im-moving-to-the-country-to-become-a-magic-teacher-manga-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
