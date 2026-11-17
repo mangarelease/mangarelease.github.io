@@ -126,7 +126,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1.1|TOKYOPOP|🖥️|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892836 "TOKYOPOP")|1.2|TOKYOPOP|🖥️|
 |Nov 17|[Lady Devil](https://yenpress.com/titles/9798400905070-lady-devil-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
-|Nov 17|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 17|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 17|[Maid to Skate](https://www.viz.com/manga-books/manga/maid-to-skate-volume-2-0/product/9069/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[Marriage to the Wolf: An Interspecies Union](https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 17|[NakiNagi](https://www.penguinrandomhouse.com/books/830935/nakinagi-1-by-keigo-maki/9798888779484 "Kodansha")|1|Kodansha|📖|
@@ -141,7 +141,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Nov 17|[Uesugi-kun Wants to Quit Being a Girl](https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Nov 17|[Vagabond Definitive Edition](https://www.viz.com/manga-books/manga/vagabond-definitive-edition-volume-7-0/product/9049/hardcover "VIZ Media")|7|VIZ Media|📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296407 "Kodansha")|6|Kodansha|🖥️|
-|Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 24|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
 |Nov 24|[Cat + Crazy](https://www.darkhorse.com/books/3013-201/cat-crazy-volume-5-tpb/ "Dark Horse")|5|Dark Horse|📖|
@@ -876,7 +876,6 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 09|[Lone Wolf and Cub Deluxe Edition](https://www.darkhorse.com/books/3013-006/lone-wolf-and-cub-deluxe-edition-volume-4-hc/ "Dark Horse")|4|Dark Horse|📖|
 |Mar 09|[Me and the Prez, Drinking Under the Stars](https://sevenseasentertainment.com/books/me-and-the-prez-drinking-under-the-stars-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 09|[My Name is Mienne: Tales of a Blind Kitten](https://sevenseasentertainment.com/books/my-name-is-mienne-tales-of-a-blind-kitten/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Mar 09|[Nightmare Library, Book 2](https://www.penguinrandomhouse.com/books/836431/nightmare-library-book-2-by-taiga-kayama/9781427889577 "TOKYOPOP")|1|TOKYOPOP|📖|
 |Mar 09|[No Longer Allowed In Another World](https://sevenseasentertainment.com/books/no-longer-allowed-in-another-world-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|📖|
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
 |Mar 09|[On the Tenth Year, the Transferee Who Gave up Returning Finally Becomes the Protagonist](https://www.penguinrandomhouse.com/books/858416/on-the-tenth-year-the-transferee-who-gave-up-returning-finally-becomes-the-protagonist-vol2-by-written-by-hisume/9781787749184 "Titan Comics")|2|Titan Comics|📖|
@@ -979,7 +978,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Mar 23|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/855486/welcome-to-demon-school-iruma-kun-irumafia-edition-8-by-osamu-nishi/9781647297053 "Kodansha")|8|Kodansha|🖥️📖|
 |Mar 23|[Whoever You Are, I Love You](https://www.penguinrandomhouse.com/books/840456/whoever-you-are-i-love-you-4-by-keiku-hagiwara/9781647296339 "Kodansha")|4|Kodansha|📖|
 |Mar 23|[YATTARA](https://yenpress.com/titles/9798855429336-yattara-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Mar 23|[You Can't Escape from Mizudako-chan!](https://yenpress.com/titles/9798855447200-you-can-t-escape-from-mizudako-chan-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 30|[Amamiya-san is the Cutest…and I'm a Close Second!](https://sevenseasentertainment.com/books/amamiya-san-is-the-cutest-and-im-a-close-second-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 30|[A Ninja and an Assassin Under One Roof](https://sevenseasentertainment.com/books/a-ninja-and-an-assassin-under-one-roof-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
@@ -1016,7 +1015,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Apr 06|[I Got Reincarnated in a (BL) World of Big (Man) Boobs](https://www.penguinrandomhouse.com/books/845130/i-got-reincarnated-in-a-bl-world-of-big-man-boobs-3-by-tsukiji-nao/9798888772966 "Kodansha")|3|Kodansha|📖|
 |Apr 06|[I Swear I Won't Bother You Again!](https://sevenseasentertainment.com/books/i-swear-i-wont-bother-you-again-manga-vol-6/ "Seven Seas Entertainment")|6|Seven Seas Entertainment|📖|
 |Apr 06|[LastBoss LoveDeath](https://www.penguinrandomhouse.com/books/856911/lastboss-lovedeath-by-written-by-yoshikazu-kuwajima/9781806184897 "Titan Comics")|1|Titan Comics|📖|
-|Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|📖|
 |Apr 06|[Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-12/ "Seven Seas Entertainment")|12|Seven Seas Entertainment|📖|
 |Apr 06|[Love 4 a Walk](https://www.penguinrandomhouse.com/books/816155/love-4-a-walk-vol-3-by-nurina-sanguino/9781834110394 "WEBTOON Unscrolled")|3|WEBTOON Unscrolled|📖|
 |Apr 06|[Love Out on a Limb](https://www.penguinrandomhouse.com/books/830920/love-out-on-a-limb-7-by-yoko-nogiri/9798888779927 "Kodansha")|7|Kodansha|📖|
@@ -1298,6 +1297,7 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |Aug 03|[Blue Summer Haze](https://www.penguinrandomhouse.com/books/859706/blue-summer-haze-4-by-dondon/9798900742533 "Kodansha")|4|Kodansha|📖|
+|Aug 03|[Homesick, vol. 1](https://www.penguinrandomhouse.com/books/860333/homesick-vol-1-by-ms-freaky/9781834111285 "WEBTOON Unscrolled")|1|WEBTOON Unscrolled|📖|
 |Aug 03|[Huck the Air Pirate and the Princess of Steam](https://www.penguinrandomhouse.com/books/834028/huck-the-air-pirate-and-the-princess-of-steam-vol1-by-written-by-tomonori-inoue/9781787749146 "Titan Comics")|1|Titan Comics|📖|
 |Aug 03|[Medalist](https://www.penguinrandomhouse.com/books/859678/medalist-15-by-tsurumaikada/9798900742816 "Kodansha")|15|Kodansha|📖|
 |Aug 03|[My Rebound Has Too Much Game!](https://www.penguinrandomhouse.com/books/863140/my-rebound-has-too-much-game-1-by-asumi-takabuchi/9798900742328 "Kodansha")|1|Kodansha|📖|
@@ -1312,6 +1312,15 @@ Automated release calendar for licensed English manga, manhwa, manhua & webtoons
 |Aug 10|[The Great Cleric](https://www.penguinrandomhouse.com/books/845108/the-great-cleric-16-by-hiiro-akikaze/9798900741307 "Kodansha")|16|Kodansha|📖|
 |Aug 10|[You Can't Bluff the Sharp-Eyed Sister](https://www.penguinrandomhouse.com/books/859693/you-cant-bluff-the-sharp-eyed-sister-6-by-story-by-natsu-hyuuga-manga-by-yo-asami-character-designs-by-chiho-shinishi/9798900742977 "Kodansha")|6|Kodansha|📖|
 |Aug 10|[You Might As Well Be the One](https://www.penguinrandomhouse.com/books/830966/you-might-as-well-be-the-one-5-by-megumi-seto/9798888779699 "Kodansha")|5|Kodansha|📖|
+|Aug 17|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824166/beck-omnibus-4-vol-7-8-by-harold-sakuishi/9798888778777 "Kodansha")|4|Kodansha|📖|
+|Aug 17|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817258/blue-lock-omnibus-10-vol-28-30-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778302 "Kodansha")|10|Kodansha|📖|
+|Aug 17|[Blue Lock](https://www.penguinrandomhouse.com/books/866929/blue-lock-41-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798900744933 "Kodansha")|41|Kodansha|📖|
+|Aug 17|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/807002/my-love-story-with-yamada-kun-at-lv999-volume-10-by-mashiro/9798217095056 "Inklore")|10|Inklore|🖥️📖|
+|Aug 17|[Nightmare Library, Book 2](https://www.penguinrandomhouse.com/books/836431/nightmare-library-book-2-by-taiga-kayama/9781427889577 "TOKYOPOP")|1|TOKYOPOP|📖|
+|Aug 17|[Revenge of the Rock 'n' Roll Sisters](https://www.penguinrandomhouse.com/books/860453/revenge-of-the-rock-n-roll-sisters-vol1-by-written-by-hiroki-muramatsu/9781806184958 "Titan Comics")|1|Titan Comics|📖|
+|Aug 17|[Tank Chair](https://www.penguinrandomhouse.com/books/866946/tank-chair-11-by-manabu-yashiro/9798900744766 "Kodansha")|11|Kodansha|📖|
+|Aug 17|[That Time I Got Reincarnated as a Slime](https://www.penguinrandomhouse.com/books/859686/that-time-i-got-reincarnated-as-a-slime-32-by-story-by-fuse-art-by-taiki-kawakami-character-designs-by-mitz-vah/9798900742892 "Kodansha")|32|Kodansha|📖|
+|Aug 17|[Vinland Saga Deluxe](https://www.penguinrandomhouse.com/books/772275/vinland-saga-deluxe-9-by-makoto-yukimura/9781646519866 "Kodansha")|9|Kodansha|📖|
 
 ### October
 

@@ -66,13 +66,11 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892829 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Kyo Aizawa Doesn't Laugh](https://www.penguinrandomhouse.com/books/833313/kyo-aizawa-doesnt-laugh-volume-1-by-shizuki-tachibana/9781427892836 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Nov 17|[Lady Devil](https://yenpress.com/titles/9798400905070-lady-devil-vol-7 "Ize Press")|7|Ize Press|🖥️📖|
-|Nov 17|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 17|[Maid to Skate](https://www.viz.com/manga-books/manga/maid-to-skate-volume-2-0/product/9069/paperback "VIZ Media")|2|VIZ Media|🖥️📖|
 |Nov 17|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905834-revenge-of-the-baskerville-bloodhound-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Nov 17|[Taika's Reason](https://www.viz.com/manga-books/manga/taika-s-reason-volume-3-0/product/9082/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Nov 17|[The Way of the Househusband](https://www.viz.com/manga-books/manga/way-of-the-househusband-volume-16-0/product/9087/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Nov 17|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/838612/welcome-to-demon-school-iruma-kun-irumafia-edition-6-by-osamu-nishi/9781647296407 "Kodansha")|6|Kodansha|🖥️<span class="hidden">📖</span>|
-|Nov 17|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Battlefront of the Great Powers](https://yenpress.com/titles/9798855416510-battlefront-of-the-great-powers-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Nov 24|[Beware the Villainess!](https://yenpress.com/titles/9798400905797-beware-the-villainess-vol-9 "Ize Press")|9|Ize Press|🖥️📖|
 |Nov 24|[Clevatess: The King of Dark Beasts, the Baby, and the Undead Hero](https://yenpress.com/titles/9798855442861-clevatess-the-king-of-dark-beasts-the-baby-and-the-undead-hero-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -499,7 +497,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 23|[To Sir, Without Love: I'm Divorcing You](https://yenpress.com/titles/9798855438338-to-sir-without-love-i-m-divorcing-you-vol-4-manga "Yen Press")|4|Yen Press|🖥️📖|
 |Mar 23|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/855486/welcome-to-demon-school-iruma-kun-irumafia-edition-8-by-osamu-nishi/9781647297053 "Kodansha")|8|Kodansha|🖥️📖|
 |Mar 23|[YATTARA](https://yenpress.com/titles/9798855429336-yattara-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[Yoichi and Tsugumo](https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[You Can't Escape from Mizudako-chan!](https://yenpress.com/titles/9798855447200-you-can-t-escape-from-mizudako-chan-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 30|[Amamiya-san is the Cutest…and I'm a Close Second!](https://sevenseasentertainment.com/books/amamiya-san-is-the-cutest-and-im-a-close-second-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 30|[Disney Stitch! Cute and Sassy](https://www.penguinrandomhouse.com/books/837124/disney-stitch-cute-and-sassy-by-tokyopop/9781427889508 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
@@ -512,7 +509,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |:---:|---|:---:|---|:---:|
 |Apr 06|[Chibon Kaburi: The Masked God](https://www.penguinrandomhouse.com/books/860593/chibon-kaburi-the-masked-god-volume-2-by-tomo-kitaoka/9781427890504 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 06|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784698/heaven-officials-blessing-the-comic-volume-5-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984482 "Inklore")|5|Inklore|🖥️📖|
-|Apr 06|[Lazy Girl Momogusa](https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Apr 06|[What If My Human Didn't Come Home?](https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[As Yubooh Slumbers](https://www.penguinrandomhouse.com/books/837126/as-yubooh-slumbers-volume-2-by-palacios-paulina/9781427889553 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -609,6 +605,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |:---:|---|:---:|---|:---:|
 |Aug 10|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751251/how-to-hide-the-emperors-child-volume-2-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872482 "Inklore")|2|Inklore|🖥️📖|
 |Aug 10|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752074/sora-and-haena-volume-3-by-jackbull/9780593873038 "Inklore")|3|Inklore|🖥️📖|
+|Aug 17|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/807002/my-love-story-with-yamada-kun-at-lv999-volume-10-by-mashiro/9798217095056 "Inklore")|10|Inklore|🖥️📖|
 
 ### October
 
