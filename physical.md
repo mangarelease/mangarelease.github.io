@@ -408,7 +408,6 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Dec 22|[Perfect Addiction](https://sevenseasentertainment.com/books/perfect-addiction-vol-3/ "Seven Seas Entertainment")|3|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Sanda](https://www.penguinrandomhouse.com/books/830904/sanda-vol4-by-written-by-paru-itagaki/9781787747272 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[Survival in Another World with My Mistress!](https://sevenseasentertainment.com/books/survival-in-another-world-with-my-mistress-manga-vol-10/ "Seven Seas Entertainment")|10|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Dec 22|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841971/tengen-hero-wars-vol4-by-written-by-yasu-hiromoto/9781806184965 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Dec 22|[The Ancient Magus' Bride](https://sevenseasentertainment.com/books/the-ancient-magus-bride-vol-23/ "Seven Seas Entertainment")|23|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[The Fed-Up Office Lady Wants to Serve the Villainess](https://sevenseasentertainment.com/books/the-fed-up-office-lady-wants-to-serve-the-villainess-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Dec 22|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/808571/the-fragrant-flower-blooms-with-dignity-16-by-saka-mikami/9798888776735 "Kodansha")|16|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -605,6 +604,7 @@ description: "Physical print releases for licensed English manga, manhwa, manhua
 |Jan 26|[Snowmelt and Agapanthus](https://yenpress.com/titles/9798855438055-snowmelt-and-agapanthus-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[Spy Classroom 4th Period: Bonfire](https://yenpress.com/titles/9798855430554-spy-classroom-4th-period-bonfire-vol-2-manga "Yen Press")|2|Yen Press|<span class="hidden">🖥️</span>📖|
 |Jan 26|[Takane-san and Arashi-chan](https://yenpress.com/titles/9798855431926-takane-san-and-arashi-chan-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
+|Jan 26|[Tengen Hero Wars](https://www.penguinrandomhouse.com/books/841971/tengen-hero-wars-vol4-by-written-by-yasu-hiromoto/9781806184965 "Titan Comics")|4|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jan 26|[That's Not Love](https://www.penguinrandomhouse.com/books/813101/thats-not-love-5-by-peko-watanabe/9798888777565 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jan 26|[The 11th Cat Is Nene!](https://yenpress.com/titles/9798855436402-the-11th-cat-is-nene-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Jan 26|[The Anemone Feels the Heat](https://yenpress.com/titles/9798855401011-the-anemone-feels-the-heat-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
