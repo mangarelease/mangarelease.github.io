@@ -369,14 +369,12 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[Sleepy Princess in the Demon Castle](https://www.viz.com/manga-books/manga/sleepy-princess-in-the-demon-castle-volume-31-0/product/9200/paperback "VIZ Media")|31|VIZ Media|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Feb 16|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Feb 16|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-5-0/product/9170/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Feb 16|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-7-0/product/9180/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
 |Feb 16|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-16-0/product/9187/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Feb 16|[Lady Devil](https://yenpress.com/titles/9798400905094-lady-devil-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
 |Feb 16|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-17-0/product/9183/paperback "VIZ Media")|17|VIZ Media|🖥️📖|
 |Feb 16|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-27-0/product/9184/paperback "VIZ Media")|27|VIZ Media|🖥️📖|
-|Feb 16|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
 |Feb 16|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905858-revenge-of-the-baskerville-bloodhound-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
 |Feb 16|[Rooster Fighter](https://www.viz.com/manga-books/manga/rooster-fighter-volume-11-0/product/9185/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
 |Feb 16|[Sakamoto Days](https://www.viz.com/manga-books/manga/sakamoto-days-volume-25-0/product/9196/paperback "VIZ Media")|25|VIZ Media|🖥️📖|
@@ -436,11 +434,13 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 02|[I Will Fall in Love with Azami Yako (if it kills me)](https://sevenseasentertainment.com/books/i-will-fall-in-love-with-azami-yako-if-it-kills-me-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 02|[King's Maker: Triple Crown](https://www.penguinrandomhouse.com/books/768683/kings-maker-triple-crown-volume-1-by-haga-kang-jiyoung/9780593972410 "Inklore")|1|Inklore|🖥️📖|
 |Mar 02|[The Horizon Will Soon Shine](https://sevenseasentertainment.com/books/the-horizon-will-soon-shine-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Mar 09|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427888389 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892980 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892997 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Mar 09|[My Name is Mienne: Tales of a Blind Kitten](https://sevenseasentertainment.com/books/my-name-is-mienne-tales-of-a-blind-kitten/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
+|Mar 09|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Apothecary and the Wounded Elf](https://sevenseasentertainment.com/books/the-apothecary-and-the-wounded-elf-manga-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[The Devil's in the Lunch Deals](https://www.penguinrandomhouse.com/books/852486/the-devils-in-the-lunch-deals-volume-2-by-ishiko/9781427890337 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|

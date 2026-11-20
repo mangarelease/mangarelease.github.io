@@ -731,7 +731,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 16|[A Tale of the Secret Saint](https://sevenseasentertainment.com/books/a-tale-of-the-secret-saint-manga-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[BECK Omnibus](https://www.penguinrandomhouse.com/books/824194/beck-omnibus-2-vol-3-4-by-harold-sakuishi/9798888778753 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Berserk of Gluttony](https://sevenseasentertainment.com/books/berserk-of-gluttony-manga-vol-15/ "Seven Seas Entertainment")|15|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Feb 16|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Feb 16|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817261/blue-lock-omnibus-7-vol-19-21-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778272 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-5-0/product/9170/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Feb 16|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-7-0/product/9180/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
@@ -746,7 +745,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 16|[Mission: Yozakura Family](https://www.viz.com/manga-books/manga/mission-yozakura-family-volume-27-0/product/9184/paperback "VIZ Media")|27|VIZ Media|🖥️📖|
 |Feb 16|[My Darling Devilish Daughter](https://sevenseasentertainment.com/books/my-darling-devilish-daughter-vol-4/ "Seven Seas Entertainment")|4|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Nezumi's First Love](https://www.penguinrandomhouse.com/books/840440/nezumis-first-love-7-by-riku-oseto/9781647296919 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
-|Feb 16|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
 |Feb 16|[Phenomenon X: Paranormal Crime Files](https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Feb 16|[Revenge of the Baskerville Bloodhound](https://yenpress.com/titles/9798400905858-revenge-of-the-baskerville-bloodhound-vol-5 "Ize Press")|5|Ize Press|🖥️📖|
 |Feb 16|[Rooster Fighter](https://www.viz.com/manga-books/manga/rooster-fighter-volume-11-0/product/9185/paperback "VIZ Media")|11|VIZ Media|🖥️📖|
@@ -771,7 +769,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Feb 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855426168-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
 |Feb 23|[Bride of the Barrier Master](https://yenpress.com/titles/9798855448733-bride-of-the-barrier-master-vol-7-manga "Yen Press")|7|Yen Press|🖥️📖|
 |Feb 23|[Cat-Life Balance](https://www.penguinrandomhouse.com/books/845145/cat-life-balance-3-by-akari-otokawa/9798900740980 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
-|Feb 23|[Corpse Knight Gunther](https://yenpress.com/titles/9798855417845-corpse-knight-gunther-vol-3 "Yen Press")|3|Yen Press|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Dead Mount Death Play](https://yenpress.com/titles/9798855448429-dead-mount-death-play-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
 |Feb 23|[Disney Stitch!](https://www.penguinrandomhouse.com/books/803407/disney-stitch-volume-1-full-color-edition-by-yumi-tsukurino/9781427884268 "TOKYOPOP")|1|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Feb 23|[Don't Call it Mystery (Omnibus)](https://sevenseasentertainment.com/books/dont-call-it-mystery-omnibus-vol-15-16/ "Seven Seas Entertainment")|15-16|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
@@ -869,7 +866,9 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 02|[The Tale of a Little Alchemist Blessed by the Spirits](https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-manga-vol-5/ "Seven Seas Entertainment")|5|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 09|[A-DO](https://www.penguinrandomhouse.com/books/817282/a-do-11-by-amano-jaku/9798888778050 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 09|[Ascendance of a Bookworm Part 2](https://yenpress.com/titles/9781718372672-ascendance-of-a-bookworm-manga-part-2-volume-11 "J-Novel Club")|11|J-Novel Club|<span class="hidden">🖥️</span>📖|
+|Mar 09|[Beware the Villainess!](https://yenpress.com/titles/9798400905810-beware-the-villainess-vol-10 "Ize Press")|10|Ize Press|🖥️📖|
 |Mar 09|[Blue Summer Haze](https://www.penguinrandomhouse.com/books/830944/blue-summer-haze-3-by-dondon/9798888779675 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
+|Mar 09|[Corpse Knight Gunther](https://yenpress.com/titles/9798855417845-corpse-knight-gunther-vol-3 "Yen Press")|3|Yen Press|<span class="hidden">🖥️</span>📖|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427888389 "TOKYOPOP")|1|TOKYOPOP|🖥️📖|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892980 "TOKYOPOP")|1.1|TOKYOPOP|🖥️<span class="hidden">📖</span>|
 |Mar 09|[Dr. Ashura](https://www.penguinrandomhouse.com/books/833312/dr-ashura-volume-1-by-ryou-koshino/9781427892997 "TOKYOPOP")|1.2|TOKYOPOP|🖥️<span class="hidden">📖</span>|
@@ -885,6 +884,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 09|[No Longer Allowed In Another World](https://sevenseasentertainment.com/books/no-longer-allowed-in-another-world-vol-13/ "Seven Seas Entertainment")|13|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 09|[Nordlys: Book Three](https://www.penguinrandomhouse.com/books/746808/nordlys-book-three-by-malin-falch/9780593726976 "Inklore")|1|Inklore|🖥️📖|
 |Mar 09|[On the Tenth Year, the Transferee Who Gave up Returning Finally Becomes the Protagonist](https://www.penguinrandomhouse.com/books/858416/on-the-tenth-year-the-transferee-who-gave-up-returning-finally-becomes-the-protagonist-vol2-by-written-by-hisume/9781787749184 "Titan Comics")|2|Titan Comics|<span class="hidden">🖥️</span>📖|
+|Mar 09|[Overgeared](https://yenpress.com/titles/9798400905490-overgeared-vol-13 "Ize Press")|13|Ize Press|🖥️📖|
 |Mar 09|[Pendulum: The Beastmen Omegaverse Saga](https://sevenseasentertainment.com/books/pendulum-the-beastmen-omegaverse-saga/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Mar 09|[Snow & Ink](https://www.penguinrandomhouse.com/books/824192/snow-and-ink-8-by-miyuki-unohana/9798888779033 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Mar 09|[Suicide Island](https://www.darkhorse.com/books/3016-760/suicide-island-volume-2-tpb/ "Dark Horse")|2|Dark Horse|<span class="hidden">🖥️</span>📖|
