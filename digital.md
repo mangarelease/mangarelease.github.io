@@ -366,6 +366,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 09|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833300/honkai-impact-3rd-second-eruption-volume-5-by-mihoyo-comics/9781427888501 "TOKYOPOP")|5|TOKYOPOP|🖥️📖|
 |Feb 09|[Kamudo](https://www.viz.com/manga-books/manga/kamudo-volume-3-0/product/9176/paperback "VIZ Media")|3|VIZ Media|🖥️📖|
 |Feb 09|[Mao](https://www.viz.com/manga-books/manga/mao-volume-27-0/product/9186/paperback "VIZ Media")|27|VIZ Media|🖥️📖|
+|Feb 09|[Deadpool: Samurai](https://www.viz.com/manga-books/manga/deadpool-samurai-volume-4-0/product/9174/paperback "VIZ Media")|4|VIZ Media|🖥️📖|
 |Feb 09|[Sleepy Princess in the Demon Castle](https://www.viz.com/manga-books/manga/sleepy-princess-in-the-demon-castle-volume-31-0/product/9200/paperback "VIZ Media")|31|VIZ Media|🖥️📖|
 |Feb 09|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752073/sora-and-haena-volume-2-by-jackbull/9780593873007 "Inklore")|2|Inklore|🖥️📖|
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
@@ -383,6 +384,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 16|[The Erotical Wizard and His Twelve Brides](https://sevenseasentertainment.com/books/the-erotical-wizard-and-his-twelve-brides-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[The Makeup Remover](https://www.penguinrandomhouse.com/books/752047/the-makeup-remover-volume-3-by-lee-yeon/9780593872826 "Inklore")|3|Inklore|🖥️📖|
 |Feb 16|[The Reformation of the World as Overseen by a Realist Demon King](https://yenpress.com/titles/9798855426212-the-reformation-of-the-world-as-overseen-by-a-realist-demon-king-vol-9-manga "Yen Press")|9|Yen Press|🖥️<span class="hidden">📖</span>|
+|Feb 16|[World Trigger](https://www.viz.com/manga-books/manga/world-trigger-volume-29-0/product/9198/paperback "VIZ Media")|29|VIZ Media|🖥️📖|
 |Feb 23|[Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside](https://yenpress.com/titles/9798855426168-banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
 |Feb 23|[Bride of the Barrier Master](https://yenpress.com/titles/9798855448733-bride-of-the-barrier-master-vol-7-manga "Yen Press")|7|Yen Press|🖥️📖|
 |Feb 23|[Dead Mount Death Play](https://yenpress.com/titles/9798855448429-dead-mount-death-play-vol-16 "Yen Press")|16|Yen Press|🖥️📖|
