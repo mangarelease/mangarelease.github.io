@@ -164,7 +164,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 24|[Hokkaido Gals Are Super Adorable! (Omnibus)](https://sevenseasentertainment.com/books/hokkaido-gals-are-super-adorable-omnibus-vol-7-8/ "Seven Seas Entertainment")|7-8|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Honey Trap Shared House](https://yenpress.com/titles/9798855438550-honey-trap-shared-house-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Love at the City's Edge on a Moonlit Night](https://yenpress.com/titles/9798855425338-love-at-the-city-s-edge-on-a-moonlit-night-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Nov 24|[I Don't Know, Yoshida](https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 24|[I Don't Know, Yoshida](https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Isekai Samurai](https://yenpress.com/titles/9798855425260-isekai-samurai-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 24|[Is the Order a Rabbit?](https://yenpress.com/titles/9798855405941-is-the-order-a-rabbit-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Izumi and the Dragon Encyclopedia](https://yenpress.com/titles/9798855436426-izumi-and-the-dragon-encyclopedia-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -190,8 +190,8 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[See You in My 19th Life](https://yenpress.com/titles/9798400904769-see-you-in-my-19th-life-vol-12 "Ize Press")|12|Ize Press|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Shadows House](https://yenpress.com/titles/9798855403510-shadows-house-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
-|Nov 24|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 24|[Stranger: A Western BL](https://sevenseasentertainment.com/books/stranger-a-western-bl/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
+|Nov 24|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
+|Nov 24|[Stranger: A Western BL](https://sevenseasentertainment.com/books/stranger-a-western-bl/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Nov 24|[Super Ball Girls](https://yenpress.com/titles/9798855439410-super-ball-girls-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Sword Art Online Ordinal Scale](https://yenpress.com/titles/9798855411843-sword-art-online-ordinal-scale-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Tale of the Wizrain Kingdom: The Dragon Is the Bride](https://yenpress.com/titles/9798855435252-tale-of-the-wizrain-kingdom-the-dragon-is-the-bride-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -965,7 +965,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Mar 23|[Shino & Ren](https://yenpress.com/titles/9798855451597-shino-ren-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 23|[Shy](https://yenpress.com/titles/9798855402575-shy-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Mar 23|[Singularity Love: A Kenji Tsurubuchi Collection](https://yenpress.com/titles/9798855426809-singularity-love-a-kenji-tsurubuchi-collection "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
+|Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
 |Mar 23|[Spring Storm and Monster](https://yenpress.com/titles/9798855447286-spring-storm-and-monster-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 23|[Stray Cat & Wolf](https://yenpress.com/titles/9798855447309-stray-cat-wolf-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 23|[That's Not Love](https://www.penguinrandomhouse.com/books/813102/thats-not-love-6-by-peko-watanabe/9798888777572 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1063,7 +1063,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
 |Apr 20|[Ashita no Joe: Fighting for Tomorrow](https://www.penguinrandomhouse.com/books/861834/ashita-no-joe-fighting-for-tomorrow-8-by-chiba-tetsuya/9781647295196 "Kodansha")|8|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 20|[Let's Go to Dinoland! – A Dinosaur Sanctuary Book](https://sevenseasentertainment.com/books/lets-go-to-dinoland-a-dinosaur-sanctuary-book/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|<span class="hidden">🖥️</span>📖|
-|Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Drifting Dragons](https://www.penguinrandomhouse.com/books/802038/drifting-dragons-19-by-taku-kuwabara/9798888776278 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 20|[Erin the Beast Player](https://www.penguinrandomhouse.com/books/840458/erin-the-beast-player-3-by-nahoko-uehashi/9781647296230 "Kodansha")|3|Kodansha|<span class="hidden">🖥️</span>📖|
 |Apr 20|[High Elf with a Long Life](https://www.penguinrandomhouse.com/books/859465/high-elf-with-a-long-life-vol3-by-written-by-rarutori/9781787749108 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -1280,7 +1279,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jul 13|[Subaru and Subaru](https://www.penguinrandomhouse.com/books/859696/subaru-and-subaru-2-by-shuichi-shigeno/9798900740881 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 13|[Trapped on Tape!](https://www.penguinrandomhouse.com/books/860947/trapped-on-tape-1-by-tnsk/9781647297183 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
-|Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
+|Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jul 20|[Dominating at the Academy of Returned Heroes](https://www.penguinrandomhouse.com/books/838965/dominating-at-the-academy-of-returned-heroes-vol1-by-written-by-chiaki-konno/9781806184842 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jul 20|[Gachiakuta](https://www.penguinrandomhouse.com/books/830947/gachiakuta-17-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888779712 "Kodansha")|17|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[GAEA-TIMA the Gigantis](https://www.penguinrandomhouse.com/books/830757/gaea-tima-the-gigantis-7-by-kent/9798888779774 "Kodansha")|7|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1329,6 +1328,15 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Aug 17|[Tank Chair](https://www.penguinrandomhouse.com/books/866946/tank-chair-11-by-manabu-yashiro/9798900744766 "Kodansha")|11|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 17|[That Time I Got Reincarnated as a Slime](https://www.penguinrandomhouse.com/books/859686/that-time-i-got-reincarnated-as-a-slime-32-by-story-by-fuse-art-by-taiki-kawakami-character-designs-by-mitz-vah/9798900742892 "Kodansha")|32|Kodansha|<span class="hidden">🖥️</span>📖|
 |Aug 17|[Vinland Saga Deluxe](https://www.penguinrandomhouse.com/books/772275/vinland-saga-deluxe-9-by-makoto-yukimura/9781646519866 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Anyway, I'm Falling in Love With You.](https://www.penguinrandomhouse.com/books/845185/anyway-im-falling-in-love-with-you-14-by-haruka-mitsui/9798900740942 "Kodansha")|14|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Delusion](https://www.penguinrandomhouse.com/books/799612/delusion-volume-3-by-hongjacga/9798217092963 "Inklore")|3|Inklore|🖥️📖|
+|Aug 24|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
+|Aug 24|[Historié Omnibus](https://www.penguinrandomhouse.com/books/843461/historie-omnibus-2-vol-3-4-by-hitoshi-iwaaki/9798900740393 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Rent-A-Girlfriend](https://www.penguinrandomhouse.com/books/845097/rent-a-girlfriend-44-by-reiji-miyajima/9798900741192 "Kodansha")|44|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Shangri-La Frontier](https://www.penguinrandomhouse.com/books/845099/shangri-la-frontier-25-by-story-by-katarina-manga-by-ryosuke-fuji/9798900741215 "Kodansha")|25|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Spacewalking With You](https://www.penguinrandomhouse.com/books/859684/spacewalking-with-you-6-by-inuhiko-doronoda/9798900742878 "Kodansha")|6|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[Stella Must Die](https://www.penguinrandomhouse.com/books/845102/stella-must-die-5-by-yasunori-mitsunaga/9798900741246 "Kodansha")|5|Kodansha|<span class="hidden">🖥️</span>📖|
+|Aug 24|[The Fragrant Flower Blooms With Dignity](https://www.penguinrandomhouse.com/books/826301/the-fragrant-flower-blooms-with-dignity-20-by-saka-mikami/9798888779149 "Kodansha")|20|Kodansha|<span class="hidden">🖥️</span>📖|
 
 ### October
 

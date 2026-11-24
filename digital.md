@@ -79,7 +79,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[He Was My Brother](https://yenpress.com/titles/9798855442915-he-was-my-brother-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
 |Nov 24|[Honey Trap Shared House](https://yenpress.com/titles/9798855438550-honey-trap-shared-house-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Nov 24|[Love at the City's Edge on a Moonlit Night](https://yenpress.com/titles/9798855425338-love-at-the-city-s-edge-on-a-moonlit-night-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
-|Nov 24|[I Don't Know, Yoshida](https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Isekai Samurai](https://yenpress.com/titles/9798855425260-isekai-samurai-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
 |Nov 24|[Is the Order a Rabbit?](https://yenpress.com/titles/9798855405941-is-the-order-a-rabbit-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Izumi and the Dragon Encyclopedia](https://yenpress.com/titles/9798855436426-izumi-and-the-dragon-encyclopedia-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -97,8 +96,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Nov 24|[Pink & Habanero](https://yenpress.com/titles/9781975397524-pink-habanero-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Nov 24|[Sakamoto Days: Assassin's Blues](https://www.viz.com/manga-books/novel/sakamoto-days-novels/product/9074/paperback "VIZ Media")|1|VIZ Media|🖥️📖|
 |Nov 24|[Shadows House](https://yenpress.com/titles/9798855403510-shadows-house-vol-12 "Yen Press")|12|Yen Press|🖥️📖|
-|Nov 24|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
-|Nov 24|[Stranger: A Western BL](https://sevenseasentertainment.com/books/stranger-a-western-bl/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Nov 24|[Super Ball Girls](https://yenpress.com/titles/9798855439410-super-ball-girls-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Sword Art Online Ordinal Scale](https://yenpress.com/titles/9798855411843-sword-art-online-ordinal-scale-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Nov 24|[Tale of the Wizrain Kingdom: The Dragon Is the Bride](https://yenpress.com/titles/9798855435252-tale-of-the-wizrain-kingdom-the-dragon-is-the-bride-vol-1 "Yen Press")|1|Yen Press|🖥️📖|
@@ -485,7 +482,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Mar 23|[Shino & Ren](https://yenpress.com/titles/9798855451597-shino-ren-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Mar 23|[Shy](https://yenpress.com/titles/9798855402575-shy-vol-14 "Yen Press")|14|Yen Press|🖥️📖|
 |Mar 23|[Singularity Love: A Kenji Tsurubuchi Collection](https://yenpress.com/titles/9798855426809-singularity-love-a-kenji-tsurubuchi-collection "Yen Press")|1|Yen Press|🖥️📖|
-|Mar 23|[Slime Saint](https://sevenseasentertainment.com/books/slime-saint-vol-2/ "Seven Seas Entertainment")|2|Seven Seas Entertainment|🖥️📖|
 |Mar 23|[Spring Storm and Monster](https://yenpress.com/titles/9798855447286-spring-storm-and-monster-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Mar 23|[Stray Cat & Wolf](https://yenpress.com/titles/9798855447309-stray-cat-wolf-vol-6 "Yen Press")|6|Yen Press|🖥️📖|
 |Mar 23|[The Fake Alchemist](https://yenpress.com/titles/9798855439311-the-fake-alchemist-vol-3 "Yen Press")|3|Yen Press|🖥️📖|
@@ -516,7 +512,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 13|[Hate Me, but Let Me Stay – Manager and Otoha](https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Apr 13|[Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga V9](https://www.viz.com/manga-books/manga/destroy-all-humankind-they-can-t-be-regenerated-a-magic-the-gathering-manga-volume-9-0/product/9027/paperback "VIZ Media")|9|VIZ Media|🖥️📖|
 |Apr 13|[Under the Oak Tree](https://www.penguinrandomhouse.com/books/826744/under-the-oak-tree-volume-4-the-comic-by-original-story-by-suji-kim-art-by-p-adapted-by-seomal/9798217301829 "Inklore")|4|Inklore|🖥️📖|
-|Apr 20|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 20|[Solo Leveling](https://yenpress.com/titles/9798400906893-solo-leveling-vol-1-spanish-edition-comic "Ize Press")|1|Ize Press|🖥️📖|
 |Apr 20|[The Villainess Is a Marionette](https://yenpress.com/titles/9798400907920-the-villainess-is-a-marionette-vol-4 "Ize Press")|4|Ize Press|🖥️📖|
 |Apr 20|[Tomb Raider King](https://yenpress.com/titles/9798400906688-tomb-raider-king-vol-18 "Ize Press")|18|Ize Press|🖥️📖|
@@ -597,7 +592,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jul 06|[Honkai Impact 3rd: Second Eruption](https://www.penguinrandomhouse.com/books/833293/honkai-impact-3rd-second-eruption-volume-4-by-mihoyo-comics/9781427888235 "TOKYOPOP")|4|TOKYOPOP|🖥️📖|
 |Jul 13|[Heaven Official's Blessing (The Comic)](https://www.penguinrandomhouse.com/books/784699/heaven-officials-blessing-the-comic-volume-6-by-original-story-by-mo-xiang-tong-xiu-art-by-starember/9780593984512 "Inklore")|6|Inklore|🖥️📖|
 |Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
-|Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
+|Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jul 27|[The Knight and Her Emperor](https://www.penguinrandomhouse.com/books/775436/the-knight-and-her-emperor-volume-4-by-original-story-by-gm-art-by-winter-adapted-by-heyum/9780593976081 "Inklore")|4|Inklore|🖥️📖|
 |Jul 27|[Welcome to Demon School! Iruma-kun: IruMafia Edition](https://www.penguinrandomhouse.com/books/866532/welcome-to-demon-school-iruma-kun-irumafia-edition-9-by-osamu-nishi/9781647297404 "Kodansha")|9|Kodansha|🖥️📖|
 
@@ -608,6 +603,8 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Aug 10|[How to Hide the Emperor's Child](https://www.penguinrandomhouse.com/books/751251/how-to-hide-the-emperors-child-volume-2-by-lee-yeonseon-adapted-and-illustrated-by-26-and-ssal/9780593872482 "Inklore")|2|Inklore|🖥️📖|
 |Aug 10|[Sora & Haena!](https://www.penguinrandomhouse.com/books/752074/sora-and-haena-volume-3-by-jackbull/9780593873038 "Inklore")|3|Inklore|🖥️📖|
 |Aug 17|[My Love Story with Yamada-kun at Lv999](https://www.penguinrandomhouse.com/books/807002/my-love-story-with-yamada-kun-at-lv999-volume-10-by-mashiro/9798217095056 "Inklore")|10|Inklore|🖥️📖|
+|Aug 24|[Delusion](https://www.penguinrandomhouse.com/books/799612/delusion-volume-3-by-hongjacga/9798217092963 "Inklore")|3|Inklore|🖥️📖|
+|Aug 24|[Disney The Haunted Mansion](https://www.penguinrandomhouse.com/books/833208/disney-the-haunted-mansion-by-sammie-crowley/9781427888358 "TOKYOPOP")|3|TOKYOPOP|🖥️📖|
 
 ### October
 
