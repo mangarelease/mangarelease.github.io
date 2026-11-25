@@ -529,7 +529,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Apr 27|[D.N.Angel New Edition](https://yenpress.com/titles/9798855420036-d-n-angel-new-edition-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Apr 27|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855427653-even-a-replica-can-fall-in-love-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 27|[Every Adventure Needs a Weapon!](https://yenpress.com/titles/9798855428766-every-adventure-needs-a-weapon-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 27|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855425895-from-old-country-bumpkin-to-master-swordsman-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Apr 27|[Golden Man](https://yenpress.com/titles/9798855435597-golden-man-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Hollow Regalia](https://yenpress.com/titles/9798855423273-hollow-regalia-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
@@ -567,6 +566,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
+|May 04|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |May 04|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
 |May 04|[Welcome to Demon School! Iruma-kun: Devilish Tales - Kalego's Story](https://www.penguinrandomhouse.com/books/840410/welcome-to-demon-school-iruma-kun-devilish-tales---kalegos-story-by-osamu-nishi/9781647296599 "Kodansha")|1|Kodansha|🖥️📖|
 |May 04|[Wet Sand](https://www.penguinrandomhouse.com/books/814847/wet-sand-volume-5-by-doyak/9798217298303 "Inklore")|5|Inklore|🖥️📖|

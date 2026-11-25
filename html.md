@@ -1098,7 +1098,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Apr 27|[D.N.Angel New Edition](https://yenpress.com/titles/9798855420036-d-n-angel-new-edition-vol-5 "Yen Press")|5|Yen Press|🖥️📖|
 |Apr 27|[Even a Replica Can Fall in Love](https://yenpress.com/titles/9798855427653-even-a-replica-can-fall-in-love-vol-3-manga "Yen Press")|3|Yen Press|🖥️📖|
 |Apr 27|[Every Adventure Needs a Weapon!](https://yenpress.com/titles/9798855428766-every-adventure-needs-a-weapon-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
-|Apr 27|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Apr 27|[From Old Country Bumpkin to Master Swordsman](https://yenpress.com/titles/9798855425895-from-old-country-bumpkin-to-master-swordsman-vol-7 "Yen Press")|7|Yen Press|🖥️📖|
 |Apr 27|[Golden Man](https://yenpress.com/titles/9798855435597-golden-man-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
 |Apr 27|[Historié Omnibus](https://www.penguinrandomhouse.com/books/845088/historie-omnibus-1-vol-1-2-by-hitoshi-iwaaki/9798888779569 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
@@ -1148,6 +1147,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Date|Series|Volume|Publisher|Type|
 |:---:|---|:---:|---|:---:|
 |May 04|[AIDOL Omnibus](https://www.penguinrandomhouse.com/books/826313/aidol-omnibus-2-vol-3-4-by-story-by-yuu-kuraishi-art-by-kazu-inabe-original-concept-by-kuu-tanaka/9798888778500 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
+|May 04|[Far Cry: Cull the herd](https://www.penguinrandomhouse.com/books/833294/far-cry-cull-the-herd-volume-2-graphic-novel-by-ryan-nichols/9781427878014 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |May 04|[Geniearth](https://www.penguinrandomhouse.com/books/859449/geniearth-vol3-by-written-by-rensuke-oshikiri/9781787747104 "Titan Comics")|3|Titan Comics|<span class="hidden">🖥️</span>📖|
 |May 04|[Konohana Kitan](https://www.penguinrandomhouse.com/books/833311/konohana-kitan-volume-16-by-sakuya-amano/9781427888518 "TOKYOPOP")|16|TOKYOPOP|🖥️📖|
 |May 04|[Love Bites, vol. 2](https://www.penguinrandomhouse.com/books/833600/love-bites-vol-2-by-alicia-wallace/9781834110585 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
@@ -1241,7 +1241,6 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jun 22|[The Broken Ring](https://www.penguinrandomhouse.com/books/828853/the-broken-ring-volume-4-by-art-by-cheong-gwa-adapted-by-chokam-original-story-by-chacha-kim/9798217374519 "Inklore")|4|Inklore|🖥️📖|
 |Jun 22|[The Fragrant Flower Blooms with Dignity](https://www.penguinrandomhouse.com/books/824180/the-fragrant-flower-blooms-with-dignity-19-by-saka-mikami/9798888778913 "Kodansha")|19|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jun 29|[Blue Lock Omnibus](https://www.penguinrandomhouse.com/books/817259/blue-lock-omnibus-9-vol-25-27-by-story-by-muneyuki-kaneshiro-art-by-yusuke-nomura/9798888778296 "Kodansha")|9|Kodansha|<span class="hidden">🖥️</span>📖|
-|Jun 29|[Disney Manga: Beauty and the Beast (Special 2-in-1 Collectors Edition)](https://www.penguinrandomhouse.com/books/836432/disney-manga-beauty-and-the-beast-special-2-in-1-collectors-edition-by-mallory-reaves/9781427889768 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jun 29|[Disney Manga: Stitch!](https://www.penguinrandomhouse.com/books/837130/disney-manga-stitch-volume-2-full-color-edition-by-yumi-tsukurino/9781427889744 "TOKYOPOP")|2.2|TOKYOPOP|🖥️📖|
 |Jun 29|[Gourmet Hound, vol. 2](https://www.penguinrandomhouse.com/books/838399/gourmet-hound-vol-2-by-robyn-lee-hamada/9781834110882 "WEBTOON Unscrolled")|2|WEBTOON Unscrolled|<span class="hidden">🖥️</span>📖|
 |Jun 29|[Kuruno Loves the Occult!](https://www.penguinrandomhouse.com/books/860312/kuruno-loves-the-occult-vol1-by-written-by-kusada/9781806184880 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
@@ -1279,6 +1278,7 @@ description: "Full release calendar for licensed English manga, manhwa, manhua &
 |Jul 13|[Subaru and Subaru](https://www.penguinrandomhouse.com/books/859696/subaru-and-subaru-2-by-shuichi-shigeno/9798900740881 "Kodansha")|2|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 13|[Trapped on Tape!](https://www.penguinrandomhouse.com/books/860947/trapped-on-tape-1-by-tnsk/9781647297183 "Kodansha")|1|Kodansha|<span class="hidden">🖥️</span>📖|
 |Jul 20|[Daughter of a Thousand Faces](https://www.penguinrandomhouse.com/books/747095/daughter-of-a-thousand-faces-volume-2-the-comic-by-velinxi/9780593870853 "Inklore")|2|Inklore|🖥️📖|
+|Jul 20|[Disney Manga: Beauty and the Beast (Special 2-in-1 Collectors Edition)](https://www.penguinrandomhouse.com/books/836432/disney-manga-beauty-and-the-beast-special-2-in-1-collectors-edition-by-mallory-reaves/9781427889768 "TOKYOPOP")|2|TOKYOPOP|<span class="hidden">🖥️</span>📖|
 |Jul 20|[Disney Tim Burton's The Nightmare Before Christmas: All Hail the Pumpkin King (GN)](https://www.penguinrandomhouse.com/books/825198/disney-tim-burtons-the-nightmare-before-christmas-all-hail-the-pumpkin-king-gn-by-joshua-pruett/9781427881144 "TOKYOPOP")|2|TOKYOPOP|🖥️📖|
 |Jul 20|[Dominating at the Academy of Returned Heroes](https://www.penguinrandomhouse.com/books/838965/dominating-at-the-academy-of-returned-heroes-vol1-by-written-by-chiaki-konno/9781806184842 "Titan Comics")|1|Titan Comics|<span class="hidden">🖥️</span>📖|
 |Jul 20|[Gachiakuta](https://www.penguinrandomhouse.com/books/830947/gachiakuta-17-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/9798888779712 "Kodansha")|17|Kodansha|<span class="hidden">🖥️</span>📖|
