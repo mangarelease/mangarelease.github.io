@@ -300,7 +300,6 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Jan 26|[Game of Familia](https://yenpress.com/titles/9798855403879-game-of-familia-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Jan 26|[Hell Is Dark with No Flowers](https://yenpress.com/titles/9781975370459-hell-is-dark-with-no-flowers-vol-5-manga "Yen Press")|5|Yen Press|🖥️📖|
 |Jan 26|[If It's You, I Might Try Falling in Love](https://yenpress.com/titles/9798855405071-if-it-s-you-i-might-try-falling-in-love-vol-4 "Yen Press")|4|Yen Press|🖥️📖|
-|Jan 26|[I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://yenpress.com/titles/9798855435443-i-m-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girl-s-pet-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
 |Jan 26|[Imitation](https://yenpress.com/titles/9798855412826-imitation-vol-10 "Yen Press")|10|Yen Press|🖥️📖|
 |Jan 26|[I SAY](https://sevenseasentertainment.com/books/i-say/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Jan 26|[Isshiki-san Wants to Know About Love](https://yenpress.com/titles/9798855447682-isshiki-san-wants-to-know-about-love-vol-2 "Yen Press")|2|Yen Press|🖥️📖|
@@ -369,6 +368,7 @@ description: "Digital and ebook releases for licensed English manga, manhwa, man
 |Feb 16|[A Love Yet to Bloom](https://sevenseasentertainment.com/books/a-love-yet-to-bloom-vol-1/ "Seven Seas Entertainment")|1|Seven Seas Entertainment|🖥️📖|
 |Feb 16|[Centuria](https://www.viz.com/manga-books/manga/centuria-volume-5-0/product/9170/paperback "VIZ Media")|5|VIZ Media|🖥️📖|
 |Feb 16|[Dogsred](https://www.viz.com/manga-books/manga/dogsred-volume-7-0/product/9180/paperback "VIZ Media")|7|VIZ Media|🖥️📖|
+|Feb 16|[I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://yenpress.com/titles/9798855435443-i-m-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girl-s-pet-vol-13-manga "Yen Press")|13|Yen Press|🖥️📖|
 |Feb 16|[Kingdom](https://www.viz.com/manga-books/manga/kingdom-volume-16-0/product/9187/paperback "VIZ Media")|16|VIZ Media|🖥️📖|
 |Feb 16|[Lady Devil](https://yenpress.com/titles/9798400905094-lady-devil-vol-8 "Ize Press")|8|Ize Press|🖥️📖|
 |Feb 16|[Magilumiere Magical Girls Inc.](https://www.viz.com/manga-books/manga/magilumiere-magical-girls-inc-volume-17-0/product/9183/paperback "VIZ Media")|17|VIZ Media|🖥️📖|
